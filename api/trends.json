@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T01:23:04.785909+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-10-22T02:37:39.278858+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -48,30 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
-          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
-          "url": "https://wallstreetcn.com/livenews/2991361",
-          "source": "华尔街见闻-快讯",
+          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
+          "url": "https://wallstreetcn.com/articles/3757574",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
-          "url": "https://wallstreetcn.com/livenews/2991360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -79,22 +69,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
-        },
-        {
-          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
-          "url": "https://wallstreetcn.com/articles/3757574",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -102,11 +82,12 @@
           "source": "微博",
           "ranks": [
             10,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -116,8 +97,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -127,8 +108,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
+        },
+        {
+          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
+          "url": "https://wallstreetcn.com/livenews/2991361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时37分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
+          "url": "https://wallstreetcn.com/livenews/2991360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时37分]"
         },
         {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
@@ -172,9 +177,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "沃尔玛暂时停止聘用那些要求公司提供H-1B签证的求职人员。 此前，美国总统特朗普将该签证涨价至10万美元。",
+          "url": "https://wallstreetcn.com/livenews/2991377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美国政府停摆进入第21天，特朗普要求共和党参议员保持坚定",
+          "url": "https://wallstreetcn.com/livenews/2991376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -183,9 +210,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普政府支持美国公司与哈萨克斯坦钨矿资源谈判",
+          "url": "https://flash.jin10.com/detail/20251022015900344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
@@ -194,7 +232,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -205,9 +243,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "WTI原油期货维持0.4%的涨幅。 一位白宫官员表示，美国总统特朗普近期没有与俄罗斯总统普京会晤的计划，相比前不久两国暗示第二次峰会即将举行的说法，这一最新表态明显更为谨慎。",
+          "url": "https://wallstreetcn.com/livenews/2991373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "特朗普政府拟利用油价低位时机回补100万桶战略石油储备",
@@ -216,7 +265,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -227,9 +276,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
+          "url": "https://wallstreetcn.com/livenews/2991368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普希望与伊朗人保持良好关系。",
@@ -249,9 +309,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "市场消息：特朗普政府支持美国与哈萨克斯坦达成钨矿协议。美国可能为获取哈萨克斯坦钨资源提供债务融资。",
+          "url": "https://flash.jin10.com/detail/20251022013341918800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "油价走高，特朗普政府将回填战略石油储备，报道称俄罗斯实际已拒绝特朗普关于俄乌战争的和平提案",
+          "url": "https://wallstreetcn.com/livenews/2991351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     },
@@ -267,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -278,8 +360,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "金价",
@@ -339,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "美股短线下挫，纳指跌0.13%。",
@@ -349,7 +431,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -371,7 +453,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -382,7 +464,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -400,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -411,19 +493,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -431,17 +514,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
@@ -450,7 +534,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -461,9 +545,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
@@ -472,7 +567,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -490,8 +585,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -517,7 +612,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
