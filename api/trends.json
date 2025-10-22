@@ -1,66 +1,69 @@
 {
-  "generated_at": "2025-10-23T02:21:27.903752+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-10-23T03:12:17.948641+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济宁 书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
-          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
-          "url": "https://wallstreetcn.com/livenews/2992038",
+          "title": "美国众议院民主党领导人Hakeem Jefferies：希望能在10月底之前解决美国政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2992044",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "03时12分"
         },
         {
-          "title": "波音(BA.N)：与工会领导层的谈判已经结束，领导层拒绝接受修改后的投票方案。",
-          "url": "https://flash.jin10.com/detail/20251023015349058800",
-          "source": "金十数据",
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
+          "url": "https://wallstreetcn.com/livenews/2992038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
         },
         {
           "title": "加密货币交易所Kraken（官方名称为Payward Inc.）三季度营收超过翻倍，达到6.48亿美元，同比增长114%。 三季度总体平台成交量达到5619亿美元，平台上资产规模增长89%至593亿美元。",
           "url": "https://wallstreetcn.com/livenews/2992037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
         },
         {
           "title": "波音公司：与（军工部门工人所属）IAM 837工会的领导层的谈判已经结束。 对方拒绝本公司提出的修订版（劳资关系）提议。 本公司披露的条款仍然是一份五年期协议。",
           "url": "https://wallstreetcn.com/livenews/2992036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
-          "url": "https://wallstreetcn.com/livenews/2992035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
         },
         {
           "title": "泽连斯基与多名欧洲领导人发表声明，中方回应",
@@ -75,6 +78,18 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
+          "title": "波音(BA.N)：与工会领导层的谈判已经结束，领导层拒绝接受修改后的投票方案。",
+          "url": "https://flash.jin10.com/detail/20251023015349058800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
+        },
+        {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
           "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
           "source": "凤凰网",
@@ -82,8 +97,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
+          "url": "https://wallstreetcn.com/livenews/2992035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
         },
         {
           "title": "山东河北现串珠型不明发光飞行物",
@@ -92,11 +119,26 @@
           "ranks": [
             15,
             14,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "30年老公厕爆改咖啡店 没营业就被查",
+          "url": "https://www.baidu.com/s?wd=30%E5%B9%B4%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E5%92%96%E5%95%A1%E5%BA%97+%E6%B2%A1%E8%90%A5%E4%B8%9A%E5%B0%B1%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "网红小影夫妇涉偷税漏税被查处",
@@ -108,21 +150,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "30年老公厕爆改咖啡店 没营业就被查",
-          "url": "https://www.baidu.com/s?wd=30%E5%B9%B4%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E5%92%96%E5%95%A1%E5%BA%97+%E6%B2%A1%E8%90%A5%E4%B8%9A%E5%B0%B1%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -132,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "网民摆拍涉三秋生产视频被通报",
@@ -143,8 +172,45 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "被F1官方邀请观赛什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABF1%E5%AE%98%E6%96%B9%E9%82%80%E8%AF%B7%E8%A7%82%E8%B5%9B%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            13,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "干部另类堕落记:翻翻鸽的诱惑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346059&amp;topic_name=%E5%B9%B2%E9%83%A8%E5%8F%A6%E7%B1%BB%E5%A0%95%E8%90%BD%E8%AE%B0%3A%E7%BF%BB%E7%BF%BB%E9%B8%BD%E7%9A%84%E8%AF%B1%E6%83%91",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "陕西洛南县人大常委会主任刘文革去世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823144",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "【SpaceX称识别并切断缅甸电诈园区周边逾2500台“星链”设备】美国太空探索技术公司（SpaceX）副总裁劳伦·德雷尔当地时间21日在社交媒体上说，该公司已在缅甸电诈园区周边识别出超过2500台“星链”设备，并使其不能运转。 德雷尔在帖文中说，在缅甸“疑似诈骗中心周边”，该公司“主动识别”并使超过2500台“星链”设备不能运转。 据缅甸官方媒体20日报道，缅甸国防军日前对该国边境地区的电诈园区开展清剿行动，查获30套美国太空探索技术公司“星链”接收器及配件。（央视）",
@@ -160,19 +226,6 @@
           "time_info": "[00时18分 ~ 02时21分]"
         },
         {
-          "title": "被F1官方邀请观赛什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABF1%E5%AE%98%E6%96%B9%E9%82%80%E8%AF%B7%E8%A7%82%E8%B5%9B%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
           "title": "据a16z Crypto，2025年迄今的迷因币发行量已经超过1300万枚，表明需要处理（美国政府面临的）监管真空问题、国会山也需要对市场结构进行立法。 a16z Crypto是Andreessen Horowitz旗下数字资产价值资本基金。",
           "url": "https://wallstreetcn.com/livenews/2992004",
           "source": "华尔街见闻-快讯",
@@ -180,29 +233,6 @@
             13,
             23,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "干部另类堕落记:翻翻鸽的诱惑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346059&amp;topic_name=%E5%B9%B2%E9%83%A8%E5%8F%A6%E7%B1%BB%E5%A0%95%E8%90%BD%E8%AE%B0%3A%E7%BF%BB%E7%BF%BB%E9%B8%BD%E7%9A%84%E8%AF%B1%E6%83%91",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "陕西洛南县人大常委会主任刘文革去世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823144",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -233,6 +263,17 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
+          "title": "美国众议院民主党领袖杰弗里：我们希望在月底之前解决政府停摆问题。",
+          "url": "https://flash.jin10.com/detail/20251023023951037800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "惠誉：美国对阿根廷的支持不足以推动评级上调，除非这是阿根廷政府重建外汇储备缓冲机制更广泛计划的一部分。",
           "url": "https://flash.jin10.com/detail/20251022233204382800",
           "source": "金十数据",
@@ -250,7 +291,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -341,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "路姓男子向公职人员行贿超千万元",
+          "url": "https://www.toutiao.com/trending/7564001220231479359/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
