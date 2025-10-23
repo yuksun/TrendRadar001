@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T02:28:53.841168+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-24T03:16:00.576018+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "中国共产党中央军事委员会副主席张升民简历",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827681",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
@@ -27,19 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "中国共产党中央军事委员会副主席张升民简历",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827681",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "中国共产党中央军事委员会副主席张升民简历",
@@ -49,19 +49,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
-          "title": "布伦特原油期货涨幅收窄至5%，报65.73美元/桶。 白宫新闻秘书Leavitt称，俄罗斯并没有在（俄罗斯与乌克兰达成）和平协议问题上表现出足够的兴趣。",
-          "url": "https://wallstreetcn.com/livenews/2992719",
-          "source": "华尔街见闻-快讯",
+          "title": "官方通报2人破坏为人民服务航标",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
@@ -75,16 +76,26 @@
           "time_info": "01时18分"
         },
         {
-          "title": "官方通报2人破坏为人民服务航标",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87",
-          "source": "bilibili 热搜",
+          "title": "比利时支持的结论草案显示，欧洲理事会邀请欧盟委员会尽快提出基于对乌克兰融资需求评估的财务支持选项。",
+          "url": "https://flash.jin10.com/detail/20251024024900215800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            7
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "一拳3动画拉胯,监督被喷到退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346142&amp;topic_name=%E4%B8%80%E6%8B%B33%E5%8A%A8%E7%94%BB%E6%8B%89%E8%83%AF%2C%E7%9B%91%E7%9D%A3%E8%A2%AB%E5%96%B7%E5%88%B0%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯的能源部门信心十足，不过预计会有一定的损失。",
@@ -98,64 +109,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普政府宣布开放阿拉斯加沿海平原进行石油钻探。",
-          "url": "https://flash.jin10.com/detail/20251024020956621800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普下周二将会见日本首相高市早苗。",
-          "url": "https://wallstreetcn.com/livenews/2992715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
-          "url": "https://wallstreetcn.com/livenews/2992710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时28分]"
-        },
-        {
-          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "一拳3动画拉胯,监督被喷到退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346142&amp;topic_name=%E4%B8%80%E6%8B%B33%E5%8A%A8%E7%94%BB%E6%8B%89%E8%83%AF%2C%E7%9B%91%E7%9D%A3%E8%A2%AB%E5%96%B7%E5%88%B0%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
           "title": "段毅君履新国家宗教事务局局长，卸任国家民委副主任",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826370",
           "source": "澎湃新闻",
@@ -164,8 +117,134 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "韩国梨泰院踩踏惨案调查结果公布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D0%26c_type%3D31%26band_rank%3D17%26pos%3D17%26cate%3D5001%26dgr%3D0%26realpos%3D17%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
+          "source": "微博",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "韩国梨泰院踩踏事件调查结果出炉",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "布伦特原油期货涨幅收窄至5%，报65.73美元/桶。 白宫新闻秘书Leavitt称，俄罗斯并没有在（俄罗斯与乌克兰达成）和平协议问题上表现出足够的兴趣。",
+          "url": "https://wallstreetcn.com/livenews/2992719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
+          "url": "https://wallstreetcn.com/livenews/2992710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普政府宣布开放阿拉斯加沿海平原进行石油钻探。",
+          "url": "https://flash.jin10.com/detail/20251024020956621800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普下周二将会见日本首相高市早苗。",
+          "url": "https://wallstreetcn.com/livenews/2992715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "将接棒蒋万安竞选台北市长？连胜文否认：媒体别帮我算命",
+          "url": "https://news.ifeng.com/c/8nh49q8tZov",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "调查显示德国工业企业持续受困于关税冲击",
@@ -181,17 +260,43 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
-          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
-          "source": "澎湃新闻",
+          "title": "加拿大联邦政府和安大略省向小型模块化反应堆（SMRs）承诺，将投资30亿加元（折合21亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/2992703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12,
-            13
+            8,
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
+          "url": "https://wallstreetcn.com/livenews/2992702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "加拿大证券委员会（CSA）建议，允许某些小型发行人披露半年报。",
@@ -207,89 +312,28 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
-          "title": "将接棒蒋万安竞选台北市长？连胜文否认：媒体别帮我算命",
-          "url": "https://news.ifeng.com/c/8nh49q8tZov",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "韩国梨泰院踩踏惨案调查结果公布",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D0%26c_type%3D31%26band_rank%3D17%26pos%3D17%26cate%3D5001%26dgr%3D0%26realpos%3D17%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
-          "source": "微博",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
-        },
-        {
-          "title": "韩国梨泰院踩踏事件调查结果出炉",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89",
+          "title": "“为人民服务”航标被破坏 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            24,
-            25,
-            20
+            19,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
-          "title": "加拿大联邦政府和安大略省向小型模块化反应堆（SMRs）承诺，将投资30亿加元（折合21亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/2992703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时28分]"
-        },
-        {
-          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
-          "url": "https://wallstreetcn.com/livenews/2992702",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫：（就美国政府停摆）政府将支持延长营养援助。",
+          "url": "https://flash.jin10.com/detail/20251024020253049800",
+          "source": "金十数据",
           "ranks": [
             9,
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时28分]"
-        },
-        {
-          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时28分]"
+          "time_info": "[02时28分 ~ 03时16分]"
         },
         {
           "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
@@ -315,15 +359,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国白宫：（就美国政府停摆）政府将支持延长营养援助。",
-          "url": "https://flash.jin10.com/detail/20251024020253049800",
+          "title": "加密货币交易平台Kraken：正在调查与阿根廷比索资金通道相关的问题，存款可能会出现延迟。",
+          "url": "https://flash.jin10.com/detail/20251024023723747800",
           "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "03时16分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：外部劳动力迁移领域的职能将转交给内务部。",
@@ -335,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "“为人民服务”航标被破坏 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         },
         {
           "title": "阿根廷确认，Quirno将取代Werthein，成为新的外交部长。 日前报道称，米莱总统考虑在中期选举过后将外长踢出其内阁，时任外长Werthein随后考虑辞职。（彭博）",
