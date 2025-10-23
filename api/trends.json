@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T18:22:31.548158+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-10-23T19:18:36.469902+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 85,
+      "match_count": 93,
       "titles": [
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时04分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[10时04分 ~ 19时18分]"
         },
         {
           "title": "网民摆拍涉三秋生产视频被通报",
@@ -88,11 +88,12 @@
             24,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 19时18分]"
         },
         {
           "title": "陕西洛南县人大常委会主任刘文革去世",
@@ -159,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时18分]"
         },
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
@@ -171,8 +172,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时18分]"
+        },
+        {
+          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
+          "url": "https://wallstreetcn.com/articles/3757730",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
@@ -208,26 +221,26 @@
           "time_info": "16时27分"
         },
         {
-          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2992520",
+          "title": "段毅君已任中央统战部副部长",
+          "url": "https://wallstreetcn.com/livenews/2992556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "金融科技发展奖评审领导小组会议召开",
+          "url": "https://wallstreetcn.com/livenews/2992555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://wallstreetcn.com/articles/3757730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时18分"
         },
         {
           "title": "特斯拉(TSLA.O)：第三季度确认了2.38亿美元的费用支出，这些费用与汽车部门的超级计算机资产、合同终止和员工解聘相关。",
@@ -236,7 +249,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -377,6 +390,18 @@
           "time_info": "[02时21分 ~ 03时12分]"
         },
         {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "内蒙古一小区有 23 部电梯钢绳被破坏，警方通报两人被刑拘，他们将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/1964612372535670358",
           "source": "知乎",
@@ -488,6 +513,18 @@
           "time_info": "[17时20分 ~ 18时22分]"
         },
         {
+          "title": "小米YU7内有不明零件 市监部门介入",
+          "url": "https://www.toutiao.com/trending/7564318664644628007/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "印度信实工业发言人：公司正在“重新调整”俄罗斯石油进口，以符合印度政府的指导方针。",
           "url": "https://flash.jin10.com/detail/20251023114129976800",
           "source": "金十数据",
@@ -558,6 +595,18 @@
           "time_info": "[04时19分 ~ 05时11分]"
         },
         {
+          "title": "警方通报女子栓绳遛狗遭殴打",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A0%93%E7%BB%B3%E9%81%9B%E7%8B%97%E9%81%AD%E6%AE%B4%E6%89%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E5%25A5%25B3%25E5%25AD%2590%25E6%25A0%2593%25E7%25BB%25B3%25E9%2581%259B%25E7%258B%2597%25E9%2581%25AD%25E6%25AE%25B4%25E6%2589%2593%2523%26band_rank%3D26%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "老公厕爆改现磨咖啡店被查封",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E7%8E%B0%E7%A3%A8%E5%92%96%E5%95%A1%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D30%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D29%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D1%26q%3D%2523%25E8%2580%2581%25E5%2585%25AC%25E5%258E%2595%25E7%2588%2586%25E6%2594%25B9%25E7%258E%25B0%25E7%25A3%25A8%25E5%2592%2596%25E5%2595%25A1%25E5%25BA%2597%25E8%25A2%25AB%25E6%259F%25A5%25E5%25B0%2581%2523%26display_time%3D1761196628%26pre_seqid%3D17611966282730366789257",
           "source": "微博",
@@ -621,7 +670,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -635,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "段毅君履新国家宗教事务局局长，卸任国家民委副主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826370",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -659,6 +719,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "韩国梨泰院踩踏惨案调查结果公布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D11%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D11%26band_rank%3D11%26display_time%3D1761217570%26pre_seqid%3D176121757069301143414146",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美联邦法官延长临时限制令 阻止联邦政府在伊利诺伊州部署国民警卫队",
           "url": "https://wallstreetcn.com/livenews/2992346",
           "source": "华尔街见闻-快讯",
@@ -670,6 +741,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "惠誉：美国对阿根廷的支持不足以推动评级上调，除非这是阿根廷政府重建外汇储备缓冲机制更广泛计划的一部分。",
           "url": "https://flash.jin10.com/detail/20251022233204382800",
           "source": "金十数据",
@@ -679,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "柬泰边界总委员会第二次特别会议举行 双方达成多项共识",
+          "url": "https://wallstreetcn.com/livenews/2992542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "委内瑞拉石油部长：特立尼达和多巴哥（加勒比海地区的国家）必须支付委内瑞拉提供的任何天然气费用。",
@@ -786,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -808,7 +901,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -822,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "全国人大常委会法工委54个基层立法联系点已征求意见66000多条",
+          "url": "https://wallstreetcn.com/livenews/2992534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "商务部部长王文涛与荷兰经济大臣卡雷曼斯通话",
@@ -912,6 +1016,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "“为人民服务”航标被破坏 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "商务部副部长盛秋平会见沃尔玛全球公司事务副总裁丹·巴特利特",
           "url": "https://wallstreetcn.com/livenews/2992457",
           "source": "华尔街见闻-快讯",
@@ -921,17 +1036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        },
-        {
-          "title": "小米YU7内有不明零件 市监部门介入",
-          "url": "https://www.toutiao.com/trending/7564318664644628007/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "欧洲19国领导人呼吁欧盟开展制度性改革提升竞争力",
@@ -987,17 +1091,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "警方通报女子栓绳遛狗遭殴打",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A0%93%E7%BB%B3%E9%81%9B%E7%8B%97%E9%81%AD%E6%AE%B4%E6%89%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E5%25A5%25B3%25E5%25AD%2590%25E6%25A0%2593%25E7%25BB%25B3%25E9%2581%259B%25E7%258B%2597%25E9%2581%25AD%25E6%25AE%25B4%25E6%2589%2593%2523%26band_rank%3D26%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "郑丽文公布首波党务人事",
