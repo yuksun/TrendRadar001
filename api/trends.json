@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:20:48.931650+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2025-10-23T18:22:31.548158+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 77,
+      "match_count": 85,
       "titles": [
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 18时22分]"
         },
         {
           "title": "网民摆拍涉三秋生产视频被通报",
@@ -87,11 +87,12 @@
             23,
             24,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 18时22分]"
         },
         {
           "title": "陕西洛南县人大常委会主任刘文革去世",
@@ -149,6 +150,31 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时22分]"
+        },
+        {
+          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
+          "url": "https://www.cls.cn/detail/2178424",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时22分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
           "url": "https://flash.jin10.com/detail/20251023160720156800",
           "source": "金十数据",
@@ -171,19 +197,6 @@
           "time_info": "15时19分"
         },
         {
-          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时20分]"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
           "url": "https://flash.jin10.com/detail/20251023160624686800",
           "source": "金十数据",
@@ -195,15 +208,37 @@
           "time_info": "16时27分"
         },
         {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://www.cls.cn/detail/2178424",
-          "source": "财联社热门",
+          "url": "https://wallstreetcn.com/articles/3757730",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时22分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：第三季度确认了2.38亿美元的费用支出，这些费用与汽车部门的超级计算机资产、合同终止和员工解聘相关。",
+          "url": "https://flash.jin10.com/detail/20251023181034230800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
@@ -441,6 +476,18 @@
           "time_info": "[12时23分 ~ 13时18分]"
         },
         {
+          "title": "联合国秘书长呼吁加强拯救生命的早期预警系统",
+          "url": "https://wallstreetcn.com/livenews/2992472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时22分]"
+        },
+        {
           "title": "印度信实工业发言人：公司正在“重新调整”俄罗斯石油进口，以符合印度政府的指导方针。",
           "url": "https://flash.jin10.com/detail/20251023114129976800",
           "source": "金十数据",
@@ -552,7 +599,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -568,6 +615,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
+          "url": "https://flash.jin10.com/detail/20251023180310570800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "市场消息：上周，外国投资者购买印度政府债券的数量增加了46倍，这表明印度央行积极的货币干预措施正在增强市场信心。",
           "url": "https://flash.jin10.com/detail/20251023122143365800",
           "source": "金十数据",
@@ -577,17 +635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "联合国秘书长呼吁加强拯救生命的早期预警系统",
-          "url": "https://wallstreetcn.com/livenews/2992472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -733,6 +780,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
+          "url": "https://wallstreetcn.com/livenews/2992478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "官方通报无牌小米SU7路口漂移",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%89%8C%E5%B0%8F%E7%B1%B3SU7%E8%B7%AF%E5%8F%A3%E6%BC%82%E7%A7%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D19%26stream_entry_id%3D31%26band_rank%3D18%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D18%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E6%2597%25A0%25E7%2589%258C%25E5%25B0%258F%25E7%25B1%25B3SU7%25E8%25B7%25AF%25E5%258F%25A3%25E6%25BC%2582%25E7%25A7%25BB%2523%26flag%3D1%26display_time%3D1761207909%26pre_seqid%3D1761207909393031824708",
           "source": "微博",
@@ -742,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "女子遛狗时被男子殴打 警方介入调查",
+          "url": "https://www.toutiao.com/trending/7564279926800023590/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "阿根廷总统府确认外交部长已辞职。",
@@ -794,7 +863,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -827,7 +896,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -849,9 +918,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "小米YU7内有不明零件 市监部门介入",
+          "url": "https://www.toutiao.com/trending/7564318664644628007/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "欧洲19国领导人呼吁欧盟开展制度性改革提升竞争力",
@@ -882,7 +962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -907,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "警方通报女子栓绳遛狗遭殴打",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A0%93%E7%BB%B3%E9%81%9B%E7%8B%97%E9%81%AD%E6%AE%B4%E6%89%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E5%25A5%25B3%25E5%25AD%2590%25E6%25A0%2593%25E7%25BB%25B3%25E9%2581%259B%25E7%258B%2597%25E9%2581%25AD%25E6%25AE%25B4%25E6%2589%2593%2523%26band_rank%3D26%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "郑丽文公布首波党务人事",
