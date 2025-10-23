@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T12:23:34.848352+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-10-23T13:18:55.398799+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时18分]"
         },
         {
           "title": "网民摆拍涉三秋生产视频被通报",
@@ -70,11 +70,12 @@
           "ranks": [
             13,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时18分]"
         },
         {
           "title": "陕西洛南县人大常委会主任刘文革去世",
@@ -90,17 +91,6 @@
           "time_info": "[00时18分 ~ 10时05分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时12分]"
-        },
-        {
           "title": "我撰写了一篇质量非常高的文稿，但被点名表扬的是直属领导，而我被忽略了，我该怎么办？",
           "url": "https://www.zhihu.com/question/1963919436890223989",
           "source": "知乎",
@@ -111,8 +101,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时19分 ~ 13时18分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[04时19分 ~ 12时23分]"
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "被F1官方邀请观赛什么体验",
@@ -132,15 +133,16 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "据几位知情人士透露，在加沙地带开展活动的私人援助组织“加沙人道主义基金会”正在与美国和以色列官员进行谈判，讨论战后在加沙地带中可能发挥的新作用。",
-          "url": "https://flash.jin10.com/detail/20251023121052253800",
-          "source": "金十数据",
+          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 13时18分]"
         },
         {
           "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
@@ -217,6 +219,18 @@
           "time_info": "[02时21分 ~ 03时12分]"
         },
         {
+          "title": "据几位知情人士透露，在加沙地带开展活动的私人援助组织“加沙人道主义基金会”正在与美国和以色列官员进行谈判，讨论战后在加沙地带中可能发挥的新作用。",
+          "url": "https://flash.jin10.com/detail/20251023121052253800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时18分]"
+        },
+        {
           "title": "加拿大总理卡尼料将宣布，其政府将在预算中提出一个移民计划，其中包括人才引进战略。 此前，美国总统特朗普宣布将对H-1B签证收费10万美元。",
           "url": "https://wallstreetcn.com/livenews/2992079",
           "source": "华尔街见闻-快讯",
@@ -277,18 +291,6 @@
           "time_info": "[07时12分 ~ 12时23分]"
         },
         {
-          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 12时23分]"
-        },
-        {
           "title": "【SpaceX称识别并切断缅甸电诈园区周边逾2500台“星链”设备】美国太空探索技术公司（SpaceX）副总裁劳伦·德雷尔当地时间21日在社交媒体上说，该公司已在缅甸电诈园区周边识别出超过2500台“星链”设备，并使其不能运转。 德雷尔在帖文中说，在缅甸“疑似诈骗中心周边”，该公司“主动识别”并使超过2500台“星链”设备不能运转。 据缅甸官方媒体20日报道，缅甸国防军日前对该国边境地区的电诈园区开展清剿行动，查获30套美国太空探索技术公司“星链”接收器及配件。（央视）",
           "url": "https://wallstreetcn.com/livenews/2992006",
           "source": "华尔街见闻-快讯",
@@ -325,6 +327,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时19分]"
+        },
+        {
+          "title": "国务院任免国家工作人员，免去王东伟的财政部副部长职务。",
+          "url": "https://wallstreetcn.com/livenews/2992295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时18分]"
+        },
+        {
+          "title": "印度信实工业发言人：公司正在“重新调整”俄罗斯石油进口，以符合印度政府的指导方针。",
+          "url": "https://flash.jin10.com/detail/20251023114129976800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时18分]"
         },
         {
           "title": "为什么有些领导既不懂业务，整天也不见做啥事，却得到公司重用?",
@@ -408,15 +434,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "国务院任免国家工作人员，免去王东伟的财政部副部长职务。",
-          "url": "https://wallstreetcn.com/livenews/2992295",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：上周，外国投资者购买印度政府债券的数量增加了46倍，这表明印度央行积极的货币干预措施正在增强市场信心。",
+          "url": "https://flash.jin10.com/detail/20251023122143365800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "13时18分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -452,17 +478,6 @@
           "time_info": "00时18分"
         },
         {
-          "title": "印度信实工业发言人：公司正在“重新调整”俄罗斯石油进口，以符合印度政府的指导方针。",
-          "url": "https://flash.jin10.com/detail/20251023114129976800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "委内瑞拉石油部长：特立尼达和多巴哥（加勒比海地区的国家）必须支付委内瑞拉提供的任何天然气费用。",
           "url": "https://flash.jin10.com/detail/20251023011417696800",
           "source": "金十数据",
@@ -496,6 +511,50 @@
           "time_info": "10时05分"
         },
         {
+          "title": "内蒙古一小区有 23 部电梯钢绳被破坏，警方通报两人被刑拘，他们将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1964612372535670358",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "上海金融法院院长赵红： 正在推进第二例金融市场测试案例相关工作",
+          "url": "https://wallstreetcn.com/livenews/2992310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
+          "url": "https://www.zhihu.com/question/1931818975265789556",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
           "url": "https://flash.jin10.com/detail/20251023031513906800",
           "source": "金十数据",
@@ -527,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "甘肃官方回应公厕改建咖啡店：因审批手续问题，店铺已被封",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31824077",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
@@ -606,13 +676,24 @@
           "time_info": "01时14分"
         },
         {
+          "title": "老公厕爆改现磨咖啡店被查封",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E7%8E%B0%E7%A3%A8%E5%92%96%E5%95%A1%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D30%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D29%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D1%26q%3D%2523%25E8%2580%2581%25E5%2585%25AC%25E5%258E%2595%25E7%2588%2586%25E6%2594%25B9%25E7%258E%25B0%25E7%25A3%25A8%25E5%2592%2596%25E5%2595%25A1%25E5%25BA%2597%25E8%25A2%25AB%25E6%259F%25A5%25E5%25B0%2581%2523%26display_time%3D1761196628%26pre_seqid%3D17611966282730366789257",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "郑丽文公布首波党务人事",
           "url": "https://www.douyin.com/hot/2279011",
           "source": "抖音",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
