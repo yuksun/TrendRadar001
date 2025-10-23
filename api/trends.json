@@ -1,166 +1,12 @@
 {
-  "generated_at": "2025-10-23T23:21:57.059706+08:00",
-  "total_titles_processed": 2142,
+  "generated_at": "2025-10-24T00:23:42.495137+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 123,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://www.cls.cn/detail/2178424",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 23时21分]"
-        },
-        {
-          "title": "30年老公厕爆改咖啡店 没营业就被查",
-          "url": "https://www.baidu.com/s?wd=30%E5%B9%B4%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E5%92%96%E5%95%A1%E5%BA%97+%E6%B2%A1%E8%90%A5%E4%B8%9A%E5%B0%B1%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时05分]"
-        },
-        {
-          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://wallstreetcn.com/articles/3757730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 23时21分]"
-        },
-        {
-          "title": "网红小影夫妇涉偷税漏税被查处",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%BD%B1%E5%A4%AB%E5%A6%87%E6%B6%89%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E8%A2%AB%E6%9F%A5%E5%A4%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26c_type%3D31%26q%3D%2523%25E7%25BD%2591%25E7%25BA%25A2%25E5%25B0%258F%25E5%25BD%25B1%25E5%25A4%25AB%25E5%25A6%2587%25E6%25B6%2589%25E5%2581%25B7%25E7%25A8%258E%25E6%25BC%258F%25E7%25A8%258E%25E8%25A2%25AB%25E6%259F%25A5%25E5%25A4%2584%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D9%26flag%3D1%26band_rank%3D10%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761148814%26pre_seqid%3D17611488141320312149121",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            19,
-            7,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时05分]"
-        },
-        {
-          "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823142",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时19分]"
-        },
-        {
-          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时04分 ~ 23时21分]"
-        },
-        {
-          "title": "网民摆拍涉三秋生产视频被通报",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E6%91%86%E6%8B%8D%E6%B6%89%E4%B8%89%E7%A7%8B%E7%94%9F%E4%BA%A7%E8%A7%86%E9%A2%91%E8%A2%AB%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时05分]"
-        },
-        {
-          "title": "干部另类堕落记:翻翻鸽的诱惑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346059&amp;topic_name=%E5%B9%B2%E9%83%A8%E5%8F%A6%E7%B1%BB%E5%A0%95%E8%90%BD%E8%AE%B0%3A%E7%BF%BB%E7%BF%BB%E9%B8%BD%E7%9A%84%E8%AF%B1%E6%83%91",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            18,
-            22,
-            23,
-            24,
-            26,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 19时18分]"
-        },
-        {
-          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 23时21分]"
-        },
-        {
-          "title": "陕西洛南县人大常委会主任刘文革去世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823144",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时05分]"
-        },
-        {
-          "title": "我撰写了一篇质量非常高的文稿，但被点名表扬的是直属领导，而我被忽略了，我该怎么办？",
-          "url": "https://www.zhihu.com/question/1963919436890223989",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时19分 ~ 13时18分]"
-        },
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
           "url": "https://m.thepaper.cn/newsDetail_forward_31827318",
@@ -169,538 +15,140 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
+          "url": "https://wallstreetcn.com/articles/3757730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "中国共产党中央军事委员会副主席张升民简历",
           "url": "https://m.thepaper.cn/newsDetail_forward_31827681",
           "source": "澎湃新闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
+          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992695",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时12分]"
-        },
-        {
-          "title": "被F1官方邀请观赛什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABF1%E5%AE%98%E6%96%B9%E9%82%80%E8%AF%B7%E8%A7%82%E8%B5%9B%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            13,
-            18,
-            23,
-            25,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时12分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "中国共产党中央军事委员会副主席张升民简历",
           "url": "https://www.cls.cn/detail/2178568",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "官方通报2人破坏为人民服务航标",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
-          "url": "https://flash.jin10.com/detail/20251023160720156800",
+          "title": "俄罗斯总统普京：俄罗斯的能源部门信心十足，不过预计会有一定的损失。",
+          "url": "https://flash.jin10.com/detail/20251023234826353800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "00时23分"
         },
         {
-          "title": "中国政府中东问题特使翟隽应约会见法国驻华大使白玉堂，双方就中东局势深入交换意见。（外交部网站）",
-          "url": "https://wallstreetcn.com/livenews/2992404",
+          "title": "调查显示德国工业企业持续受困于关税冲击",
+          "url": "https://wallstreetcn.com/livenews/2992691",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
-          "url": "https://flash.jin10.com/detail/20251023160624686800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：第三季度确认了2.38亿美元的费用支出，这些费用与汽车部门的超级计算机资产、合同终止和员工解聘相关。",
-          "url": "https://flash.jin10.com/detail/20251023181034230800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "市场消息：俄罗斯国防情报局局长Andrey Melnikov因一起特大规模欺诈案而被拘留。",
-          "url": "https://flash.jin10.com/detail/20251023212636536800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
-          "url": "https://www.zhihu.com/question/1931818975265789556",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "据Business Insider：Meta Platforms(META.O)将削减其风险部门的职位。",
+          "url": "https://flash.jin10.com/detail/20251023234537191800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "段毅君履新国家宗教事务局局长，卸任国家民委副主任",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826370",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "失业率或临时性上升！美国政府停摆进入第22天，创史上第二长纪录",
-          "url": "https://wallstreetcn.com/articles/3757658",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 14时27分]"
-        },
-        {
-          "title": "韩国梨泰院踩踏惨案调查结果公布",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D11%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D11%26band_rank%3D11%26display_time%3D1761217570%26pre_seqid%3D176121757069301143414146",
-          "source": "微博",
-          "ranks": [
-            11,
-            18,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "“为人民服务”航标被破坏 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
-          "url": "https://wallstreetcn.com/livenews/2992038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时19分]"
-        },
-        {
-          "title": "加密货币交易所Kraken（官方名称为Payward Inc.）三季度营收超过翻倍，达到6.48亿美元，同比增长114%。 三季度总体平台成交量达到5619亿美元，平台上资产规模增长89%至593亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2992037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时19分]"
-        },
-        {
-          "title": "美国众议院民主党领导人Hakeem Jefferies：希望能在10月底之前解决美国政府关门问题。",
-          "url": "https://wallstreetcn.com/livenews/2992044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时19分]"
-        },
-        {
-          "title": "联合国秘书长：多边贸易体系正面临脱轨风险",
-          "url": "https://wallstreetcn.com/livenews/2992602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时35分]"
-        },
-        {
-          "title": "波音公司：与（军工部门工人所属）IAM 837工会的领导层的谈判已经结束。 对方拒绝本公司提出的修订版（劳资关系）提议。 本公司披露的条款仍然是一份五年期协议。",
-          "url": "https://wallstreetcn.com/livenews/2992036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时12分]"
-        },
-        {
-          "title": "泽连斯基与多名欧洲领导人发表声明，中方回应",
-          "url": "https://www.cls.cn/detail/2177019",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "波音(BA.N)：与工会领导层的谈判已经结束，领导层拒绝接受修改后的投票方案。",
-          "url": "https://flash.jin10.com/detail/20251023015349058800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时12分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "一拳3动画拉胯,监督被喷到退网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346142&amp;topic_name=%E4%B8%80%E6%8B%B33%E5%8A%A8%E7%94%BB%E6%8B%89%E8%83%AF%2C%E7%9B%91%E7%9D%A3%E8%A2%AB%E5%96%B7%E5%88%B0%E9%80%80%E7%BD%91",
           "source": "贴吧",
           "ranks": [
-            30,
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "据几位知情人士透露，在加沙地带开展活动的私人援助组织“加沙人道主义基金会”正在与美国和以色列官员进行谈判，讨论战后在加沙地带中可能发挥的新作用。",
-          "url": "https://flash.jin10.com/detail/20251023121052253800",
-          "source": "金十数据",
+          "title": "一小区有23部电梯钢绳被破坏，呼市赛罕区警方通报两人被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825523",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "加拿大总理卡尼料将宣布，其政府将在预算中提出一个移民计划，其中包括人才引进战略。 此前，美国总统特朗普宣布将对H-1B签证收费10万美元。",
-          "url": "https://wallstreetcn.com/livenews/2992079",
+          "title": "加拿大证券委员会（CSA）建议，允许某些小型发行人披露半年报。",
+          "url": "https://wallstreetcn.com/livenews/2992686",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            17
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时13分]"
-        },
-        {
-          "title": "段毅君已任中央统战部副部长",
-          "url": "https://wallstreetcn.com/livenews/2992556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
-        },
-        {
-          "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
-          "url": "https://wallstreetcn.com/livenews/2992035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时12分]"
-        },
-        {
-          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2992520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
-        },
-        {
-          "title": "金融科技发展奖评审领导小组会议召开",
-          "url": "https://wallstreetcn.com/livenews/2992555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
-        },
-        {
-          "title": "国家外汇管理局副局长刘斌：鼓励在上海率先落地一些首创性、集成性的探索政策",
-          "url": "https://wallstreetcn.com/livenews/2992619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时21分]"
-        },
-        {
-          "title": "内蒙古一小区有 23 部电梯钢绳被破坏，警方通报两人被刑拘，他们将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1964612372535670358",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时19分]"
-        },
-        {
-          "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。",
-          "url": "https://flash.jin10.com/detail/20251023060011080800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
-          "url": "https://wallstreetcn.com/livenews/2992039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时19分]"
-        },
-        {
-          "title": "因「学生抢鸡排」走红的校长苗本臣病逝，病因或是肺栓塞，你对他有哪些记忆？哪些原因可能导致肺栓塞？",
-          "url": "https://www.zhihu.com/question/1964036756421702350",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 15时19分]"
-        },
-        {
-          "title": "【SpaceX称识别并切断缅甸电诈园区周边逾2500台“星链”设备】美国太空探索技术公司（SpaceX）副总裁劳伦·德雷尔当地时间21日在社交媒体上说，该公司已在缅甸电诈园区周边识别出超过2500台“星链”设备，并使其不能运转。 德雷尔在帖文中说，在缅甸“疑似诈骗中心周边”，该公司“主动识别”并使超过2500台“星链”设备不能运转。 据缅甸官方媒体20日报道，缅甸国防军日前对该国边境地区的电诈园区开展清剿行动，查获30套美国太空探索技术公司“星链”接收器及配件。（央视）",
-          "url": "https://wallstreetcn.com/livenews/2992006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "据a16z Crypto，2025年迄今的迷因币发行量已经超过1300万枚，表明需要处理（美国政府面临的）监管真空问题、国会山也需要对市场结构进行立法。 a16z Crypto是Andreessen Horowitz旗下数字资产价值资本基金。",
-          "url": "https://wallstreetcn.com/livenews/2992004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "连胜文否认将接棒蒋万安竞选台北市长",
-          "url": "https://www.toutiao.com/trending/7564002783469273131/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时21分]"
-        },
-        {
-          "title": "警方通报女子栓绳遛狗遭殴打",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A0%93%E7%BB%B3%E9%81%9B%E7%8B%97%E9%81%AD%E6%AE%B4%E6%89%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E5%25A5%25B3%25E5%25AD%2590%25E6%25A0%2593%25E7%25BB%25B3%25E9%2581%259B%25E7%258B%2597%25E9%2581%25AD%25E6%25AE%25B4%25E6%2589%2593%2523%26band_rank%3D26%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
-          "source": "微博",
-          "ranks": [
-            26,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时40分]"
-        },
-        {
-          "title": "美国众议院民主党领袖杰弗里：我们希望在月底之前解决政府停摆问题。",
-          "url": "https://flash.jin10.com/detail/20251023023951037800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时19分]"
-        },
-        {
-          "title": "中基协召开早期投资委员会联席工作会议",
-          "url": "https://wallstreetcn.com/livenews/2992588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时35分]"
-        },
-        {
-          "title": "国务院任免国家工作人员，免去王东伟的财政部副部长职务。",
-          "url": "https://wallstreetcn.com/livenews/2992295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
-        },
-        {
-          "title": "联合国秘书长呼吁加强拯救生命的早期预警系统",
-          "url": "https://wallstreetcn.com/livenews/2992472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
-        },
-        {
-          "title": "小米YU7内有不明零件 市监部门介入",
-          "url": "https://www.toutiao.com/trending/7564318664644628007/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "将接棒蒋万安竞选台北市长？连胜文否认：媒体别帮我算命",
@@ -710,777 +158,74 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "十四届全国人大常委会第十八次会议相关法律案看点前瞻",
-          "url": "https://wallstreetcn.com/livenews/2992641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "印度信实工业发言人：公司正在“重新调整”俄罗斯石油进口，以符合印度政府的指导方针。",
-          "url": "https://flash.jin10.com/detail/20251023114129976800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
-        },
-        {
-          "title": "民航局局长宋志勇会见空客首席执行官傅里",
-          "url": "https://wallstreetcn.com/livenews/2992638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "为什么有些领导既不懂业务，整天也不见做啥事，却得到公司重用?",
-          "url": "https://www.zhihu.com/question/344794504",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "警方通报2人损坏电梯缆绳",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E6%8D%9F%E5%9D%8F%E7%94%B5%E6%A2%AF%E7%BC%86%E7%BB%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A52%25E4%25BA%25BA%25E6%258D%259F%25E5%259D%258F%25E7%2594%25B5%25E6%25A2%25AF%25E7%25BC%2586%25E7%25BB%25B3%2523%26band_rank%3D15%26dgr%3D0%26flag%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1761184927%26pre_seqid%3D176118492784901201193134",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "特朗普向美国政府索赔 2.3 亿美元，且将由其本人进行审批，还将自费增建白宫宴会厅，如何看待系列事件？",
-          "url": "https://www.zhihu.com/question/1964457445486237360",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时23分]"
-        },
-        {
-          "title": "四中全会：坚定不移开展反腐败斗争",
-          "url": "https://www.toutiao.com/trending/7564219716815519786/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时35分]"
-        },
-        {
-          "title": "美国众议长约翰逊：（由于特朗普政府关门问题）我们在一些必要的事务上丧失时间。",
-          "url": "https://wallstreetcn.com/livenews/2991995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
-          "url": "https://wallstreetcn.com/livenews/2992048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时11分]"
-        },
-        {
-          "title": "老公厕爆改现磨咖啡店被查封",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%80%81%E5%85%AC%E5%8E%95%E7%88%86%E6%94%B9%E7%8E%B0%E7%A3%A8%E5%92%96%E5%95%A1%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D30%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D29%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D1%26q%3D%2523%25E8%2580%2581%25E5%2585%25AC%25E5%258E%2595%25E7%2588%2586%25E6%2594%25B9%25E7%258E%25B0%25E7%25A3%25A8%25E5%2592%2596%25E5%2595%25A1%25E5%25BA%2597%25E8%25A2%25AB%25E6%259F%25A5%25E5%25B0%2581%2523%26display_time%3D1761196628%26pre_seqid%3D17611966282730366789257",
-          "source": "微博",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时27分]"
-        },
-        {
-          "title": "路姓男子向公职人员行贿超千万元",
-          "url": "https://www.toutiao.com/trending/7564001220231479359/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时19分]"
-        },
-        {
-          "title": "俄罗斯外交部就美国制裁表态：如果美国效仿此前美国政府的做法，最终将一事无成。",
-          "url": "https://flash.jin10.com/detail/20251023160225506800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "00时23分"
         },
         {
-          "title": "科威特石油部长：欧佩克准备通过取消减产来弥补市场上的任何短缺。",
-          "url": "https://flash.jin10.com/detail/20251023212259605800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "哥伦比亚公共信贷局局长：哥伦比亚或回购的美元债券的票面利率设定在6.5%至7%之间。",
-          "url": "https://flash.jin10.com/detail/20251023215845505800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "阿根廷经济部长证实，美国财政部周三在阿根廷出售了约4亿美元。",
-          "url": "https://flash.jin10.com/detail/20251023225655945800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "【中国共产党第二十届中央委员会第四次全体会议公报】中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日至23日在北京举行。全会充分肯定党的二十届三中全会以来中央政治局的工作。一致认为，中央政治局认真落实党的二十大和二十届历次全会精神，坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，统筹发展和安全，进一步全面深化改革，扎实推动高质量发展，推进社会主义民主法治建设，加强宣传思想文化工作，切实抓好民生保障和生态环境保护，维护国家安全和社会稳定，开展深入贯彻中央八项规定精神学习教育、纵深推进全面从严治党，加强国防和军队现代化建设，做好港澳工作和对台工作，深入推进中国特色大国外交，推动经济持续回升向好，“十四五”主要目标任务即将胜利完成。隆重纪念中国人民抗日战争暨世界反法西斯战争胜利80周年，极大振奋民族精神、激发爱国热情、凝聚奋斗力量。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/2992478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "加拿大总理卡尼：政府将在预算中提出一个移民计划，其中包括人才引进战略。",
-          "url": "https://flash.jin10.com/detail/20251023043815562800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "科威特石油部长：看到了一些迹象，表明石油需求正在转向海湾和中东地区。",
-          "url": "https://flash.jin10.com/detail/20251023211747175800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
-          "url": "https://flash.jin10.com/detail/20251023180310570800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "市场消息：阿根廷政府任命Pablo Quirno为外交部长。",
-          "url": "https://flash.jin10.com/detail/20251023225131159800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "市场消息：上周，外国投资者购买印度政府债券的数量增加了46倍，这表明印度央行积极的货币干预措施正在增强市场信心。",
-          "url": "https://flash.jin10.com/detail/20251023122143365800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
-          "url": "https://flash.jin10.com/detail/20251023043122869800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "两名知情人士周三表示，特朗普政府计划提议开放大西洋和太平洋的联邦水域进行海上钻探，此举可能会激怒沿海各州的州长，并直接惹怒加州州长。",
-          "url": "https://flash.jin10.com/detail/20251023110346768800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美国消费品安全委员会：3M(MMM.N)公司因过热问题召回热覆膜机。",
-          "url": "https://flash.jin10.com/detail/20251023215252832800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美联邦法官延长临时限制令 阻止联邦政府在伊利诺伊州部署国民警卫队",
-          "url": "https://wallstreetcn.com/livenews/2992346",
+          "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
+          "url": "https://wallstreetcn.com/livenews/2992698",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "00时23分"
         },
         {
-          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "惠誉：美国对阿根廷的支持不足以推动评级上调，除非这是阿根廷政府重建外汇储备缓冲机制更广泛计划的一部分。",
-          "url": "https://flash.jin10.com/detail/20251022233204382800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "柬泰边界总委员会第二次特别会议举行 双方达成多项共识",
-          "url": "https://wallstreetcn.com/livenews/2992542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "白宫表示，特朗普政府将阿根廷牛肉的关税配额上调至8万吨，以降低价格。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "科威特石油部长：预计美国对俄罗斯公司实施制裁后油价将会上涨。",
-          "url": "https://flash.jin10.com/detail/20251023211030583800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "委内瑞拉石油部长：特立尼达和多巴哥（加勒比海地区的国家）必须支付委内瑞拉提供的任何天然气费用。",
-          "url": "https://flash.jin10.com/detail/20251023011417696800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：欧盟成员国批准了对俄罗斯的第19轮制裁。我们在对俄罗斯施加高压。这是我们第一次打击俄罗斯的天然气行业——其战时经济的核心。在乌克兰人民获得公正和持久的和平之前，我们不会手软。",
-          "url": "https://flash.jin10.com/detail/20251023145613975800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0918，上调36点；上一交易日中间价7.0954，上一交易日官方收盘价7.1245，上日夜盘报收7.1240。",
-          "url": "https://wallstreetcn.com/livenews/2992197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "因贪污获刑的俄前副防长请求上前线",
-          "url": "https://www.toutiao.com/trending/7564068842797006857/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
-          "url": "https://flash.jin10.com/detail/20251023145502019800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "特朗普政府正在洽谈入股量子-计算公司。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2992196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "上海金融法院院长赵红： 正在推进第二例金融市场测试案例相关工作",
-          "url": "https://wallstreetcn.com/livenews/2992310",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国梨泰院踩踏惨案调查结果公布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D0%26c_type%3D31%26band_rank%3D17%26pos%3D17%26cate%3D5001%26dgr%3D0%26realpos%3D17%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
+          "source": "微博",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "00时23分"
         },
         {
-          "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
-          "url": "https://flash.jin10.com/detail/20251023031513906800",
-          "source": "金十数据",
+          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "欧盟委员会贸易委员东布罗夫斯基斯：欢迎美国对俄罗斯实施“强硬”制裁。",
-          "url": "https://flash.jin10.com/detail/20251023145214934800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://wallstreetcn.com/livenews/2992478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "工业和信息化部副部长谢远生会见智利矿业部副部长苏伊娜·查万",
-          "url": "https://wallstreetcn.com/livenews/2992633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "官方通报无牌小米SU7路口漂移",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%97%A0%E7%89%8C%E5%B0%8F%E7%B1%B3SU7%E8%B7%AF%E5%8F%A3%E6%BC%82%E7%A7%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D19%26stream_entry_id%3D31%26band_rank%3D18%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D18%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E6%2597%25A0%25E7%2589%258C%25E5%25B0%258F%25E7%25B1%25B3SU7%25E8%25B7%25AF%25E5%258F%25A3%25E6%25BC%2582%25E7%25A7%25BB%2523%26flag%3D1%26display_time%3D1761207909%26pre_seqid%3D1761207909393031824708",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "妻子举报丈夫偷拿飞机物资堆放家中",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E5%81%B7%E6%8B%BF%E9%A3%9E%E6%9C%BA%E7%89%A9%E8%B5%84%E5%A0%86%E6%94%BE%E5%AE%B6%E4%B8%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%25A6%25BB%25E5%25AD%2590%25E4%25B8%25BE%25E6%258A%25A5%25E4%25B8%2588%25E5%25A4%25AB%25E5%2581%25B7%25E6%258B%25BF%25E9%25A3%259E%25E6%259C%25BA%25E7%2589%25A9%25E8%25B5%2584%25E5%25A0%2586%25E6%2594%25BE%25E5%25AE%25B6%25E4%25B8%25AD%2523%26dgr%3D0%26cate%3D5001%26realpos%3D18%26stream_entry_id%3D31%26pos%3D19%26flag%3D0%26band_rank%3D18%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1761223205%26pre_seqid%3D1761223205882031713114",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "女子遛狗时被男子殴打 警方介入调查",
-          "url": "https://www.toutiao.com/trending/7564279926800023590/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "妻子65页PPT举报空警丈夫",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%9065%E9%A1%B5PPT%E4%B8%BE%E6%8A%A5%E7%A9%BA%E8%AD%A6%E4%B8%88%E5%A4%AB",
+          "title": "“为人民服务”航标被破坏 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "阿根廷总统府确认外交部长已辞职。",
-          "url": "https://flash.jin10.com/detail/20251022231114282800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "全国人大常委会法工委54个基层立法联系点已征求意见66000多条",
-          "url": "https://wallstreetcn.com/livenews/2992534",
+          "title": "阿根廷确认，Quirno将取代Werthein，成为新的外交部长。 日前报道称，米莱总统考虑在中期选举过后将外长踢出其内阁，时任外长Werthein随后考虑辞职。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992678",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "商务部部长王文涛与荷兰经济大臣卡雷曼斯通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31820342",
-          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "00时23分"
         },
         {
-          "title": "甘肃官方回应公厕改建咖啡店：因审批手续问题，店铺已被封",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31824077",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "美媒：Meta将削减人工智能部门约600个职位",
-          "url": "https://flash.jin10.com/detail/20251022230938289800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "KRAKEN：正在调查与TRX资金网关相关的问题。",
-          "url": "https://flash.jin10.com/detail/20251023162423025800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "阿根廷股指在早盘迄今呈现出V形反转，在美上市阿根廷ETF目前跌0.5%。 美国贸易代表格利尔对媒体表示，阿根廷牛肉不会大量涌入美国，尽管特朗普政府在这个问题上与阿方存在争议。",
-          "url": "https://wallstreetcn.com/livenews/2991994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。 预计年底前将在8-10个大都会区域运营无人驾驶出租车，尤其是内华达、佛罗里达、亚利桑那州。",
-          "url": "https://wallstreetcn.com/livenews/2992102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1221，较上一交易日官方收盘价涨24点，较上日夜盘收盘涨19点。",
-          "url": "https://wallstreetcn.com/livenews/2992459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "据LN报道，阿根廷外交部长Werthein要求辞职。 此前报道称，阿根廷总统米莱计划在中期选举之后改组内阁，外长将被排斥在外。",
-          "url": "https://wallstreetcn.com/livenews/2991993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "中钢协节能环保工作委员会：2025年年会增设钢铁极致能效储能技术专题对接会。",
-          "url": "https://wallstreetcn.com/livenews/2992627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "商务部副部长盛秋平会见沃尔玛全球公司事务副总裁丹·巴特利特",
-          "url": "https://wallstreetcn.com/livenews/2992457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "欧洲19国领导人呼吁欧盟开展制度性改革提升竞争力",
-          "url": "https://flash.jin10.com/detail/20251022230732885800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "据华尔街日报：由于政府持续关门，美联储官员无法获得美国经济统计数据，最近美联储又失去了从第三方提供商获取单独就业数据的渠道。",
-          "url": "https://flash.jin10.com/detail/20251023002732773800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国参议院共和党人正在讨论是否就一项法案进行投票，该法案旨在防止数百万低收入美国人在11月1日失去食品援助。这项由密苏里州共和党参议员乔什·霍利提出的法案，将在政府关门期间为“补充营养援助计划”（SNAP）提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20251023162131340800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "美国航空(AAL.O)：美国政府停摆影响甚微。",
-          "url": "https://flash.jin10.com/detail/20251023223942186800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "据美国官员透露，美国在南美洲附近实施新一轮反毒品打击行动，此次地点位于太平洋，而非加勒比海。",
-          "url": "https://flash.jin10.com/detail/20251023002647906800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美政府将对俄罗斯两家石油公司进行制裁，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/2992420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美国白宫：特朗普政府将阿根廷牛肉的关税配额提高至8万吨，以降低价格。",
-          "url": "https://flash.jin10.com/detail/20251023204828232800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "欧洲航天局局长：将对卫星合并对产业生态系统的影响进行评估。",
-          "url": "https://flash.jin10.com/detail/20251023223736956800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "巴基斯坦政府：联邦内阁一致通过，根据反恐法对TLP（巴基斯坦拉巴克运动）实施禁令。",
-          "url": "https://flash.jin10.com/detail/20251023223445014800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "郑丽文公布首波党务人事",
-          "url": "https://www.douyin.com/hot/2279011",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济宁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东河北现串珠型不明发光飞行物",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%B2%B3%E5%8C%97%E7%8E%B0%E4%B8%B2%E7%8F%A0%E5%9E%8B%E4%B8%8D%E6%98%8E%E5%8F%91%E5%85%89%E9%A3%9E%E8%A1%8C%E7%89%A9",
+          "title": "韩国梨泰院踩踏事件调查结果出炉",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89",
           "source": "百度热搜",
           "ranks": [
-            15,
-            14,
-            8,
-            12,
-            13,
-            10,
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时05分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
