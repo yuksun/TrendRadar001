@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T20:40:46.066503+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-10-23T21:35:15.681036+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 103,
+      "match_count": 110,
       "titles": [
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -59,11 +59,12 @@
           "ranks": [
             10,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 21时35分]"
         },
         {
           "title": "网民摆拍涉三秋生产视频被通报",
@@ -109,6 +110,31 @@
           "time_info": "[00时18分 ~ 10时05分]"
         },
         {
+          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 21时35分]"
+        },
+        {
+          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
+          "url": "https://www.cls.cn/detail/2178424",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 21时35分]"
+        },
+        {
           "title": "我撰写了一篇质量非常高的文稿，但被点名表扬的是直属领导，而我被忽略了，我该怎么办？",
           "url": "https://www.zhihu.com/question/1963919436890223989",
           "source": "知乎",
@@ -123,29 +149,17 @@
           "time_info": "[04时19分 ~ 13时18分]"
         },
         {
-          "title": "甬莞高速4死2伤交通事故调查报告：重货司机疲劳驾驶追尾小客车，已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826027",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 20时40分]"
-        },
-        {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://www.cls.cn/detail/2178424",
-          "source": "财联社热门",
+          "url": "https://wallstreetcn.com/articles/3757730",
+          "source": "华尔街见闻",
           "ranks": [
             5,
-            1
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时20分 ~ 20时40分]"
+          "time_info": "[18时22分 ~ 21时35分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -177,26 +191,26 @@
         },
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议公报",
-          "url": "https://wallstreetcn.com/articles/3757730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时40分]"
-        },
-        {
-          "title": "中国共产党第二十届中央委员会第四次全体会议公报",
           "url": "https://m.thepaper.cn/newsDetail_forward_31827318",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
+        },
+        {
+          "title": "中国共产党中央军事委员会副主席张升民简历",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827681",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
@@ -221,17 +235,6 @@
           "time_info": "15时19分"
         },
         {
-          "title": "联合国秘书长：多边贸易体系正面临脱轨风险",
-          "url": "https://wallstreetcn.com/livenews/2992602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
           "url": "https://flash.jin10.com/detail/20251023160624686800",
           "source": "金十数据",
@@ -243,15 +246,15 @@
           "time_info": "16时27分"
         },
         {
-          "title": "中国共产党中央军事委员会副主席张升民简历",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827681",
-          "source": "澎湃新闻",
+          "title": "国家外汇管理局副局长刘斌：鼓励在上海率先落地一些首创性、集成性的探索政策",
+          "url": "https://wallstreetcn.com/livenews/2992619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "21时35分"
         },
         {
           "title": "特斯拉(TSLA.O)：第三季度确认了2.38亿美元的费用支出，这些费用与汽车部门的超级计算机资产、合同终止和员工解聘相关。",
@@ -263,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "市场消息：俄罗斯国防情报局局长Andrey Melnikov因一起特大规模欺诈案而被拘留。",
+          "url": "https://flash.jin10.com/detail/20251023212636536800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
@@ -327,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时19分]"
+        },
+        {
+          "title": "联合国秘书长：多边贸易体系正面临脱轨风险",
+          "url": "https://wallstreetcn.com/livenews/2992602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
         },
         {
           "title": "波音公司：与（军工部门工人所属）IAM 837工会的领导层的谈判已经结束。 对方拒绝本公司提出的修订版（劳资关系）提议。 本公司披露的条款仍然是一份五年期协议。",
@@ -437,6 +463,18 @@
           "time_info": "[19时18分 ~ 20时40分]"
         },
         {
+          "title": "中国共产党中央军事委员会副主席张升民简历",
+          "url": "https://www.cls.cn/detail/2178568",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
+        },
+        {
           "title": "内蒙古一小区有 23 部电梯钢绳被破坏，警方通报两人被刑拘，他们将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/1964612372535670358",
           "source": "知乎",
@@ -486,6 +524,18 @@
           "time_info": "[14时27分 ~ 15时19分]"
         },
         {
+          "title": "段毅君履新国家宗教事务局局长，卸任国家民委副主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826370",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时35分]"
+        },
+        {
           "title": "【SpaceX称识别并切断缅甸电诈园区周边逾2500台“星链”设备】美国太空探索技术公司（SpaceX）副总裁劳伦·德雷尔当地时间21日在社交媒体上说，该公司已在缅甸电诈园区周边识别出超过2500台“星链”设备，并使其不能运转。 德雷尔在帖文中说，在缅甸“疑似诈骗中心周边”，该公司“主动识别”并使超过2500台“星链”设备不能运转。 据缅甸官方媒体20日报道，缅甸国防军日前对该国边境地区的电诈园区开展清剿行动，查获30套美国太空探索技术公司“星链”接收器及配件。（央视）",
           "url": "https://wallstreetcn.com/livenews/2992006",
           "source": "华尔街见闻-快讯",
@@ -497,6 +547,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 02时21分]"
+        },
+        {
+          "title": "韩国梨泰院踩踏惨案调查结果公布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D11%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D11%26band_rank%3D11%26display_time%3D1761217570%26pre_seqid%3D176121757069301143414146",
+          "source": "微博",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时35分]"
         },
         {
           "title": "据a16z Crypto，2025年迄今的迷因币发行量已经超过1300万枚，表明需要处理（美国政府面临的）监管真空问题、国会山也需要对市场结构进行立法。 a16z Crypto是Andreessen Horowitz旗下数字资产价值资本基金。",
@@ -525,6 +587,41 @@
           "time_info": "[18时22分 ~ 20时40分]"
         },
         {
+          "title": "“为人民服务”航标被破坏 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时35分]"
+        },
+        {
+          "title": "官方通报2人破坏为人民服务航标",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
+        },
+        {
+          "title": "一拳3动画拉胯,监督被喷到退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346142&amp;topic_name=%E4%B8%80%E6%8B%B33%E5%8A%A8%E7%94%BB%E6%8B%89%E8%83%AF%2C%E7%9B%91%E7%9D%A3%E8%A2%AB%E5%96%B7%E5%88%B0%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
+        },
+        {
           "title": "美国众议院民主党领袖杰弗里：我们希望在月底之前解决政府停摆问题。",
           "url": "https://flash.jin10.com/detail/20251023023951037800",
           "source": "金十数据",
@@ -535,6 +632,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时19分]"
+        },
+        {
+          "title": "中基协召开早期投资委员会联席工作会议",
+          "url": "https://wallstreetcn.com/livenews/2992588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
         },
         {
           "title": "国务院任免国家工作人员，免去王东伟的财政部副部长职务。",
@@ -559,28 +668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时22分]"
-        },
-        {
-          "title": "段毅君履新国家宗教事务局局长，卸任国家民委副主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826370",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
-        },
-        {
-          "title": "韩国梨泰院踩踏惨案调查结果公布",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%25A2%25A8%25E6%25B3%25B0%25E9%2599%25A2%25E8%25B8%25A9%25E8%25B8%258F%25E6%2583%25A8%25E6%25A1%2588%25E8%25B0%2583%25E6%259F%25A5%25E7%25BB%2593%25E6%259E%259C%25E5%2585%25AC%25E5%25B8%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D11%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D11%26band_rank%3D11%26display_time%3D1761217570%26pre_seqid%3D176121757069301143414146",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
         },
         {
           "title": "小米YU7内有不明零件 市监部门介入",
@@ -619,6 +706,18 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
+          "title": "连胜文否认将接棒蒋万安竞选台北市长",
+          "url": "https://www.toutiao.com/trending/7564002783469273131/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
+        },
+        {
           "title": "警方通报2人损坏电梯缆绳",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E6%8D%9F%E5%9D%8F%E7%94%B5%E6%A2%AF%E7%BC%86%E7%BB%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A52%25E4%25BA%25BA%25E6%258D%259F%25E5%259D%258F%25E7%2594%25B5%25E6%25A2%25AF%25E7%25BC%2586%25E7%25BB%25B3%2523%26band_rank%3D15%26dgr%3D0%26flag%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1761184927%26pre_seqid%3D176118492784901201193134",
           "source": "微博",
@@ -639,6 +738,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 12时23分]"
+        },
+        {
+          "title": "四中全会：坚定不移开展反腐败斗争",
+          "url": "https://www.toutiao.com/trending/7564219716815519786/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时35分]"
         },
         {
           "title": "美国众议长约翰逊：（由于特朗普政府关门问题）我们在一些必要的事务上丧失时间。",
@@ -663,17 +774,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时11分]"
-        },
-        {
-          "title": "“为人民服务”航标被破坏 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E2%80%9D%E8%88%AA%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
         },
         {
           "title": "老公厕爆改现磨咖啡店被查封",
@@ -711,6 +811,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "科威特石油部长：欧佩克准备通过取消减产来弥补市场上的任何短缺。",
+          "url": "https://flash.jin10.com/detail/20251023212259605800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "【中国共产党第二十届中央委员会第四次全体会议公报】中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日至23日在北京举行。全会充分肯定党的二十届三中全会以来中央政治局的工作。一致认为，中央政治局认真落实党的二十大和二十届历次全会精神，坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，统筹发展和安全，进一步全面深化改革，扎实推动高质量发展，推进社会主义民主法治建设，加强宣传思想文化工作，切实抓好民生保障和生态环境保护，维护国家安全和社会稳定，开展深入贯彻中央八项规定精神学习教育、纵深推进全面从严治党，加强国防和军队现代化建设，做好港澳工作和对台工作，深入推进中国特色大国外交，推动经济持续回升向好，“十四五”主要目标任务即将胜利完成。隆重纪念中国人民抗日战争暨世界反法西斯战争胜利80周年，极大振奋民族精神、激发爱国热情、凝聚奋斗力量。（新华社）",
           "url": "https://wallstreetcn.com/livenews/2992478",
           "source": "华尔街见闻-快讯",
@@ -720,28 +831,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        },
-        {
-          "title": "官方通报2人破坏为人民服务航标",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "中基协召开早期投资委员会联席工作会议",
-          "url": "https://wallstreetcn.com/livenews/2992588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "加拿大总理卡尼：政府将在预算中提出一个移民计划，其中包括人才引进战略。",
@@ -755,15 +844,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "中国共产党中央军事委员会副主席张升民简历",
-          "url": "https://www.cls.cn/detail/2178568",
-          "source": "财联社热门",
+          "title": "科威特石油部长：看到了一些迹象，表明石油需求正在转向海湾和中东地区。",
+          "url": "https://flash.jin10.com/detail/20251023211747175800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "21时35分"
         },
         {
           "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
@@ -852,6 +941,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "白宫表示，特朗普政府将阿根廷牛肉的关税配额上调至8万吨，以降低价格。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "科威特石油部长：预计美国对俄罗斯公司实施制裁后油价将会上涨。",
+          "url": "https://flash.jin10.com/detail/20251023211030583800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "委内瑞拉石油部长：特立尼达和多巴哥（加勒比海地区的国家）必须支付委内瑞拉提供的任何天然气费用。",
@@ -981,7 +1092,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -995,17 +1106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "四中全会：坚定不移开展反腐败斗争",
-          "url": "https://www.toutiao.com/trending/7564219716815519786/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "阿根廷总统府确认外交部长已辞职。",
@@ -1050,17 +1150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "连胜文否认将接棒蒋万安竞选台北市长",
-          "url": "https://www.toutiao.com/trending/7564002783469273131/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
@@ -1195,15 +1284,15 @@
           "time_info": "16时27分"
         },
         {
-          "title": "一拳3动画拉胯,监督被喷到退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346142&amp;topic_name=%E4%B8%80%E6%8B%B33%E5%8A%A8%E7%94%BB%E6%8B%89%E8%83%AF%2C%E7%9B%91%E7%9D%A3%E8%A2%AB%E5%96%B7%E5%88%B0%E9%80%80%E7%BD%91",
-          "source": "贴吧",
+          "title": "美国白宫：特朗普政府将阿根廷牛肉的关税配额提高至8万吨，以降低价格。",
+          "url": "https://flash.jin10.com/detail/20251023204828232800",
+          "source": "金十数据",
           "ranks": [
-            30
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "21时35分"
         },
         {
           "title": "郑丽文公布首波党务人事",
