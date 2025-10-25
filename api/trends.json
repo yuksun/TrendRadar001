@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T13:19:06.886724+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-10-25T14:26:11.629776+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "全国人大常委会通过决定将 10 月 25 日设立为台湾光复纪念日，释放了哪些信号？有何现实意义？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "世界市长对话郑州",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -78,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "官方：严禁将手机等电子产品带入课堂",
@@ -112,8 +112,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -128,8 +128,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "辽宁省委常委、宣传部部长靳国卫任甘肃省委常委、省纪委书记",
@@ -227,27 +227,53 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "习近平将赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3757808",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时26分]"
+        },
+        {
+          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
+          "url": "https://wallstreetcn.com/articles/3757831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时26分]"
+        },
+        {
           "title": "中汽协副秘书长陈士华：呼吁车购税减征政策按照2026年3%、2027年7%阶梯式退出",
           "url": "https://wallstreetcn.com/livenews/2993642",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时26分]"
         },
         {
-          "title": "泰国总理：将不出席亚太经合组织峰会，将派外交部长出席。",
-          "url": "https://flash.jin10.com/detail/20251025122235045800",
-          "source": "金十数据",
+          "title": "国家能源局主要负责人会见斯洛文尼亚环境、气候和能源部部长",
+          "url": "https://wallstreetcn.com/livenews/2993649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时26分"
         },
         {
           "title": "理想回应MEGA行驶中突然起火被烧成空架：车内人员安全离车，会配合调查",
@@ -279,42 +305,41 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
-          "title": "习近平将赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3757808",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时19分]"
-        },
-        {
-          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
-          "url": "https://wallstreetcn.com/articles/3757831",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时19分]"
-        },
-        {
           "title": "据外交部网站，10月23日，外交部副部长马朝旭会见来华出席第15次“中美安全对话”的美方代表团，双方就中美关系和共同关心的问题交换了意见。",
           "url": "https://wallstreetcn.com/livenews/2993638",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 14时26分]"
+        },
+        {
+          "title": "马来西亚贸易部长：可能与美国签署关键矿产合作协议。",
+          "url": "https://flash.jin10.com/detail/20251025140116076800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
+          "url": "https://news.ifeng.com/c/8njTqtuSATf",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时26分]"
         },
         {
           "title": "欧洲多国领导人称将继续加大对俄制裁",
@@ -368,6 +393,18 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "泰国总理：将不出席亚太经合组织峰会，将派外交部长出席。",
+          "url": "https://flash.jin10.com/detail/20251025122235045800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时26分]"
+        },
+        {
           "title": "泰国政府发言人：由于王太后诗丽吉去世，泰国总理取消了出席东盟峰会的行程。",
           "url": "https://flash.jin10.com/detail/20251025085728594800",
           "source": "金十数据",
@@ -405,16 +442,15 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
-          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
-          "url": "https://news.ifeng.com/c/8njTqtuSATf",
-          "source": "凤凰网",
+          "title": "湖北十堰通报一起交通事故：1人死亡4人伤情较重，司机已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31833650",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时01分 ~ 13时19分]"
+          "time_info": "[13时18分 ~ 14时26分]"
         },
         {
           "title": "美国高级官员：我们正按照印度在达成协议方面的雄心步伐前进，但这并不总是很快的。",
@@ -532,17 +568,6 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "湖北十堰通报一起交通事故：1人死亡4人伤情较重，司机已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31833650",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
           "title": "最高奖励300万元 浙江省人民政府质量奖（省知识产权奖）管理办法有新变化",
           "url": "https://flash.jin10.com/detail/20251025092534028800",
           "source": "金十数据",
@@ -650,6 +675,17 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "议员现场高唱光复歌痛斥台中市政府",
+          "url": "https://www.toutiao.com/trending/7564901384957526067/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
+        },
+        {
           "title": "妻子 65 页 PPT 举报南航空警丈夫，南航称已诫勉谈话，如何看待处理结果？",
           "url": "https://www.zhihu.com/question/1965051205819544006",
           "source": "知乎",
@@ -670,6 +706,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "马来西亚贸易部长：仍在与美国就半导体关税问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251025133008544800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本首相高市早苗将在吉隆坡出席东盟峰会期间，分别与澳大利亚、马来西亚和菲律宾三国领导人举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251025125406635800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "北约秘书长吕特：我们对乌克兰的支持正在发挥作用，我们需要继续下去。",
@@ -761,9 +819,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时26分]"
         }
       ]
     }
