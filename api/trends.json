@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T11:01:53.562381+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-10-25T11:41:29.205665+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "全国人大常委会通过决定将 10 月 25 日设立为台湾光复纪念日，释放了哪些信号？有何现实意义？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "世界市长对话郑州",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "官方：严禁将手机等电子产品带入课堂",
@@ -105,11 +105,12 @@
             15,
             16,
             12,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -118,11 +119,12 @@
           "ranks": [
             12,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "辽宁省委常委、宣传部部长靳国卫任甘肃省委常委、省纪委书记",
@@ -218,6 +220,59 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
+          "title": "据外交部网站，10月23日，外交部副部长马朝旭会见来华出席第15次“中美安全对话”的美方代表团，双方就中美关系和共同关心的问题交换了意见。",
+          "url": "https://wallstreetcn.com/livenews/2993638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "穆迪：确认法国Aa3评级，前景展望下调为负面。 将展望调整为负面的决定反映出，法国政治格局的分裂继续削弱法国立法机构运作的风险上升。 这种政治不稳定可能会阻碍政府应对关键政策挑战的能力，例如居高不下的财政赤字、不断上升的债务负担以及融资成本的持续走高，从而导致法国主要财政指标的恶化速度快于我们当前的预期。",
+          "url": "https://wallstreetcn.com/livenews/2993603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            20,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 11时41分]"
+        },
+        {
+          "title": "理想回应MEGA行驶中突然起火被烧成空架：车内人员安全离车，会配合调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830438",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 11时41分]"
+        },
+        {
+          "title": "欧洲多国领导人称将继续加大对俄制裁",
+          "url": "https://flash.jin10.com/detail/20251025090542089800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时41分]"
+        },
+        {
           "title": "巴基斯坦粮食安全与研究部公告，联邦农业委员会批准2970万吨小麦生产目标。 该部门此前建议将目标设在3430万吨。",
           "url": "https://wallstreetcn.com/livenews/2993545",
           "source": "华尔街见闻-快讯",
@@ -256,6 +311,19 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "泰国政府发言人：由于王太后诗丽吉去世，泰国总理取消了出席东盟峰会的行程。",
+          "url": "https://flash.jin10.com/detail/20251025085728594800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时41分]"
+        },
+        {
           "title": "湖北十堰通报致1死多伤交通事故",
           "url": "https://www.douyin.com/hot/2281952",
           "source": "抖音",
@@ -278,57 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
-        },
-        {
-          "title": "欧洲多国领导人称将继续加大对俄制裁",
-          "url": "https://flash.jin10.com/detail/20251025090542089800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
-        },
-        {
-          "title": "泰国政府发言人：由于王太后诗丽吉去世，泰国总理取消了出席东盟峰会的行程。",
-          "url": "https://flash.jin10.com/detail/20251025085728594800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
-        },
-        {
-          "title": "穆迪：确认法国Aa3评级，前景展望下调为负面。 将展望调整为负面的决定反映出，法国政治格局的分裂继续削弱法国立法机构运作的风险上升。 这种政治不稳定可能会阻碍政府应对关键政策挑战的能力，例如居高不下的财政赤字、不断上升的债务负担以及融资成本的持续走高，从而导致法国主要财政指标的恶化速度快于我们当前的预期。",
-          "url": "https://wallstreetcn.com/livenews/2993603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 11时01分]"
-        },
-        {
-          "title": "理想回应MEGA行驶中突然起火被烧成空架：车内人员安全离车，会配合调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830438",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 11时01分]"
         },
         {
           "title": "美国高级官员：我们正按照印度在达成协议方面的雄心步伐前进，但这并不总是很快的。",
@@ -404,8 +421,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时41分]"
+        },
+        {
+          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
+          "url": "https://wallstreetcn.com/articles/3757831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时41分]"
+        },
+        {
+          "title": "美能源部长下令确保冬季电网正常接入 保障6500万民众电力需求",
+          "url": "https://flash.jin10.com/detail/20251025084850328800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时41分]"
         },
         {
           "title": "据纽约时报：众议院民主党领袖杰弗里斯支持曼达尼竞选纽约市市长。",
@@ -432,18 +474,6 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
-          "url": "https://wallstreetcn.com/articles/3757831",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
-        },
-        {
           "title": "路透调查：受访的23位分析师一致认为，哥伦比亚央行将在10月31日的会议上维持利率在9.25%不变。",
           "url": "https://flash.jin10.com/detail/20251025013031311800",
           "source": "金十数据",
@@ -456,16 +486,27 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "美能源部长下令确保冬季电网正常接入 保障6500万民众电力需求",
-          "url": "https://flash.jin10.com/detail/20251025084850328800",
-          "source": "金十数据",
+          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
+          "url": "https://news.ifeng.com/c/8njTqtuSATf",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
+          "time_info": "[11时01分 ~ 11时41分]"
+        },
+        {
+          "title": "最高奖励300万元 浙江省人民政府质量奖（省知识产权奖）管理办法有新变化",
+          "url": "https://flash.jin10.com/detail/20251025092534028800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时41分]"
         },
         {
           "title": "日本（负责贸易事务的）经济产业省大臣Akazawa与美国商务部长卢特尼克通话。（共同社）",
@@ -478,6 +519,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "联合国秘书长副发言人哈克24日说，两名联合国工作人员23日遭到也门胡塞武装扣押，目前被扣押的联合国人员为55人。",
+          "url": "https://flash.jin10.com/detail/20251025091335775800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时41分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jefferies：尚未在政府临时融资立法草案上改变立场。 白宫必须对打击（委内瑞拉）船只的决定做出调整。",
@@ -539,15 +592,15 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
-          "url": "https://news.ifeng.com/c/8njTqtuSATf",
-          "source": "凤凰网",
+          "title": "妻子 65 页 PPT 举报南航空警丈夫，南航称已诫勉谈话，如何看待处理结果？",
+          "url": "https://www.zhihu.com/question/1965051205819544006",
+          "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时41分"
         },
         {
           "title": "据Politico：美国众议院少数党领袖杰弗瑞斯表示，将支持Mamdani竞选纽约市长，背书将于周五公布。",
@@ -559,28 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "最高奖励300万元 浙江省人民政府质量奖（省知识产权奖）管理办法有新变化",
-          "url": "https://flash.jin10.com/detail/20251025092534028800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "联合国秘书长副发言人哈克24日说，两名联合国工作人员23日遭到也门胡塞武装扣押，目前被扣押的联合国人员为55人。",
-          "url": "https://flash.jin10.com/detail/20251025091335775800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         },
         {
           "title": "北约秘书长吕特：我们对乌克兰的支持正在发挥作用，我们需要继续下去。",
