@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T12:21:21.217075+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-10-25T13:19:06.886724+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "全国人大常委会通过决定将 10 月 25 日设立为台湾光复纪念日，释放了哪些信号？有何现实意义？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "世界市长对话郑州",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -74,11 +74,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "官方：严禁将手机等电子产品带入课堂",
@@ -107,11 +108,12 @@
             16,
             12,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -122,11 +124,12 @@
             13,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "辽宁省委常委、宣传部部长靳国卫任甘肃省委常委、省纪委书记",
@@ -194,6 +197,23 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "穆迪：确认法国Aa3评级，前景展望下调为负面。 将展望调整为负面的决定反映出，法国政治格局的分裂继续削弱法国立法机构运作的风险上升。 这种政治不稳定可能会阻碍政府应对关键政策挑战的能力，例如居高不下的财政赤字、不断上升的债务负担以及融资成本的持续走高，从而导致法国主要财政指标的恶化速度快于我们当前的预期。",
+          "url": "https://wallstreetcn.com/livenews/2993603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            20,
+            23,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 13时19分]"
+        },
+        {
           "title": "国台办发言人就全国人大常委会决定设立台湾光复纪念日发表谈话",
           "url": "https://www.cls.cn/detail/2180169",
           "source": "财联社热门",
@@ -207,20 +227,27 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
-          "title": "穆迪：确认法国Aa3评级，前景展望下调为负面。 将展望调整为负面的决定反映出，法国政治格局的分裂继续削弱法国立法机构运作的风险上升。 这种政治不稳定可能会阻碍政府应对关键政策挑战的能力，例如居高不下的财政赤字、不断上升的债务负担以及融资成本的持续走高，从而导致法国主要财政指标的恶化速度快于我们当前的预期。",
-          "url": "https://wallstreetcn.com/livenews/2993603",
+          "title": "中汽协副秘书长陈士华：呼吁车购税减征政策按照2026年3%、2027年7%阶梯式退出",
+          "url": "https://wallstreetcn.com/livenews/2993642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11,
-            20,
-            23,
-            25,
-            29
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 12时21分]"
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时19分]"
+        },
+        {
+          "title": "泰国总理：将不出席亚太经合组织峰会，将派外交部长出席。",
+          "url": "https://flash.jin10.com/detail/20251025122235045800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "理想回应MEGA行驶中突然起火被烧成空架：车内人员安全离车，会配合调查",
@@ -252,15 +279,29 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
-          "title": "中汽协副秘书长陈士华：呼吁车购税减征政策按照2026年3%、2027年7%阶梯式退出",
-          "url": "https://wallstreetcn.com/livenews/2993642",
-          "source": "华尔街见闻-快讯",
+          "title": "习近平将赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3757808",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时19分]"
+        },
+        {
+          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
+          "url": "https://wallstreetcn.com/articles/3757831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时19分]"
         },
         {
           "title": "据外交部网站，10月23日，外交部副部长马朝旭会见来华出席第15次“中美安全对话”的美方代表团，双方就中美关系和共同关心的问题交换了意见。",
@@ -268,11 +309,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时19分]"
         },
         {
           "title": "欧洲多国领导人称将继续加大对俄制裁",
@@ -286,17 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 11时41分]"
-        },
-        {
-          "title": "习近平将赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3757808",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时21分]"
         },
         {
           "title": "巴基斯坦粮食安全与研究部公告，联邦农业委员会批准2970万吨小麦生产目标。 该部门此前建议将目标设在3430万吨。",
@@ -374,16 +405,16 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
-          "title": "全国人大常委会通过决定 将10月25日设立为台湾光复纪念日",
-          "url": "https://wallstreetcn.com/articles/3757831",
-          "source": "华尔街见闻",
+          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
+          "url": "https://news.ifeng.com/c/8njTqtuSATf",
+          "source": "凤凰网",
           "ranks": [
             9,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时21分]"
+          "time_info": "[11时01分 ~ 13时19分]"
         },
         {
           "title": "美国高级官员：我们正按照印度在达成协议方面的雄心步伐前进，但这并不总是很快的。",
@@ -452,17 +483,6 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
-          "title": "泰国王太后诗丽吉辞世，享年93岁，泰王宣布为期一年的官方哀悼",
-          "url": "https://news.ifeng.com/c/8njTqtuSATf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
-        },
-        {
           "title": "美能源部长下令确保冬季电网正常接入 保障6500万民众电力需求",
           "url": "https://flash.jin10.com/detail/20251025084850328800",
           "source": "金十数据",
@@ -512,6 +532,17 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "湖北十堰通报一起交通事故：1人死亡4人伤情较重，司机已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31833650",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
           "title": "最高奖励300万元 浙江省人民政府质量奖（省知识产权奖）管理办法有新变化",
           "url": "https://flash.jin10.com/detail/20251025092534028800",
           "source": "金十数据",
@@ -546,6 +577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时41分]"
+        },
+        {
+          "title": "中汽协副秘书长陈士华：呼吁车购税减征政策按照2026年3%、2027年7%阶梯式退出",
+          "url": "https://flash.jin10.com/detail/20251025113222423800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时19分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jefferies：尚未在政府临时融资立法草案上改变立场。 白宫必须对打击（委内瑞拉）船只的决定做出调整。",
@@ -629,17 +672,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "中汽协副秘书长陈士华：呼吁车购税减征政策按照2026年3%、2027年7%阶梯式退出",
-          "url": "https://flash.jin10.com/detail/20251025113222423800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "北约秘书长吕特：我们对乌克兰的支持正在发挥作用，我们需要继续下去。",
           "url": "https://flash.jin10.com/detail/20251025002213248800",
           "source": "金十数据",
@@ -715,6 +747,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东高速齐河收费站被指“交钱”能放行超限货车，收费站站长否认",
+          "url": "https://news.ifeng.com/c/8njf8kcnHKU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
