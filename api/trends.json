@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T16:28:34.167053+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-10-26T17:18:46.874082+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "华尔街下注“高院否决关税，美国政府被迫退税”，商务部长儿子甚至一度参与",
@@ -86,11 +86,12 @@
             14,
             17,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 16时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 17时18分]"
         },
         {
           "title": "印度商务部长：被枪指着头时，我们不会签任何贸易协议",
@@ -102,6 +103,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时16分 ~ 14时25分]"
+        },
+        {
+          "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
+          "url": "https://wallstreetcn.com/livenews/2993718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            4,
+            7,
+            10,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 17时18分]"
         },
         {
           "title": "网民造谣发生爆炸伤亡不明被查处",
@@ -168,8 +186,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时18分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -198,22 +216,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时15分 ~ 14时25分]"
-        },
-        {
-          "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
-          "url": "https://wallstreetcn.com/livenews/2993718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            4,
-            7,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 16时28分]"
         },
         {
           "title": "白宫官员威胁或逮捕伊利诺伊州州长",
@@ -273,6 +275,17 @@
           "time_info": "[09时26分 ~ 12时22分]"
         },
         {
+          "title": "中国商务部国际贸易谈判代表兼副部长李成钢26日说，中美经贸团队就双方关注的经贸议题进行了深入、坦诚的讨论和交流。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2993761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "重庆市副市长江敦涛被查",
           "url": "https://www.douyin.com/hot/2282577",
           "source": "抖音",
@@ -304,11 +317,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时18分]"
         },
         {
           "title": "市场消息：东盟领导人签署文件，接纳东帝汶成为该组织的第11个成员国。",
@@ -361,6 +375,30 @@
           "time_info": "[12时22分 ~ 13时17分]"
         },
         {
+          "title": "美政府停摆将如何影响军队",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%86%9B%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 17时18分]"
+        },
+        {
+          "title": "匿名者向五角大楼捐赠1.3亿美元，支付政府停摆期间的美军薪资",
+          "url": "https://news.ifeng.com/c/8nlSGTtwkLC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时18分]"
+        },
+        {
           "title": "俄罗斯市长表示，该国的防空系统击毁了一架正飞往莫斯科的无人机。",
           "url": "https://flash.jin10.com/detail/20251026100412698800",
           "source": "金十数据",
@@ -372,29 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时11分 ~ 13时17分]"
-        },
-        {
-          "title": "美政府停摆将如何影响军队",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%86%9B%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 16时28分]"
-        },
-        {
-          "title": "匿名者向五角大楼捐赠1.3亿美元，支付政府停摆期间的美军薪资",
-          "url": "https://news.ifeng.com/c/8nlSGTtwkLC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时28分]"
         },
         {
           "title": "日本财务大臣片山皋月：（在被问及日本是否可以发行弥补赤字的债券时）如果需要，政府显然必须想方设法为国防开支的增加提供资金。",
@@ -463,7 +478,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -496,7 +511,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -557,6 +572,18 @@
           "time_info": "[00时20分 ~ 12时22分]"
         },
         {
+          "title": "歼35能在辽宁舰山东舰起降意味什么",
+          "url": "https://www.toutiao.com/trending/7565401059628158491/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时18分]"
+        },
+        {
           "title": "山东姑娘赵娜获环球小姐中国总冠军",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E4%B8%9C%E5%A7%91%E5%A8%98%E8%B5%B5%E5%A8%9C%E8%8E%B7%E7%8E%AF%E7%90%83%E5%B0%8F%E5%A7%90%E4%B8%AD%E5%9B%BD%E6%80%BB%E5%86%A0%E5%86%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D28%26stream_entry_id%3D31%26band_rank%3D28%26flag%3D1%26q%3D%2523%25E5%25B1%25B1%25E4%25B8%259C%25E5%25A7%2591%25E5%25A8%2598%25E8%25B5%25B5%25E5%25A8%259C%25E8%258E%25B7%25E7%258E%25AF%25E7%2590%2583%25E5%25B0%258F%25E5%25A7%2590%25E4%25B8%25AD%25E5%259B%25BD%25E6%2580%25BB%25E5%2586%25A0%25E5%2586%259B%2523%26display_time%3D1761452405%26pre_seqid%3D176145240513303667899125",
           "source": "微博",
@@ -567,17 +594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时17分]"
-        },
-        {
-          "title": "歼35能在辽宁舰山东舰起降意味什么",
-          "url": "https://www.toutiao.com/trending/7565401059628158491/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         }
       ]
     }
