@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T21:33:00.546234+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2025-10-27T22:21:35.384058+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 91,
+      "match_count": 97,
       "titles": [
         {
           "title": "把党的领导贯穿经济社会发展",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时32分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[14时32分 ~ 22时21分]"
         },
         {
           "title": "371.8万人通过2026年国家公务员考试资格审查",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 22时21分]"
         },
         {
           "title": "蒋超良被双开：大搞家族式腐败",
@@ -76,8 +76,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[15时25分 ~ 22时21分]"
         },
         {
           "title": "俄方已向美通报核动力导弹试射情况",
@@ -309,6 +309,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "美国众议院议长约翰逊：在解决政府关门问题上面临更多的挑战。",
+          "url": "https://wallstreetcn.com/livenews/2994417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "马来西亚贸易部长：马来西亚对棕榈油、橡胶、可可和航空航天设备等出口产品享有豁免权。",
           "url": "https://flash.jin10.com/detail/20251026193617193800",
           "source": "金十数据",
@@ -458,6 +469,17 @@
           "time_info": "[16时27分 ~ 20时41分]"
         },
         {
+          "title": "河南新蔡县一事业单位招聘被疑“萝卜岗”，官方致歉：责成纪委调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841776",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时21分]"
+        },
+        {
           "title": "政府“停摆”持续 美低收入人群食品援助将于11月1日停止",
           "url": "https://wallstreetcn.com/livenews/2993804",
           "source": "华尔街见闻-快讯",
@@ -517,17 +539,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 14时32分]"
-        },
-        {
-          "title": "河南新蔡县一事业单位招聘被疑“萝卜岗”，官方致歉：责成纪委调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841776",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "美政府停摆将如何影响军队",
@@ -711,7 +722,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -727,13 +738,24 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国众议院议长约翰逊：（就政府停摆）寻找资金调配途径更具挑战性。",
+          "url": "https://flash.jin10.com/detail/20251027220658113800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "路透调查：预计LME铝2025年均价2598美元/吨，2026年为2679美元/吨，高于2024年的2418美元/吨。预计2025年铝市场过剩23.6万吨，2026年过剩25万吨。",
           "url": "https://flash.jin10.com/detail/20251027210246275800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -766,7 +788,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -824,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "上海证券交易所聘任第三届科技创新咨询委员会委员",
+          "url": "https://wallstreetcn.com/livenews/2994395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "波兰国防部长：波兰很可能在未来几个月内与帕兰提尔（Palantir）签署协议。",
@@ -1024,6 +1057,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "中央机关遴选公务员放宽至46周岁",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%A4%AE%E6%9C%BA%E5%85%B3%E9%81%B4%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E6%94%BE%E5%AE%BD%E8%87%B346%E5%91%A8%E5%B2%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%25AD%25E5%25A4%25AE%25E6%259C%25BA%25E5%2585%25B3%25E9%2581%25B4%25E9%2580%2589%25E5%2585%25AC%25E5%258A%25A1%25E5%2591%2598%25E6%2594%25BE%25E5%25AE%25BD%25E8%2587%25B346%25E5%2591%25A8%25E5%25B2%2581%2523%26band_rank%3D23%26pos%3D23%26cate%3D5001%26flag%3D1%26realpos%3D23%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761574213%26pre_seqid%3D176157421343801240723118",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
           "url": "https://wallstreetcn.com/livenews/2993958",
           "source": "华尔街见闻-快讯",
@@ -1077,6 +1121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "湖南一官员非法收受巨额财物被逮捕",
+          "url": "https://www.toutiao.com/trending/7565808789317517366/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "乌克兰央行将周二官方格里夫纳汇率设定为42.07比1美元，为纪录新低。",
+          "url": "https://flash.jin10.com/detail/20251027213634218800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "巴西总统卢拉：我认为我们必须暂停对我们官员的一些制裁。",
