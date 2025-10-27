@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T17:23:14.839314+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-10-27T18:23:51.271431+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "把党的领导贯穿经济社会发展",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 18时23分]"
         },
         {
           "title": "俄方已向美通报核动力导弹试射情况",
@@ -49,6 +49,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 09时27分]"
+        },
+        {
+          "title": "俄外长披露俄美领导人会晤推迟原因",
+          "url": "https://www.toutiao.com/trending/7564719802825572361/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            25,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 18时23分]"
         },
         {
           "title": "匿名者向五角大楼捐赠1.3亿美元，支付政府停摆期间的美军薪资",
@@ -75,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 18时23分]"
         },
         {
           "title": "俄总统特别代表：已向美方通报“海燕”核动力导弹试射情况",
@@ -91,19 +106,17 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "俄外长披露俄美领导人会晤推迟原因",
-          "url": "https://www.toutiao.com/trending/7564719802825572361/",
-          "source": "今日头条",
+          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            17,
-            25,
-            19,
-            26
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时19分 ~ 17时23分]"
+          "time_info": "[12时28分 ~ 18时23分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -115,6 +128,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时23分]"
         },
         {
           "title": "俄罗斯莫斯科市长表示，俄罗斯击落了一架正飞往莫斯科的无人机。",
@@ -143,31 +168,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时28分 ~ 17时23分]"
-        },
-        {
-          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时23分]"
-        },
-        {
-          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时23分]"
         },
         {
           "title": "官方披露：卫生巾新国标已通过审查，正在批准",
@@ -276,6 +276,20 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "蒋超良被双开：大搞家族式腐败",
+          "url": "https://www.toutiao.com/trending/7565731027474382886/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时23分]"
+        },
+        {
           "title": "据英国金融时报：从现在起，美国政府总债务料将上升逾20个百分点，到本十年的最后一年达到GDP的143.4%。",
           "url": "https://flash.jin10.com/detail/20251027130413202800",
           "source": "金十数据",
@@ -322,19 +336,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "蒋超良被双开：大搞家族式腐败",
-          "url": "https://www.toutiao.com/trending/7565731027474382886/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时23分]"
-        },
-        {
           "title": "澳大利亚总理阿尔巴尼斯：希望四边安全对话（QUAD）领导人会议于明年第一季度举行。",
           "url": "https://flash.jin10.com/detail/20251027104026758800",
           "source": "金十数据",
@@ -352,7 +353,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -396,9 +397,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：我们不承认缅甸军政府。",
+          "url": "https://flash.jin10.com/detail/20251027175609529800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
@@ -475,6 +487,18 @@
           "time_info": "[06时18分 ~ 09时27分]"
         },
         {
+          "title": "李强出席第28次东盟与中日韩领导人会议",
+          "url": "https://www.cls.cn/detail/2181615",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时23分]"
+        },
+        {
           "title": "广西忻城县通报2少年失联：在灌溉渠发现遗体，排除刑案",
           "url": "https://news.ifeng.com/c/8nmwfGgAYb2",
           "source": "凤凰网",
@@ -531,17 +555,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "李强出席第28次东盟与中日韩领导人会议",
-          "url": "https://www.cls.cn/detail/2181615",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时23分]"
         },
         {
@@ -625,13 +638,46 @@
           "time_info": "07时16分"
         },
         {
+          "title": "国务院任免国家工作人员：柯吉欣任工信部副部长",
+          "url": "https://wallstreetcn.com/livenews/2994220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "菲律宾央行官员：现在是时候在黄金上获利了结。菲律宾央行应出售部分“过多”的黄金储备，因为随着避险需求减弱，金价预计将从创纪录高位进一步回落。",
+          "url": "https://flash.jin10.com/detail/20251027174948964800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "印度政府消息人士：印度正计划允许外国直接投资入股国有银行的比例提高至49%，目前的上限为20%。",
+          "url": "https://flash.jin10.com/detail/20251027174758589800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "欧洲央行调查：通胀预期保持不变，企业继续报告其长期通胀前景存在上行风险。",
           "url": "https://flash.jin10.com/detail/20251027170035591800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -686,7 +732,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -719,7 +765,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -730,7 +776,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -744,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "贵州省人民政府同意推荐陈华为茅台集团董事、董事长人选",
+          "url": "https://wallstreetcn.com/livenews/2994205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "路透调查显示，50位经济学家中有34位认为印度央行将在12月5日将回购利率下调至5.25%（9月调查中有52%认为下调至5.50%）。",
@@ -829,7 +886,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
