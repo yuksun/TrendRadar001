@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:25:56.349680+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-10-27T16:27:50.143247+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "把党的领导贯穿经济社会发展",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 15时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 16时27分]"
         },
         {
           "title": "俄方已向美通报核动力导弹试射情况",
@@ -104,6 +104,19 @@
         },
         {
           "title": "官方披露：卫生巾新国标已通过审查，正在批准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31840047",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 16时27分]"
+        },
+        {
+          "title": "官方披露：卫生巾新国标已通过审查，正在批准",
           "url": "https://wallstreetcn.com/livenews/2993790",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -141,6 +154,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时18分]"
+        },
+        {
+          "title": "俄外长披露俄美领导人会晤推迟原因",
+          "url": "https://www.toutiao.com/trending/7564719802825572361/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时27分]"
         },
         {
           "title": "以色列政府发言人：红十字会和埃及救援队获准进入加沙地带以色列国防军划定的黄色线以外区域，搜寻遇难人质。",
@@ -197,19 +224,6 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "官方披露：卫生巾新国标已通过审查，正在批准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31840047",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时25分]"
-        },
-        {
           "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
           "url": "https://wallstreetcn.com/livenews/2993767",
           "source": "华尔街见闻-快讯",
@@ -222,15 +236,30 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "蒋超良被双开：大搞家族式腐败",
-          "url": "https://www.toutiao.com/trending/7565731027474382886/",
-          "source": "今日头条",
+          "title": "湖北省委原书记蒋超良被双开",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "百度热搜",
           "ranks": [
-            1
+            7,
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时27分]"
+        },
+        {
+          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时27分]"
         },
         {
           "title": "据英国金融时报：从现在起，美国政府总债务料将上升逾20个百分点，到本十年的最后一年达到GDP的143.4%。",
@@ -242,19 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        },
-        {
-          "title": "俄外长披露俄美领导人会晤推迟原因",
-          "url": "https://www.toutiao.com/trending/7564719802825572361/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时25分]"
         },
         {
           "title": "马来西亚贸易部长：马来西亚对棕榈油、橡胶、可可和航空航天设备等出口产品享有豁免权。",
@@ -292,6 +308,18 @@
           "time_info": "11时19分"
         },
         {
+          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时27分]"
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯：希望四边安全对话（QUAD）领导人会议于明年第一季度举行。",
           "url": "https://flash.jin10.com/detail/20251027104026758800",
           "source": "金十数据",
@@ -303,16 +331,15 @@
           "time_info": "11时19分"
         },
         {
-          "title": "湖北省委原书记蒋超良被双开",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E8%A2%AB%E5%8F%8C%E5%BC%80",
-          "source": "百度热搜",
+          "title": "四川省人大经济委员会原副主任委员李曙光 严重违纪违法被开除党籍和公职",
+          "url": "https://wallstreetcn.com/livenews/2994109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "正部级蒋超良被双开：大搞家族式腐败",
@@ -337,17 +364,16 @@
           "time_info": "11时19分"
         },
         {
-          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
-          "source": "澎湃新闻",
+          "title": "蒋超良被双开：大搞家族式腐败",
+          "url": "https://www.toutiao.com/trending/7565731027474382886/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            9,
+            1,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时27分]"
         },
         {
           "title": "政府“停摆”持续 美低收入人群食品援助将于11月1日停止",
@@ -360,18 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
-        },
-        {
-          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时25分]"
         },
         {
           "title": "生态环境部：将会同相关部门多渠道推进电力碳足迹因子国际互信",
@@ -459,6 +473,18 @@
           "time_info": "[01时17分 ~ 06时18分]"
         },
         {
+          "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31839686",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时27分]"
+        },
+        {
           "title": "印尼政府首次发行离岸人民币债券，此举对人民币国际化有何意义？",
           "url": "https://www.zhihu.com/question/1965366425867786021",
           "source": "知乎",
@@ -495,18 +521,6 @@
           "time_info": "[12时29分 ~ 13时20分]"
         },
         {
-          "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31839686",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时25分]"
-        },
-        {
           "title": "官方通报珠江口撞船事件",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E6%B1%9F%E5%8F%A3%E6%92%9E%E8%88%B9%E4%BA%8B%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E7%258F%25A0%25E6%25B1%259F%25E5%258F%25A3%25E6%2592%259E%25E8%2588%25B9%25E4%25BA%258B%25E4%25BB%25B6%2523%26band_rank%3D20%26pos%3D20%26realpos%3D20%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
           "source": "微博",
@@ -536,9 +550,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "李强出席第28次东盟与中日韩领导人会议",
+          "url": "https://www.cls.cn/detail/2181615",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "政府“停摆”持续 美低收入人群食品援助将于11月1日停止",
@@ -563,15 +588,48 @@
           "time_info": "07时16分"
         },
         {
+          "title": "RCEP领导人联合声明：指示启动准备工作，以审查定于2027年进行的RCEP协议。",
+          "url": "https://flash.jin10.com/detail/20251027155500886800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "李强出席第28次东盟与中日韩领导人会议",
           "url": "https://wallstreetcn.com/livenews/2994051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "中联部副部长陆慷会见美中关系全国委员会代表团",
+          "url": "https://wallstreetcn.com/livenews/2994089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "财政部：9月份中央政府收入6913亿元，9月份中央政府支出15844亿元。第二季度中央政府债务余额379638亿元。",
+          "url": "https://wallstreetcn.com/livenews/2994087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "泰国商务部：9月基于海关数据的出口较上年同期增长19.0%（路透调查预估为增长7.0%）。",
@@ -585,6 +643,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "RCEP领导人联合声明：指示部长和官员推进申请国加入RCEP协定的进程。",
+          "url": "https://flash.jin10.com/detail/20251027155310895800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "美国政府总债务将比现在上升逾20个百分点，到本十年最后一年与GDP之比将达到143.4%。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994010",
           "source": "华尔街见闻-快讯",
@@ -594,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "工作中领导安排太多工作，不好拒绝，该怎么改变？",
+          "url": "https://www.zhihu.com/question/660656097",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "路透调查显示，50位经济学家中有34位认为印度央行将在12月5日将回购利率下调至5.25%（9月调查中有52%认为下调至5.50%）。",
@@ -616,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "中央决定：王俊任东风汽车集团副总经理、党委常委",
+          "url": "https://wallstreetcn.com/livenews/2994080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "中国即将发行或正在发行的地方政府债",
@@ -712,8 +803,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时27分]"
         },
         {
           "title": "山东：推进5G RedCap模组与低空无人机的适配研发和应用验证",
@@ -722,7 +813,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -733,7 +824,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
