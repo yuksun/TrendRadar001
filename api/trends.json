@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T14:32:32.951059+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-10-27T15:25:56.349680+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "把党的领导贯穿经济社会发展",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 14时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 15时25分]"
         },
         {
           "title": "俄方已向美通报核动力导弹试射情况",
@@ -197,6 +197,19 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "官方披露：卫生巾新国标已通过审查，正在批准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31840047",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时25分]"
+        },
+        {
           "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
           "url": "https://wallstreetcn.com/livenews/2993767",
           "source": "华尔街见闻-快讯",
@@ -207,6 +220,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时18分]"
+        },
+        {
+          "title": "蒋超良被双开：大搞家族式腐败",
+          "url": "https://www.toutiao.com/trending/7565731027474382886/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "据英国金融时报：从现在起，美国政府总债务料将上升逾20个百分点，到本十年的最后一年达到GDP的143.4%。",
@@ -220,6 +244,19 @@
           "time_info": "13时20分"
         },
         {
+          "title": "俄外长披露俄美领导人会晤推迟原因",
+          "url": "https://www.toutiao.com/trending/7564719802825572361/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时25分]"
+        },
+        {
           "title": "马来西亚贸易部长：马来西亚对棕榈油、橡胶、可可和航空航天设备等出口产品享有豁免权。",
           "url": "https://flash.jin10.com/detail/20251026193617193800",
           "source": "金十数据",
@@ -231,18 +268,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时17分]"
-        },
-        {
-          "title": "官方披露：卫生巾新国标已通过审查，正在批准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31840047",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时32分]"
         },
         {
           "title": "美政府“停摆”致空管人员短缺 数千架航班延误",
@@ -278,6 +303,18 @@
           "time_info": "11时19分"
         },
         {
+          "title": "湖北省委原书记蒋超良被双开",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时25分]"
+        },
+        {
           "title": "正部级蒋超良被双开：大搞家族式腐败",
           "url": "https://www.toutiao.com/trending/7565731027474382886/",
           "source": "今日头条",
@@ -300,16 +337,17 @@
           "time_info": "11时19分"
         },
         {
-          "title": "俄外长披露俄美领导人会晤推迟原因",
-          "url": "https://www.toutiao.com/trending/7564719802825572361/",
-          "source": "今日头条",
+          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            17
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时32分]"
+          "time_info": "[12时28分 ~ 15时25分]"
         },
         {
           "title": "政府“停摆”持续 美低收入人群食品援助将于11月1日停止",
@@ -324,16 +362,16 @@
           "time_info": "[06时18分 ~ 07时16分]"
         },
         {
-          "title": "湖北省委原书记蒋超良被双开",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E8%A2%AB%E5%8F%8C%E5%BC%80",
-          "source": "百度热搜",
+          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时32分]"
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时25分]"
         },
         {
           "title": "生态环境部：将会同相关部门多渠道推进电力碳足迹因子国际互信",
@@ -358,18 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时32分]"
-        },
-        {
-          "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841545",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时32分]"
         },
         {
           "title": "看病挂号认准副主任",
@@ -433,6 +459,30 @@
           "time_info": "[01时17分 ~ 06时18分]"
         },
         {
+          "title": "印尼政府首次发行离岸人民币债券，此举对人民币国际化有何意义？",
+          "url": "https://www.zhihu.com/question/1965366425867786021",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 15时25分]"
+        },
+        {
+          "title": "金十期货10月27日讯，据船运调查机构SGS公布数据显示，预计马来西亚10月1-25日棕榈油出口量为985301吨，较上月同期出口的795947吨增加23.8%。",
+          "url": "https://flash.jin10.com/detail/20251027141759840800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时25分]"
+        },
+        {
           "title": "泰国商务部：9月基于海关数据的贸易顺差为1.3亿美元（路透调查预估为0.1亿美元）。",
           "url": "https://flash.jin10.com/detail/20251027113753993800",
           "source": "金十数据",
@@ -443,6 +493,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 13时20分]"
+        },
+        {
+          "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31839686",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时25分]"
         },
         {
           "title": "官方通报珠江口撞船事件",
@@ -457,17 +519,6 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
-          "title": "印尼政府首次发行离岸人民币债券，此举对人民币国际化有何意义？",
-          "url": "https://www.zhihu.com/question/1965366425867786021",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
           "title": "日本拟设立本国版外资审议委员会，加强对外资收购的国安审查",
           "url": "https://flash.jin10.com/detail/20251027123822145800",
           "source": "金十数据",
@@ -479,15 +530,15 @@
           "time_info": "13时20分"
         },
         {
-          "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842055",
-          "source": "澎湃新闻",
+          "title": "十四届全国人大常委会第十八次会议举行联组会议 审议国务院关于2024年度企业国有资产（不含金融企业）管理情况的专项报告并开展专题询问",
+          "url": "https://wallstreetcn.com/livenews/2994065",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "15时25分"
         },
         {
           "title": "政府“停摆”持续 美低收入人群食品援助将于11月1日停止",
@@ -501,17 +552,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "金十期货10月27日讯，据船运调查机构SGS公布数据显示，预计马来西亚10月1-25日棕榈油出口量为985301吨，较上月同期出口的795947吨增加23.8%。",
-          "url": "https://flash.jin10.com/detail/20251027141759840800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美政府“停摆”致空管人员短缺 数千架航班延误",
           "url": "https://wallstreetcn.com/livenews/2993819",
           "source": "华尔街见闻-快讯",
@@ -521,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "李强出席第28次东盟与中日韩领导人会议",
+          "url": "https://wallstreetcn.com/livenews/2994051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "泰国商务部：9月基于海关数据的出口较上年同期增长19.0%（路透调查预估为增长7.0%）。",
@@ -534,24 +585,13 @@
           "time_info": "12时29分"
         },
         {
-          "title": "李强赴吉隆坡出席东亚合作领导人系列会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31839686",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美国政府总债务将比现在上升逾20个百分点，到本十年最后一年与GDP之比将达到143.4%。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -636,7 +676,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "山东女孩赵娜获环球小姐中国总冠军",
@@ -672,8 +712,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时25分]"
+        },
+        {
+          "title": "山东：推进5G RedCap模组与低空无人机的适配研发和应用验证",
+          "url": "https://wallstreetcn.com/livenews/2994058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "山东：到2030年底，实现山东省低空通信网络全城全域连续覆盖和载人无人机航路全场景互联互通",
+          "url": "https://wallstreetcn.com/livenews/2994055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
