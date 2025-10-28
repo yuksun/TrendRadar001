@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:20:32.546751+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-10-28T18:21:14.367625+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 68,
+      "match_count": 77,
       "titles": [
         {
           "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 18时21分]"
         },
         {
           "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
@@ -72,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时21分]"
         },
         {
           "title": "辽宁通报“男子在酸菜池抽烟吐痰”",
@@ -120,6 +120,36 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31578033",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 18时21分]"
+        },
+        {
+          "title": "烟台理工学院通报学生坠楼身亡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26dgr%3D0%26pos%3D4%26q%3D%2523%25E7%2583%259F%25E5%258F%25B0%25E7%2590%2586%25E5%25B7%25A5%25E5%25AD%25A6%25E9%2599%25A2%25E9%2580%259A%25E6%258A%25A5%25E5%25AD%25A6%25E7%2594%259F%25E5%259D%25A0%25E6%25A5%25BC%25E8%25BA%25AB%25E4%25BA%25A1%2523%26filter_type%3Drealtimehot%26cate%3D5001%26flag%3D1%26c_type%3D31%26lcate%3D5001%26realpos%3D5%26band_rank%3D5%26display_time%3D1761635406%26pre_seqid%3D17616354066130195489648",
+          "source": "微博",
+          "ranks": [
+            5,
+            2,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时21分]"
+        },
+        {
           "title": "发现台独线索可举报",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%91%E7%8E%B0%E5%8F%B0%E7%8B%AC%E7%BA%BF%E7%B4%A2%E5%8F%AF%E4%B8%BE%E6%8A%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E5%258F%2591%25E7%258E%25B0%25E5%258F%25B0%25E7%258B%25AC%25E7%25BA%25BF%25E7%25B4%25A2%25E5%258F%25AF%25E4%25B8%25BE%25E6%258A%25A5%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D4%26pos%3D4%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
           "source": "微博",
@@ -146,32 +176,18 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
-          "title": "烟台理工学院通报学生坠楼身亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26dgr%3D0%26pos%3D4%26q%3D%2523%25E7%2583%259F%25E5%258F%25B0%25E7%2590%2586%25E5%25B7%25A5%25E5%25AD%25A6%25E9%2599%25A2%25E9%2580%259A%25E6%258A%25A5%25E5%25AD%25A6%25E7%2594%259F%25E5%259D%25A0%25E6%25A5%25BC%25E8%25BA%25AB%25E4%25BA%25A1%2523%26filter_type%3Drealtimehot%26cate%3D5001%26flag%3D1%26c_type%3D31%26lcate%3D5001%26realpos%3D5%26band_rank%3D5%26display_time%3D1761635406%26pre_seqid%3D17616354066130195489648",
-          "source": "微博",
-          "ranks": [
-            5,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时20分]"
-        },
-        {
-          "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31578033",
+          "title": "国台办：公安机关对沈伯洋立案侦查是反对“台独”分裂、维护国家统一的正义必要之举",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846498",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            16,
+            19,
             14,
-            13
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 17时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时30分 ~ 18时21分]"
         },
         {
           "title": "官方通报男子酸菜池中抽烟吐痰",
@@ -186,29 +202,15 @@
           "time_info": "[00时26分 ~ 04时19分]"
         },
         {
-          "title": "国台办：公安机关对沈伯洋立案侦查是反对“台独”分裂、维护国家统一的正义必要之举",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846498",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 17时20分]"
-        },
-        {
-          "title": "印度政府消息人士：印度企业将不会购买由贸易商供应的俄罗斯石油公司和卢克石油的原油。很难预测企业何时会下新的俄罗斯石油订单。（路透）",
-          "url": "https://wallstreetcn.com/livenews/2994977",
-          "source": "华尔街见闻-快讯",
+          "title": "英国金融市场监督机构确认，将停止公布股票市场卖空者的身份信息。",
+          "url": "https://flash.jin10.com/detail/20251028181217724800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时21分"
         },
         {
           "title": "印度政府消息人士：目前不存在供应问题，因为油价处于良性水平，且市场上石油供应充足。",
@@ -217,7 +219,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -250,9 +252,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "交通银行原党委委员、副行长侯维栋接受审查调查。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2995034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "美政府停摆对民众影响有多大",
+          "url": "https://www.toutiao.com/trending/7566091024322494527/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 18时21分]"
+        },
+        {
+          "title": "公安机关决定对“台独”顽固分子沈伯洋立案侦查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "官方通报男子酸菜池中抽烟吐痰",
@@ -292,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时18分]"
+        },
+        {
+          "title": "印度政府消息人士：印度企业将不会购买由贸易商供应的俄罗斯石油公司和卢克石油的原油。很难预测企业何时会下新的俄罗斯石油订单。（路透）",
+          "url": "https://wallstreetcn.com/livenews/2994977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
@@ -344,30 +394,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "美政府停摆对民众影响有多大",
-          "url": "https://www.toutiao.com/trending/7566091024322494527/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时20分]"
-        },
-        {
-          "title": "公安机关决定对“台独”顽固分子沈伯洋立案侦查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846431",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "官方通报男子酸菜池中抽烟吐痰",
@@ -453,6 +479,17 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
+          "title": "辽宁葫芦岛一男子酸菜池中抽烟吐痰，省市两级市监局介入调查，涉事人员将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1966221267502850609",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
           "title": "伪造国安部红头文件 红汞骗局曝光",
           "url": "https://www.baidu.com/s?wd=%E4%BC%AA%E9%80%A0%E5%9B%BD%E5%AE%89%E9%83%A8%E7%BA%A2%E5%A4%B4%E6%96%87%E4%BB%B6+%E7%BA%A2%E6%B1%9E%E9%AA%97%E5%B1%80%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -512,6 +549,17 @@
           "time_info": "[04时18分 ~ 04时19分]"
         },
         {
+          "title": "德国经济部长：我们昨晚已与美国方面澄清了这一问题。",
+          "url": "https://flash.jin10.com/detail/20251028180506607800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "苏丹领导人宣布武装部队已撤出法希尔市",
           "url": "https://flash.jin10.com/detail/20251028061712187800",
           "source": "金十数据",
@@ -540,9 +588,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "德国经济部长：美国在一封信中承认，俄罗斯石油公司在德国的业务与俄罗斯母公司完全独立。",
+          "url": "https://flash.jin10.com/detail/20251028180414895800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "委内瑞拉总检察长：美企图推翻委政府",
@@ -584,7 +643,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -606,7 +665,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -617,7 +676,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -644,6 +703,28 @@
           "time_info": "09时23分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：正在获取原材料来推动我们的经济发展。我们的目标是全面做好准备。",
+          "url": "https://flash.jin10.com/detail/20251028175328491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "陈忠岳任中国移动董事长、党组书记",
+          "url": "https://wallstreetcn.com/livenews/2995012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "市场为美日成果及官员表态欢呼 日元领跑G10集团货币",
           "url": "https://flash.jin10.com/detail/20251028121325317800",
           "source": "金十数据",
@@ -653,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：安全关乎加强我们的国防能力，而且不仅如此，这也与建立我们的能源独立有关。",
+          "url": "https://flash.jin10.com/detail/20251028175315640800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "上海市委常委、常务副市长吴伟：全力配合科创板制度改革持续深化",
@@ -672,7 +764,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -716,7 +808,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -782,9 +874,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "美国政府与西屋电气签署800亿美元核反应堆协议",
+          "url": "https://wallstreetcn.com/livenews/2994990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "伦敦金银市场协会会议调查：银价一年后料升至每盎司59.1美元。",
@@ -793,7 +896,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
