@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T13:19:57.152840+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-10-28T14:31:00.912367+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时31分]"
         },
         {
           "title": "美军：美航母两架舰载机相继在南海坠毁，事故原因正在调查",
@@ -55,11 +55,12 @@
           "ranks": [
             4,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时31分]"
         },
         {
           "title": "辽宁通报“男子在酸菜池抽烟吐痰”",
@@ -106,6 +107,19 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "发现台独线索可举报",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%91%E7%8E%B0%E5%8F%B0%E7%8B%AC%E7%BA%BF%E7%B4%A2%E5%8F%AF%E4%B8%BE%E6%8A%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E5%258F%2591%25E7%258E%25B0%25E5%258F%25B0%25E7%258B%25AC%25E7%25BA%25BF%25E7%25B4%25A2%25E5%258F%25AF%25E4%25B8%25BE%25E6%258A%25A5%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D4%26pos%3D4%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
+          "source": "微博",
+          "ranks": [
+            4,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时31分]"
+        },
+        {
           "title": "贵州茅台：董事长张德芹辞职 贵州省人民政府推荐陈华为公司董事长人选",
           "url": "https://www.cls.cn/detail/2182326",
           "source": "财联社热门",
@@ -119,18 +133,6 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
-          "title": "发现台独线索可举报",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%91%E7%8E%B0%E5%8F%B0%E7%8B%AC%E7%BA%BF%E7%B4%A2%E5%8F%AF%E4%B8%BE%E6%8A%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E5%258F%2591%25E7%258E%25B0%25E5%258F%25B0%25E7%258B%25AC%25E7%25BA%25BF%25E7%25B4%25A2%25E5%258F%25AF%25E4%25B8%25BE%25E6%258A%25A5%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26c_type%3D31%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D4%26pos%3D4%26lcate%3D5001%26display_time%3D1761620107%26pre_seqid%3D17616201073920207647278",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时19分]"
-        },
-        {
           "title": "官方通报男子酸菜池中抽烟吐痰",
           "url": "https://www.douyin.com/hot/2285346",
           "source": "抖音",
@@ -141,6 +143,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 04时19分]"
+        },
+        {
+          "title": "官方通报男子在酸菜池吐痰：产品未流入市场，涉事企业接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31844661",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
+        },
+        {
+          "title": "巴基斯坦安全部门消息人士：阿富汗和巴基斯坦在伊斯坦布尔的和平谈判结束，没有达成决议。",
+          "url": "https://flash.jin10.com/detail/20251028140157441800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "波兰央行官员利特维纽克：不排除再次降息的可能性，可能在十一月进行。",
+          "url": "https://flash.jin10.com/detail/20251028135953514800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "官方通报男子酸菜池中抽烟吐痰",
@@ -195,18 +231,6 @@
           "time_info": "[02时27分 ~ 04时19分]"
         },
         {
-          "title": "官方通报男子在酸菜池吐痰：产品未流入市场，涉事企业接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31844661",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时19分]"
-        },
-        {
           "title": "苏丹政府谴责快速支援部队杀害平民",
           "url": "https://flash.jin10.com/detail/20251028025029104800",
           "source": "金十数据",
@@ -244,6 +268,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31578033",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时31分]"
         },
         {
           "title": "官方通报男子酸菜池中抽烟吐痰",
@@ -353,6 +389,17 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "国台办：公安机关对沈伯洋立案侦查是反对“台独”分裂、维护国家统一的正义必要之举",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846498",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
           "title": "警方通报烈性犬撕咬小猫",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%83%88%E6%80%A7%E7%8A%AC%E6%92%95%E5%92%AC%E5%B0%8F%E7%8C%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26lcate%3D5001%26realpos%3D28%26stream_entry_id%3D31%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E7%2583%2588%25E6%2580%25A7%25E7%258A%25AC%25E6%2592%2595%25E5%2592%25AC%25E5%25B0%258F%25E7%258C%25AB%2523%26dgr%3D0%26pos%3D28%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26display_time%3D1761595811%26pre_seqid%3D17615958112570196219066",
           "source": "微博",
@@ -403,7 +450,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -436,7 +483,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -491,18 +538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31578033",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -516,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "李强出席第28次中国-东盟领导人会议",
+          "url": "https://wallstreetcn.com/livenews/2994783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "为什么有的人宁愿做员工也不做领导呢？",
