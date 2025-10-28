@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-29T01:20:13.233414+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-10-29T02:30:08.943724+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "国台办：公安机关对沈伯洋立案侦查是反对“台独”分裂、维护国家统一的正义必要之举",
           "url": "https://m.thepaper.cn/newsDetail_forward_31846498",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "四川自考最小考生仅9岁 官方回应",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
@@ -37,8 +38,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "辽宁葫芦岛一男子酸菜池中抽烟吐痰，省市两级市监局介入调查，涉事人员将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1966221267502850609",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：要求墨西哥外交部长和海军会见美国大使。",
@@ -52,26 +64,16 @@
           "time_info": "00时25分"
         },
         {
-          "title": "辽宁葫芦岛一男子酸菜池中抽烟吐痰，省市两级市监局介入调查，涉事人员将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1966221267502850609",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
-        },
-        {
           "title": "公安机关决定对“台独”顽固分子沈伯洋立案侦查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31846431",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "许达哲袁华智等人大代表资格终止",
@@ -81,8 +83,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
+        },
+        {
+          "title": "澎湃回声｜安徽省环境厅回应“毒营养土”调查：高度重视，亳州已全面启动核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848417",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时30分]"
         },
         {
           "title": "领导最不喜欢什么样的人?",
@@ -97,27 +112,26 @@
           "time_info": "[00时25分 ~ 01时20分]"
         },
         {
-          "title": "澎湃回声｜安徽省环境厅回应“毒营养土”调查：高度重视，亳州已全面启动核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848417",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时20分]"
-        },
-        {
           "title": "美政府“停摆”继续，参议院第13次否决临时拨款法案",
           "url": "https://news.ifeng.com/c/8npZFuTNnUD",
           "source": "凤凰网",
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时30分]"
+        },
+        {
+          "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
+          "url": "https://wallstreetcn.com/livenews/2995299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时30分"
         },
         {
           "title": "美国联邦通信委员会（FCC）主席：尚未就是否修订地方电视台的所有权上限做出决定。",
@@ -126,9 +140,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
+          "url": "https://wallstreetcn.com/livenews/2995298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         },
         {
           "title": "印度贸易部长Goyal：结束布鲁塞尔（欧盟总部所在地）之行。 本轮对话大幅降低了悬而未决的问题。",
@@ -159,7 +184,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -170,7 +195,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -203,9 +228,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Palantir AIP平台也将支持英伟达面向政府参考设计的全新AI工厂。",
+          "url": "https://flash.jin10.com/detail/20251029013926234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
+          "url": "https://wallstreetcn.com/livenews/2995283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "以军再袭加沙 美国官员表示停火“仍然有效”",
+          "url": "https://flash.jin10.com/detail/20251029013514491800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         },
         {
           "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
@@ -225,7 +283,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -236,7 +294,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -247,9 +305,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东有哪些特色美食？",
+          "url": "https://www.zhihu.com/question/36995686",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         }
       ]
     }
