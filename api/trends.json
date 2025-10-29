@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:19:50.369845+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-10-29T14:29:40.993156+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
         {
           "title": "国台办：公安机关对沈伯洋立案侦查是反对“台独”分裂、维护国家统一的正义必要之举",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 14时29分]"
         },
         {
           "title": "影子暗访丨“毒营养土”调查（上）：建筑垃圾摇身一变成营养土，检出重金属超标",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时29分]"
         },
         {
           "title": "辽宁葫芦岛一男子酸菜池中抽烟吐痰，省市两级市监局介入调查，涉事人员将承担哪些法律责任？",
@@ -98,6 +98,18 @@
           "time_info": "[00时25分 ~ 09时26分]"
         },
         {
+          "title": "尹老师选出抖音音乐班班干部",
+          "url": "https://www.douyin.com/hot/2286684",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 14时29分]"
+        },
+        {
           "title": "美政府“停摆”继续，参议院第13次否决临时拨款法案",
           "url": "https://news.ifeng.com/c/8npZFuTNnUD",
           "source": "凤凰网",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 07时19分]"
-        },
-        {
-          "title": "尹老师选出抖音音乐班班干部",
-          "url": "https://www.douyin.com/hot/2286684",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时19分]"
         },
         {
           "title": "美国国防部长赫格塞思：我们讨论了训练、能力、开支，以及美日两国为国防作出贡献的所有方式。",
@@ -145,6 +145,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "何立峰会见中国证监会国际顾问委员会委员时指出 中国正进一步深化资本市场改革开放",
+          "url": "https://wallstreetcn.com/livenews/2995656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：要求墨西哥外交部长和海军会见美国大使。",
           "url": "https://flash.jin10.com/detail/20251028235714254800",
           "source": "金十数据",
@@ -165,6 +176,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "全国政协：加强宏观政策取向一致性评估，坚持“以人为本”扩大内需",
+          "url": "https://wallstreetcn.com/livenews/2995651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "“小非农”ADP推出周度就业数据：截至10月11日的四周，美国私营部门平均新增岗位约1.4万个",
+          "url": "https://wallstreetcn.com/articles/3758096",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 14时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国政府尚未提出入股公司。",
@@ -216,16 +250,16 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
-          "title": "“小非农”ADP推出周度就业数据：截至10月11日的四周，美国私营部门平均新增岗位约1.4万个",
-          "url": "https://wallstreetcn.com/articles/3758096",
-          "source": "华尔街见闻",
+          "title": "中国花滑选手因玩偶遭国际滑联调查",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%BB%91%E9%80%89%E6%89%8B%E5%9B%A0%E7%8E%A9%E5%81%B6%E9%81%AD%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E8%B0%83%E6%9F%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D26%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D26%26flag%3D1%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E8%258A%25B1%25E6%25BB%2591%25E9%2580%2589%25E6%2589%258B%25E5%259B%25A0%25E7%258E%25A9%25E5%2581%25B6%25E9%2581%25AD%25E5%259B%25BD%25E9%2599%2585%25E6%25BB%2591%25E8%2581%2594%25E8%25B0%2583%25E6%259F%25A5%2523%26dgr%3D0%26pos%3D26%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
+          "source": "微博",
           "ranks": [
-            9,
-            8
+            26,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "美参议院少数党领袖：政府“停摆”可能持续至11月",
@@ -238,6 +272,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "家委会被举报多次用班费买礼物送老师，青羊区教育局：加强班主任培训",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时29分]"
+        },
+        {
+          "title": "离谱！一个玩偶让美联社破防？中国花滑选手遭国际滑联调查",
+          "url": "https://news.ifeng.com/c/8nqJxsDdgKH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时29分]"
         },
         {
           "title": "美参议员称联邦政府“停摆”可能持续至11月 | 环球市场",
@@ -264,19 +322,6 @@
           "time_info": "[00时25分 ~ 01时20分]"
         },
         {
-          "title": "家委会被举报多次用班费买礼物送老师，青羊区教育局：加强班主任培训",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 13时19分]"
-        },
-        {
           "title": "美参议院少数党领袖：政府“停摆”可能持续至11月",
           "url": "https://flash.jin10.com/detail/20251029055546572800",
           "source": "金十数据",
@@ -299,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "离谱！一个玩偶让美联社破防？中国花滑选手遭国际滑联调查",
-          "url": "https://news.ifeng.com/c/8nqJxsDdgKH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋认为，不确定特朗普政府是否会发放向沙特（出口芯片）的许可证。 英伟达称，等待（美国政府）更新关于向海湾地区供应芯片的能力。",
@@ -346,6 +380,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
+          "title": "离谱！一个玩偶让美联社破防？中国花滑选手遭国际滑联调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31850127",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "哥伦比亚政府计划直接从小型生产商购买黄金，从而控制非法交易活动。",
@@ -394,6 +440,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "商务部等5部门：支持符合条件的商业地产项目发行不动产投资信托基金",
+          "url": "https://wallstreetcn.com/livenews/2995649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美国国防部长赫格塞思：希望日本增加国防开支的计划能尽快落实。",
           "url": "https://flash.jin10.com/detail/20251029110438614800",
           "source": "金十数据",
@@ -416,6 +473,17 @@
           "time_info": "12时25分"
         },
         {
+          "title": "商务部等5部门：整治“内卷式”竞争，建立公正平等、创新自由的营商环境",
+          "url": "https://wallstreetcn.com/livenews/2995648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美国国防部长赫格塞思：日本首相高市早苗承诺增加国防开支，这一点非常棒。",
           "url": "https://flash.jin10.com/detail/20251029110327980800",
           "source": "金十数据",
@@ -436,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "商务部等5部门：完善智能导引、精准营销、云上购物、沉浸体验等智慧商业新模式，推广一批“人工智能+消费”场景",
+          "url": "https://wallstreetcn.com/livenews/2995646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美国联邦通信委员会（FCC）主席：尚未就是否修订地方电视台的所有权上限做出决定。",
@@ -543,7 +622,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -625,6 +704,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "人力资源社会保障部：将继续会同有关部门加大国家职业标准开发力度",
+          "url": "https://wallstreetcn.com/livenews/2995635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "以色列军方官员：哈马斯违反了停火协议，对位于商定部署线以东的部队发动了袭击。",
           "url": "https://flash.jin10.com/detail/20251029004653971800",
           "source": "金十数据",
@@ -702,15 +792,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "离谱！一个玩偶让美联社破防？中国花滑选手遭国际滑联调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31850127",
-          "source": "澎湃新闻",
+          "title": "《星际争霸》官方 CG 把玩家给骗了，攻城坦克真的挡不住虫群吗？",
+          "url": "https://www.zhihu.com/question/587653635",
+          "source": "知乎",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时29分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -733,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "韩国奥委会主席柳承敏被查",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E6%9F%B3%E6%89%BF%E6%95%8F%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "以军再袭加沙 美国官员表示停火“仍然有效”",
@@ -796,7 +897,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -856,17 +957,6 @@
           "time_info": "11时16分"
         },
         {
-          "title": "中国花滑选手因玩偶遭国际滑联调查",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%BB%91%E9%80%89%E6%89%8B%E5%9B%A0%E7%8E%A9%E5%81%B6%E9%81%AD%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E8%B0%83%E6%9F%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D26%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D26%26flag%3D1%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E8%258A%25B1%25E6%25BB%2591%25E9%2580%2589%25E6%2589%258B%25E5%259B%25A0%25E7%258E%25A9%25E5%2581%25B6%25E9%2581%25AD%25E5%259B%25BD%25E9%2599%2585%25E6%25BB%2591%25E8%2581%2594%25E8%25B0%2583%25E6%259F%25A5%2523%26dgr%3D0%26pos%3D26%26cate%3D5001%26display_time%3D1761714604%26pre_seqid%3D17617146043990261051462",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "据国际文传电讯社：俄罗斯国防部长会见叙利亚国防部长。",
           "url": "https://flash.jin10.com/detail/20251029002722043800",
           "source": "金十数据",
@@ -923,11 +1013,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31849949",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "山东入室抢婴案二审宣判",
@@ -936,7 +1027,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
