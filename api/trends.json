@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T13:18:50.586784+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-10-30T14:28:22.826166+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -16,8 +16,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时18分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[05时18分 ~ 14时28分]"
+        },
+        {
+          "title": "鲍威尔：12月再降息并非板上钉钉，委员会分歧大，就业市场仍在降温，通胀短期有上行压力（附全文）",
+          "url": "https://wallstreetcn.com/articles/3758227",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
+        },
+        {
+          "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854185",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时28分]"
+        },
+        {
+          "title": "美国造船商委员会主席：美国应借鉴中方经验",
+          "url": "https://news.ifeng.com/c/8nrmtlqWVuc",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时28分]"
         },
         {
           "title": "影子调查｜宾馆里的刑讯逼供：1名“指居”者死亡，11名办案人员被判刑",
@@ -33,38 +67,18 @@
           "time_info": "[05时18分 ~ 09时24分]"
         },
         {
-          "title": "鲍威尔：12月再降息并非板上钉钉，委员会分歧大，就业市场仍在降温，通胀短期有上行压力（附全文）",
-          "url": "https://wallstreetcn.com/articles/3758227",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
-        },
-        {
-          "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854185",
+          "title": "昆明警方通报“校外男子在一高校自杀身亡”：与在校女生发生情感纠纷，“被导师压榨”系谣言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31852443",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
-        },
-        {
-          "title": "美国造船商委员会主席：美国应借鉴中方经验",
-          "url": "https://news.ifeng.com/c/8nrmtlqWVuc",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[05时18分 ~ 14时28分]"
         },
         {
           "title": "首尔官员回应咖啡店不接待中国游客",
@@ -105,20 +119,6 @@
           "time_info": "[05时18分 ~ 12时23分]"
         },
         {
-          "title": "昆明警方通报“校外男子在一高校自杀身亡”：与在校女生发生情感纠纷，“被导师压榨”系谣言",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31852443",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时18分 ~ 13时18分]"
-        },
-        {
           "title": "300元以下难买真羽绒服？记者调查",
           "url": "https://www.baidu.com/s?wd=300%E5%85%83%E4%BB%A5%E4%B8%8B%E9%9A%BE%E4%B9%B0%E7%9C%9F%E7%BE%BD%E7%BB%92%E6%9C%8D%EF%BC%9F%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 09时24分]"
+        },
+        {
+          "title": "净网：网民编造有人跳桥失踪被查处",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E6%9C%89%E4%BA%BA%E8%B7%B3%E6%A1%A5%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%9F%A5%E5%A4%84",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
         },
         {
           "title": "人民币兑美元中间价报7.0864，下调21点；上一交易日中间价7.0843，上一交易日官方收盘价7.0991，上日夜盘报收7.0993。",
@@ -156,6 +167,17 @@
           "time_info": "[05时18分 ~ 09时24分]"
         },
         {
+          "title": "三菱日联高级固定收益策略师Keisuke Tsuruta：日本央行利率决议声明显示，有两名委员会成员对维持利率不变投下反对票。市场此前担忧会有三名成员反对，因此这一结果缓解了市场对日本央行可能转向鹰派的担忧。",
+          "url": "https://flash.jin10.com/detail/20251030141350688800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "离谱！一个玩偶让美联社破防？中国花滑选手遭国际滑联调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31850127",
           "source": "澎湃新闻",
@@ -171,14 +193,14 @@
         },
         {
           "title": "净网：网民编造有人跳桥失踪被查处",
-          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E6%9C%89%E4%BA%BA%E8%B7%B3%E6%A1%A5%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%9F%A5%E5%A4%84",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7566808721708469811/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
+          "time_info": "[11时10分 ~ 14时28分]"
         },
         {
           "title": "APEC领导人晚宴李在明称为和平干杯",
@@ -206,15 +228,29 @@
           "time_info": "[05时18分 ~ 07时18分]"
         },
         {
-          "title": "净网：网民编造有人跳桥失踪被查处",
-          "url": "https://www.toutiao.com/trending/7566808721708469811/",
-          "source": "今日头条",
+          "title": "三峡大学通报男性外籍学生翻墙进入女生宿舍实施猥亵：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851163",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 14时28分]"
+        },
+        {
+          "title": "APEC工商领导人峰会",
+          "url": "https://www.douyin.com/hot/2287533",
+          "source": "抖音",
+          "ranks": [
+            7,
+            14,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "time_info": "[12时23分 ~ 14时28分]"
         },
         {
           "title": "朱立伦率党务团队总辞是故意刁难？郑丽文：当作一个善意",
@@ -254,18 +290,6 @@
           "time_info": "[05时18分 ~ 07时18分]"
         },
         {
-          "title": "三峡大学通报男性外籍学生翻墙进入女生宿舍实施猥亵：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851163",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 13时18分]"
-        },
-        {
           "title": "北师大心理学部原副部长刘力逝世",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%B8%88%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%A6%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%88%98%E5%8A%9B%E9%80%9D%E4%B8%96",
           "source": "百度热搜",
@@ -289,18 +313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时18分]"
-        },
-        {
-          "title": "APEC工商领导人峰会",
-          "url": "https://www.douyin.com/hot/2287533",
-          "source": "抖音",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
         },
         {
           "title": "加拿大驻美国大使Hillman告知加拿大议会一个委员会：两国官员们仍然在沟通。",
@@ -337,6 +349,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时21分]"
+        },
+        {
+          "title": "郑丽文回应朱立伦带211名干部辞职",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E5%9B%9E%E5%BA%94%E6%9C%B1%E7%AB%8B%E4%BC%A6%E5%B8%A6211%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "胡跃龙拟破格提拔升厅级干部",
@@ -382,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "女子将黄金手镯皮带涂成银色入境被查",
+          "url": "https://www.toutiao.com/trending/7566823557318164499/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
@@ -437,17 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "郑丽文回应朱立伦带211名干部辞职",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E5%9B%9E%E5%BA%94%E6%9C%B1%E7%AB%8B%E4%BC%A6%E5%B8%A6211%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "习近平离京赴韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
@@ -509,11 +533,12 @@
           "ranks": [
             30,
             24,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时28分]"
         }
       ]
     }
