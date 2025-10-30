@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T02:27:49.747364+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-31T03:15:56.598015+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "鲍威尔：12月再降息并非板上钉钉，委员会分歧大，就业市场仍在降温，通胀短期有上行压力（附全文）",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "旁白｜“毒营养土”调查背后的暗访记者们",
@@ -27,52 +27,150 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
-          "title": "瑞士央行管委会成员Tschudin：美元流动性对投资活动具有极端重要性。",
-          "url": "https://flash.jin10.com/detail/20251031020942085800",
-          "source": "金十数据",
+          "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
+          "url": "https://wallstreetcn.com/livenews/2997094",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
         },
         {
-          "title": "墨西哥财政部长阿马多尔：预计经济将在第四季度好转。",
-          "url": "https://flash.jin10.com/detail/20251031020747981800",
+          "title": "美国交通部长达菲：正与工会协作应对停工引发的混乱。",
+          "url": "https://flash.jin10.com/detail/20251031024256098800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
         },
         {
-          "title": "墨西哥财政部长阿马多尔：第三季度经济萎缩主要集中在工业部门，预计不会出现长期疲软。",
-          "url": "https://flash.jin10.com/detail/20251031020704330800",
+          "title": "美国交通部长达菲：如果政府继续停摆，空中交通将会陷入瘫痪。",
+          "url": "https://flash.jin10.com/detail/20251031024136434800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
         },
         {
-          "title": "瑞士央行官员Tschudin：如有必要，央行会实施负利率。 我们知道，负利率会起作用。 通胀将处于央行价格稳定性区间之内。 （瑞士）与美国之间的关系非常不错。 如果面临重大冲击，央行准备干预。",
-          "url": "https://wallstreetcn.com/livenews/2997076",
+          "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
+          "url": "https://wallstreetcn.com/livenews/2997090",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美联航CEO：美国政府关门事件造成某些经济影响。",
+          "url": "https://wallstreetcn.com/livenews/2997089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "日本熊灾 英政府发布旅行警告",
+          "url": "https://www.douyin.com/hot/2288080",
+          "source": "抖音",
+          "ranks": [
+            7,
+            10,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "于和伟捐了1200万片酬？多部门回应",
+          "url": "https://www.toutiao.com/trending/7566306192130113582/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "“宝剑”造型交通卡引热议，为何能进地铁闸机？安全吗？官方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854334",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "新人结婚邀请高中班主任当证婚人",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E9%82%80%E8%AF%B7%E9%AB%98%E4%B8%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%BD%93%E8%AF%81%E5%A9%9A%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储再降息25个基点，鲍威尔称政府“停摆”将影响经济",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854127",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：美元流动性对投资活动具有极端重要性。",
+          "url": "https://flash.jin10.com/detail/20251031020942085800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "墨西哥财政部长阿马多尔：预计经济将在第四季度好转。",
+          "url": "https://flash.jin10.com/detail/20251031020747981800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
         },
         {
           "title": "消息人士：美国政府效率部（DOGE）预计最早将于下周向美国国防部领导层提交无人机报告。",
@@ -87,17 +185,28 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
-          "title": "日本熊灾 英政府发布旅行警告",
-          "url": "https://www.douyin.com/hot/2288080",
-          "source": "抖音",
+          "title": "墨西哥财政部长阿马多尔：第三季度经济萎缩主要集中在工业部门，预计不会出现长期疲软。",
+          "url": "https://flash.jin10.com/detail/20251031020704330800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            10,
-            8
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "瑞士央行官员Tschudin：如有必要，央行会实施负利率。 我们知道，负利率会起作用。 通胀将处于央行价格稳定性区间之内。 （瑞士）与美国之间的关系非常不错。 如果面临重大冲击，央行准备干预。",
+          "url": "https://wallstreetcn.com/livenews/2997076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
         },
         {
           "title": "消息人士：美国政府效率部（DOGE）官员已要求美国国防部各部门提交无人机系统信息征询书。",
@@ -136,29 +245,6 @@
           "time_info": "[01时19分 ~ 02时27分]"
         },
         {
-          "title": "于和伟捐了1200万片酬？多部门回应",
-          "url": "https://www.toutiao.com/trending/7566306192130113582/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "“宝剑”造型交通卡引热议，为何能进地铁闸机？安全吗？官方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854334",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
           "title": "政府主管部门接管民企数亿资产",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%94%BF%E5%BA%9C%E4%B8%BB%E7%AE%A1%E9%83%A8%E9%97%A8%E6%8E%A5%E7%AE%A1%E6%B0%91%E4%BC%81%E6%95%B0%E4%BA%BF%E8%B5%84%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2594%25BF%25E5%25BA%259C%25E4%25B8%25BB%25E7%25AE%25A1%25E9%2583%25A8%25E9%2597%25A8%25E6%258E%25A5%25E7%25AE%25A1%25E6%25B0%2591%25E4%25BC%2581%25E6%2595%25B0%25E4%25BA%25BF%25E8%25B5%2584%25E4%25BA%25A7%2523%26c_type%3D31%26dgr%3D0%26pos%3D17%26realpos%3D17%26band_rank%3D17%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761840611%26pre_seqid%3D17618406111990242580108",
           "source": "微博",
@@ -166,31 +252,6 @@
             17,
             15,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "美联储再降息25个基点，鲍威尔称政府“停摆”将影响经济",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854127",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "新人结婚邀请高中班主任当证婚人",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E9%82%80%E8%AF%B7%E9%AB%98%E4%B8%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%BD%93%E8%AF%81%E5%A9%9A%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -208,6 +269,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "美国财政部长贝森特：（继总统特朗普政府采取行动之后）该轮到投资者拯救阿根廷了。",
+          "url": "https://wallstreetcn.com/livenews/2997071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "墨西哥财政部长阿马多尔：2025年财政赤字预估与近期预算一致。",
+          "url": "https://flash.jin10.com/detail/20251031015911013800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：如果有必要，我们会引入负利率；我们知道负利率是有效的。",
+          "url": "https://flash.jin10.com/detail/20251031015308474800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -234,48 +331,73 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
-          "title": "美国财政部长贝森特：（继总统特朗普政府采取行动之后）该轮到投资者拯救阿根廷了。",
-          "url": "https://wallstreetcn.com/livenews/2997071",
+          "title": "瑞士央行管委会成员Tschudin：必要时我们将进行干预，这是利率之外的又一工具。",
+          "url": "https://flash.jin10.com/detail/20251031013556563800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：我们的主要工具是利率，它正在发挥作用。",
+          "url": "https://flash.jin10.com/detail/20251031013550836800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：如果通胀率在短时间内降至0%以下，也是可以接受的。",
+          "url": "https://flash.jin10.com/detail/20251031012950757800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
+          "url": "https://wallstreetcn.com/livenews/2997087",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "墨西哥财政部长阿马多尔：石油对冲策略将继续保持不变。",
+          "url": "https://flash.jin10.com/detail/20251031023235500800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
         },
         {
-          "title": "墨西哥财政部长阿马多尔：2025年财政赤字预估与近期预算一致。",
-          "url": "https://flash.jin10.com/detail/20251031015911013800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：如果有必要，我们会引入负利率；我们知道负利率是有效的。",
-          "url": "https://flash.jin10.com/detail/20251031015308474800",
+          "title": "墨西哥财政部：政府对墨西哥国家石油公司2540亿墨西哥比索的注资不会影响赤字。",
+          "url": "https://flash.jin10.com/detail/20251031022629385800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：必要时我们将进行干预，这是利率之外的又一工具。",
-          "url": "https://flash.jin10.com/detail/20251031013556563800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "03时15分"
         },
         {
           "title": "领导一边重用你，一边又打压你，究竟是为了什么？",
@@ -300,28 +422,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "瑞士央行管委会成员Tschudin：我们的主要工具是利率，它正在发挥作用。",
-          "url": "https://flash.jin10.com/detail/20251031013550836800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：如果通胀率在短时间内降至0%以下，也是可以接受的。",
-          "url": "https://flash.jin10.com/detail/20251031012950757800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
           "title": "高盛CEO所罗门：政府停摆令人遗憾。",
           "url": "https://flash.jin10.com/detail/20251030235209734800",
           "source": "金十数据",
@@ -339,7 +439,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -350,7 +450,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -397,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "外交部奉劝巴拉圭政府",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%A5%89%E5%8A%9D%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%94%BF%E5%BA%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26flag%3D1%26stream_entry_id%3D31%26pos%3D29%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D28%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%25A5%2589%25E5%258A%259D%25E5%25B7%25B4%25E6%258B%2589%25E5%259C%25AD%25E6%2594%25BF%25E5%25BA%259C%2523%26dgr%3D0%26display_time%3D1761851405%26pre_seqid%3D17618514059020108461078",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -412,8 +523,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     }
