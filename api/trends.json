@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-01T18:19:56.978892+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2025-11-01T19:16:02.060109+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 84,
+      "match_count": 93,
       "titles": [
         {
           "title": "教师出轨丑闻炸裂,班群曝不雅记录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346604&amp;topic_name=%E6%95%99%E5%B8%88%E5%87%BA%E8%BD%A8%E4%B8%91%E9%97%BB%E7%82%B8%E8%A3%82%2C%E7%8F%AD%E7%BE%A4%E6%9B%9D%E4%B8%8D%E9%9B%85%E8%AE%B0%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时19分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 19时16分]"
         },
         {
           "title": "影子调查｜起底年销上亿元涉“毒营养土”公司的背后资本",
@@ -30,8 +31,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 18时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时24分 ~ 19时16分]"
+        },
+        {
+          "title": "领导喜欢时常汇报的员工，还是喜欢直接解决事物的员工？",
+          "url": "https://www.zhihu.com/question/604113667",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 19时16分]"
         },
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -64,18 +78,6 @@
           "time_info": "[00时24分 ~ 12时19分]"
         },
         {
-          "title": "领导喜欢时常汇报的员工，还是喜欢直接解决事物的员工？",
-          "url": "https://www.zhihu.com/question/604113667",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 18时19分]"
-        },
-        {
           "title": "这类公务员不得批准辞去公职",
           "url": "https://www.toutiao.com/trending/7567191662355939364/",
           "source": "今日头条",
@@ -89,6 +91,35 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "美国为何出尔反尔推进对华301调查",
+          "url": "https://www.toutiao.com/trending/7567624529602678314/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 19时16分]"
+        },
+        {
+          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1967877511644935498",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 19时16分]"
         },
         {
           "title": "95后村支书把留守村变网红村",
@@ -107,19 +138,30 @@
           "time_info": "[00时24分 ~ 09时25分]"
         },
         {
-          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1967877511644935498",
-          "source": "知乎",
+          "title": "全国1%人口抽样调查被抽中需要做啥",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD1%25%E4%BA%BA%E5%8F%A3%E6%8A%BD%E6%A0%B7%E8%B0%83%E6%9F%A5%E8%A2%AB%E6%8A%BD%E4%B8%AD%E9%9C%80%E8%A6%81%E5%81%9A%E5%95%A5",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            8,
+            7,
             6,
-            3,
-            2
+            1,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时19分 ~ 18时19分]"
+          "time_info": "[15时17分 ~ 19时16分]"
+        },
+        {
+          "title": "美军“侵略”在即？美政府文件披露：马杜罗向中俄伊求助",
+          "url": "https://news.ifeng.com/c/8nvTGUBdF7z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 19时16分]"
         },
         {
           "title": "两部门发布黄金有关税收政策公告",
@@ -134,6 +176,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时11分 ~ 15时18分]"
+        },
+        {
+          "title": "一网站重庆频道主编被控受贿：为国企讨8.97亿元项目回购款，收210万元“居间费”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31859246",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时24分 ~ 19时16分]"
         },
         {
           "title": "官方通报长沙一店铺脚手架局部垮塌",
@@ -176,30 +234,6 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
-          "title": "美军“侵略”在即？美政府文件披露：马杜罗向中俄伊求助",
-          "url": "https://news.ifeng.com/c/8nvTGUBdF7z",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 18时19分]"
-        },
-        {
-          "title": "美国为何出尔反尔推进对华301调查",
-          "url": "https://www.toutiao.com/trending/7567624529602678314/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 18时19分]"
-        },
-        {
           "title": "监管通报证券从业者编造、传播虚假信息案件查处结果",
           "url": "https://www.cls.cn/detail/2188205",
           "source": "财联社热门",
@@ -227,44 +261,17 @@
           "time_info": "[02时27分 ~ 11时11分]"
         },
         {
-          "title": "全国1%人口抽样调查被抽中需要做啥",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD1%25%E4%BA%BA%E5%8F%A3%E6%8A%BD%E6%A0%B7%E8%B0%83%E6%9F%A5%E8%A2%AB%E6%8A%BD%E4%B8%AD%E9%9C%80%E8%A6%81%E5%81%9A%E5%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 18时19分]"
-        },
-        {
-          "title": "一网站重庆频道主编被控受贿：为国企讨8.97亿元项目回购款，收210万元“居间费”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31859246",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时19分]"
-        },
-        {
           "title": "这些公务员不能辞职",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E8%83%BD%E8%BE%9E%E8%81%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26flag%3D0%26q%3D%2523%25E8%25BF%2599%25E4%25BA%259B%25E5%2585%25AC%25E5%258A%25A1%25E5%2591%2598%25E4%25B8%258D%25E8%2583%25BD%25E8%25BE%259E%25E8%2581%258C%2523%26filter_type%3Drealtimehot%26realpos%3D2%26dgr%3D0%26c_type%3D31%26display_time%3D1761987994%26pre_seqid%3D176198799484602535471116&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时16分]"
         },
         {
           "title": "美法官裁定政府不得在“停摆”期间暂停食品援助",
@@ -356,6 +363,50 @@
           "time_info": "[14时25分 ~ 18时19分]"
         },
         {
+          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
+          "url": "https://flash.jin10.com/detail/20251101190850258800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "政府“停摆”致空管人员严重短缺 全美约6000架次航班受影响",
+          "url": "https://wallstreetcn.com/livenews/2998009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "易纲不再担任全国政协经济委员会副主任",
+          "url": "https://flash.jin10.com/detail/20251101190349528800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
+          "url": "https://wallstreetcn.com/livenews/2998008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "新疆政协副主席金之镇被查",
           "url": "https://www.toutiao.com/trending/7567586431493898276/",
           "source": "今日头条",
@@ -390,6 +441,28 @@
           "time_info": "02时27分"
         },
         {
+          "title": "全国政协十四届常委会第十四次会议闭幕，会议通过《关于举办纪念孙中山先生诞辰160周年活动的决定》。",
+          "url": "https://flash.jin10.com/detail/20251101185339452800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "全国政协十四届常委会第十四次会议闭幕 王沪宁主持并讲话",
+          "url": "https://wallstreetcn.com/livenews/2998006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
           "url": "https://wallstreetcn.com/livenews/2997901",
           "source": "华尔街见闻-快讯",
@@ -417,6 +490,20 @@
           "time_info": "[04时22分 ~ 09时25分]"
         },
         {
+          "title": "双11品牌官方旗舰店销量涨300%，美团闪购：大促首日近800个品牌、300类商品销量翻倍",
+          "url": "https://wallstreetcn.com/livenews/2997989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时16分]"
+        },
+        {
           "title": "美国联邦调查局挫败一起潜在恐怖袭击",
           "url": "https://flash.jin10.com/detail/20251101135159738800",
           "source": "金十数据",
@@ -429,6 +516,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时25分 ~ 17时19分]"
+        },
+        {
+          "title": "铁路部门启动“双11”网购高峰期快件运输服务",
+          "url": "https://wallstreetcn.com/livenews/2997979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            17,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 19时16分]"
         },
         {
           "title": "迟耀云任上海市纪委书记",
@@ -494,19 +596,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时16分]"
-        },
-        {
-          "title": "双11品牌官方旗舰店销量涨300%，美团闪购：大促首日近800个品牌、300类商品销量翻倍",
-          "url": "https://wallstreetcn.com/livenews/2997989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时19分]"
         },
         {
           "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
@@ -608,20 +697,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 16时22分]"
-        },
-        {
-          "title": "铁路部门启动“双11”网购高峰期快件运输服务",
-          "url": "https://wallstreetcn.com/livenews/2997979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 18时19分]"
         },
         {
           "title": "美交通部长：美航班延误状况预计将进一步恶化",
@@ -889,6 +964,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "全国政协十四届常委会第十四次会议闭幕 王沪宁主持并讲话",
+          "url": "https://flash.jin10.com/detail/20251101185239196800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "以色列极右翼部长要求处决巴勒斯坦囚犯",
           "url": "https://flash.jin10.com/detail/20251101082719008800",
           "source": "金十数据",
@@ -898,6 +984,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "摩尔多瓦新政府宣誓就职",
+          "url": "https://flash.jin10.com/detail/20251101184727751800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "摩尔多瓦新政府宣誓就职",
+          "url": "https://wallstreetcn.com/livenews/2998004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
