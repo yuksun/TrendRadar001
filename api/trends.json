@@ -1,12 +1,59 @@
 {
-  "generated_at": "2025-11-04T04:21:36.510209+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-11-04T05:19:41.509254+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "以内阁会议25名部长仅12人到场，内塔尼亚胡：下次全网通报批评",
+          "url": "https://news.ifeng.com/c/8nyx5tqrTja",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "“苏超”第一季落幕，江苏多地党政主官部署备战来年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881558",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "明确“黑救护”打击范围，六部门开展非法救护车专项整治",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31879610",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "举报贩婴反被抓,打拐英雄变囚犯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346644&amp;topic_name=%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%A9%B4%E5%8F%8D%E8%A2%AB%E6%8A%93%2C%E6%89%93%E6%8B%90%E8%8B%B1%E9%9B%84%E5%8F%98%E5%9B%9A%E7%8A%AF",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时19分]"
+        },
         {
           "title": "加拿大工业部长：将与斯泰兰蒂斯(STLA.N)启动争端解决机制。",
           "url": "https://flash.jin10.com/detail/20251104001510347800",
@@ -17,39 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "美联储理事库克：公职服务绝对值得审查。 美联储独立性是值得追求。",
-          "url": "https://wallstreetcn.com/livenews/2998735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "以内阁会议25名部长仅12人到场，内塔尼亚胡：下次全网通报批评",
-          "url": "https://news.ifeng.com/c/8nyx5tqrTja",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "航空公司团体表示，自美国政府停摆开始以来，由于空中交通管制人员配置问题导致的延误和取消，已有超过320万名美国航空公司乘客受到影响。",
-          "url": "https://flash.jin10.com/detail/20251104035017438800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
         },
         {
           "title": "伊拉克总理：由美国领导的联军将于2026年9月前撤离伊拉克。我寻求连任伊拉克总理。解除伊拉克武装组织的武装与联军撤军有关。",
@@ -63,40 +77,29 @@
           "time_info": "00时24分"
         },
         {
-          "title": "“苏超”第一季落幕，江苏多地党政主官部署备战来年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881558",
-          "source": "澎湃新闻",
+          "title": "美或因政府“停摆”关闭空域",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%96%E5%9B%A0%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E5%85%B3%E9%97%AD%E7%A9%BA%E5%9F%9F",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8,
-            10
+            25,
+            10,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "time_info": "[01时17分 ~ 05时19分]"
         },
         {
-          "title": "明确“黑救护”打击范围，六部门开展非法救护车专项整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879610",
-          "source": "澎湃新闻",
+          "title": "美联储理事库克：公职服务绝对值得审查。 美联储独立性是值得追求。",
+          "url": "https://wallstreetcn.com/livenews/2998735",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            13
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "举报贩婴反被抓,打拐英雄变囚犯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346644&amp;topic_name=%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%A9%B4%E5%8F%8D%E8%A2%AB%E6%8A%93%2C%E6%89%93%E6%8B%90%E8%8B%B1%E9%9B%84%E5%8F%98%E5%9B%9A%E7%8A%AF",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时19分]"
         },
         {
           "title": "意大利财政部：10月份公共部门预算赤字为197亿欧元。",
@@ -111,16 +114,16 @@
           "time_info": "[02时26分 ~ 03时16分]"
         },
         {
-          "title": "美或因政府“停摆”关闭空域",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%96%E5%9B%A0%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E5%85%B3%E9%97%AD%E7%A9%BA%E5%9F%9F",
-          "source": "百度热搜",
+          "title": "航空公司团体表示，自美国政府停摆开始以来，由于空中交通管制人员配置问题导致的延误和取消，已有超过320万名美国航空公司乘客受到影响。",
+          "url": "https://flash.jin10.com/detail/20251104035017438800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            10
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时19分]"
         },
         {
           "title": "奥巴马抨击美政府：天天像过万圣节",
@@ -134,6 +137,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "美联储理事库克：同样关注通过纽约联储及其他调查得出的通胀预期。",
+          "url": "https://flash.jin10.com/detail/20251104034605007800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时19分]"
+        },
+        {
+          "title": "美国政府向稀土磁铁生产商提供融资",
+          "url": "https://flash.jin10.com/detail/20251104034517545800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时19分]"
         },
         {
           "title": "政府停摆影响航空安全，美国交通部长称：如有必要将关闭全国领空",
@@ -244,26 +271,59 @@
           "time_info": "[02时26分 ~ 03时16分]"
         },
         {
-          "title": "美联储理事库克：同样关注通过纽约联储及其他调查得出的通胀预期。",
-          "url": "https://flash.jin10.com/detail/20251104034605007800",
+          "title": "银行储户损失千万本金事件已设调查组",
+          "url": "https://www.toutiao.com/trending/7568462514166628402/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美航空协会称政府“停摆”已影响超320万名旅客",
+          "url": "https://flash.jin10.com/detail/20251104043902705800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时19分"
         },
         {
-          "title": "美国政府向稀土磁铁生产商提供融资",
-          "url": "https://flash.jin10.com/detail/20251104034517545800",
+          "title": "白宫官员：沙特王储穆罕默德·本·萨勒曼将于11月18日到白宫进行正式工作访问。",
+          "url": "https://flash.jin10.com/detail/20251104043257054800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美航空协会称政府“停摆”已影响超320万名旅客",
+          "url": "https://wallstreetcn.com/livenews/2998749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "墨西哥一市长遇袭身亡",
+          "url": "https://www.douyin.com/hot/2292605",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "美联储理事库克：随着政府停摆的持续，评估经济将变得更加困难。",
@@ -272,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -294,7 +354,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -316,7 +376,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
