@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T06:17:57.789358+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-11-05T07:18:03.157769+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "美国正走向“流动性危机”，“政府关门”相当于加息？下一步对市场至关重要",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "新华社调查：烂梗“侵”校园，互联网时代如何让孩子们好好说话？",
@@ -48,11 +48,12 @@
           "ranks": [
             14,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "美政府停摆将平纪录",
@@ -65,8 +66,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 07时18分]"
+        },
+        {
+          "title": "水产市场“麻醉鱼”调查",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%B8%82%E5%9C%BA%E2%80%9C%E9%BA%BB%E9%86%89%E9%B1%BC%E2%80%9D%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            15,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "网信部门为保障十五运会整治6类突出问题，涉饭圈互撕谩骂等",
@@ -74,27 +90,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "美政府停摆35天追平历史纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
             7,
-            15,
-            16,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "武汉街头出现飞机 官方回应",
@@ -108,8 +109,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "美政府停摆35天追平历史纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            10,
+            7,
+            15,
+            16,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
@@ -120,22 +138,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "水产市场“麻醉鱼”调查",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E4%BA%A7%E5%B8%82%E5%9C%BA%E2%80%9C%E9%BA%BB%E9%86%89%E9%B1%BC%E2%80%9D%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "税务部门曝光6起网红和网店偷税案件",
@@ -145,8 +149,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "大同四中再通报“学生买淀粉肠被拿钥匙”：当值副校长与学生均有不当行为，达成谅解",
@@ -156,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "被控受贿数额特别巨大，国家烟草专卖局原副局长张天峰被公诉",
@@ -167,8 +171,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "举报贩婴反被抓,打拐英雄变囚犯",
@@ -178,8 +182,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "停摆了一个月后，美国政府终现“重开迹象”",
@@ -189,8 +193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "韩情报部门：美朝峰会或于明年3月后举行",
@@ -200,8 +204,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
@@ -211,8 +215,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "加拿大政府赤字预期公布后，美元兑加元USD/CAD小幅走高。",
@@ -237,15 +241,15 @@
           "time_info": "05时26分"
         },
         {
-          "title": "美国纽约市长选举正在投票",
-          "url": "https://flash.jin10.com/detail/20251105060833531800",
+          "title": "美国联邦航空管理局：联合包裹的麦道MD-11飞机原计划飞往檀香山丹尼尔·井上国际机场，将对此事件展开调查。",
+          "url": "https://flash.jin10.com/detail/20251105070242214800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时18分"
         },
         {
           "title": "美国众议院少数党领袖杰弗瑞斯：（就里根国家机场因安全问题实施地面停飞一事）达菲需要开始表现得像一位交通部长，而不是真人秀明星。",
@@ -272,6 +276,18 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
+          "title": "美国纽约市长选举正在投票",
+          "url": "https://flash.jin10.com/detail/20251105060833531800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时18分]"
+        },
+        {
           "title": "欧盟委员会通过2025年欧盟扩大方案，新成员国的加入指日可待",
           "url": "https://wallstreetcn.com/livenews/2999305",
           "source": "华尔街见闻-快讯",
@@ -282,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时15分]"
+        },
+        {
+          "title": "房主任搂着杨幂给女儿录视频",
+          "url": "https://www.toutiao.com/trending/7567570513560600630/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 07时18分]"
         },
         {
           "title": "阿根廷外交部长Quirno：下周将恢复与美国之间的贸易磋商。",
@@ -307,6 +334,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 03时15分]"
+        },
+        {
+          "title": "直播间如何抵挡“克隆人大军”",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E9%97%B4%E5%A6%82%E4%BD%95%E6%8A%B5%E6%8C%A1%E2%80%9C%E5%85%8B%E9%9A%86%E4%BA%BA%E5%A4%A7%E5%86%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时18分]"
         },
         {
           "title": "办电话卡需预存高额话费？江西通报",
@@ -429,17 +468,6 @@
           "time_info": "[02时37分 ~ 03时15分]"
         },
         {
-          "title": "房主任搂着杨幂给女儿录视频",
-          "url": "https://www.toutiao.com/trending/7567570513560600630/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时17分]"
-        },
-        {
           "title": "荷兰联合政府谈判将在任命谈判代表后启动。",
           "url": "https://flash.jin10.com/detail/20251104234331375800",
           "source": "金十数据",
@@ -450,6 +478,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时15分]"
+        },
+        {
+          "title": "校方通报学生买淀粉肠被拔车钥匙",
+          "url": "https://www.toutiao.com/trending/7568710820763405862/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "白宫：（就政府停摆发表声明）政府正在完全遵守法院关于补充营养协助计划（SNAP）福利的命令。",
@@ -496,13 +535,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "AMD：预计云需求将保持强劲势头。 数据中心GPU业务正在加速。 面向企业的EPYC销售急剧增加。 人工智能（AI）业务将于2027年达到数百亿美元规模。 个人电脑（PC）部门的收入增速将超过市场（增速）。",
+          "url": "https://wallstreetcn.com/livenews/2999428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "加拿大政府全面下调经济增长预期，预计2025年实际GDP增速为1.1%（此前预期为1.7%）；2026年为1.2%（此前预期为2.1%）；2027-2028年大约为2%。",
           "url": "https://flash.jin10.com/detail/20251105053730953800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -513,7 +563,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -527,17 +577,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "直播间如何抵挡“克隆人大军”",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E9%97%B4%E5%A6%82%E4%BD%95%E6%8A%B5%E6%8C%A1%E2%80%9C%E5%85%8B%E9%9A%86%E4%BA%BA%E5%A4%A7%E5%86%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         },
         {
           "title": "挪威政府：挪威弹药公司与乌克兰工业合作伙伴签署意向书，将在乌克兰生产、研发和销售弹药。",
