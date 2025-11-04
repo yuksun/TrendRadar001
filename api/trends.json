@@ -1,713 +1,88 @@
 {
-  "generated_at": "2025-11-04T23:21:10.809253+08:00",
-  "total_titles_processed": 2054,
+  "generated_at": "2025-11-05T00:23:23.986322+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 142,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国正走向“流动性危机”，“政府关门”相当于加息？下一步对市场至关重要",
           "url": "https://wallstreetcn.com/articles/3758606",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 23时21分]"
-        },
-        {
-          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
-          "url": "https://www.cls.cn/detail/2190323",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 19时19分]"
-        },
-        {
-          "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31882632",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            8,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时22分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
           "url": "https://news.ifeng.com/c/8o0a3ATKRGE",
           "source": "凤凰网",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "欧盟委员会通过2025年欧盟扩大方案，新成员国的加入指日可待",
+          "url": "https://wallstreetcn.com/livenews/2999305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882632",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "网信部门为保障十五运会整治6类突出问题，涉饭圈互撕谩骂等",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886999",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
-            11,
-            9,
-            10,
-            8,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时22分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "“苏超”第一季落幕，江苏多地党政主官部署备战来年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881558",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 16时27分]"
-        },
-        {
-          "title": "美政府停摆35天追平历史纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 23时21分]"
-        },
-        {
-          "title": "明确“黑救护”打击范围，六部门开展非法救护车专项整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879610",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 11时10分]"
-        },
-        {
-          "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31890428",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            14,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 23时21分]"
-        },
-        {
-          "title": "举报贩婴反被抓,打拐英雄变囚犯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346644&amp;topic_name=%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%A9%B4%E5%8F%8D%E8%A2%AB%E6%8A%93%2C%E6%89%93%E6%8B%90%E8%8B%B1%E9%9B%84%E5%8F%98%E5%9B%9A%E7%8A%AF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            13,
-            18,
-            19,
-            21,
-            23,
-            24,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 23时21分]"
-        },
-        {
-          "title": "美政府“停摆”将平纪录，食品救济金“减半”",
-          "url": "https://news.ifeng.com/c/8nzxse7WPuO",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时29分]"
-        },
-        {
-          "title": "房主任搂着杨幂给女儿录视频",
-          "url": "https://www.toutiao.com/trending/7567570513560600630/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 18时22分]"
-        },
-        {
-          "title": "南京大学通报食堂卖999元帝王蟹",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%A3%9F%E5%A0%82%E5%8D%96999%E5%85%83%E5%B8%9D%E7%8E%8B%E8%9F%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D0%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D1%26realpos%3D1%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E5%258D%2597%25E4%25BA%25AC%25E5%25A4%25A7%25E5%25AD%25A6%25E9%2580%259A%25E6%258A%25A5%25E9%25A3%259F%25E5%25A0%2582%25E5%258D%2596999%25E5%2585%2583%25E5%25B8%259D%25E7%258E%258B%25E8%259F%25B9%2523%26filter_type%3Drealtimehot%26display_time%3D1762225838%26pre_seqid%3D176222583811302541225152&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 15时19分]"
-        },
-        {
-          "title": "以内阁会议25名部长仅12人到场，内塔尼亚胡：下次全网通报批评",
-          "url": "https://news.ifeng.com/c/8nyx5tqrTja",
-          "source": "凤凰网",
+          "title": "欧盟委员会通过2025年欧盟扩大方案",
+          "url": "https://flash.jin10.com/detail/20251104235749117800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "贵州游船侧翻事故调查报告公布",
-          "url": "https://www.douyin.com/hot/2294371",
-          "source": "抖音",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 21时33分]"
-        },
-        {
-          "title": "税务部门曝光6起网红和网店偷税案件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31890870",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "校方通报“学生买淀粉肠被拔车钥匙”",
-          "url": "https://www.toutiao.com/trending/7568710820763405862/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 15时19分]"
-        },
-        {
-          "title": "学生买淀粉肠被拔车钥匙 校方再通报",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E4%B9%B0%E6%B7%80%E7%B2%89%E8%82%A0%E8%A2%AB%E6%8B%94%E8%BD%A6%E9%92%A5%E5%8C%99+%E6%A0%A1%E6%96%B9%E5%86%8D%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            8,
-            9,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 18时22分]"
-        },
-        {
-          "title": "美或因政府“停摆”关闭空域",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%96%E5%9B%A0%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E5%85%B3%E9%97%AD%E7%A9%BA%E5%9F%9F",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            10,
-            27,
-            24,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 07时18分]"
-        },
-        {
-          "title": "校方通报学生买淀粉肠被拔车钥匙",
-          "url": "https://www.toutiao.com/trending/7568710820763405862/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "美国政府“停摆”进入第35天 追平史上最长纪录",
-          "url": "https://flash.jin10.com/detail/20251104130852123800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：我们只会在必要时使用负利率。",
-          "url": "https://flash.jin10.com/detail/20251104151827138800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：欧元区经济增长前景面临下行风险。",
-          "url": "https://wallstreetcn.com/livenews/2999290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "南京大学通报食堂卖999元帝王蟹",
-          "url": "https://www.toutiao.com/trending/7568507863967481897/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8,
-            20,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时27分]"
-        },
-        {
-          "title": "官方辟谣苏超泰州队每人奖励50万",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%8B%8F%E8%B6%85%E6%B3%B0%E5%B7%9E%E9%98%9F%E6%AF%8F%E4%BA%BA%E5%A5%96%E5%8A%B150%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时22分]"
-        },
-        {
-          "title": "烟草局原副局长张天峰被公诉",
-          "url": "https://www.douyin.com/hot/2293898",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 15时19分]"
-        },
-        {
-          "title": "加拿大工业部长：将与斯泰兰蒂斯(STLA.N)启动争端解决机制。",
-          "url": "https://flash.jin10.com/detail/20251104001510347800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：我们正将利率维持在低位，以使通胀率保持在物价稳定的目标范围内。",
-          "url": "https://flash.jin10.com/detail/20251104151819233800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "智利国家铜业公司三季度向智利政府缴付金额提升16.5%。",
-          "url": "https://flash.jin10.com/detail/20251104212913768800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "美国农业部（USDA）部长Rollins：USDA已于10月4日稍早向多个州发送了食品补助指导意见。",
-          "url": "https://wallstreetcn.com/livenews/2999289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "土耳其财政部长：我们希望外国投资者在市场中的份额恢复到过去的水平。",
-          "url": "https://flash.jin10.com/detail/20251104151606855800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "土耳其贸易部长：土耳其10月贸易逆差为74亿美元。",
-          "url": "https://flash.jin10.com/detail/20251104171642686800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "据路透调查：马来西亚国家银行预计到2026年隔夜政策利率将保持在2.75%。",
-          "url": "https://flash.jin10.com/detail/20251104180610679800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "菲律宾宿务省政府：菲律宾台风造成的死亡人数在宿务省升至39人。",
-          "url": "https://flash.jin10.com/detail/20251104212813339800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0885，下调18点；上一交易日中间价7.0867，上一交易日官方收盘价7.1225，上日夜盘报收7.1205。",
-          "url": "https://wallstreetcn.com/livenews/2998857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "印度钢铁部秘书：本财年下半年的钢铁消费量预计将增加。",
-          "url": "https://flash.jin10.com/detail/20251104130640962800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "据路透调查：27名经济学家均预计马来西亚国家银行将于11月6日将隔夜政策利率维持在2.75%。",
-          "url": "https://flash.jin10.com/detail/20251104180523678800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "欧盟扩大事务专员科斯：保持当前势头并防范任何倒退风险至关重要，尤其是在反腐败方面。",
-          "url": "https://flash.jin10.com/detail/20251104201338374800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "网信部门开展“清朗·十五运会和残特奥会网络环境整治”专项行动，集中整治6类突出问题。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2998856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "伊拉克总理：由美国领导的联军将于2026年9月前撤离伊拉克。我寻求连任伊拉克总理。解除伊拉克武装组织的武装与联军撤军有关。",
-          "url": "https://flash.jin10.com/detail/20251104000959587800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
-          "url": "https://news.ifeng.com/c/8o0kHEb9Udw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时21分]"
-        },
-        {
-          "title": "扶贫老书记去世 工资卡余额38.83元",
-          "url": "https://www.baidu.com/s?wd=%E6%89%B6%E8%B4%AB%E8%80%81%E4%B9%A6%E8%AE%B0%E5%8E%BB%E4%B8%96+%E5%B7%A5%E8%B5%84%E5%8D%A1%E4%BD%99%E9%A2%9D38.83%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时29分]"
-        },
-        {
-          "title": "前10月地方政府发债同比增23%",
-          "url": "https://wallstreetcn.com/livenews/2998974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "航空公司团体表示，自美国政府停摆开始以来，由于空中交通管制人员配置问题导致的延误和取消，已有超过320万名美国航空公司乘客受到影响。",
-          "url": "https://flash.jin10.com/detail/20251104035017438800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时18分]"
-        },
-        {
-          "title": "美国政府“停摆”进入第35天 追平史上最长纪录",
-          "url": "https://wallstreetcn.com/livenews/2999001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "被一汽收购？零跑官方回应：不实",
-          "url": "https://wallstreetcn.com/livenews/2999261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "拔钥匙的副校长丢了谁的体面",
-          "url": "https://www.toutiao.com/trending/7568094113298169897/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时21分]"
-        },
-        {
-          "title": "美联储理事库克：公职服务绝对值得审查。 美联储独立性是值得追求。",
-          "url": "https://wallstreetcn.com/livenews/2998735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时19分]"
-        },
-        {
-          "title": "意大利财政部：10月份公共部门预算赤字为197亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251104015813880800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "住房城乡建设部部长倪虹率团访问古巴",
-          "url": "https://wallstreetcn.com/livenews/2999259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
+          "time_info": "00时23分"
         },
         {
           "title": "停摆了一个月后，美国政府终现“重开迹象”",
           "url": "https://wallstreetcn.com/articles/3758617",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 23时21分]"
-        },
-        {
-          "title": "英国首相斯塔默警告称，他的政府将在本月晚些时候的增税预算案中做出“艰难但公平的决定”。",
-          "url": "https://flash.jin10.com/detail/20251104060031382800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "【2025年国谈落幕：双目录同步，创新药目录降价建议区间或为15%~50%】2025年10月30日~11月3日，为期五天的国家医保谈判正式落幕。与往年的最大差异是，此次国谈前3天进行国家医保目录的谈判，最后2天启动首次商保创新药目录“谈判”。在商保创新药目录谈判阶段，11月2日下午为内资药企申报药品的价格协商日，11月3日为外资药企申报药品的价格协商日。今年是首次引入创新药目录的一年，与乙类目录价格谈判不同的是，国家医保局在规则上创新了价格协商机制，协调药企与商保进行价格协商。多位药企人士透露称，在创新药目录的价格协商环节，国家医保部门面对药企给出的降价建议区间是15%~50%。（一财）",
-          "url": "https://wallstreetcn.com/livenews/2998935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时22分]"
-        },
-        {
-          "title": "以色列国防部长任命以军新任军事检察长",
-          "url": "https://wallstreetcn.com/livenews/2999258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "11月4日投资避雷针：达实智能、思维列控高管被立案调查",
-          "url": "https://www.cls.cn/detail/2190149",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 17时23分]"
-        },
-        {
-          "title": "奥巴马抨击美政府：天天像过万圣节",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%8A%A8%E5%87%BB%E7%BE%8E%E6%94%BF%E5%BA%9C%EF%BC%9A%E5%A4%A9%E5%A4%A9%E5%83%8F%E8%BF%87%E4%B8%87%E5%9C%A3%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "韩情报部门：美朝峰会或于明年3月后举行",
@@ -717,357 +92,129 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "美联储理事库克：同样关注通过纽约联储及其他调查得出的通胀预期。",
-          "url": "https://flash.jin10.com/detail/20251104034605007800",
+          "title": "美国劳工部长德雷默：政府停摆正在对劳动力产生影响。",
+          "url": "https://flash.jin10.com/detail/20251104234959244800",
           "source": "金十数据",
           "ranks": [
-            7,
-            17,
-            30
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时18分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "韩国政府恢复朝韩交流部门",
-          "url": "https://news.ifeng.com/c/8o0Ax6yE0cb",
-          "source": "凤凰网",
+          "title": "武汉街头出现飞机 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E9%A3%9E%E6%9C%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时23分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "财政部新设债务管理司，此举对地方债市场有何积极影响，为何要新设此部门？",
-          "url": "https://www.zhihu.com/question/1968975291004203064",
-          "source": "知乎",
+          "title": "美国劳工部长德雷默：将在政府复工时发布劳工统计局报告，在此之前无法公布其他数据。",
+          "url": "https://flash.jin10.com/detail/20251104234846283800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            13,
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31890428",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "科特迪瓦宪法委员会宣布总统瓦塔拉赢得连任",
+          "url": "https://wallstreetcn.com/livenews/2999294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美政府停摆35天追平历史纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
+          "url": "https://news.ifeng.com/c/8o0kHEb9Udw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "荷兰联合政府谈判将在任命谈判代表后启动。",
+          "url": "https://flash.jin10.com/detail/20251104234331375800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "欧洲央行管委Stournaras：欧元区经济增长前景面临下行风险。",
+          "url": "https://wallstreetcn.com/livenews/2999290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "新华社调查：烂梗“侵”校园，互联网时代如何让孩子们好好说话？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31894088",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "中学再通报学生买淀粉肠被拿钥匙",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%AD%A6%E5%86%8D%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%B9%B0%E6%B7%80%E7%B2%89%E8%82%A0%E8%A2%AB%E6%8B%BF%E9%92%A5%E5%8C%99%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26band_rank%3D19%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%25AD%25A6%25E5%2586%258D%25E9%2580%259A%25E6%258A%25A5%25E5%25AD%25A6%25E7%2594%259F%25E4%25B9%25B0%25E6%25B7%2580%25E7%25B2%2589%25E8%2582%25A0%25E8%25A2%25AB%25E6%258B%25BF%25E9%2592%25A5%25E5%258C%2599%2523%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D19%26pos%3D19%26dgr%3D0%26display_time%3D1762237648%26pre_seqid%3D17622376486690342817705&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "秘鲁外交部长表示，与墨西哥断交是由于墨西哥启动了向前总理贝茜·查韦斯提供庇护的程序，这一举动“不友好”。",
-          "url": "https://flash.jin10.com/detail/20251104054418462800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "欧洲央行管委Patsalides：欧洲经济正显示出韧性。 欧洲需要提高竞争力。 我们需要更大的银行，鼓励整合。",
-          "url": "https://wallstreetcn.com/livenews/2999093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "银行储户损失千万本金事件已设调查组",
-          "url": "https://www.toutiao.com/trending/7568462514166628402/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
-        },
-        {
-          "title": "美航空协会称政府“停摆”已影响超320万名旅客",
-          "url": "https://flash.jin10.com/detail/20251104043902705800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
-        },
-        {
-          "title": "秘鲁外交部长表示，秘鲁已决定与墨西哥断绝外交关系。",
-          "url": "https://flash.jin10.com/detail/20251104054049619800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "税务部门曝光6起网红和网店偷税案件",
-          "url": "https://wallstreetcn.com/livenews/2999092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
-          "url": "https://wallstreetcn.com/livenews/2999233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "美国政府向稀土磁铁生产商提供融资",
-          "url": "https://flash.jin10.com/detail/20251104034517545800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时19分]"
-        },
-        {
-          "title": "白宫官员：沙特王储穆罕默德·本·萨勒曼将于11月18日到白宫进行正式工作访问。",
-          "url": "https://flash.jin10.com/detail/20251104043257054800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
-        },
-        {
-          "title": "朝鲜最高人民会议常任委员会前委员长金永南逝世",
-          "url": "https://flash.jin10.com/detail/20251104053923197800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "加拿大政府：欢迎中国恢复公民赴加团队游业务的决定",
-          "url": "https://wallstreetcn.com/livenews/2999023",
+          "title": "美国农业部（USDA）部长Rollins：USDA已于10月4日稍早向多个州发送了食品补助指导意见。",
+          "url": "https://wallstreetcn.com/livenews/2999289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            22
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "政府停摆影响航空安全，美国交通部长称：如有必要将关闭全国领空",
-          "url": "https://wallstreetcn.com/livenews/2998674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
-        },
-        {
-          "title": "美航空协会称政府“停摆”已影响超320万名旅客",
-          "url": "https://wallstreetcn.com/livenews/2998749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
-        },
-        {
-          "title": "纽约州总检察长詹姆斯：因美国教育部将公共服务贷款减免计划武器化，对其提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20251104015042584800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "欧洲央行管委Rehn：保持决策的充分灵活性至关重要。 通胀风险呈现双向。 欧元区经济增长依然疲弱但具韧性。 Rehn确认将竞选欧洲央行副行长职位。",
-          "url": "https://wallstreetcn.com/livenews/2999147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时19分]"
-        },
-        {
-          "title": "加拿大工业部长Joly：加拿大针对（欧洲汽车制造商）斯泰兰蒂斯Stellantis启动纠纷解决程序。",
-          "url": "https://wallstreetcn.com/livenews/2998672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
-        },
-        {
-          "title": "德国政府：预计将在2026年实施能源补贴，从而提振重工业",
-          "url": "https://wallstreetcn.com/livenews/2998652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "Point72成立新的证券部门，该公司资产管理规模已经激增至420亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "新加坡上半年诈骗案已逼近两万起 政府拟施鞭刑严惩不法分子",
-          "url": "https://wallstreetcn.com/livenews/2999114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时22分]"
-        },
-        {
-          "title": "加拿大政府：加拿大与巴基斯坦已达成协议，将促进加拿大油菜籽对巴基斯坦的出口。",
-          "url": "https://flash.jin10.com/detail/20251104014143081800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "美国政府向稀土磁铁生产商提供融资",
-          "url": "https://wallstreetcn.com/livenews/2998711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时21分]"
-        },
-        {
-          "title": "北京一副区长停电动车竟遭三连拒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%89%AF%E5%8C%BA%E9%95%BF%E5%81%9C%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AB%9F%E9%81%AD%E4%B8%89%E8%BF%9E%E6%8B%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26band_rank%3D13%26filter_type%3Drealtimehot%26pos%3D14%26c_type%3D31%26realpos%3D13%26q%3D%2523%25E5%258C%2597%25E4%25BA%25AC%25E4%25B8%2580%25E5%2589%25AF%25E5%258C%25BA%25E9%2595%25BF%25E5%2581%259C%25E7%2594%25B5%25E5%258A%25A8%25E8%25BD%25A6%25E7%25AB%259F%25E9%2581%25AD%25E4%25B8%2589%25E8%25BF%259E%25E6%258B%2592%2523%26cate%3D5001%26dgr%3D0%26display_time%3D1762230028%26pre_seqid%3D17622300288600333386154&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "朝鲜最高人民会议常任委员会前委员长金永南逝世",
-          "url": "https://wallstreetcn.com/livenews/2998766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：今年降息50个基点使美联储处于更有利的位置。 官员们应当对12月FOMC货币政策会议“持开放态度”。 需要在避免伤害到就业市场的情况下继续抑制通胀。",
-          "url": "https://wallstreetcn.com/livenews/2998689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "水产市场“麻醉鱼”调查",
@@ -1077,631 +224,85 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "墨西哥一市长遇袭身亡",
-          "url": "https://www.douyin.com/hot/2292605",
-          "source": "抖音",
+          "title": "税务部门曝光6起网红和网店偷税案件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31890870",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "大同四中再通报“学生买淀粉肠被拿钥匙”：当值副校长与学生均有不当行为，达成谅解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31887880",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "被控受贿数额特别巨大，国家烟草专卖局原副局长张天峰被公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_31887302",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "美联储戴利：政府数据并不是我们获得的唯一数据。",
-          "url": "https://flash.jin10.com/detail/20251104012027751800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "武汉街头出现飞机 官方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E9%A3%9E%E6%9C%BA+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "土耳其财政部长：我们将需要出台有关市场操纵的监管规定，大幅提高罚款也在我们的议程之中。",
-          "url": "https://flash.jin10.com/detail/20251104151117184800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "国际原子能机构总干事：国际原子能机构将自行监督扎波罗热核电站周边临时停火条件的遵守情况。",
-          "url": "https://flash.jin10.com/detail/20251104201221201800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "以色列国防部长任命以军新任军事检察长",
-          "url": "https://flash.jin10.com/detail/20251104220700367800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "据伊朗官方媒体：伊朗塞姆南省一家炼油厂发生火灾，造成至少1人死亡。",
-          "url": "https://flash.jin10.com/detail/20251104171544729800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "根据俄罗斯总统普京签署的总统令，俄罗斯经济发展部长奥列什金将率领俄罗斯代表团出席二十国集团峰会。",
-          "url": "https://flash.jin10.com/detail/20251104220648430800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美政府停摆对美国航空业影响几何",
-          "url": "https://www.toutiao.com/trending/7568520825075138596/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "三菱公司首席执行官：将继续与日本政府及商业伙伴就我们在俄罗斯萨哈林-2液化天然气项目中的股权问题进行磋商。",
-          "url": "https://flash.jin10.com/detail/20251104130409225800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "土耳其财政部长：我们希望将经济中的融资模式从以银行为主的模式转变为以资本为主的模式。",
-          "url": "https://flash.jin10.com/detail/20251104150926361800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "根据官方文件和消息人士透露，由于天然气供应过剩，巴基斯坦取消了原定于2026至2027年交付的21批埃尼集团液化天然气货物。",
-          "url": "https://flash.jin10.com/detail/20251104180205616800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "商务部国际贸易谈判代表兼副部长李成钢会见通用电气能源集团全球副总裁思睿迈",
-          "url": "https://wallstreetcn.com/livenews/2999045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "利比亚石油部长：明年我们考虑将产量提高到每天160万桶，后年则提高到每天180万桶。",
-          "url": "https://flash.jin10.com/detail/20251104162027430800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美国钢铁(X.N)：公司与新日铁共同确定了200多项举措，以提升所有业务部门的运营效率。",
-          "url": "https://flash.jin10.com/detail/20251104220231491800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "澳洲联储：委员会仍警惕未来前景在两个方向上都存在加剧的不确定性。",
-          "url": "https://flash.jin10.com/detail/20251104113248449800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "澳洲联储：今天的利率决议是一致通过的。 通胀率近期有所上升。 国内经济活动正在复苏，但前景仍不明朗。 委员会认为保持谨慎的态度是合适的，并随着数据的变化更新了对前景的判断。 委员会仍对前景不确定性加剧的情况保持警惕，无论是在正面方向还是负面方向。 委员会的判断是，三季度基础通胀率的上升，部分是由于暂时因素所致。 委员会专注于履行维持物价稳定和实现充分就业的职责，并将采取其认为必要的措施以实现这一目标。",
-          "url": "https://wallstreetcn.com/livenews/2998958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "澳洲联储：委员会的判断是，9月季度核心通胀率的上升部分归因于临时性因素。",
-          "url": "https://flash.jin10.com/detail/20251104113242204800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "利比亚石油部长：我们的任务是在未来五年内将石油产量提高到每天200万桶。",
-          "url": "https://flash.jin10.com/detail/20251104161937285800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "南苏丹总统罢免上任仅两月的财政部长。",
-          "url": "https://flash.jin10.com/detail/20251104175937440800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美能源部长透露核武器试验细节：暂不涉及核爆炸",
-          "url": "https://www.cls.cn/detail/2189692",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：关于为韩国提供核动力潜艇一事，将与国务院和能源部密切合作。",
-          "url": "https://flash.jin10.com/detail/20251104125320677800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "叙利亚能源部长与卢克石油公司和保加利亚国家石油公司集团探讨合作前景。",
-          "url": "https://flash.jin10.com/detail/20251104211654868800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "领导安排不合理的任务，应该怎么对待？",
-          "url": "https://www.zhihu.com/question/1943292842391897798",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "“储户损失千万本金事件”设调查组",
-          "url": "https://www.toutiao.com/trending/7568462514166628402/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "利比亚石油部长：目前的产量接近每天140万桶。",
-          "url": "https://flash.jin10.com/detail/20251104161827884800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "据韩联社：韩国检方就韩国锌业公司股权收购案展开调查。",
-          "url": "https://flash.jin10.com/detail/20251104103405609800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "据路透调查：马来西亚十月份毛棕榈油产量预估为194万吨，较九月份上涨5.6%。",
-          "url": "https://flash.jin10.com/detail/20251104125134554800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "领导问你有什么意见，要说真话吗？",
-          "url": "https://www.zhihu.com/question/1960634256695985700",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "据路透调查：马来西亚十月份棕榈油出口量预估为148万吨，较九月份上涨3.8%。",
-          "url": "https://flash.jin10.com/detail/20251104125122917800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "以色列财政部长拟对银行因利息产生的利润征税。",
-          "url": "https://flash.jin10.com/detail/20251104182957619800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "瑞士央行官员Tschudin：目前不需要负利率。 目前不确定性非常大。 通胀预测处于“我们想要的水平”。 瑞郎是否被高估对政策来说并不是决定性的（因素）。 外汇干预是可能（发生）的。",
-          "url": "https://wallstreetcn.com/livenews/2999072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "据路透调查：马来西亚十月份棕榈油期末库存预估为244万吨，较九月份上涨3.5%。",
-          "url": "https://flash.jin10.com/detail/20251104125110520800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "以色列财政部长斯莫特里奇：以色列内阁将于12月4日就2026年国家预算进行投票。",
-          "url": "https://flash.jin10.com/detail/20251104182328858800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1233，较上一交易日官方收盘价跌8点，较上日夜盘收盘跌28点。",
-          "url": "https://wallstreetcn.com/livenews/2999100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "印度央行官员：在印度实现外汇市场全天候运行之前，还需做更多工作。",
-          "url": "https://flash.jin10.com/detail/20251104125006913800",
+          "title": "欧洲央行管委斯图纳拉斯：欧元区增长前景面临下行风险。",
+          "url": "https://flash.jin10.com/detail/20251104231014797800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "以财政部长：两年战事致以色列经济损失770亿美元",
-          "url": "https://flash.jin10.com/detail/20251104215032798800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "美联储理事库克：随着政府停摆的持续，评估经济将变得更加困难。",
-          "url": "https://flash.jin10.com/detail/20251104032341165800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "印度央行官员：需要开发更多种类的利率对冲产品。",
-          "url": "https://flash.jin10.com/detail/20251104124924066800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "欧盟碳税涨穿每吨80欧元整数位心理关口，至81.75欧元，逼近1月30日顶部82.68欧元。 11月3日稍早，德国政府针对能源密集型行业宣布新的支持措施。",
-          "url": "https://wallstreetcn.com/livenews/2998643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美联储理事库克：私营部门数据的一个局限性在于，它以目前存在延迟的政府数据作为基准。",
-          "url": "https://flash.jin10.com/detail/20251104032259781800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：未来经济发展的不确定性依然很高，风险偏向下行。",
-          "url": "https://flash.jin10.com/detail/20251104145755327800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "日本首相高市早苗：政府将战略性地部署财政支出，以提高家庭收入、提振消费者信心，并创造一个能增强经济的良性循环。",
-          "url": "https://flash.jin10.com/detail/20251104124741133800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "欧洲央行管委Patsalides：欧洲经济正显示出韧性。欧洲需要提高竞争力。",
-          "url": "https://flash.jin10.com/detail/20251104161516576800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "以色列财政部长斯莫特里奇：以色列经济具备从战争迅速转向增长的工具。",
-          "url": "https://flash.jin10.com/detail/20251104174119817800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "深圳一上市公司董事长被查",
-          "url": "https://www.toutiao.com/trending/7568513402742800427/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "日本经济财政政策大臣城内实：将于明年夏天确定日本的经济增长策略。 增长策略小组的成员包括学者和商界领袖，将首先列出经济刺激计划的焦点。 对经济刺激计划的资金来源不予置评。 预计日本央行将与政府就物价目标密切合作。 预计日本央行将同时致力于经济增长和物价稳定。",
-          "url": "https://wallstreetcn.com/livenews/2998903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "检察机关依法对张天峰涉嫌受贿案提起公诉",
-          "url": "https://wallstreetcn.com/livenews/2998902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：与韩国国防部官员讨论了加大国防投资。",
-          "url": "https://flash.jin10.com/detail/20251104124547405800",
+          "title": "俄总统办公厅副主任奥列什金将率团出席南非G20峰会",
+          "url": "https://flash.jin10.com/detail/20251104225906984800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "金融监管总局副局长周亮：深化内地与香港金融合作，巩固提升香港国际金融中心地位",
-          "url": "https://wallstreetcn.com/livenews/2998900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "房主任搂着杨幂给女儿录视频",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%90%82%E7%9D%80%E6%9D%A8%E5%B9%82%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%95%E8%A7%86%E9%A2%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26band_rank%3D27%26filter_type%3Drealtimehot%26pos%3D27%26c_type%3D31%26realpos%3D27%26q%3D%25E6%2588%25BF%25E4%25B8%25BB%25E4%25BB%25BB%25E6%2590%2582%25E7%259D%2580%25E6%259D%25A8%25E5%25B9%2582%25E7%25BB%2599%25E5%25A5%25B3%25E5%2584%25BF%25E5%25BD%2595%25E8%25A7%2586%25E9%25A2%2591%26cate%3D5001%26dgr%3D0%26display_time%3D1762186968%26pre_seqid%3D176218696822703333870146&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美联储理事库克：感谢在与政府的法律纠纷期间人们给予的支持。",
-          "url": "https://flash.jin10.com/detail/20251104031738969800",
-          "source": "金十数据",
+          "title": "举报贩婴反被抓,打拐英雄变囚犯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346644&amp;topic_name=%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%A9%B4%E5%8F%8D%E8%A2%AB%E6%8A%93%2C%E6%89%93%E6%8B%90%E8%8B%B1%E9%9B%84%E5%8F%98%E5%9B%9A%E7%8A%AF",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "中国即将发行或正在发行的地方政府债",
-          "url": "https://wallstreetcn.com/livenews/2998827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "日本首相高市早苗：预计日本央行将实施适当的货币政策，以可持续、稳定地实现其价格目标，并与政府密切合作。",
-          "url": "https://flash.jin10.com/detail/20251104124520889800",
+          "title": "挪威政府：挪威弹药公司与乌克兰工业合作伙伴签署意向书，将在乌克兰生产、研发和销售弹药。",
+          "url": "https://flash.jin10.com/detail/20251104225512267800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济宁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东一景区向农民免票一个月",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%99%AF%E5%8C%BA%E5%90%91%E5%86%9C%E6%B0%91%E5%85%8D%E7%A5%A8%E4%B8%80%E4%B8%AA%E6%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "00时23分"
         }
       ]
     }
