@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-04T20:41:13.139176+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2025-11-04T21:33:49.614619+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 124,
+      "match_count": 129,
       "titles": [
+        {
+          "title": "美国正走向“流动性危机”，“政府关门”相当于加息？下一步对市场至关重要",
+          "url": "https://wallstreetcn.com/articles/3758606",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 21时33分]"
+        },
         {
           "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
           "url": "https://www.cls.cn/detail/2190323",
@@ -22,20 +37,6 @@
           "time_info": "[12时22分 ~ 19时19分]"
         },
         {
-          "title": "美国正走向“流动性危机”，“政府关门”相当于加息？下一步对市场至关重要",
-          "url": "https://wallstreetcn.com/articles/3758606",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 20时41分]"
-        },
-        {
           "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882632",
           "source": "澎湃新闻",
@@ -47,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时22分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时22分 ~ 21时33分]"
         },
         {
           "title": "“苏超”第一季落幕，江苏多地党政主官部署备战来年",
@@ -76,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 21时33分]"
         },
         {
           "title": "明确“黑救护”打击范围，六部门开展非法救护车专项整治",
@@ -109,8 +110,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 20时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 21时33分]"
         },
         {
           "title": "美政府“停摆”将平纪录，食品救济金“减半”",
@@ -138,6 +139,18 @@
           "time_info": "[11时10分 ~ 18时22分]"
         },
         {
+          "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
+          "url": "https://news.ifeng.com/c/8o0a3ATKRGE",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
           "title": "南京大学通报食堂卖999元帝王蟹",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%A3%9F%E5%A0%82%E5%8D%96999%E5%85%83%E5%B8%9D%E7%8E%8B%E8%9F%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D0%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D1%26realpos%3D1%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E5%258D%2597%25E4%25BA%25AC%25E5%25A4%25A7%25E5%25AD%25A6%25E9%2580%259A%25E6%258A%25A5%25E9%25A3%259F%25E5%25A0%2582%25E5%258D%2596999%25E5%2585%2583%25E5%25B8%259D%25E7%258E%258B%25E8%259F%25B9%2523%26filter_type%3Drealtimehot%26display_time%3D1762225838%26pre_seqid%3D176222583811302541225152&launchid=10000360-page_H5",
           "source": "微博",
@@ -163,16 +176,29 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
-          "url": "https://news.ifeng.com/c/8o0a3ATKRGE",
-          "source": "凤凰网",
+          "title": "美政府停摆35天追平历史纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            2
+            8,
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时33分]"
+        },
+        {
+          "title": "贵州游船侧翻事故调查报告公布",
+          "url": "https://www.douyin.com/hot/2294371",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "校方通报“学生买淀粉肠被拔车钥匙”",
@@ -185,19 +211,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 15时19分]"
-        },
-        {
-          "title": "美政府停摆35天追平历史纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "学生买淀粉肠被拔车钥匙 校方再通报",
@@ -230,16 +243,19 @@
           "time_info": "[01时17分 ~ 07时18分]"
         },
         {
-          "title": "贵州游船侧翻事故调查报告公布",
-          "url": "https://www.douyin.com/hot/2294371",
-          "source": "抖音",
+          "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31890428",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            20,
+            18,
+            14,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "time_info": "[17时23分 ~ 21时33分]"
         },
         {
           "title": "校方通报学生买淀粉肠被拔车钥匙",
@@ -313,20 +329,6 @@
           "time_info": "[11时10分 ~ 15时19分]"
         },
         {
-          "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31890428",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 20时41分]"
-        },
-        {
           "title": "加拿大工业部长：将与斯泰兰蒂斯(STLA.N)启动争端解决机制。",
           "url": "https://flash.jin10.com/detail/20251104001510347800",
           "source": "金十数据",
@@ -347,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "智利国家铜业公司三季度向智利政府缴付金额提升16.5%。",
+          "url": "https://flash.jin10.com/detail/20251104212913768800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "土耳其财政部长：我们希望外国投资者在市场中的份额恢复到过去的水平。",
@@ -380,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "菲律宾宿务省政府：菲律宾台风造成的死亡人数在宿务省升至39人。",
+          "url": "https://flash.jin10.com/detail/20251104212813339800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "人民币兑美元中间价报7.0885，下调18点；上一交易日中间价7.0867，上一交易日官方收盘价7.1225，上日夜盘报收7.1205。",
@@ -421,7 +445,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -460,6 +484,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 14时29分]"
+        },
+        {
+          "title": "税务部门曝光6起网红和网店偷税案件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31890870",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "前10月地方政府发债同比增23%",
@@ -561,18 +597,6 @@
           "time_info": "[11时10分 ~ 17时23分]"
         },
         {
-          "title": "税务部门曝光6起网红和网店偷税案件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31890870",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 20时41分]"
-        },
-        {
           "title": "奥巴马抨击美政府：天天像过万圣节",
           "url": "https://www.baidu.com/s?wd=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%8A%A8%E5%87%BB%E7%BE%8E%E6%94%BF%E5%BA%9C%EF%BC%9A%E5%A4%A9%E5%A4%A9%E5%83%8F%E8%BF%87%E4%B8%87%E5%9C%A3%E8%8A%82",
           "source": "百度热搜",
@@ -584,6 +608,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "拔钥匙的副校长丢了谁的体面",
+          "url": "https://www.toutiao.com/trending/7568094113298169897/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "美联储理事库克：同样关注通过纽约联储及其他调查得出的通胀预期。",
@@ -610,6 +645,17 @@
           "time_info": "[15时19分 ~ 17时23分]"
         },
         {
+          "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
+          "url": "https://news.ifeng.com/c/8o0kHEb9Udw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时33分]"
+        },
+        {
           "title": "财政部新设债务管理司，此举对地方债市场有何积极影响，为何要新设此部门？",
           "url": "https://www.zhihu.com/question/1968975291004203064",
           "source": "知乎",
@@ -633,17 +679,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "拔钥匙的副校长丢了谁的体面",
-          "url": "https://www.toutiao.com/trending/7568094113298169897/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "秘鲁外交部长表示，与墨西哥断交是由于墨西哥启动了向前总理贝茜·查韦斯提供庇护的程序，这一举动“不友好”。",
@@ -766,6 +801,17 @@
           "time_info": "[14时29分 ~ 15时19分]"
         },
         {
+          "title": "停摆了一个月后，美国政府终现“重开迹象”",
+          "url": "https://wallstreetcn.com/articles/3758617",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "政府停摆影响航空安全，美国交通部长称：如有必要将关闭全国领空",
           "url": "https://wallstreetcn.com/livenews/2998674",
           "source": "华尔街见闻-快讯",
@@ -824,17 +870,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时26分]"
-        },
-        {
-          "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
-          "url": "https://news.ifeng.com/c/8o0kHEb9Udw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "德国政府：预计将在2026年实施能源补贴，从而提振重工业",
@@ -973,7 +1008,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -989,6 +1024,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
+          "url": "https://wallstreetcn.com/livenews/2999233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美政府停摆对美国航空业影响几何",
           "url": "https://www.toutiao.com/trending/7568520825075138596/",
           "source": "今日头条",
@@ -1000,15 +1046,15 @@
           "time_info": "09时22分"
         },
         {
-          "title": "停摆了一个月后，美国政府终现“重开迹象”",
-          "url": "https://wallstreetcn.com/articles/3758617",
-          "source": "华尔街见闻",
+          "title": "韩情报部门：美朝峰会或于明年3月后举行",
+          "url": "https://news.ifeng.com/c/8o0tgjiESc1",
+          "source": "凤凰网",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "21时33分"
         },
         {
           "title": "三菱公司首席执行官：将继续与日本政府及商业伙伴就我们在俄罗斯萨哈林-2液化天然气项目中的股权问题进行磋商。",
@@ -1141,6 +1187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "叙利亚能源部长与卢克石油公司和保加利亚国家石油公司集团探讨合作前景。",
+          "url": "https://flash.jin10.com/detail/20251104211654868800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "领导安排不合理的任务，应该怎么对待？",
