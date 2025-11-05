@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:33:23.588957+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-11-05T22:19:48.002597+08:00",
+  "total_titles_processed": 2013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 114,
+      "match_count": 119,
       "titles": [
         {
           "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时23分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 22时19分]"
         },
         {
           "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
@@ -84,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时30分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 22时19分]"
         },
         {
           "title": "水产市场“麻醉鱼”调查",
@@ -176,11 +176,12 @@
             13,
             14,
             18,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时19分 ~ 20时39分]"
+          "appearance_count": 11,
+          "time_info": "[13时19分 ~ 22时19分]"
         },
         {
           "title": "澎湃回声｜江西通报办电话卡需提供无犯罪证明等：已责成相关企业排查整改",
@@ -248,6 +249,18 @@
           "time_info": "[00时23分 ~ 09时24分]"
         },
         {
+          "title": "美政府“停摆”破纪录！政客“接着奏乐接着舞”",
+          "url": "https://news.ifeng.com/c/8o2JkDIu1gm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
           "title": "韩情报部门：美朝峰会或于明年3月后举行",
           "url": "https://news.ifeng.com/c/8o0tgjiESc1",
           "source": "凤凰网",
@@ -257,17 +270,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "美政府“停摆”破纪录！政客“接着奏乐接着舞”",
-          "url": "https://news.ifeng.com/c/8o2JkDIu1gm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "水产市场“麻醉鱼”调查：有商家称麻药有味会换水再卖",
@@ -296,6 +298,17 @@
           "time_info": "[09时23分 ~ 14时30分]"
         },
         {
+          "title": "法国内政部长：奥莱龙岛汽车袭击者在被捕时进行抵抗，并试图纵火焚烧自己的汽车。袭击者现已落网。",
+          "url": "https://flash.jin10.com/detail/20251105221515191800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "大陆是否会将惩“独”名单通报国际刑警组织？国台办回应",
           "url": "https://news.ifeng.com/c/8o1viusIILr",
           "source": "凤凰网",
@@ -319,6 +332,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时26分 ~ 20时39分]"
+        },
+        {
+          "title": "拨款法案再次“闯关”失败，美政府即将刷新“停摆”纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31896186",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "加拿大政府赤字预期公布后，美元兑加元USD/CAD小幅走高。",
@@ -459,11 +484,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时19分]"
         },
         {
           "title": "欧洲央行管委Nagel：中期通胀非常接近目标水平。",
@@ -475,6 +501,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "“资本主义之都”选出了“最反资本主义”的市长",
+          "url": "https://wallstreetcn.com/articles/3758704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "纽约市长选举投票最后一日：热门候选人艺术家妻子引关注(图)",
@@ -538,18 +579,6 @@
           "time_info": "[13时19分 ~ 18时21分]"
         },
         {
-          "title": "拨款法案再次“闯关”失败，美政府即将刷新“停摆”纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31896186",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
-        },
-        {
           "title": "官方辟谣天河机场飞机冲出来",
           "url": "https://www.douyin.com/hot/2294593",
           "source": "抖音",
@@ -598,6 +627,17 @@
           "time_info": "[18时21分 ~ 19时17分]"
         },
         {
+          "title": "泰国政府重申拒绝赌场合法化，期望中国游客回归",
+          "url": "https://news.ifeng.com/c/8o2PoY7rBEJ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时19分]"
+        },
+        {
           "title": "欧盟委员会通过2025年欧盟扩大方案，新成员国的加入指日可待",
           "url": "https://wallstreetcn.com/livenews/2999305",
           "source": "华尔街见闻-快讯",
@@ -620,20 +660,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "“资本主义之都”选出了“最反资本主义”的市长",
-          "url": "https://wallstreetcn.com/articles/3758704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "房主任搂着杨幂给女儿录视频",
@@ -669,17 +695,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时30分 ~ 17时21分]"
-        },
-        {
-          "title": "泰国政府重申拒绝赌场合法化，期望中国游客回归",
-          "url": "https://news.ifeng.com/c/8o2PoY7rBEJ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时33分]"
         },
         {
           "title": "警方通报28岁男子持刀扎伤2同事",
@@ -976,7 +991,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -998,7 +1013,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1146,6 +1161,17 @@
           "time_info": "18时21分"
         },
         {
+          "title": "俄罗斯国防部长：俄罗斯必须保持其核武库的战备状态。",
+          "url": "https://flash.jin10.com/detail/20251105215728227800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "如何看待飞天茅台电商补贴售价已降至官方指导价 1499 元，「价格是价值的一部分」逻辑还成立吗？",
           "url": "https://www.zhihu.com/question/1969341466842195820",
           "source": "知乎",
@@ -1166,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "俄罗斯国防部长：必须立即着手准备核试验。",
+          "url": "https://flash.jin10.com/detail/20251105215659673800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：不急于断言12月需进行降息。",
@@ -1196,7 +1233,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1210,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "俄罗斯国防部长：我们应保持自身的核潜力。",
+          "url": "https://flash.jin10.com/detail/20251105215603041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "印尼高级经济部长：第四季度无需推出新的刺激措施，现有计划已足够。",
@@ -1353,6 +1401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "美政府停摆继续 民主党为何先破防",
+          "url": "https://www.toutiao.com/trending/7569192765095939611/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
@@ -1372,8 +1431,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时22分 ~ 22时19分]"
         }
       ]
     }
