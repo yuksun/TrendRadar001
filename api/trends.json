@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:19:35.569250+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-11-06T09:23:32.953466+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时23分]"
         },
         {
           "title": "美政府“停摆”破纪录！政客“接着奏乐接着舞”",
@@ -30,6 +31,36 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "挑战禁狙的CF校长",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%A6%81%E7%8B%99%E7%9A%84CF%E6%A0%A1%E9%95%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            22,
+            23,
+            10,
+            17,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时23分]"
+        },
+        {
+          "title": "“资本主义之都”选出了“最反资本主义”的市长",
+          "url": "https://wallstreetcn.com/articles/3758704",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时23分]"
         },
         {
           "title": "新任干部炫耀公务员身份泄密被处分",
@@ -46,34 +77,6 @@
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "挑战禁狙的CF校长",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%A6%81%E7%8B%99%E7%9A%84CF%E6%A0%A1%E9%95%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            22,
-            23,
-            10,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "“资本主义之都”选出了“最反资本主义”的市长",
-          "url": "https://wallstreetcn.com/articles/3758704",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
@@ -99,6 +102,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0865，上调36点；上一交易日中间价7.0901，上一交易日官方收盘价7.1246，上日夜盘报收7.1276。",
+          "url": "https://wallstreetcn.com/livenews/3000212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "石家庄桥西警方通报男子持刀扎伤两名同事，系工作纠纷，具体怎么回事？涉事男子可能面临哪些法律问题？",
+          "url": "https://www.zhihu.com/question/1969403767393841864",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "美政府史上最长“停摆”被吐槽：这纪录破了也赢不了金牌",
+          "url": "https://news.ifeng.com/c/8o3GnAZu2ha",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "美联储理事米兰：对通胀前景比其他美联储官员更为乐观。",
@@ -197,6 +233,17 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "涉嫌严重违纪违法 柏林被查",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95+%E6%9F%8F%E6%9E%97%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "欧盟理事会就修改《欧洲气候法》达成一致，维持了欧盟委员会提出的中期气候目标",
           "url": "https://wallstreetcn.com/livenews/3000007",
           "source": "华尔街见闻-快讯",
@@ -225,9 +272,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "日本前官员评高市早苗“笑颜外交”",
+          "url": "https://www.toutiao.com/trending/7568155152458924051/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "上证报调查：超八成投顾看涨四季度，科技板块仍是主线",
@@ -236,7 +294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
