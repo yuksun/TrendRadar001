@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:19:49.127521+08:00",
-  "total_titles_processed": 2020,
+  "generated_at": "2025-11-06T23:22:29.106453+08:00",
+  "total_titles_processed": 2114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -44,11 +44,12 @@
             12,
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时13分 ~ 23时22分]"
         },
         {
           "title": "挑战禁狙的CF校长",
@@ -86,6 +87,18 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "湖南省人民医院一名副院长被指出轨女医师，省卫健委：对两人停职调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906003",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
+        },
+        {
           "title": "财联社C50风向指数调查：10月新增贷款或同比少增，政府债发行放缓或带动社融回落",
           "url": "https://www.cls.cn/detail/2192655",
           "source": "财联社热门",
@@ -120,17 +133,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 19时17分]"
-        },
-        {
-          "title": "湖南省人民医院一名副院长被指出轨女医师，省卫健委：对两人停职调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906003",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时19分]"
         },
         {
           "title": "美FBI局长被曝用公务飞机接女友",
@@ -247,26 +249,15 @@
           "time_info": "20时38分"
         },
         {
-          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
-          "url": "https://wallstreetcn.com/livenews/3000612",
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美参议员提议：政府不“开门”国会议员就停薪",
-          "url": "https://wallstreetcn.com/livenews/3000611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时22分"
         },
         {
           "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
@@ -286,7 +277,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -338,6 +329,18 @@
           "time_info": "[12时26分 ~ 13时19分]"
         },
         {
+          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
+          "url": "https://wallstreetcn.com/livenews/3000612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时22分]"
+        },
+        {
           "title": "英国“改革党”Reform官员Richard Tice：英国存在“过度监管”问题。 我们主张的去监管策略将在大约九个月内成形。 需要通过“大规模改革”来解决英国面临的“大爆炸”（风险）。 评估英国央行的独立性将是合理的。 英国央行（获得的经济）增长职责是最值得讨论的。 我将侧重于金融监管、税收、养老金、以及为增长提供财政支持。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3000055",
           "source": "华尔街见闻-快讯",
@@ -361,6 +364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "美参议员提议：政府不“开门”国会议员就停薪",
+          "url": "https://wallstreetcn.com/livenews/3000611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时22分]"
         },
         {
           "title": "石家庄桥西警方通报男子持刀扎伤两名同事，系工作纠纷，具体怎么回事？涉事男子可能面临哪些法律问题？",
@@ -397,6 +412,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时26分 ~ 19时17分]"
+        },
+        {
+          "title": "网传杭州一楼盘用饮料瓶砌墙，官方公布调查结果(图)",
+          "url": "https://news.ifeng.com/c/8o4BWH9moXr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时22分]"
         },
         {
           "title": "男子冒充民政局局长拍照收集信息",
@@ -449,17 +475,6 @@
           "time_info": "[15时19分 ~ 17时21分]"
         },
         {
-          "title": "网传杭州一楼盘用饮料瓶砌墙，官方公布调查结果(图)",
-          "url": "https://news.ifeng.com/c/8o4BWH9moXr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
           "title": "医院回应网传副院长出轨眼科主任",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%258C%25BB%25E9%2599%25A2%25E5%259B%259E%25E5%25BA%2594%25E7%25BD%2591%25E4%25BC%25A0%25E5%2589%25AF%25E9%2599%25A2%25E9%2595%25BF%25E5%2587%25BA%25E8%25BD%25A8%25E7%259C%25BC%25E7%25A7%2591%25E4%25B8%25BB%25E4%25BB%25BB%2523%26band_rank%3D15%26pos%3D15%26filter_type%3Drealtimehot%26realpos%3D15%26c_type%3D31%26dgr%3D0%26flag%3D1%26cate%3D5001%26lcate%3D5001%26display_time%3D1762403043%26pre_seqid%3D17624030437580343237633&launchid=10000360-page_H5",
           "source": "微博",
@@ -470,6 +485,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 13时19分]"
+        },
+        {
+          "title": "区划调整后，罗蔺已任重庆市委常委、两江新区区委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时22分]"
         },
         {
           "title": "湖南省人民医院出轨医生停职",
@@ -604,15 +631,15 @@
           "time_info": "[02时27分 ~ 03时17分]"
         },
         {
-          "title": "区划调整后，罗蔺已任重庆市委常委、两江新区区委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31905978",
-          "source": "澎湃新闻",
+          "title": "朝鲜外务省官员阐明对美立场",
+          "url": "https://www.douyin.com/hot/2296264",
+          "source": "抖音",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时19分]"
+          "time_info": "[22时19分 ~ 23时22分]"
         },
         {
           "title": "校长教过的优秀毕业生",
@@ -749,6 +776,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "副院长和眼科副主任被指存在不当关系，湖南省卫健委：均已停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854228",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "印度财政部长：将对人工智能监管采取审慎包容的治理方针。",
           "url": "https://flash.jin10.com/detail/20251106175959823800",
           "source": "金十数据",
@@ -799,7 +837,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -821,7 +859,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -832,7 +870,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -843,7 +881,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -865,7 +903,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -909,7 +947,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -936,15 +974,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "朝鲜外务省官员阐明对美立场",
-          "url": "https://www.douyin.com/hot/2296264",
-          "source": "抖音",
+          "title": "副院长出轨眼科主任医院6月刚被罚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%E5%8C%BB%E9%99%A26%E6%9C%88%E5%88%9A%E8%A2%AB%E7%BD%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26band_rank%3D23%26pos%3D23%26stream_entry_id%3D31%26q%3D%2523%25E5%2589%25AF%25E9%2599%25A2%25E9%2595%25BF%25E5%2587%25BA%25E8%25BD%25A8%25E7%259C%25BC%25E7%25A7%2591%25E4%25B8%25BB%25E4%25BB%25BB%25E5%258C%25BB%25E9%2599%25A26%25E6%259C%2588%25E5%2588%259A%25E8%25A2%25AB%25E7%25BD%259A%2523%26cate%3D5001%26display_time%3D1762442465%26pre_seqid%3D176244246508109980319&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时22分"
         },
         {
           "title": "菲律宾现政府南海政策的成因是什么",
@@ -975,7 +1013,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
