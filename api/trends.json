@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:31:41.002095+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2025-11-06T22:19:49.127521+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 73,
+      "match_count": 84,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时13分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时13分 ~ 22时19分]"
         },
         {
           "title": "挑战禁狙的CF校长",
@@ -122,6 +122,17 @@
           "time_info": "[17时21分 ~ 19时17分]"
         },
         {
+          "title": "湖南省人民医院一名副院长被指出轨女医师，省卫健委：对两人停职调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906003",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时19分]"
+        },
+        {
           "title": "美FBI局长被曝用公务飞机接女友",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8EFBI%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9B%9D%E7%94%A8%E5%85%AC%E5%8A%A1%E9%A3%9E%E6%9C%BA%E6%8E%A5%E5%A5%B3%E5%8F%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%25BE%258EFBI%25E5%25B1%2580%25E9%2595%25BF%25E8%25A2%25AB%25E6%259B%259D%25E7%2594%25A8%25E5%2585%25AC%25E5%258A%25A1%25E9%25A3%259E%25E6%259C%25BA%25E6%258E%25A5%25E5%25A5%25B3%25E5%258F%258B%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D1%26c_type%3D31%26flag%3D0%26pos%3D0%26display_time%3D1762398659%26pre_seqid%3D17623986596560341469949&launchid=10000360-page_H5",
           "source": "微博",
@@ -146,17 +157,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时14分 ~ 17时21分]"
-        },
-        {
-          "title": "湖南省人民医院一名副院长被指出轨女医师，省卫健委：对两人停职调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906003",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时31分]"
         },
         {
           "title": "人民币兑美元中间价报7.0865，上调36点；上一交易日中间价7.0901，上一交易日官方收盘价7.1246，上日夜盘报收7.1276。",
@@ -247,6 +247,28 @@
           "time_info": "20时38分"
         },
         {
+          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
+          "url": "https://wallstreetcn.com/livenews/3000612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "美参议员提议：政府不“开门”国会议员就停薪",
+          "url": "https://wallstreetcn.com/livenews/3000611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
           "url": "https://flash.jin10.com/detail/20251106191520119800",
           "source": "金十数据",
@@ -256,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "微软(MSFT.O)AI组建超级智能团队，该团队将由苏莱曼领导。",
+          "url": "https://flash.jin10.com/detail/20251106221421640800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "重庆书记袁家军谈重庆区划调整",
@@ -416,6 +449,17 @@
           "time_info": "[15时19分 ~ 17时21分]"
         },
         {
+          "title": "网传杭州一楼盘用饮料瓶砌墙，官方公布调查结果(图)",
+          "url": "https://news.ifeng.com/c/8o4BWH9moXr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时19分]"
+        },
+        {
           "title": "医院回应网传副院长出轨眼科主任",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%258C%25BB%25E9%2599%25A2%25E5%259B%259E%25E5%25BA%2594%25E7%25BD%2591%25E4%25BC%25A0%25E5%2589%25AF%25E9%2599%25A2%25E9%2595%25BF%25E5%2587%25BA%25E8%25BD%25A8%25E7%259C%25BC%25E7%25A7%2591%25E4%25B8%25BB%25E4%25BB%25BB%2523%26band_rank%3D15%26pos%3D15%26filter_type%3Drealtimehot%26realpos%3D15%26c_type%3D31%26dgr%3D0%26flag%3D1%26cate%3D5001%26lcate%3D5001%26display_time%3D1762403043%26pre_seqid%3D17624030437580343237633&launchid=10000360-page_H5",
           "source": "微博",
@@ -426,6 +470,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 13时19分]"
+        },
+        {
+          "title": "湖南省人民医院出轨医生停职",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E5%87%BA%E8%BD%A8%E5%8C%BB%E7%94%9F%E5%81%9C%E8%81%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D30%26band_rank%3D30%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D0%26q%3D%2523%25E6%25B9%2596%25E5%258D%2597%25E7%259C%2581%25E4%25BA%25BA%25E6%25B0%2591%25E5%258C%25BB%25E9%2599%25A2%25E5%2587%25BA%25E8%25BD%25A8%25E5%258C%25BB%25E7%2594%259F%25E5%2581%259C%25E8%2581%258C%2523%26pos%3D31%26dgr%3D0%26lcate%3D5001%26cate%3D5001%26display_time%3D1762427821%26pre_seqid%3D176242782137408886816&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "日官方为何公布高市早苗APEC名场面",
@@ -487,6 +544,18 @@
           "time_info": "[18时22分 ~ 19时17分]"
         },
         {
+          "title": "英国央行行长贝利：随着每次降息，是否进一步行动将变成更艰难的决定。 最新的通胀数据令人鼓舞，但仅是单一数据点。 12月的利率决策将把（政府）预算案纳入考量。 不应由我们来推测预算案具体内容。 对财政大臣本周的讲话不予评论。 我个人的观点是，我们需要看到更多的数据。 目前的市场利率曲线反映了一条合理的路径。 货币政策委员会在终端利率问题上存在广泛分歧。",
+          "url": "https://wallstreetcn.com/livenews/3000579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时19分]"
+        },
+        {
           "title": "湖南省人民医院网传出轨医生无号可挂",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E7%BD%91%E4%BC%A0%E5%87%BA%E8%BD%A8%E5%8C%BB%E7%94%9F%E6%97%A0%E5%8F%B7%E5%8F%AF%E6%8C%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E6%25B9%2596%25E5%258D%2597%25E7%259C%2581%25E4%25BA%25BA%25E6%25B0%2591%25E5%258C%25BB%25E9%2599%25A2%25E7%25BD%2591%25E4%25BC%25A0%25E5%2587%25BA%25E8%25BD%25A8%25E5%258C%25BB%25E7%2594%259F%25E6%2597%25A0%25E5%258F%25B7%25E5%258F%25AF%25E6%258C%2582%2523%26dgr%3D0%26cate%3D5001%26realpos%3D26%26stream_entry_id%3D31%26band_rank%3D26%26pos%3D27%26flag%3D1%26display_time%3D1762410545%26pre_seqid%3D176241054595002572388105&launchid=10000360-page_H5",
           "source": "微博",
@@ -497,17 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "网传杭州一楼盘用饮料瓶砌墙，官方公布调查结果(图)",
-          "url": "https://news.ifeng.com/c/8o4BWH9moXr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时31分]"
         },
         {
           "title": "商务部：中国政府高度重视、积极推进加入CPTPP相关工作",
@@ -546,6 +604,17 @@
           "time_info": "[02时27分 ~ 03时17分]"
         },
         {
+          "title": "区划调整后，罗蔺已任重庆市委常委、两江新区区委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时19分]"
+        },
+        {
           "title": "校长教过的优秀毕业生",
           "url": "https://search.bilibili.com/all?keyword=%E6%A0%A1%E9%95%BF%E6%95%99%E8%BF%87%E7%9A%84%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F",
           "source": "bilibili 热搜",
@@ -556,18 +625,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 04时21分]"
-        },
-        {
-          "title": "湖南省人民医院出轨医生停职",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E5%87%BA%E8%BD%A8%E5%8C%BB%E7%94%9F%E5%81%9C%E8%81%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D30%26band_rank%3D30%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D0%26q%3D%2523%25E6%25B9%2596%25E5%258D%2597%25E7%259C%2581%25E4%25BA%25BA%25E6%25B0%2591%25E5%258C%25BB%25E9%2599%25A2%25E5%2587%25BA%25E8%25BD%25A8%25E5%258C%25BB%25E7%2594%259F%25E5%2581%259C%25E8%2581%258C%2523%26pos%3D31%26dgr%3D0%26lcate%3D5001%26cate%3D5001%26display_time%3D1762427821%26pre_seqid%3D176242782137408886816&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 21时31分]"
         },
         {
           "title": "新公务员发涉密文件炫耀被处分",
@@ -659,17 +716,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "英国央行行长贝利：随着每次降息，是否进一步行动将变成更艰难的决定。 最新的通胀数据令人鼓舞，但仅是单一数据点。 12月的利率决策将把（政府）预算案纳入考量。 不应由我们来推测预算案具体内容。 对财政大臣本周的讲话不予评论。 我个人的观点是，我们需要看到更多的数据。 目前的市场利率曲线反映了一条合理的路径。 货币政策委员会在终端利率问题上存在广泛分歧。",
-          "url": "https://wallstreetcn.com/livenews/3000579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "不满绿营支持“废死”，王世坚怒呛台官员：假仁假义，欺世盗名",
           "url": "https://news.ifeng.com/c/8o3Xd5vbq8M",
           "source": "凤凰网",
@@ -747,6 +793,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "据路透调查：预计阿根廷比索预计在12个月内贬值12.7%，兑美元汇率将跌至1660比索兑换1美元（10月调查预期为1655比索兑换1美元）。",
+          "url": "https://flash.jin10.com/detail/20251106220723257800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "泰国财政部长：下周将推出措施，帮助小型企业解决流动性问题。",
           "url": "https://flash.jin10.com/detail/20251106134704301800",
           "source": "金十数据",
@@ -756,6 +813,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "据路透调查：预计墨西哥比索将在12个月内贬值3.2%，至1美元兑19.20比索（10月调查时为1美元兑18.75比索）。",
+          "url": "https://flash.jin10.com/detail/20251106220657167800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "据路透调查：预计未来三个月巴西雷亚尔兑美元汇率将稳定在5.36（10月调查时为5.40）。",
+          "url": "https://flash.jin10.com/detail/20251106220645936800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "上海市市长龚正会见地中海航运公司CEO，愿强强携手，长期合作，互利共赢",
+          "url": "https://wallstreetcn.com/livenews/3000604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "网传出轨医生上月还曾一同参加义诊",
@@ -769,15 +859,15 @@
           "time_info": "17时21分"
         },
         {
-          "title": "区划调整后，罗蔺已任重庆市委常委、两江新区区委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31905978",
-          "source": "澎湃新闻",
+          "title": "意大利经济部长：政府将于2026年初向议会通报增加国防开支的计划。",
+          "url": "https://flash.jin10.com/detail/20251106220501827800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "22时19分"
         },
         {
           "title": "法国三季度私营部门就业人数季环比初值 -0.3%，前值 0.2%。",
@@ -813,6 +903,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "为什么有些领导气场都特别强？",
+          "url": "https://www.zhihu.com/question/411526139",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美休斯敦大规模移民执法行动已致超1500人被捕",
           "url": "https://wallstreetcn.com/livenews/2999996",
           "source": "华尔街见闻-快讯",
@@ -835,6 +936,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "朝鲜外务省官员阐明对美立场",
+          "url": "https://www.douyin.com/hot/2296264",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "菲律宾现政府南海政策的成因是什么",
           "url": "https://www.toutiao.com/trending/7569459579357478962/",
           "source": "今日头条",
@@ -855,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "尼日利亚财政部长：尼日利亚欧元债券发行成功，顶住了政治逆风。",
+          "url": "https://flash.jin10.com/detail/20251106215542880800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "江西省人大常委会委员王爱和被查",
