@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:19:33.864067+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-11-06T16:26:27.514645+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -81,6 +81,34 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "观察｜纽约和伦敦市长都是穆斯林、南亚裔，共同对抗右翼势力抬头",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31900736",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时26分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：10月新增贷款或同比少增，政府债发行放缓或带动社融回落",
+          "url": "https://www.cls.cn/detail/2192655",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时26分]"
+        },
+        {
           "title": "美FBI局长被曝用公务飞机接女友",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8EFBI%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9B%9D%E7%94%A8%E5%85%AC%E5%8A%A1%E9%A3%9E%E6%9C%BA%E6%8E%A5%E5%A5%B3%E5%8F%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%25BE%258EFBI%25E5%25B1%2580%25E9%2595%25BF%25E8%25A2%25AB%25E6%259B%259D%25E7%2594%25A8%25E5%2585%25AC%25E5%258A%25A1%25E9%25A3%259E%25E6%259C%25BA%25E6%258E%25A5%25E5%25A5%25B3%25E5%258F%258B%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D1%26c_type%3D31%26flag%3D0%26pos%3D0%26display_time%3D1762398659%26pre_seqid%3D17623986596560341469949&launchid=10000360-page_H5",
           "source": "微博",
@@ -94,34 +122,6 @@
           "time_info": "[11时13分 ~ 12时26分]"
         },
         {
-          "title": "观察｜纽约和伦敦市长都是穆斯林、南亚裔，共同对抗右翼势力抬头",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31900736",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时19分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：10月新增贷款或同比少增，政府债发行放缓或带动社融回落",
-          "url": "https://www.cls.cn/detail/2192655",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
           "title": "人民币兑美元中间价报7.0865，上调36点；上一交易日中间价7.0901，上一交易日官方收盘价7.1246，上日夜盘报收7.1276。",
           "url": "https://wallstreetcn.com/livenews/3000212",
           "source": "华尔街见闻-快讯",
@@ -131,6 +131,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "我性格内向，喜欢独来独往，不喜欢和同事接触，为什么领导同事聚餐不叫我反而会感到有些孤立和尴尬呢？",
+          "url": "https://www.zhihu.com/question/512504760",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时26分]"
         },
         {
           "title": "涉嫌严重违纪违法 柏林被查",
@@ -146,6 +159,43 @@
           "time_info": "[09时23分 ~ 13时19分]"
         },
         {
+          "title": "医院副院长疑出轨眼科主任 均被停职",
+          "url": "https://www.toutiao.com/trending/7568871777200554026/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "重庆书记袁家军谈重庆区划调整",
+          "url": "https://www.toutiao.com/trending/7569453460962164774/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时26分]"
+        },
+        {
+          "title": "重庆市两江新区迎来首任区委书记",
+          "url": "https://www.toutiao.com/trending/7569459311076707882/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 16时26分]"
+        },
+        {
           "title": "美联储理事米兰：对通胀前景比其他美联储官员更为乐观。",
           "url": "https://flash.jin10.com/detail/20251106001220748800",
           "source": "金十数据",
@@ -155,32 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "我性格内向，喜欢独来独往，不喜欢和同事接触，为什么领导同事聚餐不叫我反而会感到有些孤立和尴尬呢？",
-          "url": "https://www.zhihu.com/question/512504760",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
-          "title": "重庆市两江新区迎来首任区委书记",
-          "url": "https://www.toutiao.com/trending/7569459311076707882/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "当地时间11月6日，俄罗斯哈巴罗夫斯克边疆区紧急情况部门称，当地发生一起大巴车与火车相撞事故，目前报告有4人受伤。",
@@ -205,18 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时19分]"
-        },
-        {
-          "title": "重庆书记袁家军谈重庆区划调整",
-          "url": "https://www.toutiao.com/trending/7569453460962164774/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "英国“改革党”Reform官员Richard Tice：英国存在“过度监管”问题。 我们主张的去监管策略将在大约九个月内成形。 需要通过“大规模改革”来解决英国面临的“大爆炸”（风险）。 评估英国央行的独立性将是合理的。 英国央行（获得的经济）增长职责是最值得讨论的。 我将侧重于金融监管、税收、养老金、以及为增长提供财政支持。（彭博）",
@@ -280,6 +292,17 @@
           "time_info": "[12时25分 ~ 13时19分]"
         },
         {
+          "title": "澎湃漫评｜乡镇政府没理由“门难进”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31899294",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时26分]"
+        },
+        {
           "title": "日官方为何公布高市早苗APEC名场面",
           "url": "https://www.toutiao.com/trending/7569065009595026990/",
           "source": "今日头条",
@@ -290,6 +313,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时13分 ~ 13时19分]"
+        },
+        {
+          "title": "如何评价华硕官方账号错误发布「关闭 ACE 反作弊可提升性能」视频并公开致歉事件？",
+          "url": "https://www.zhihu.com/question/1969365578222376847",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时26分]"
         },
         {
           "title": "就业、通胀、零售数据出错！英国政府统计部门：准备在“做得太多”后削减数据产出",
@@ -340,17 +375,6 @@
           "time_info": "[02时27分 ~ 03时17分]"
         },
         {
-          "title": "澎湃漫评｜乡镇政府没理由“门难进”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31899294",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
           "title": "校长教过的优秀毕业生",
           "url": "https://search.bilibili.com/all?keyword=%E6%A0%A1%E9%95%BF%E6%95%99%E8%BF%87%E7%9A%84%E4%BC%98%E7%A7%80%E6%AF%95%E4%B8%9A%E7%94%9F",
           "source": "bilibili 热搜",
@@ -386,26 +410,26 @@
           "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "如何评价华硕官方账号错误发布「关闭 ACE 反作弊可提升性能」视频并公开致歉事件？",
-          "url": "https://www.zhihu.com/question/1969365578222376847",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "副院长被指与女同事有私情纪检介入",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%AF%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8C%87%E4%B8%8E%E5%A5%B3%E5%90%8C%E4%BA%8B%E6%9C%89%E7%A7%81%E6%83%85%E7%BA%AA%E6%A3%80%E4%BB%8B%E5%85%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%2589%25AF%25E9%2599%25A2%25E9%2595%25BF%25E8%25A2%25AB%25E6%258C%2587%25E4%25B8%258E%25E5%25A5%25B3%25E5%2590%258C%25E4%25BA%258B%25E6%259C%2589%25E7%25A7%2581%25E6%2583%2585%25E7%25BA%25AA%25E6%25A3%2580%25E4%25BB%258B%25E5%2585%25A5%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26band_rank%3D10%26cate%3D5001%26realpos%3D10%26flag%3D1%26pos%3D10%26display_time%3D1762413420%26pre_seqid%3D1762413420161010760176&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "斐济有关官员窜访台湾，中方提出严正交涉",
+          "url": "https://news.ifeng.com/c/8o3tQ1mo6Cu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "欧盟理事会就修改《欧洲气候法》达成一致，维持了欧盟委员会提出的中期气候目标",
@@ -425,7 +449,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -447,9 +471,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "商务部：中国政府高度重视、积极推进加入CPTPP相关工作",
+          "url": "https://wallstreetcn.com/livenews/3000422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美联储理事米兰：ADP数据是个令人欣喜的意外。政府停摆前的就业市场趋势似乎依然存在。",
@@ -496,6 +531,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "法国三季度私营部门就业人数季环比初值 -0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "日本前官员评高市早苗“笑颜外交”",
           "url": "https://www.toutiao.com/trending/7568155152458924051/",
           "source": "今日头条",
@@ -540,6 +586,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "官方通报网传副院长出轨眼科主任",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D26%26cate%3D5001%26band_rank%3D26%26q%3D%2523%25E5%25AE%2598%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E7%25BD%2591%25E4%25BC%25A0%25E5%2589%25AF%25E9%2599%25A2%25E9%2595%25BF%25E5%2587%25BA%25E8%25BD%25A8%25E7%259C%25BC%25E7%25A7%2591%25E4%25B8%25BB%25E4%25BB%25BB%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D26%26display_time%3D1762417570%26pre_seqid%3D176241757059003386112158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "江西省人大常委会委员王爱和被查",
           "url": "https://www.toutiao.com/trending/7569450410294411314/",
           "source": "今日头条",
@@ -549,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "涉嫌严重违纪违法 王爱和被查",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95+%E7%8E%8B%E7%88%B1%E5%92%8C%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
