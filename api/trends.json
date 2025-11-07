@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T22:19:18.928745+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2025-11-07T23:21:29.275000+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时28分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时28分 ~ 23时21分]"
         },
         {
           "title": "观察｜纽约和伦敦市长都是穆斯林、南亚裔，共同对抗右翼势力抬头",
@@ -78,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 23时21分]"
         },
         {
           "title": "泡泡玛特回应直播事故：正在调查中，不会开除涉事员工",
@@ -94,8 +95,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 23时21分]"
+        },
+        {
+          "title": "两部门发布重磅公告 涉及超硬材料、稀土、锂电池等出口管制",
+          "url": "https://www.cls.cn/detail/2194473",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时21分]"
         },
         {
           "title": "财联社C50风向指数调查：年末资金大概率延续平稳宽松，本轮国债买卖重启后四季度降准概率降低",
@@ -113,6 +127,17 @@
           "time_info": "[15时18分 ~ 21时28分]"
         },
         {
+          "title": "西安市委书记方红卫被查",
+          "url": "https://www.toutiao.com/trending/7569951423329763338/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时21分]"
+        },
+        {
           "title": "成都将举行荒野求生赛事？官方回应",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%B0%86%E4%B8%BE%E8%A1%8C%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E8%B5%9B%E4%BA%8B%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -127,17 +152,16 @@
           "time_info": "[02时28分 ~ 06时18分]"
         },
         {
-          "title": "两部门发布重磅公告 涉及超硬材料、稀土、锂电池等出口管制",
-          "url": "https://www.cls.cn/detail/2194473",
-          "source": "财联社热门",
+          "title": "西安市委书记方红卫被查",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2,
-            1
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时19分]"
+          "time_info": "[21时27分 ~ 23时21分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -153,28 +177,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时10分 ~ 17时19分]"
-        },
-        {
-          "title": "西安市委书记方红卫被查",
-          "url": "https://www.toutiao.com/trending/7569951423329763338/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时19分]"
-        },
-        {
-          "title": "西安市委书记方红卫被查",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时19分]"
         },
         {
           "title": "网传杭州一楼盘用饮料瓶砌墙，官方公布调查结果(图)",
@@ -193,11 +195,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时21分]"
         },
         {
           "title": "西安市委书记方红卫被查",
@@ -205,11 +208,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时21分]"
         },
         {
           "title": "苏州副市长唐晓东被查",
@@ -246,6 +250,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "郑丽文当选带动入党潮？国民党近20天已新增2405党员",
+          "url": "https://news.ifeng.com/c/8o5cIbj9GaM",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时21分]"
         },
         {
           "title": "据泰晤士报：英国财政大臣里夫斯告诉英国预算监督机构，她计划在11月26日的预算案中提高所得税。",
@@ -380,18 +396,6 @@
           "time_info": "20时37分"
         },
         {
-          "title": "郑丽文当选带动入党潮？国民党近20天已新增2405党员",
-          "url": "https://news.ifeng.com/c/8o5cIbj9GaM",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时19分]"
-        },
-        {
           "title": "网红造谣“中国人免签去韩国杀人”，韩国警方调查",
           "url": "https://news.ifeng.com/c/8o3prRuVx0M",
           "source": "凤凰网",
@@ -463,6 +467,18 @@
           "time_info": "[12时21分 ~ 14时28分]"
         },
         {
+          "title": "如何看待教育部等六部委发文「为高校青年教师减负，松绑行政事务、破除称号依赖、淡化论文和奖项数量指标」?",
+          "url": "https://www.zhihu.com/question/1969538647230482047",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时21分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
           "url": "https://flash.jin10.com/detail/20251107032640209800",
           "source": "金十数据",
@@ -509,6 +525,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时37分 ~ 21时28分]"
+        },
+        {
+          "title": "陕西省委常委、西安市委书记方红卫被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31918045",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "两部门：解除巴西高致病性禽流感疫情禁令",
@@ -580,17 +608,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时18分 ~ 18时22分]"
-        },
-        {
-          "title": "如何看待教育部等六部委发文「为高校青年教师减负，松绑行政事务、破除称号依赖、淡化论文和奖项数量指标」?",
-          "url": "https://www.zhihu.com/question/1969538647230482047",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时19分]"
         },
         {
           "title": "同事与我平级，平时工作总对我指手画脚，喜欢用领导的语气安排我，怎么办？",
@@ -678,6 +695,18 @@
           "time_info": "[20时37分 ~ 21时28分]"
         },
         {
+          "title": "中国贸促会会长任鸿斌会见澳大利亚贸易投资委员会首席执行官保罗·格睿",
+          "url": "https://wallstreetcn.com/livenews/3001270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "墨西哥央行：展望未来，委员会将评估下调基准利率。将考虑所有通胀决定因素的影响。",
           "url": "https://flash.jin10.com/detail/20251107030215113800",
           "source": "金十数据",
@@ -700,6 +729,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时22分]"
+        },
+        {
+          "title": "国家数据局局长刘烈宏主持召开数据领域民营企业座谈会",
+          "url": "https://wallstreetcn.com/livenews/3001269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "官方通报小学老师开车进校学生敬礼",
@@ -869,7 +910,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -894,17 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "中国贸促会会长任鸿斌会见澳大利亚贸易投资委员会首席执行官保罗·格睿",
-          "url": "https://wallstreetcn.com/livenews/3001270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "荷兰选举委员会公布众议院选举结果",
@@ -940,17 +970,6 @@
           "time_info": "21时28分"
         },
         {
-          "title": "国家数据局局长刘烈宏主持召开数据领域民营企业座谈会",
-          "url": "https://wallstreetcn.com/livenews/3001269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "印尼副部长：当评估显示安全可恢复作业时，将允许自由港印尼公司恢复运营。",
           "url": "https://flash.jin10.com/detail/20251107133627121800",
           "source": "金十数据",
@@ -982,17 +1001,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "陕西省委常委、西安市委书记方红卫被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31918045",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "联合国安理会解除对叙利亚总统和内政部长的制裁。",
@@ -1133,7 +1141,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
