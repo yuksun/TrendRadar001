@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-07T12:21:19.629748+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-07T13:19:19.276500+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "湖南省人民医院一名副院长被指出轨女医师，省卫健委：对两人停职调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31906003",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 13时19分]"
         },
         {
           "title": "观察｜纽约和伦敦市长都是穆斯林、南亚裔，共同对抗右翼势力抬头",
@@ -43,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 13时19分]"
         },
         {
           "title": "成都将举行荒野求生赛事？官方回应",
@@ -94,6 +95,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "泰铢与黄金相关性降至近两年最低 政府政策奏效",
+          "url": "https://flash.jin10.com/detail/20251107130827576800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0836，上调29点；上一交易日中间价7.0865，上一交易日官方收盘价7.1219，上日夜盘报收7.1188。",
           "url": "https://wallstreetcn.com/livenews/3000848",
           "source": "华尔街见闻-快讯",
@@ -105,6 +117,19 @@
           "time_info": "09时24分"
         },
         {
+          "title": "苏州副市长唐晓东被查",
+          "url": "https://www.toutiao.com/trending/7569798747027148331/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时19分]"
+        },
+        {
           "title": "美参议院7日将再次表决拨款法案以结束政府“停摆”",
           "url": "https://wallstreetcn.com/livenews/3000847",
           "source": "华尔街见闻-快讯",
@@ -114,17 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "朝鲜疑似发射弹道导弹 日韩通报相关动向",
-          "url": "https://wallstreetcn.com/livenews/3000952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "乌克兰财政部长：债务谈判破裂令人遗憾。",
@@ -186,16 +200,16 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "苏州副市长唐晓东被查",
-          "url": "https://www.toutiao.com/trending/7569798747027148331/",
-          "source": "今日头条",
+          "title": "朝鲜疑似发射弹道导弹 日韩通报相关动向",
+          "url": "https://wallstreetcn.com/livenews/3000952",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            4
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时19分]"
         },
         {
           "title": "土耳其能源部长：已同意与加拿大公司CANDU就土耳其计划建设的传统核电站潜在的合作事宜展开技术会谈。",
@@ -217,8 +231,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时19分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时21分]"
+          "time_info": "[11时10分 ~ 13时19分]"
         },
         {
           "title": "丁国文已任中央改革办专职副主任",
@@ -246,6 +272,17 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
+          "title": "苏州副市长唐晓东被查",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%89%AF%E5%B8%82%E9%95%BF%E5%94%90%E6%99%93%E4%B8%9C%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时19分]"
+        },
+        {
           "title": "朝鲜外务省官员阐明对美立场",
           "url": "https://www.douyin.com/hot/2296264",
           "source": "抖音",
@@ -268,18 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时21分]"
         },
         {
           "title": "墨西哥央行：展望未来，委员会将评估下调基准利率。将考虑所有通胀决定因素的影响。",
@@ -329,6 +354,17 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "禁止这10类行为，多部门联合印发互联网健康科普负面行为清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914597",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
           "title": "10/30年期英债收益率跌约3个基点，四名官员在决议日要求英国央行行长贝利降息",
           "url": "https://wallstreetcn.com/livenews/3000688",
           "source": "华尔街见闻-快讯",
@@ -351,6 +387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "美法官下令政府全额发放食品援助金",
+          "url": "https://www.toutiao.com/trending/7569440811163697194/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "中方回应日本政府向谢长廷授勋",
@@ -419,17 +466,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "苏州副市长唐晓东被查",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E5%89%AF%E5%B8%82%E9%95%BF%E5%94%90%E6%99%93%E4%B8%9C%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "加拿大央行行长麦克勒姆向参议院委员会所作开场陈述，与周三在众议院发表的声明完全一致。",
           "url": "https://flash.jin10.com/detail/20251106233307614800",
           "source": "金十数据",
@@ -447,7 +483,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -461,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
+          "url": "https://flash.jin10.com/detail/20251107120411653800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "中国即将发行或正在发行的地方政府债",
