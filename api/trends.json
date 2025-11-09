@@ -1,284 +1,66 @@
 {
-  "generated_at": "2025-11-09T23:17:47.337963+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-11-10T00:21:07.010542+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
-          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 23时17分]"
-        },
-        {
-          "title": "牛肉面馆一碗“管饱面”全网爆火",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%86%E4%B8%80%E7%A2%97%E2%80%9C%E7%AE%A1%E9%A5%B1%E9%9D%A2%E2%80%9D%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 11时13分]"
-        },
-        {
-          "title": "纽约新市长当选意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E6%96%B0%E5%B8%82%E9%95%BF%E5%BD%93%E9%80%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            4,
-            6,
-            8,
-            28,
-            17,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 20时33分]"
-        },
         {
           "title": "“9人服务78个部门”，浙江多地推进政务应用集约运维改革",
           "url": "https://m.thepaper.cn/newsDetail_forward_31925567",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            9,
-            8,
-            7,
-            6,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时25分 ~ 23时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3001597",
+          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
+          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "缅甸政府将拆除KK园区148栋建筑",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%B0%86%E6%8B%86%E9%99%A4KK%E5%9B%AD%E5%8C%BA148%E6%A0%8B%E5%BB%BA%E7%AD%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "乌总统签署新一轮对俄制裁决定，涉及多名俄官员",
+          "url": "https://wallstreetcn.com/livenews/3001698",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            5,
-            12,
-            15,
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "杭州对淘宝“霸屏广告”展开调查",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AF%B9%E6%B7%98%E5%AE%9D%E2%80%9C%E9%9C%B8%E5%B1%8F%E5%B9%BF%E5%91%8A%E2%80%9D%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            8,
-            10,
-            16,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 11时13分]"
-        },
-        {
-          "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
-          "url": "https://wallstreetcn.com/livenews/3001630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            8,
-            11,
-            14,
-            16,
-            19,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 19时14分]"
-        },
-        {
-          "title": "官方声明：王硕威非福建舰总设计师",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%8E%8B%E7%A1%95%E5%A8%81%E9%9D%9E%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 19时14分]"
-        },
-        {
-          "title": "官方辟谣涉王硕威不实信息",
-          "url": "https://www.douyin.com/hot/2299280",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时25分]"
-        },
-        {
-          "title": "纽约用带盖垃圾桶 市长：革命性创意",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E7%94%A8%E5%B8%A6%E7%9B%96%E5%9E%83%E5%9C%BE%E6%A1%B6+%E5%B8%82%E9%95%BF%EF%BC%9A%E9%9D%A9%E5%91%BD%E6%80%A7%E5%88%9B%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            17,
-            18,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "当年的调查记者如今都怎样了",
-          "url": "https://www.douyin.com/hot/2299006",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时19分]"
-        },
-        {
-          "title": "美前航空官员：若政府“停摆”持续 假期出行必受冲击",
-          "url": "https://wallstreetcn.com/livenews/3001629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            9,
-            12,
-            15,
-            17,
-            20,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 19时14分]"
-        },
-        {
-          "title": "重庆警方收到大量举报沈伯洋线索",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E4%B8%BE%E6%8A%A5%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%BA%BF%E7%B4%A2",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时18分]"
-        },
-        {
-          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命国防部副部长安德烈·布雷加为安全会议副秘书长。",
-          "url": "https://flash.jin10.com/detail/20251108181705176800",
+          "title": "乌总统签署新一轮对俄制裁决定 涉及多名俄官员",
+          "url": "https://flash.jin10.com/detail/20251109221455774800",
           "source": "金十数据",
           "ranks": [
-            19
+            8
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命亚历山大·桑奇克将军为俄罗斯国防部副部长。",
-          "url": "https://flash.jin10.com/detail/20251108181603890800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "市场消息：韩国政府与执政党同意到2035年将温室气体排放量最多削减61%。",
-          "url": "https://flash.jin10.com/detail/20251109172624632800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            5,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时15分]"
-        },
-        {
-          "title": "杭州一小学学生列队向老师车辆敬礼问好，校方称系学生自发，这是培养礼仪还是形式主义？",
-          "url": "https://www.zhihu.com/question/1969848660905943749",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
-          "url": "https://flash.jin10.com/detail/20251109101328383800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            15,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时17分]"
-        },
-        {
-          "title": "重庆北碚区划调整情况通报会举行，区委书记：实现国家战略下的“再生长”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31922849",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "缅甸政府将拆除KK园区148栋建筑，包括KTV、医院和SPA会所",
@@ -287,302 +69,70 @@
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 23时17分]"
-        },
-        {
-          "title": "乌总统签署新一轮对俄制裁决定，涉及多名俄官员",
-          "url": "https://wallstreetcn.com/livenews/3001698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时17分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3001691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时17分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
-          "url": "https://flash.jin10.com/detail/20251109204253008800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时17分]"
-        },
-        {
-          "title": "阿根廷经济部长：不打算建立自由浮动汇率",
-          "url": "https://flash.jin10.com/detail/20251109082914815800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时21分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
-          "url": "https://flash.jin10.com/detail/20251109204144076800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "以色列政府发言人：即将部署到加沙的国际维稳部队中，不会出现土耳其士兵的身影。",
           "url": "https://flash.jin10.com/detail/20251109215338892800",
           "source": "金十数据",
           "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时17分]"
-        },
-        {
-          "title": "领导把我当工具人怎么办?",
-          "url": "https://www.zhihu.com/question/358995357",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时16分]"
-        },
-        {
-          "title": "政协委员：中国人工作时间太长了",
-          "url": "https://www.toutiao.com/trending/7570013908229062692/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 07时16分]"
-        },
-        {
-          "title": "缅甸政府将拆除KK园区148栋建筑",
-          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%B0%86%E6%8B%86%E9%99%A4KK%E5%9B%AD%E5%8C%BA148%E6%A0%8B%E5%BB%BA%E7%AD%91",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            29,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时17分]"
-        },
-        {
-          "title": "官方通报“高铁票买19排车厢仅17排”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E4%B9%B019%E6%8E%92%E8%BD%A6%E5%8E%A2%E4%BB%8517%E6%8E%92%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时18分]"
-        },
-        {
-          "title": "领导总喜欢把责任推给下属，该如何应对呢？",
-          "url": "https://www.zhihu.com/question/599683212",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时25分]"
-        },
-        {
-          "title": "陕西省委：深刻汲取方红卫被查教训",
-          "url": "https://www.toutiao.com/trending/7570496210503487030/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 11时13分]"
-        },
-        {
-          "title": "领导怎么看待核心员工离职这件事?",
-          "url": "https://www.zhihu.com/question/1913924398454375870",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时13分]"
-        },
-        {
-          "title": "详解纽约新市长选举",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%BA%BD%E7%BA%A6%E6%96%B0%E5%B8%82%E9%95%BF%E9%80%89%E4%B8%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "乌总统签署新一轮对俄制裁决定 涉及多名俄官员",
-          "url": "https://flash.jin10.com/detail/20251109221455774800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时17分"
+          "time_info": "00时21分"
         },
         {
-          "title": "2026台北市长选战谁对阵蒋万安",
-          "url": "https://www.toutiao.com/trending/7570266002140151849/",
-          "source": "今日头条",
+          "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3001691",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "00时21分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204253008800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204144076800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "山东一对新人结婚，新娘刚换完敬酒服出来发现宾客全走了，如何看待此事？这个情况正常吗？",
-          "url": "https://www.zhihu.com/question/1969125876550599924",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 11时13分]"
-        },
         {
           "title": "中储粮济宁直属库致7死事故调查报告公布，12人已被采取强制措施",
           "url": "https://m.thepaper.cn/newsDetail_forward_31927876",
           "source": "澎湃新闻",
           "ranks": [
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时17分]"
-        },
-        {
-          "title": "中储粮济宁直属库致7死事故报告公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%82%A8%E7%B2%AE%E6%B5%8E%E5%AE%81%E7%9B%B4%E5%B1%9E%E5%BA%93%E8%87%B47%E6%AD%BB%E4%BA%8B%E6%95%85%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16,
-            9,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 21时23分]"
-        },
-        {
-          "title": "山东威海海域两船相撞8人失联",
-          "url": "https://www.douyin.com/hot/2300245",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时33分]"
-        },
-        {
-          "title": "山东威海两船相撞渔船沉没 8人失联",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E4%B8%A4%E8%88%B9%E7%9B%B8%E6%92%9E%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1+8%E4%BA%BA%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时23分]"
-        },
-        {
-          "title": "山东威海撞船事故致8人失联",
-          "url": "https://www.toutiao.com/trending/7570661218562719790/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "中储粮济宁直属库致7死事故调查报告公布",
-          "url": "https://www.toutiao.com/trending/7570508100424384555/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
