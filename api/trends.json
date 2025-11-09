@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T19:14:21.174295+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-11-09T20:33:55.016090+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "牛肉面馆一碗“管饱面”全网爆火",
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时33分]"
         },
         {
           "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
@@ -66,11 +66,12 @@
             9,
             8,
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时33分]"
         },
         {
           "title": "杭州对淘宝“霸屏广告”展开调查",
@@ -189,6 +190,18 @@
           "time_info": "[13时18分 ~ 17时18分]"
         },
         {
+          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
+          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时33分]"
+        },
+        {
           "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命国防部副部长安德烈·布雷加为安全会议副秘书长。",
           "url": "https://flash.jin10.com/detail/20251108181705176800",
           "source": "金十数据",
@@ -211,28 +224,17 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
-          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
-        },
-        {
           "title": "市场消息：韩国政府与执政党同意到2035年将温室气体排放量最多削减61%。",
           "url": "https://flash.jin10.com/detail/20251109172624632800",
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时33分]"
         },
         {
           "title": "杭州一小学学生列队向老师车辆敬礼问好，校方称系学生自发，这是培养礼仪还是形式主义？",
@@ -355,6 +357,17 @@
           "time_info": "[09时25分 ~ 11时13分]"
         },
         {
+          "title": "缅甸政府将拆除KK园区148栋建筑，包括KTV、医院和SPA会所",
+          "url": "https://news.ifeng.com/c/8o939B7VvSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时33分]"
+        },
+        {
           "title": "领导怎么看待核心员工离职这件事?",
           "url": "https://www.zhihu.com/question/1913924398454375870",
           "source": "知乎",
@@ -378,17 +391,6 @@
           "time_info": "11时13分"
         },
         {
-          "title": "缅甸政府将拆除KK园区148栋建筑，包括KTV、医院和SPA会所",
-          "url": "https://news.ifeng.com/c/8o939B7VvSk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "2026台北市长选战谁对阵蒋万安",
           "url": "https://www.toutiao.com/trending/7570266002140151849/",
           "source": "今日头条",
@@ -398,12 +400,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "缅甸政府将拆除KK园区148栋建筑",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%B0%86%E6%8B%86%E9%99%A4KK%E5%9B%AD%E5%8C%BA148%E6%A0%8B%E5%BB%BA%E7%AD%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "山东一对新人结婚，新娘刚换完敬酒服出来发现宾客全走了，如何看待此事？这个情况正常吗？",
@@ -419,6 +432,17 @@
           "time_info": "[00时20分 ~ 11时13分]"
         },
         {
+          "title": "中储粮济宁直属库致7死事故调查报告公布，12人已被采取强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927876",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "山东威海海域两船相撞8人失联",
           "url": "https://www.douyin.com/hot/2300245",
           "source": "抖音",
@@ -426,8 +450,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时33分]"
         },
         {
           "title": "中储粮济宁直属库致7死事故报告公布",
@@ -437,11 +461,35 @@
             25,
             16,
             9,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时33分]"
+        },
+        {
+          "title": "山东威海两船相撞渔船沉没 8人失联",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E4%B8%A4%E8%88%B9%E7%9B%B8%E6%92%9E%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1+8%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时33分]"
+        },
+        {
+          "title": "山东威海撞船事故致8人失联",
+          "url": "https://www.toutiao.com/trending/7570661218562719790/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "中储粮济宁直属库致7死事故调查报告公布",
@@ -450,18 +498,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "山东威海两船相撞渔船沉没 8人失联",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%A8%81%E6%B5%B7%E4%B8%A4%E8%88%B9%E7%9B%B8%E6%92%9E%E6%B8%94%E8%88%B9%E6%B2%89%E6%B2%A1+8%E4%BA%BA%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
