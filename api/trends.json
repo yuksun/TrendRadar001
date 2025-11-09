@@ -1,12 +1,29 @@
 {
-  "generated_at": "2025-11-09T15:17:30.103646+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-11-09T16:22:34.274046+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
       "match_count": 26,
       "titles": [
+        {
+          "title": "纽约新市长当选意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E6%96%B0%E5%B8%82%E9%95%BF%E5%BD%93%E9%80%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            4,
+            6,
+            8,
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 16时22分]"
+        },
         {
           "title": "牛肉面馆一碗“管饱面”全网爆火",
           "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%86%E4%B8%80%E7%A2%97%E2%80%9C%E7%AE%A1%E9%A5%B1%E9%9D%A2%E2%80%9D%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB",
@@ -19,22 +36,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 11时13分]"
-        },
-        {
-          "title": "纽约新市长当选意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E6%96%B0%E5%B8%82%E9%95%BF%E5%BD%93%E9%80%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            4,
-            6,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 15时17分]"
         },
         {
           "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
@@ -53,6 +54,22 @@
           "time_info": "[00时20分 ~ 09时26分]"
         },
         {
+          "title": "“9人服务78个部门”，浙江多地推进政务应用集约运维改革",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31925567",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 16时22分]"
+        },
+        {
           "title": "杭州对淘宝“霸屏广告”展开调查",
           "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%AF%B9%E6%B7%98%E5%AE%9D%E2%80%9C%E9%9C%B8%E5%B1%8F%E5%B9%BF%E5%91%8A%E2%80%9D%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -67,6 +84,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 11时13分]"
+        },
+        {
+          "title": "重庆警方收到大量举报沈伯洋线索",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E4%B8%BE%E6%8A%A5%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%BA%BF%E7%B4%A2",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时22分]"
         },
         {
           "title": "官方辟谣涉王硕威不实信息",
@@ -107,31 +136,15 @@
           "time_info": "[00时20分 ~ 13时19分]"
         },
         {
-          "title": "“9人服务78个部门”，浙江多地推进政务应用集约运维改革",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31925567",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 15时17分]"
-        },
-        {
-          "title": "重庆警方收到大量举报沈伯洋线索",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F%E4%B8%BE%E6%8A%A5%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%BA%BF%E7%B4%A2",
+          "title": "官方声明：王硕威非福建舰总设计师",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%8E%8B%E7%A1%95%E5%A8%81%E9%9D%9E%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88",
           "source": "百度热搜",
           "ranks": [
-            2,
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时22分]"
         },
         {
           "title": "多家俄媒援引克里姆林宫法令报道称，俄罗斯总统普京任命国防部副部长安德烈·布雷加为安全会议副秘书长。",
@@ -156,17 +169,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "官方声明：王硕威非福建舰总设计师",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E%EF%BC%9A%E7%8E%8B%E7%A1%95%E5%A8%81%E9%9D%9E%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
-        },
-        {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
           "url": "https://wallstreetcn.com/livenews/3001630",
           "source": "华尔街见闻-快讯",
@@ -175,11 +177,28 @@
             5,
             8,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 16时22分]"
+        },
+        {
+          "title": "美前航空官员：若政府“停摆”持续 假期出行必受冲击",
+          "url": "https://wallstreetcn.com/livenews/3001629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            9,
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 16时22分]"
         },
         {
           "title": "杭州一小学学生列队向老师车辆敬礼问好，校方称系学生自发，这是培养礼仪还是形式主义？",
@@ -204,21 +223,6 @@
             15,
             18,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时17分]"
-        },
-        {
-          "title": "美前航空官员：若政府“停摆”持续 假期出行必受冲击",
-          "url": "https://wallstreetcn.com/livenews/3001629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            9,
-            12,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -304,6 +308,19 @@
           "time_info": "[09时25分 ~ 11时13分]"
         },
         {
+          "title": "官方通报“高铁票买19排车厢仅17排”",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E4%B9%B019%E6%8E%92%E8%BD%A6%E5%8E%A2%E4%BB%8517%E6%8E%92%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时22分]"
+        },
+        {
           "title": "领导怎么看待核心员工离职这件事?",
           "url": "https://www.zhihu.com/question/1913924398454375870",
           "source": "知乎",
@@ -314,18 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 11时13分]"
-        },
-        {
-          "title": "官方通报“高铁票买19排车厢仅17排”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E9%AB%98%E9%93%81%E7%A5%A8%E4%B9%B019%E6%8E%92%E8%BD%A6%E5%8E%A2%E4%BB%8517%E6%8E%92%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时17分]"
         },
         {
           "title": "详解纽约新市长选举",
@@ -353,7 +358,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东一对新人结婚，新娘刚换完敬酒服出来发现宾客全走了，如何看待此事？这个情况正常吗？",
@@ -367,6 +372,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 11时13分]"
+        },
+        {
+          "title": "山东威海海域两船相撞8人失联",
+          "url": "https://www.douyin.com/hot/2300245",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "中储粮济宁直属库致7死事故报告公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%82%A8%E7%B2%AE%E6%B5%8E%E5%AE%81%E7%9B%B4%E5%B1%9E%E5%BA%93%E8%87%B47%E6%AD%BB%E4%BA%8B%E6%95%85%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
