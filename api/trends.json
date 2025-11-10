@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T20:39:26.343084+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2025-11-10T21:32:03.948677+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 92,
+      "match_count": 99,
       "titles": [
         {
           "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[13时20分 ~ 21时32分]"
         },
         {
           "title": "在 T1 三连冠后，如何看待社区中「定制冠军」「官方造神」「LCK 已死 /LPL 不玩了」的声音？",
@@ -115,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时27分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[12时27分 ~ 21时32分]"
         },
         {
           "title": "十四届全国政协教科卫体委员会原副主任杨小伟被双开",
@@ -129,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时30分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[14时30分 ~ 21时32分]"
         },
         {
           "title": "“遇有重大文字材料从不推脱”，杨斌履新江西省政协办公厅副主任",
@@ -153,11 +153,24 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时17分 ~ 21时32分]"
+        },
+        {
+          "title": "新疆乌鲁木齐市委副书记、政法委书记马志军任上被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930472",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时17分 ~ 20时39分]"
+          "time_info": "[16时27分 ~ 21时32分]"
         },
         {
           "title": "高市早苗妄言“台海冲突对日构成国家存亡危机”，日本政府澄清",
@@ -168,8 +181,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时32分]"
+        },
+        {
+          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
+          "url": "https://www.cls.cn/detail/2195982",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时32分]"
+        },
+        {
+          "title": "5部门：调整《向特定国家（地区）出口易制毒化学品管理目录》《特定国家（地区）目录》",
+          "url": "https://www.cls.cn/detail/2195849",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 21时32分]"
         },
         {
           "title": "缅甸政府将拆除KK园区148栋建筑，包括KTV、医院和SPA会所",
@@ -195,32 +237,6 @@
           "time_info": "[09时26分 ~ 15时19分]"
         },
         {
-          "title": "新疆乌鲁木齐市委副书记、政法委书记马志军任上被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930472",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 20时39分]"
-        },
-        {
-          "title": "5部门：调整《向特定国家（地区）出口易制毒化学品管理目录》《特定国家（地区）目录》",
-          "url": "https://www.cls.cn/detail/2195849",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 20时39分]"
-        },
-        {
           "title": "美参议院获得足够票数，推进结束政府停摆法案",
           "url": "https://news.ifeng.com/c/8oAHo5FIFCS",
           "source": "凤凰网",
@@ -232,17 +248,30 @@
           "time_info": "[13时20分 ~ 15时19分]"
         },
         {
-          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
-          "url": "https://www.cls.cn/detail/2195982",
+          "title": "幼儿园园长贪污千万案二审再开庭：一审被判11年，是否“租赁园”引争论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31931601",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 21时32分]"
+        },
+        {
+          "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
+          "url": "https://www.cls.cn/detail/2196117",
           "source": "财联社热门",
           "ranks": [
-            8,
-            1,
-            2
+            9,
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时39分]"
+          "time_info": "[18时22分 ~ 21时32分]"
         },
         {
           "title": "乌总统签署新一轮对俄制裁决定，涉及多名俄官员",
@@ -274,6 +303,20 @@
           "time_info": "[15时19分 ~ 18时22分]"
         },
         {
+          "title": "中小学教师减负8条措施",
+          "url": "https://www.douyin.com/hot/2300945",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时32分]"
+        },
+        {
           "title": "长沙地铁内女生衣服自燃？官方回应",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E5%A5%B3%E7%94%9F%E8%A1%A3%E6%9C%8D%E8%87%AA%E7%87%83%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -298,6 +341,17 @@
           "time_info": "[13时20分 ~ 15时19分]"
         },
         {
+          "title": "印度裔纽约市长什么来头",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%A3%94%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "河南大学校长当选世界科学院院士",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%BD%93%E9%80%89%E4%B8%96%E7%95%8C%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB",
           "source": "百度热搜",
@@ -311,17 +365,16 @@
           "time_info": "[16时27分 ~ 18时22分]"
         },
         {
-          "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
-          "url": "https://www.cls.cn/detail/2196117",
-          "source": "财联社热门",
+          "title": "中小学教师减负 8 条措施公布，严控借调借用教师、不得要求教师上街执勤等，会带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1971201803874956940",
+          "source": "知乎",
           "ranks": [
-            9,
-            3,
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时39分]"
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
         },
         {
           "title": "乌总统签署新一轮对俄制裁决定 涉及多名俄官员",
@@ -372,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "俄罗斯政府委员会批准了一项禁令，禁止驱逐在俄罗斯武装部队服役并参加特别军事行动的外籍人员。",
+          "url": "https://flash.jin10.com/detail/20251110211507892800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "住建部副部长陈绍旺会见哈萨克斯坦工业和建设部副部长卡什肯诺夫",
@@ -430,51 +494,30 @@
           "time_info": "15时19分"
         },
         {
-          "title": "安徽省发改委主任：安徽量子科技正处于从技术突破迈向规模化产业应用的关键时期",
-          "url": "https://wallstreetcn.com/livenews/3002160",
-          "source": "华尔街见闻-快讯",
+          "title": "八名民主党议员意外倒戈 美参议院就结束政府停摆达成一致",
+          "url": "https://www.cls.cn/detail/2195864",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "中小学教师减负 8 条措施公布，严控借调借用教师、不得要求教师上街执勤等，会带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1971201803874956940",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "幼儿园园长贪污千万案二审再开庭：一审被判11年，是否“租赁园”引争论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31931601",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7
+            13,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时21分 ~ 20时39分]"
+          "time_info": "[17时23分 ~ 21时32分]"
         },
         {
-          "title": "中小学教师减负8条措施",
-          "url": "https://www.douyin.com/hot/2300945",
+          "title": "苏57最新官方宣传片",
+          "url": "https://www.douyin.com/hot/2300666",
           "source": "抖音",
           "ranks": [
             26,
-            21,
-            15
+            14,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时39分]"
+          "time_info": "[19时16分 ~ 21时32分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
@@ -646,19 +689,6 @@
           "time_info": "[16时27分 ~ 17时23分]"
         },
         {
-          "title": "八名民主党议员意外倒戈 美参议院就结束政府停摆达成一致",
-          "url": "https://www.cls.cn/detail/2195864",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 20时39分]"
-        },
-        {
           "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
           "url": "https://wallstreetcn.com/livenews/3002039",
           "source": "华尔街见闻-快讯",
@@ -669,6 +699,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时23分]"
+        },
+        {
+          "title": "安徽省发改委主任：安徽量子科技正处于从技术突破迈向规模化产业应用的关键时期",
+          "url": "https://wallstreetcn.com/livenews/3002160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
         },
         {
           "title": "官方回应地铁内一女生衣服自燃：包里的充电宝冒烟",
@@ -721,6 +763,18 @@
           "time_info": "[05时15分 ~ 07时18分]"
         },
         {
+          "title": "河北燕郊7死27伤爆燃事故调查报告",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A7%E6%AD%BB27%E4%BC%A4%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D21%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25B2%25B3%25E5%258C%2597%25E7%2587%2595%25E9%2583%258A7%25E6%25AD%25BB27%25E4%25BC%25A4%25E7%2588%2586%25E7%2587%2583%25E4%25BA%258B%25E6%2595%2585%25E8%25B0%2583%25E6%259F%25A5%25E6%258A%25A5%25E5%2591%258A%2523%26dgr%3D0%26realpos%3D20%26band_rank%3D20%26cate%3D5001%26display_time%3D1762777740%26pre_seqid%3D17627777401540197252472&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "政府“停摆”有望结束？美参议院多数党领袖：已有潜在协议",
           "url": "https://wallstreetcn.com/livenews/3001715",
           "source": "华尔街见闻-快讯",
@@ -746,18 +800,6 @@
           "time_info": "[11时18分 ~ 12时27分]"
         },
         {
-          "title": "苏57最新官方宣传片",
-          "url": "https://www.douyin.com/hot/2300666",
-          "source": "抖音",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时39分]"
-        },
-        {
           "title": "河南南阳市人大常委会副主任主动投案",
           "url": "https://www.toutiao.com/trending/7570911400706244646/",
           "source": "今日头条",
@@ -768,6 +810,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时30分 ~ 16时27分]"
+        },
+        {
+          "title": "美暂停实施对华造船等301调查",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD%E5%AF%B9%E5%8D%8E%E9%80%A0%E8%88%B9%E7%AD%89301%E8%B0%83%E6%9F%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26dgr%3D0%26pos%3D10%26stream_entry_id%3D31%26realpos%3D10%26flag%3D1%26q%3D%2523%25E7%25BE%258E%25E6%259A%2582%25E5%2581%259C%25E5%25AE%259E%25E6%2596%25BD%25E5%25AF%25B9%25E5%258D%258E%25E9%2580%25A0%25E8%2588%25B9%25E7%25AD%2589301%25E8%25B0%2583%25E6%259F%25A5%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762780829%26pre_seqid%3D17627808298400115308906&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "商务部副部长凌激在开罗出席首届中国一埃及投资论坛",
@@ -828,6 +881,30 @@
           "time_info": "[17时23分 ~ 18时22分]"
         },
         {
+          "title": "把工作理顺了，工作轻松了，领导却说你闲，该怎么办?",
+          "url": "https://www.zhihu.com/question/1970004375528252601",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
+          "title": "尚太科技：与山西转型综合改革示范区管理委员会及相关单位就“年产20万吨锂离子电池负极材料项目”的投资合作事宜签署项目投资发展协议或补充协议；同意公司或子公司新设项目公司，使用自有或自筹资金在山西省山西转型综合改革示范区辖区内投资新建本项目，本项目总投资初步预计约40.7亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3002144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "贵阳市副市长高杨主动投案",
           "url": "https://www.toutiao.com/trending/7570913501665824297/",
           "source": "今日头条",
@@ -849,6 +926,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "医院通报出院记录性别不符：笔误",
+          "url": "https://www.toutiao.com/trending/7570962731462328346/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "英国央行提议，支持稳定币的资产中，60%可持有短期英国政府债券，且至少40%需存放于英国央行。",
@@ -895,6 +983,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "商务部新闻发言人就美方暂停实施对华造船等行业301调查措施答记者问",
+          "url": "https://wallstreetcn.com/livenews/3002166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "联合国旅游组织确认诺瓦伊斯为下任秘书长",
           "url": "https://wallstreetcn.com/livenews/3001971",
           "source": "华尔街见闻-快讯",
@@ -934,18 +1033,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "尚太科技：与山西转型综合改革示范区管理委员会及相关单位就“年产20万吨锂离子电池负极材料项目”的投资合作事宜签署项目投资发展协议或补充协议；同意公司或子公司新设项目公司，使用自有或自筹资金在山西省山西转型综合改革示范区辖区内投资新建本项目，本项目总投资初步预计约40.7亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3002144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -959,28 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "把工作理顺了，工作轻松了，领导却说你闲，该怎么办?",
-          "url": "https://www.zhihu.com/question/1970004375528252601",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "河北燕郊7死27伤爆燃事故调查报告",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A7%E6%AD%BB27%E4%BC%A4%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D21%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25B2%25B3%25E5%258C%2597%25E7%2587%2595%25E9%2583%258A7%25E6%25AD%25BB27%25E4%25BC%25A4%25E7%2588%2586%25E7%2587%2583%25E4%25BA%258B%25E6%2595%2585%25E8%25B0%2583%25E6%259F%25A5%25E6%258A%25A5%25E5%2591%258A%2523%26dgr%3D0%26realpos%3D20%26band_rank%3D20%26cate%3D5001%26display_time%3D1762777740%26pre_seqid%3D17627777401540197252472&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "韩国外交部长与柬埔寨首相会面，同意加强在打击网络诈骗犯罪方面的合作。",
@@ -1036,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "巴黎法院：萨科齐将被禁止与任何司法部官员交谈。",
+          "url": "https://flash.jin10.com/detail/20251110204224248800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "消息人士称，美参议院已获得足够多民主党议员的支持票，以通过结束政府停摆的法案。",
@@ -1102,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "乌克兰官员表示，乌克兰的财政状况在2026年将面临更大挑战。",
+          "url": "https://flash.jin10.com/detail/20251110202708008800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "洪秀柱前助理张雅屏任大陆事务部主任",
