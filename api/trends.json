@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T14:31:04.907738+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-11-10T15:19:20.486894+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
@@ -32,19 +32,6 @@
           "time_info": "[00时20分 ~ 07时18分]"
         },
         {
-          "title": "美参议院就结束政府停摆达成一致",
-          "url": "https://www.toutiao.com/trending/7570901950917578250/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时31分]"
-        },
-        {
           "title": "缅甸政府将拆除KK园区148栋建筑",
           "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%B0%86%E6%8B%86%E9%99%A4KK%E5%9B%AD%E5%8C%BA148%E6%A0%8B%E5%BB%BA%E7%AD%91",
           "source": "百度热搜",
@@ -52,22 +39,64 @@
             14,
             4,
             22,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 15时19分]"
+        },
+        {
+          "title": "美参议院就结束政府停摆达成一致",
+          "url": "https://www.toutiao.com/trending/7570901950917578250/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时19分]"
         },
         {
           "title": "在 T1 三连冠后，如何看待社区中「定制冠军」「官方造神」「LCK 已死 /LPL 不玩了」的声音？",
           "url": "https://www.zhihu.com/question/1970960825096344112",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 15时19分]"
+        },
+        {
+          "title": "演员于适任中国骑射运动中心执行主任，曾在《封神三部曲》饰演姬发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928505",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时19分]"
+        },
+        {
+          "title": "官方带头耍赖?皖二胎补贴被追回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346928&amp;topic_name=%E5%AE%98%E6%96%B9%E5%B8%A6%E5%A4%B4%E8%80%8D%E8%B5%96%3F%E7%9A%96%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时19分 ~ 14时31分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "缅甸政府将拆除KK园区148栋建筑，包括KTV、医院和SPA会所",
@@ -81,29 +110,27 @@
           "time_info": "[00时21分 ~ 07时18分]"
         },
         {
-          "title": "官方带头耍赖?皖二胎补贴被追回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346928&amp;topic_name=%E5%AE%98%E6%96%B9%E5%B8%A6%E5%A4%B4%E8%80%8D%E8%B5%96%3F%E7%9A%96%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E",
-          "source": "贴吧",
+          "title": "52岁日照市教育科学研究院院长宋国安逝世，今年刚获全国先进工作者称号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927523",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时19分]"
+        },
+        {
+          "title": "美参议院获得足够票数，推进结束政府停摆法案",
+          "url": "https://news.ifeng.com/c/8oAHo5FIFCS",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "演员于适任中国骑射运动中心执行主任，曾在《封神三部曲》饰演姬发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928505",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "乌总统签署新一轮对俄制裁决定，涉及多名俄官员",
@@ -120,27 +147,39 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
-          "title": "52岁日照市教育科学研究院院长宋国安逝世，今年刚获全国先进工作者称号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927523",
+          "title": "“遇有重大文字材料从不推脱”，杨斌履新江西省政协办公厅副主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928775",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "time_info": "[11时18分 ~ 15时19分]"
         },
         {
-          "title": "美参议院获得足够票数，推进结束政府停摆法案",
-          "url": "https://news.ifeng.com/c/8oAHo5FIFCS",
-          "source": "凤凰网",
+          "title": "三名中管干部同日被处理",
+          "url": "https://www.toutiao.com/trending/7570927961718194185/",
+          "source": "今日头条",
           "ranks": [
-            4
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "商务部等5部门调整《向特定国家（地区）出口易制毒化学品管理目录》《特定国家（地区）目录》",
+          "url": "https://wallstreetcn.com/livenews/3001997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "乌总统签署新一轮对俄制裁决定 涉及多名俄官员",
@@ -182,63 +221,6 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
-          "title": "“遇有重大文字材料从不推脱”，杨斌履新江西省政协办公厅副主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928775",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时31分]"
-        },
-        {
-          "title": "日本首相高市早苗：政府对经济政策负最终责任，而日本央行的货币政策是其中的一部分。具体的货币政策手段由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20251110142142202800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "日本首相高市早苗：经济政策的最终责任在于政府。 具体的货币政策方法由日本央行决定。",
-          "url": "https://wallstreetcn.com/livenews/3001968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "三名中管干部同日被处理",
-          "url": "https://www.toutiao.com/trending/7570927961718194185/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "日本首相高市早苗：希望日本央行能持续与政府密切合作，在制定政策时关注经济、物价及金融情势的发展。",
-          "url": "https://flash.jin10.com/detail/20251110142104073800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
           "title": "住建部副部长陈绍旺会见哈萨克斯坦工业和建设部副部长卡什肯诺夫",
           "url": "https://wallstreetcn.com/livenews/3001824",
           "source": "华尔街见闻-快讯",
@@ -270,6 +252,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "K2资产管理公司研究主管George Boubouras：对市场来说，任何解决政府关门问题的办法显然都是一个好信号。市场明白，迄今为止的停摆对经济来说是负面的，但这将强化美联储的宽松政策倾向。",
+          "url": "https://flash.jin10.com/detail/20251110144424215800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "贵州省贵阳市副市长高杨主动投案，正接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930629",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时19分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
@@ -309,6 +314,18 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "日本首相高市早苗：政府对经济政策负最终责任，而日本央行的货币政策是其中的一部分。具体的货币政策手段由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20251110142142202800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
           "title": "十四届全国政协教科卫体委员会原副主任杨小伟严重违纪违法被开除党籍和公职。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3001894",
           "source": "华尔街见闻-快讯",
@@ -319,6 +336,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时27分]"
+        },
+        {
+          "title": "日本首相高市早苗：经济政策的最终责任在于政府。 具体的货币政策方法由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3001968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "日本首相高市早苗：希望日本央行能持续与政府密切合作，在制定政策时关注经济、物价及金融情势的发展。",
+          "url": "https://flash.jin10.com/detail/20251110142104073800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "民进中央原副主席、陕西省政协原副主席刘宽忍被开除公职。（新华社）",
@@ -345,16 +386,16 @@
           "time_info": "[11时19分 ~ 12时27分]"
         },
         {
-          "title": "贵州省贵阳市副市长高杨主动投案，正接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930629",
-          "source": "澎湃新闻",
+          "title": "长沙地铁内女生衣服自燃？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E5%A5%B3%E7%94%9F%E8%A1%A3%E6%9C%8D%E8%87%AA%E7%87%83%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11
+            23,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时31分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "美参议院就结束政府停摆达成一致",
@@ -421,16 +462,26 @@
           "time_info": "[11时18分 ~ 12时27分]"
         },
         {
-          "title": "长沙地铁内女生衣服自燃？官方回应",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E5%A5%B3%E7%94%9F%E8%A1%A3%E6%9C%8D%E8%87%AA%E7%87%83%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "十四届全国政协教科卫体委员会原副主任杨小伟被双开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930914",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时31分]"
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
+          "title": "高市早苗涉妄言“台海冲突对日构成国家存亡危机”，日本政府澄清",
+          "url": "https://news.ifeng.com/c/8oAQxZU4bX3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "我一见领导就紧张该怎么办呢？",
@@ -453,17 +504,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
-        },
-        {
-          "title": "十四届全国政协教科卫体委员会原副主任杨小伟被双开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930914",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "浙江省政协原副主席、原杭州大学校长薛艳庄逝世，享年96岁",
@@ -511,15 +551,37 @@
           "time_info": "[14时30分 ~ 14时31分]"
         },
         {
-          "title": "高市早苗涉妄言“台海冲突对日构成国家存亡危机”，日本政府澄清",
-          "url": "https://news.ifeng.com/c/8oAQxZU4bX3",
-          "source": "凤凰网",
+          "title": "如何看河大校长当选世界科学院院士",
+          "url": "https://www.toutiao.com/trending/7570926452228210694/",
+          "source": "今日头条",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "官方回应地铁内一女生衣服自燃：包里的充电宝冒烟",
+          "url": "https://news.ifeng.com/c/8oARksMaKIk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "联合国旅游组织确认诺瓦伊斯为下任秘书长",
+          "url": "https://wallstreetcn.com/livenews/3001971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美财长警告：政府“停摆”或致供应链短缺",
@@ -594,8 +656,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "中储粮济宁直属库致7死事故调查报告公布",
