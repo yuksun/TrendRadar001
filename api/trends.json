@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:20:25.763594+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-11-12T14:29:25.181806+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "广西百色通报公职人员涉性侵女性案：3人被刑拘、免职调查",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时27分 ~ 13时20分]"
+          "appearance_count": 11,
+          "time_info": "[02时27分 ~ 14时29分]"
         },
         {
           "title": "江西临川三中党总支书记梅军水查看教学楼屋顶漏水时意外坠楼，不幸去世",
@@ -152,11 +152,36 @@
             20,
             16,
             12,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时29分]"
+        },
+        {
+          "title": "委官员：若与美开战可能撑不过2小时",
+          "url": "https://www.toutiao.com/trending/7571084024798826038/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时29分]"
+        },
+        {
+          "title": "特斯拉：FSD监督版将很快落地韩国。",
+          "url": "https://flash.jin10.com/detail/20251112140451451800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "人民币兑美元中间价报7.0833，上调33点；上一交易日中间价7.0866，上一交易日官方收盘价7.1207，上日夜盘报收7.1178。",
@@ -170,15 +195,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "日本首相高市早苗：政府的职责是营造一种环境，使企业能够继续以超过通胀的速度提高工资。",
-          "url": "https://flash.jin10.com/detail/20251112131542382800",
-          "source": "金十数据",
+          "title": "韩国法院对前国家情报院院长赵太庸签发逮捕令",
+          "url": "https://news.ifeng.com/c/8oDEgryFlS0",
+          "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时29分]"
         },
         {
           "title": "据华尔街日报：消息人士称，白宫正在研究一项针对代理顾问影响力的行政命令，官员们已讨论过禁止或限制代理顾问向股东提出的建议。",
@@ -214,6 +239,17 @@
           "time_info": "[09时22分 ~ 12时23分]"
         },
         {
+          "title": "多个涉军违法违规账号被查处",
+          "url": "https://www.douyin.com/hot/2303280",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 14时29分]"
+        },
+        {
           "title": "以色列战略事务部长向内塔尼亚胡递交辞呈",
           "url": "https://flash.jin10.com/detail/20251112044110822800",
           "source": "金十数据",
@@ -226,18 +262,6 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
-          "title": "委官员：若与美开战可能撑不过2小时",
-          "url": "https://www.toutiao.com/trending/7571084024798826038/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
-        },
-        {
           "title": "国台办回应台经济部门阻挠大陆电商平台岛内落地",
           "url": "https://wallstreetcn.com/livenews/3003128",
           "source": "华尔街见闻-快讯",
@@ -248,17 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 12时23分]"
-        },
-        {
-          "title": "韩国法院对前国家情报院院长赵太庸签发逮捕令",
-          "url": "https://news.ifeng.com/c/8oDEgryFlS0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时20分]"
         },
         {
           "title": "乌克兰总理：乌克兰在腐败调查后解散了乌克兰国家核能发电公司（Energoatom）的监督委员会。",
@@ -285,15 +298,28 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
-          "title": "多个涉军违法违规账号被查处",
-          "url": "https://www.douyin.com/hot/2303280",
-          "source": "抖音",
+          "title": "日本首相高市早苗：政府的职责是营造一种环境，使企业能够继续以超过通胀的速度提高工资。",
+          "url": "https://flash.jin10.com/detail/20251112131542382800",
+          "source": "金十数据",
           "ranks": [
-            12
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时20分]"
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
+        },
+        {
+          "title": "警方通报儿子暴打92岁母亲：已刑拘",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%84%BF%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%B7%B2%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
         },
         {
           "title": "官方回应是否奖励发现红旗桥险情人员",
@@ -319,6 +345,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时20分]"
+        },
+        {
+          "title": "影子调查｜“毒营养土”搅乱市场，何以监管处罚？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939698",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时29分]"
         },
         {
           "title": "镇政府回应“幼童拿泡泡糖没付款”",
@@ -416,15 +454,15 @@
           "time_info": "[04时20分 ~ 05时18分]"
         },
         {
-          "title": "影子调查｜“毒营养土”搅乱市场，何以监管处罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939698",
-          "source": "澎湃新闻",
+          "title": "韩国国情院前院长赵太庸被逮捕",
+          "url": "https://flash.jin10.com/detail/20251112135746435800",
+          "source": "金十数据",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "国台办回应民进党秘书长言论：胡言乱语、信口雌黄",
@@ -466,7 +504,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -480,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "官方回应“女孩寒冬穿拖鞋捡食”：正安排入学并办理低保(图)",
+          "url": "https://news.ifeng.com/c/8oDdhA0hSMS",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "墨西哥比索兑美元涨0.4%，报18.3053比索。 墨西哥综合指数收涨1.95%，报64321.27点，创收盘历史新高。 根据墨西哥官方公报，由于国际价格下跌以及国内市场出现供应过剩风险，墨西哥于11月11日开始对糖类进口实施新关税。",
@@ -535,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "警方通报儿子暴打92岁母亲：已刑拘",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%84%BF%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%EF%BC%9A%E5%B7%B2%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "欧洲央行管委艾斯克里瓦：西班牙经济将继续按类似的幅度增长。",
@@ -642,7 +680,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
