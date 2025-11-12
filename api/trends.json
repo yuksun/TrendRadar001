@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T16:31:20.621373+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-11-12T17:21:44.847961+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 73,
+      "match_count": 80,
       "titles": [
         {
           "title": "广西百色通报公职人员涉性侵女性案：3人被刑拘、免职调查",
@@ -33,6 +33,23 @@
           "time_info": "[00时24分 ~ 09时23分]"
         },
         {
+          "title": "阿坝州双江口红旗桥引桥为何垮塌？官方：已成立专项工作组，原因尚需进一步核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31942223",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            12,
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 17时21分]"
+        },
+        {
           "title": "“小非农”再度预警！10月ADP私营部门就业人数减少4.5万，创两年半来最大降幅",
           "url": "https://wallstreetcn.com/articles/3759149",
           "source": "华尔街见闻",
@@ -44,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时27分 ~ 16时31分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 17时21分]"
         },
         {
           "title": "江西临川三中党总支书记梅军水查看教学楼屋顶漏水时意外坠楼，不幸去世",
@@ -59,22 +76,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时24分 ~ 11时12分]"
-        },
-        {
-          "title": "阿坝州双江口红旗桥引桥为何垮塌？官方：已成立专项工作组，原因尚需进一步核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31942223",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            12,
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 16时31分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -161,20 +162,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "委官员：若与美开战可能撑不过2小时",
-          "url": "https://www.toutiao.com/trending/7571084024798826038/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 16时31分]"
-        },
-        {
           "title": "多个涉军违法违规账号被查处",
           "url": "https://www.douyin.com/hot/2303280",
           "source": "抖音",
@@ -182,8 +169,50 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时11分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 17时21分]"
+        },
+        {
+          "title": "委官员：若与美开战可能撑不过2小时",
+          "url": "https://www.toutiao.com/trending/7571084024798826038/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            2,
+            5,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时21分]"
+        },
+        {
+          "title": "中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休",
+          "url": "https://www.cls.cn/detail/2198192",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时21分]"
+        },
+        {
+          "title": "影子调查｜“毒营养土”搅乱市场，何以监管处罚？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939698",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时21分]"
         },
         {
           "title": "俄罗斯财政部宣布计划首次发行以人民币计价的政府OFZ债券。",
@@ -192,9 +221,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "财政部：2024年全国政府采购规模为33750.43亿元",
+          "url": "https://wallstreetcn.com/livenews/3003321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "人民币兑美元中间价报7.0833，上调33点；上一交易日中间价7.0866，上一交易日官方收盘价7.1207，上日夜盘报收7.1178。",
@@ -261,31 +301,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 12时23分]"
-        },
-        {
-          "title": "影子调查｜“毒营养土”搅乱市场，何以监管处罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939698",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 16时31分]"
-        },
-        {
-          "title": "中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休",
-          "url": "https://www.cls.cn/detail/2198192",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时31分]"
         },
         {
           "title": "以色列战略事务部长向内塔尼亚胡递交辞呈",
@@ -420,6 +435,19 @@
           "time_info": "[14时29分 ~ 16时31分]"
         },
         {
+          "title": "四川马尔康市红旗桥引桥垮塌，官方：山体变形滑塌所致，无人伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31942032",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时21分]"
+        },
+        {
           "title": "镇政府回应“幼童拿泡泡糖没付款”",
           "url": "https://www.toutiao.com/trending/7571301920778764297/",
           "source": "今日头条",
@@ -515,18 +543,6 @@
           "time_info": "[04时20分 ~ 05时18分]"
         },
         {
-          "title": "四川马尔康市红旗桥引桥垮塌，官方：山体变形滑塌所致，无人伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31942032",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时31分]"
-        },
-        {
           "title": "COS老干部慰问KPL冠军",
           "url": "https://search.bilibili.com/all?keyword=COS%E8%80%81%E5%B9%B2%E9%83%A8%E6%85%B0%E9%97%AEKPL%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
@@ -572,6 +588,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "格鲁吉亚内政部长表示，在土耳其货运飞机坠机现场发现了18具尸体。",
+          "url": "https://flash.jin10.com/detail/20251112170906483800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：尽管政治局势不明朗，法国经济依然具有韧性。",
           "url": "https://flash.jin10.com/detail/20251112144525099800",
           "source": "金十数据",
@@ -581,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "蓝议员讽沈伯洋是“瘫痪市长”",
+          "url": "https://www.toutiao.com/trending/7571651128803459126/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "国台办回应民进党秘书长言论：胡言乱语、信口雌黄",
@@ -671,6 +709,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "西门子启动减持医疗部门多数股权计划 聚焦高利润AI领域",
+          "url": "https://flash.jin10.com/detail/20251112165743825800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "欧盟委员会：在移民压力下，希腊、塞浦路斯、西班牙和意大利有资格加入欧盟团结基金。欧盟委员会将启动一项价值2.5亿欧元的招标，支持无人机及反无人机装备的采购。",
           "url": "https://flash.jin10.com/detail/20251111235925702800",
           "source": "金十数据",
@@ -732,7 +781,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -748,6 +797,28 @@
           "time_info": "09时23分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1172，较上一交易日官方收盘价涨35点，较上日夜盘收盘涨6点。",
+          "url": "https://wallstreetcn.com/livenews/3003299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "世界乒乓球冠军利用影响力受贿获刑",
+          "url": "https://www.toutiao.com/trending/7571694003579093018/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "澳洲联储副主席Hauser：我们的最佳预测是货币政策仍具限制性，委员会正在讨论这个问题。 如果货币政策不再具备温和的限制性，将对未来的政策产生重要影响。 消费数据有涨有跌，但整体态势是逐步温和复苏。 没有哪个失业率水平会让央行满意。",
           "url": "https://wallstreetcn.com/livenews/3003132",
           "source": "华尔街见闻-快讯",
@@ -757,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：鉴于近期数据，经济增长前景略有好转并非不可能。",
+          "url": "https://flash.jin10.com/detail/20251112164601332800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休",
