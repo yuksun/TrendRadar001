@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T09:23:13.257837+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2025-11-12T11:12:00.958565+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "广西百色通报公职人员涉性侵女性案：3人被刑拘、免职调查",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时12分]"
         },
         {
           "title": "上海警方通报网传“某女编剧自称曾袭警后通过关系被放行”",
@@ -41,30 +41,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时12分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时12分]"
         },
         {
           "title": "官方带头耍赖?皖二胎补贴被追回",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346928&amp;topic_name=%E5%AE%98%E6%96%B9%E5%B8%A6%E5%A4%B4%E8%80%8D%E8%B5%96%3F%E7%9A%96%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时12分]"
         },
         {
           "title": "中方暂停对美船舶收取船舶特别港务费，美方暂停对华 301 调查限制措施，会对中美贸易有怎样的影响？",
@@ -78,6 +80,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 09时23分]"
+        },
+        {
+          "title": "“小非农”再度预警！10月ADP私营部门就业人数减少4.5万，创两年半来最大降幅",
+          "url": "https://wallstreetcn.com/articles/3759149",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时27分 ~ 11时12分]"
         },
         {
           "title": "内蒙古菜农近200亩白菜被哄抢，损失近百万，官方通报",
@@ -126,17 +142,15 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "“小非农”再度预警！10月ADP私营部门就业人数减少4.5万，创两年半来最大降幅",
-          "url": "https://wallstreetcn.com/articles/3759149",
-          "source": "华尔街见闻",
+          "title": "国台办回应台经济部门阻挠大陆电商平台岛内落地",
+          "url": "https://wallstreetcn.com/livenews/3003128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时27分 ~ 09时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "人民币兑美元中间价报7.0833，上调33点；上一交易日中间价7.0866，上一交易日官方收盘价7.1207，上日夜盘报收7.1178。",
@@ -145,7 +159,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -156,7 +170,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -208,6 +222,41 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "中学书记教学楼屋顶坠亡 教体局回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B9%A6%E8%AE%B0%E6%95%99%E5%AD%A6%E6%A5%BC%E5%B1%8B%E9%A1%B6%E5%9D%A0%E4%BA%A1+%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 11时12分]"
+        },
+        {
+          "title": "官方回应是否奖励发现红旗桥险情人员",
+          "url": "https://www.toutiao.com/trending/7571442716928639012/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 11时12分]"
+        },
+        {
+          "title": "阿坝州双江口红旗桥引桥为何垮塌？官方：已成立专项工作组，原因尚需进一步核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31942223",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 11时12分]"
+        },
+        {
           "title": "欧洲央行管委Escriva：西班牙经济将继续按类似的幅度增长。",
           "url": "https://wallstreetcn.com/livenews/3002926",
           "source": "华尔街见闻-快讯",
@@ -230,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "韩国法院对前国家情报院院长赵太庸签发逮捕令",
+          "url": "https://news.ifeng.com/c/8oDEgryFlS0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时12分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我一些经济调查尚未完成。",
@@ -280,26 +340,15 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "中学书记教学楼屋顶坠亡 教体局回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E4%B9%A6%E8%AE%B0%E6%95%99%E5%AD%A6%E6%A5%BC%E5%B1%8B%E9%A1%B6%E5%9D%A0%E4%BA%A1+%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "多个涉军违法违规账号被查处",
+          "url": "https://www.douyin.com/hot/2303280",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "官方回应是否奖励发现红旗桥险情人员",
-          "url": "https://www.toutiao.com/trending/7571442716928639012/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "time_info": "[11时11分 ~ 11时12分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股指收跌约2%，伊斯坦布尔市长面临被判刑超2000年的风险",
@@ -338,26 +387,15 @@
           "time_info": "[04时20分 ~ 05时18分]"
         },
         {
-          "title": "阿坝州双江口红旗桥引桥为何垮塌？官方：已成立专项工作组，原因尚需进一步核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31942223",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "韩国法院对前国家情报院院长赵太庸签发逮捕令",
-          "url": "https://news.ifeng.com/c/8oDEgryFlS0",
+          "title": "国台办回应民进党秘书长言论：胡言乱语、信口雌黄",
+          "url": "https://news.ifeng.com/c/8oDUpqkpsr3",
           "source": "凤凰网",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时12分"
         },
         {
           "title": "多米尼加政府：全国范围性停电后部分电力已恢复。",
@@ -454,7 +492,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -503,6 +541,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "调查显示 美欧贸易紧张对欧洲经济冲击明年将显著加剧",
+          "url": "https://wallstreetcn.com/livenews/3003095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "乌克兰反贪局表示，前副总理是能源领域腐败调查中的一名嫌疑人。",
           "url": "https://flash.jin10.com/detail/20251111233316547800",
           "source": "金十数据",
@@ -531,7 +580,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
