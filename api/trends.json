@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T11:14:46.605994+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2025-11-13T12:25:00.745886+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "重庆南川通报孝子河污染情况：已确定污染源，将制定整治方案",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 12时25分]"
         },
         {
           "title": "界面财联社党委书记、董事长章茜：坚持内容原创和技术引领双轮驱动",
@@ -79,11 +79,12 @@
             9,
             10,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时25分]"
         },
         {
           "title": "影子调查｜“毒营养土”搅乱市场，何以监管处罚？",
@@ -113,11 +114,12 @@
           "url": "https://www.toutiao.com/trending/7571243623166312502/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 11时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 12时25分]"
         },
         {
           "title": "路透调查：近一半的日本企业认为少数派政府的稳定性是商业环境的潜在风险因素。",
@@ -131,17 +133,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "国研中心原副主任王一鸣：畅通创投基金退出渠道 大力发展并购市场",
-          "url": "https://wallstreetcn.com/livenews/3003828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
           "title": "路透调查：约43%日本企业预计在首相高市早苗领导下，商业环境将有所改善，3%企业预计商业环境将恶化。超过三分之二的日本企业计划明年加薪幅度将维持在与今年大致相同的水平。",
           "url": "https://flash.jin10.com/detail/20251113070133391800",
           "source": "金十数据",
@@ -151,6 +142,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "印度政府：新德里汽车爆炸是“恐怖事件”",
+          "url": "https://news.ifeng.com/c/8oEex4nAU4G",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时25分]"
         },
         {
           "title": "韩网爆料zeus疑似来LPL",
@@ -200,18 +203,6 @@
           "time_info": "[02时27分 ~ 04时21分]"
         },
         {
-          "title": "印度政府：新德里汽车爆炸是“恐怖事件”",
-          "url": "https://news.ifeng.com/c/8oEex4nAU4G",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时14分]"
-        },
-        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
           "url": "https://wallstreetcn.com/livenews/3003592",
           "source": "华尔街见闻-快讯",
@@ -249,6 +240,18 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "国研中心原副主任王一鸣：畅通创投基金退出渠道 大力发展并购市场",
+          "url": "https://wallstreetcn.com/livenews/3003828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：今晚与英国首相斯塔默进行了良好的通话，我们讨论了目前取得的进展，并重申了对双方更新议程的共同承诺。我们已同意下周开始就卫生与植物检疫协议和碳排放交易体系协议两项协议展开谈判。关于英国参与我们的SAFE工具，我们将继续合作，力求实现互利的结果。",
           "url": "https://flash.jin10.com/detail/20251113060137605800",
           "source": "金十数据",
@@ -272,6 +275,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 06时18分]"
+        },
+        {
+          "title": "“妈妈去世8岁女孩穿拖鞋流浪”？西安民政部门回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948120",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 12时25分]"
         },
         {
           "title": "民政部门证实离婚证背面有“囍”字",
@@ -346,17 +361,6 @@
           "time_info": "[03时16分 ~ 04时21分]"
         },
         {
-          "title": "“妈妈去世8岁女孩穿拖鞋流浪”？西安民政部门回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948120",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
           "title": "COS老干部慰问KPL冠军",
           "url": "https://search.bilibili.com/all?keyword=COS%E8%80%81%E5%B9%B2%E9%83%A8%E6%85%B0%E9%97%AEKPL%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
@@ -375,7 +379,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -441,7 +445,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -488,6 +492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "国研中心原副主任王一鸣：增强股权市场支持科技创新功能，深化退市制度改革",
+          "url": "https://wallstreetcn.com/livenews/3003831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "如何看待公安机关悬赏征集台网红温子渝、陈柏源违法犯罪线索，有功人员视情给予 5 万至 25 万元奖励？",
+          "url": "https://www.zhihu.com/question/1972230735520858224",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "墨西哥交通部长：墨美两国目前无意就航空问题诉诸国际仲裁。",
@@ -540,7 +566,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
