@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T17:21:13.703523+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-11-14T18:21:29.785692+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "乒乓球前世界冠军滕义受贿逾亿元获刑十四年：利用人脉关系谋不当利益",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时18分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 18时21分]"
         },
         {
           "title": "夜骑变野骑,娇妻出轨成骑友战利品",
@@ -75,8 +75,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "【早报】吴清访问法国、巴西金融监管部门；降息悬念待解，美联储官员密集发声",
@@ -90,6 +90,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 15时18分]"
+        },
+        {
+          "title": "吴清主席访问法国、巴西金融监管部门并与国际机构投资者代表座谈",
+          "url": "https://wallstreetcn.com/articles/3759324",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "绩效腰斩、基本工资两千，甚至兼职跑滴滴，基层医院医生收入「断崖式下跌」，具体情况如何？为什么会这样？",
@@ -145,17 +158,16 @@
           "time_info": "[00时23分 ~ 11时13分]"
         },
         {
-          "title": "吴清主席访问法国、巴西金融监管部门并与国际机构投资者代表座谈",
-          "url": "https://wallstreetcn.com/articles/3759324",
-          "source": "华尔街见闻",
+          "title": "上海通报学校午餐发臭事件",
+          "url": "https://www.douyin.com/hot/2305761",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 18时21分]"
         },
         {
           "title": "官方通报凤凰山文昌阁火灾事故(图)",
@@ -167,6 +179,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时23分]"
+        },
+        {
+          "title": "“警察同志，我要举报我女朋友！”",
+          "url": "https://news.ifeng.com/c/8oGbHEB9VY0",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 18时21分]"
         },
         {
           "title": "如何看待公安机关悬赏征集台网红温子渝、陈柏源违法犯罪线索，有功人员视情给予 5 万至 25 万元奖励？",
@@ -194,27 +217,59 @@
           "time_info": "[03时15分 ~ 06时20分]"
         },
         {
-          "title": "上海通报学校午餐发臭事件",
-          "url": "https://www.douyin.com/hot/2305761",
-          "source": "抖音",
+          "title": "成都通报“和平小屋”事：监督整改自管小组无依据收费，社区书记停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31958301",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时21分]"
-        },
-        {
-          "title": "“警察同志，我要举报我女朋友！”",
-          "url": "https://news.ifeng.com/c/8oGbHEB9VY0",
-          "source": "凤凰网",
-          "ranks": [
-            12
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时13分 ~ 17时21分]"
+          "time_info": "[14时29分 ~ 18时21分]"
+        },
+        {
+          "title": "上海通报学校午餐发臭：8人被逮捕",
+          "url": "https://www.toutiao.com/trending/7572458612913045523/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 18时21分]"
+        },
+        {
+          "title": "上海通报学校午餐发臭事件",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E5%8D%88%E9%A4%90%E5%8F%91%E8%87%AD%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 18时21分]"
+        },
+        {
+          "title": "上海通报“绿捷食安事件”：已查明违法犯罪事实，公司8名责任人被依法执行逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31966454",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 18时21分]"
         },
         {
           "title": "美官员称美军再袭加勒比地区“贩毒船” 致4人死亡",
@@ -259,7 +314,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -275,19 +330,6 @@
           "time_info": "09时23分"
         },
         {
-          "title": "上海通报学校午餐发臭：8人被逮捕",
-          "url": "https://www.toutiao.com/trending/7572458612913045523/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
           "title": "韩国产业部长：韩国将在收到美方通知后的45天内，为战略投资计划支付款项。",
           "url": "https://flash.jin10.com/detail/20251114140731006800",
           "source": "金十数据",
@@ -299,16 +341,16 @@
           "time_info": "14时29分"
         },
         {
-          "title": "成都通报“和平小屋”事：监督整改自管小组无依据收费，社区书记停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31958301",
+          "title": "影子调查｜连云港一公司女职员陪酒之死：赴宴5名镇干部被处理，家属起诉追问死因",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31899580",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时21分]"
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "沙特高级官员：我们将立即采取措施，加强两国之间的商业关系。",
@@ -383,19 +425,6 @@
           "time_info": "[12时23分 ~ 13时19分]"
         },
         {
-          "title": "上海通报学校午餐发臭事件",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E5%8D%88%E9%A4%90%E5%8F%91%E8%87%AD%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
           "title": "俄国防部：在俄罗斯南部克拉斯诺达尔地区击落了66架无人机。此前官员称该地区的一个油库和港口曾遭到袭击。",
           "url": "https://flash.jin10.com/detail/20251114131141249800",
           "source": "金十数据",
@@ -432,19 +461,6 @@
           "time_info": "[00时23分 ~ 09时23分]"
         },
         {
-          "title": "上海通报“绿捷食安事件”：已查明违法犯罪事实，公司8名责任人被依法执行逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31966454",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
           "title": "如何评价河南大学校长张锁江当选世界科学院院士？",
           "url": "https://www.zhihu.com/question/1971252595315144238",
           "source": "知乎",
@@ -458,16 +474,40 @@
           "time_info": "[05时18分 ~ 09时23分]"
         },
         {
-          "title": "影子调查｜连云港一公司女职员陪酒之死：赴宴5名镇干部被处理，家属起诉追问死因",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31899580",
-          "source": "澎湃新闻",
+          "title": "足浴店卖淫被查多位民警遭指控",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8D%96%E6%B7%AB%E8%A2%AB%E6%9F%A5%E5%A4%9A%E4%BD%8D%E6%B0%91%E8%AD%A6%E9%81%AD%E6%8C%87%E6%8E%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26pos%3D22%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25B6%25B3%25E6%25B5%25B4%25E5%25BA%2597%25E5%258D%2596%25E6%25B7%25AB%25E8%25A2%25AB%25E6%259F%25A5%25E5%25A4%259A%25E4%25BD%258D%25E6%25B0%2591%25E8%25AD%25A6%25E9%2581%25AD%25E6%258C%2587%25E6%258E%25A7%2523%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D21%26flag%3D1%26display_time%3D1763111927%26pre_seqid%3D176311192761303306070131&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            15,
-            14
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
+          "title": "上海通报“绿捷食安事件”：吊销“双证”，8名责任人被逮捕",
+          "url": "https://www.cls.cn/detail/2200709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "time_info": "[16时25分 ~ 18时21分]"
+        },
+        {
+          "title": "上海通报学校午餐发臭事件，已查明违法犯罪事实，8 名责任人被逮捕，起到哪些警示作用？",
+          "url": "https://www.zhihu.com/question/1972672588388987668",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "女子社保被误标刑满释放 官方回应",
@@ -480,29 +520,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时29分]"
-        },
-        {
-          "title": "上海通报学校午餐发臭事件，已查明违法犯罪事实，8 名责任人被逮捕，起到哪些警示作用？",
-          "url": "https://www.zhihu.com/question/1972672588388987668",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时21分]"
-        },
-        {
-          "title": "上海通报“绿捷食安事件”：吊销“双证”，8名责任人被逮捕",
-          "url": "https://www.cls.cn/detail/2200709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
@@ -538,17 +555,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "足浴店卖淫被查多位民警遭指控",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B6%B3%E6%B5%B4%E5%BA%97%E5%8D%96%E6%B7%AB%E8%A2%AB%E6%9F%A5%E5%A4%9A%E4%BD%8D%E6%B0%91%E8%AD%A6%E9%81%AD%E6%8C%87%E6%8E%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26pos%3D22%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25B6%25B3%25E6%25B5%25B4%25E5%25BA%2597%25E5%258D%2596%25E6%25B7%25AB%25E8%25A2%25AB%25E6%259F%25A5%25E5%25A4%259A%25E4%25BD%258D%25E6%25B0%2591%25E8%25AD%25A6%25E9%2581%25AD%25E6%258C%2587%25E6%258E%25A7%2523%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D21%26flag%3D1%26display_time%3D1763111927%26pre_seqid%3D176311192761303306070131&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "中方就联合国秘书长选举表态",
@@ -606,6 +612,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
+          "url": "https://wallstreetcn.com/livenews/3004803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "日本首相高市早苗：自政府设定最低工资目标以来，已收到日本地区企业的投诉。",
           "url": "https://flash.jin10.com/detail/20251114085112515800",
           "source": "金十数据",
@@ -656,7 +673,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -678,7 +695,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -832,7 +849,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -865,9 +882,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "路透调查：13位受访经济学家预计，匈牙利央行下周二将维持基准利率在6.5%不变。",
+          "url": "https://flash.jin10.com/detail/20251114173529489800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "北约秘书长访问北约驻德国空军基地",
@@ -909,7 +937,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -923,6 +951,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
+          "url": "https://wallstreetcn.com/livenews/3004778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "公安机关再出重拳依法惩“独”",
@@ -945,6 +984,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "商务部等部门：严格以改装车名义出口车辆的许可证申领条件",
+          "url": "https://wallstreetcn.com/livenews/3004771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "【商务部等四部门：严控新车以二手车名义出口】自2026年1月1日起，对申请出口距注册登记日期不满180天（含180天）的车辆，各地商务主管部门应指导本地企业补充提交该车辆生产企业出具的《售后维修服务确认书》，内容包括出口国别、车辆信息、提供售后服务的网点信息等并加盖生产企业公章，对无法提供上述材料的车辆，不予发放出口许可证。对于通知实施日前已办理转让登记待出口手续的车辆，要指导企业做好合同履约并有序出口。",
+          "url": "https://wallstreetcn.com/livenews/3004769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "英国政府再次任命格林出任英国央行货币政策委员会委员",
