@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T14:26:48.577007+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2025-11-16T15:17:07.296727+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "市场消息：美联储前理事库格勒辞职前曾面临道德操守调查。",
@@ -103,6 +103,18 @@
           "time_info": "[00时20分 ~ 09时28分]"
         },
         {
+          "title": "访国家气候变化专委会副主任王毅：中国气候行动是“发展题”，已超越单纯减排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31973639",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 15时17分]"
+        },
+        {
           "title": "刚果（金）与反政府武装“M23运动”在卡塔尔签署和平框架协议，以结束冲突。",
           "url": "https://flash.jin10.com/detail/20251115192421110800",
           "source": "金十数据",
@@ -113,6 +125,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 09时28分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
+          "url": "https://wallstreetcn.com/articles/3759456",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时17分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31972733",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 15时17分]"
         },
         {
           "title": "塞尔维亚能源部长：塞尔维亚必须做出艰难的决定，包括接管俄罗斯拥有的石油公司。",
@@ -126,20 +164,6 @@
           "time_info": "[00时20分 ~ 07时17分]"
         },
         {
-          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
-          "url": "https://wallstreetcn.com/articles/3759456",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时26分]"
-        },
-        {
           "title": "欧洲央行管委雷恩：不应忽视通胀放缓的风险、12月再度降息的风险不应被低估",
           "url": "https://flash.jin10.com/detail/20251116103131329800",
           "source": "金十数据",
@@ -147,46 +171,12 @@
             2,
             3,
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时26分]"
-        },
-        {
-          "title": "访国家气候变化专委会副主任王毅：中国气候行动是“发展题”，已超越单纯减排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31973639",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 14时26分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31972733",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时26分]"
-        },
-        {
-          "title": "美联邦官员证实执法人员在夏洛特市多地逮捕非法移民",
-          "url": "https://flash.jin10.com/detail/20251116133254847800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时17分]"
         },
         {
           "title": "招商局集团有限公司原副总经理李百安接受审查调查",
@@ -196,11 +186,23 @@
             2,
             8,
             17,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时17分]"
+        },
+        {
+          "title": "韩国政府宣布：中国排日本前面",
+          "url": "https://news.ifeng.com/c/8oKPYeJlMqZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "景区通报3名印度人在庐山“泡澡”",
@@ -222,11 +224,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "美联邦官员证实执法人员在夏洛特市多地逮捕非法移民",
+          "url": "https://flash.jin10.com/detail/20251116133254847800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时26分]"
+          "time_info": "[14时26分 ~ 15时17分]"
         },
         {
           "title": "美联储前理事库格勒辞职前曾面临道德操守调查",
@@ -241,6 +256,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时28分 ~ 13时18分]"
+        },
+        {
+          "title": "“名酒生产线”被查：成本几十卖几千",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%8D%E9%85%92%E7%94%9F%E4%BA%A7%E7%BA%BF%E2%80%9D%E8%A2%AB%E6%9F%A5%EF%BC%9A%E6%88%90%E6%9C%AC%E5%87%A0%E5%8D%81%E5%8D%96%E5%87%A0%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "招商局集团原副总经理李百安被查",
+          "url": "https://www.toutiao.com/trending/7573152898722086950/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "“战时大老虎”，被查前离境出走了",
+          "url": "https://news.ifeng.com/c/8oK5wx1zxqQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "复盘四川双江口垮桥：货车司机发现裂缝后上报，官方快速管制免于伤亡",
@@ -283,11 +331,12 @@
             24,
             15,
             23,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "山东队全运会战绩可查",
