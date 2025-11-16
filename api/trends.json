@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T12:24:52.240529+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2025-11-16T13:18:16.240351+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场消息：美联储前理事库格勒辞职前曾面临道德操守调查。",
@@ -15,11 +15,12 @@
             1,
             13,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "山西“狗咬人被摔死”命案调查：纠纷如何升级，“反杀”是否防卫过度？",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "外交部副部长奉示召见日本驻华大使",
@@ -44,11 +45,12 @@
             12,
             22,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "泰国政府：泰美关税谈判将继续推进",
@@ -127,11 +129,49 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时18分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
+          "url": "https://wallstreetcn.com/articles/3759456",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时18分]"
+        },
+        {
+          "title": "访国家气候变化专委会副主任王毅：中国气候行动是“发展题”，已超越单纯减排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31973639",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 13时18分]"
+        },
+        {
+          "title": "加密货币交易平台Kraken：目前正在调查影响ATH和LTC在网页端和移动端即时购买服务的问题。",
+          "url": "https://flash.jin10.com/detail/20251116122424673800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "景区通报3名印度人在庐山“泡澡”",
@@ -149,16 +189,15 @@
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
-          "url": "https://wallstreetcn.com/articles/3759456",
-          "source": "华尔街见闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31972733",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6,
-            5
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 13时18分]"
         },
         {
           "title": "招商局集团有限公司原副总经理李百安接受审查调查",
@@ -166,23 +205,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时24分]"
-        },
-        {
-          "title": "访国家气候变化专委会副主任王毅：中国气候行动是“发展题”，已超越单纯减排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31973639",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时18分]"
         },
         {
           "title": "美联储前理事库格勒辞职前曾面临道德操守调查",
@@ -191,22 +219,12 @@
           "ranks": [
             12,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时24分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31972733",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时18分]"
         },
         {
           "title": "复盘四川双江口垮桥：货车司机发现裂缝后上报，官方快速管制免于伤亡",
@@ -246,11 +264,13 @@
             8,
             7,
             4,
-            24
+            24,
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "山东队全运会战绩可查",
