@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:24:06.125477+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-11-17T18:22:09.698293+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 60,
       "titles": [
         {
           "title": "韩国政府宣布：中国排日本前面",
@@ -55,11 +55,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 18时22分]"
         },
         {
           "title": "韩国政府宣布：中国排日本前面",
@@ -218,11 +219,25 @@
           "ranks": [
             15,
             12,
-            22
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 18时21分]"
+        },
+        {
+          "title": "外交部回应中日联合舆论调查延期",
+          "url": "https://www.toutiao.com/trending/7573100620535005203/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时18分 ~ 17时24分]"
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "印度国家调查局：逮捕了一名克什米尔居民，此人曾与红堡地区爆炸案中的自杀式炸弹袭击者合谋。",
@@ -274,6 +289,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "欧盟委员会：欧元区今年经济增长将快于预期",
+          "url": "https://flash.jin10.com/detail/20251117180935899800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美陆军部长称随时待命对委内瑞拉采取行动",
           "url": "https://wallstreetcn.com/livenews/3005397",
           "source": "华尔街见闻-快讯",
@@ -321,16 +347,15 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "外交部回应中日联合舆论调查延期",
-          "url": "https://www.toutiao.com/trending/7573100620535005203/",
-          "source": "今日头条",
+          "title": "李显刚受贿贪污超1亿被判无期",
+          "url": "https://www.douyin.com/hot/2309291",
+          "source": "抖音",
           "ranks": [
-            18,
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时24分]"
+          "time_info": "[17时23分 ~ 18时22分]"
         },
         {
           "title": "官方辟谣贵州遵义发生两起交通事故",
@@ -344,15 +369,28 @@
           "time_info": "[09时23分 ~ 11时15分]"
         },
         {
-          "title": "李显刚受贿贪污超1亿被判无期",
-          "url": "https://www.douyin.com/hot/2309291",
-          "source": "抖音",
+          "title": "保龄宝：戴斯觉先生因个人原因申请辞去公司董事长、董事、董事会战略委员会主任委员职务。",
+          "url": "https://wallstreetcn.com/livenews/3005754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 18时22分]"
+        },
+        {
+          "title": "税务部门曝光案例严惩骗享税费优惠行为",
+          "url": "https://wallstreetcn.com/livenews/3005751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "为啥事情做得多的，反而不受领导喜欢？",
@@ -400,6 +438,50 @@
           "time_info": "07时16分"
         },
         {
+          "title": "路透调查：印度尼西亚央行将于12月将7天逆回购利率下调25个基点至4.50%。",
+          "url": "https://flash.jin10.com/detail/20251117180523391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "路透调查：30位经济学家中有24位表示，印尼央行预计将于11月19日将7天逆回购利率维持在4.75%不变。",
+          "url": "https://flash.jin10.com/detail/20251117180508835800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "印度贸易官员：印美官员正通过线上谈判，以解决彼此的关切问题。",
+          "url": "https://flash.jin10.com/detail/20251117180459511800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "印度贸易官员：关于对等关税的协议将成为更广泛的双边贸易协定的一部分。",
+          "url": "https://flash.jin10.com/detail/20251117180457749800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "国际文传电讯社援引国际货币基金组织代表的话称，国际货币基金组织代表团已开始与乌克兰官员就新的扩展基金机制计划展开讨论。",
           "url": "https://flash.jin10.com/detail/20251117143359126800",
           "source": "金十数据",
@@ -439,9 +521,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "欧盟委员会预计2026年GDP增长1.2%。",
+          "url": "https://flash.jin10.com/detail/20251117180219222800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "王毅同叙利亚过渡政府外长希巴尼会谈",
@@ -466,17 +559,6 @@
           "time_info": "16时28分"
         },
         {
-          "title": "保龄宝：戴斯觉先生因个人原因申请辞去公司董事长、董事、董事会战略委员会主任委员职务。",
-          "url": "https://wallstreetcn.com/livenews/3005754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "印度政府签署政府命令，限制铂金珠宝进口。",
           "url": "https://flash.jin10.com/detail/20251117142105319800",
           "source": "金十数据",
@@ -488,15 +570,15 @@
           "time_info": "15时19分"
         },
         {
-          "title": "税务部门曝光案例严惩骗享税费优惠行为",
-          "url": "https://wallstreetcn.com/livenews/3005751",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会预测，欧元区通胀率2025年为2.1%，2026年为1.9%，2027年为2.0%，2024年为2.4%。",
+          "url": "https://flash.jin10.com/detail/20251117180141708800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时22分"
         },
         {
           "title": "国家发改委等部门发布关于加快建设现代化国有林场的意见",
@@ -530,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "印尼国家石油公司官员：预计部分燃料产品需求将增加，计划通过进口来满足需求。",
+          "url": "https://flash.jin10.com/detail/20251117175802809800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "乌克兰援引IMF代表的话称，国际货币基金组织代表团已开始与乌克兰官员就新的扩大基金安排（EFF）计划进行磋商。（国际文传电讯社）",
@@ -587,13 +680,35 @@
           "time_info": "14时29分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：为乌克兰提供资金的三大主要方案是欧盟成员国的赠款、由欧盟借款资助的有限追索权贷款，或与被冻结的俄罗斯资产挂钩的贷款。",
+          "url": "https://flash.jin10.com/detail/20251117175551036800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：（就乌克兰的资金缺口表示）任何选定的方案都可以设计为过渡性和有时限的。",
+          "url": "https://flash.jin10.com/detail/20251117175137089800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.1048，较上一交易日官方收盘价跌41点，较上日夜盘收盘跌54点。",
           "url": "https://wallstreetcn.com/livenews/3005734",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
