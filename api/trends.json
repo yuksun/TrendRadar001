@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:30:16.907478+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2025-11-18T16:25:59.246286+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 63,
+      "match_count": 72,
       "titles": [
         {
           "title": "7部门开展茧丝绸产业东绸西固工作",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 16时25分]"
         },
         {
           "title": "日本政府涉“黑金”丑闻高官再曝金钱问题",
@@ -54,8 +54,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 16时25分]"
+        },
+        {
+          "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1973879336030463533",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时25分]"
         },
         {
           "title": "受贿1.17亿余元，黑龙江省人大常委会原党组成员李显刚一审被判无期",
@@ -69,19 +80,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时30分]"
-        },
-        {
-          "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1973879336030463533",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 16时25分]"
         },
         {
           "title": "官方辟谣贵州遵义发生两起交通事故",
@@ -95,6 +95,18 @@
           "time_info": "[00时25分 ~ 09时22分]"
         },
         {
+          "title": "宁波通报“女婴心脏手术离世”",
+          "url": "https://www.douyin.com/hot/2309732",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 16时25分]"
+        },
+        {
           "title": "日本认怂?外务省局长赴华灭火",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347183&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%AE%A4%E6%80%82%3F%E5%A4%96%E5%8A%A1%E7%9C%81%E5%B1%80%E9%95%BF%E8%B5%B4%E5%8D%8E%E7%81%AD%E7%81%AB",
           "source": "贴吧",
@@ -103,11 +115,12 @@
             17,
             22,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 16时25分]"
         },
         {
           "title": "公安部：让民警习惯在镜头下执法",
@@ -152,16 +165,31 @@
           "time_info": "[03时15分 ~ 07时17分]"
         },
         {
-          "title": "宁波通报“女婴心脏手术离世”",
-          "url": "https://www.douyin.com/hot/2309732",
-          "source": "抖音",
+          "title": "男子CT报告显示“子宫未见异常”，安徽宿州市立医院通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31986553",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            15
+            11,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时30分]"
+          "time_info": "[11时11分 ~ 16时25分]"
+        },
+        {
+          "title": "韩国环境部部长答澎湃：决心向世界证明脱碳社会可行性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31985253",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时11分 ~ 16时25分]"
         },
         {
           "title": "外交部回应日方官员访华",
@@ -176,41 +204,42 @@
           "time_info": "[09时22分 ~ 15时30分]"
         },
         {
-          "title": "男子CT报告显示“子宫未见异常”，安徽宿州市立医院通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31986553",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 15时30分]"
-        },
-        {
-          "title": "韩国环境部部长答澎湃：决心向世界证明脱碳社会可行性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31985253",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 15时30分]"
-        },
-        {
           "title": "日本外务省官员离开中国外交部",
           "url": "https://www.toutiao.com/trending/7573950064708554286/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时25分]"
+        },
+        {
+          "title": "日本外务省官员离开中国外交部",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时25分]"
+        },
+        {
+          "title": "40余家网店售卖二手军用物资被查 国安机关披露案件详情",
+          "url": "https://www.cls.cn/detail/2203203",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 16时25分]"
         },
         {
           "title": "5月龄女婴手术后离世 当地成立调查组",
@@ -239,17 +268,6 @@
           "time_info": "[01时19分 ~ 07时17分]"
         },
         {
-          "title": "日本外务省官员离开中国外交部",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
           "title": "日本官员反对高市修改无核三原则",
           "url": "https://news.ifeng.com/c/8oN929jHz1h",
           "source": "凤凰网",
@@ -272,29 +290,15 @@
           "time_info": "[13时19分 ~ 14时28分]"
         },
         {
-          "title": "日本外务省官员离开中国外交部",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8",
-          "source": "bilibili 热搜",
+          "title": "外交部回应日本官员来华磋商",
+          "url": "https://www.toutiao.com/trending/7572985873111072806/",
+          "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
-          "title": "40余家网店售卖二手军用物资被查 国安机关披露案件详情",
-          "url": "https://www.cls.cn/detail/2203203",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 15时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "日本外务省官员离开中国外交部(图)",
@@ -303,9 +307,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "外交部回应日本官员来华磋商",
+          "url": "https://news.ifeng.com/c/8oNnqOelQZO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "海南省委书记冯飞宣布：海南自由贸易港封关运作合成演练和7x24小时热运行正式启动。（海南日报）",
@@ -370,6 +385,29 @@
           "time_info": "[11时11分 ~ 14时28分]"
         },
         {
+          "title": "日本官员低头听中方讲话",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "日本外务省官员离开中国外交部",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时25分]"
+        },
+        {
           "title": "菲律宾新财长上任，马科斯政府寻求稳定投资者信心",
           "url": "https://flash.jin10.com/detail/20251118134727247800",
           "source": "金十数据",
@@ -387,7 +425,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -404,14 +442,14 @@
         },
         {
           "title": "外交部回应日本官员来华磋商",
-          "url": "https://wallstreetcn.com/livenews/3006340",
-          "source": "华尔街见闻-快讯",
+          "url": "https://www.douyin.com/hot/2310280",
+          "source": "抖音",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "16时25分"
         },
         {
           "title": "日本首相高市早苗：希望税务委员会继续就所得税制度进行辩论。",
@@ -420,9 +458,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "日本外务省官员离开中国外交部",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%2596%25E5%258A%25A1%25E7%259C%2581%25E5%25AE%2598%25E5%2591%2598%25E7%25A6%25BB%25E5%25BC%2580%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%2523%26realpos%3D14%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26band_rank%3D14%26cate%3D5001%26pos%3D15%26display_time%3D1763450861%26pre_seqid%3D17634508616580280658513&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时25分]"
         },
         {
           "title": "印度政府：印度与俄罗斯在新德里举行高级别跨部门磋商。",
@@ -474,6 +524,18 @@
           "time_info": "[01时19分 ~ 02时27分]"
         },
         {
+          "title": "外交部回应日本官员来华磋商",
+          "url": "https://wallstreetcn.com/livenews/3006340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 16时25分]"
+        },
+        {
           "title": "日本首相顾问称下周将推出日版“政府效率部”",
           "url": "https://flash.jin10.com/detail/20251118124118589800",
           "source": "金十数据",
@@ -503,11 +565,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时25分]"
         },
         {
           "title": "德国外交部长：如果阿尔巴尼亚继续当前的努力，其加入欧盟的道路必将成功。",
@@ -556,17 +619,6 @@
           "time_info": "[11时11分 ~ 11时12分]"
         },
         {
-          "title": "日本外务省官员离开中国外交部",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%2596%25E5%258A%25A1%25E7%259C%2581%25E5%25AE%2598%25E5%2591%2598%25E7%25A6%25BB%25E5%25BC%2580%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%2523%26realpos%3D14%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26band_rank%3D14%26cate%3D5001%26pos%3D15%26display_time%3D1763450861%26pre_seqid%3D17634508616580280658513&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
           "title": "澳洲联储会议纪要：委员会保持谨慎，在不确定性下选择依赖数据",
           "url": "https://flash.jin10.com/detail/20251118085228704800",
           "source": "金十数据",
@@ -576,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "日本外务省官员离开中国外交部",
+          "url": "https://www.cls.cn/detail/2203634",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "景顺：日本遭遇股债汇三杀 受中日摩擦和政府支出担忧影响",
@@ -595,9 +658,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "澳门特区政府2026年施政总体方向公布",
+          "url": "https://wallstreetcn.com/livenews/3006355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "习近平对全面依法治国工作作出重要指示强调，坚持党的领导、人民当家作主、依法治国有机统一，合力开创法治中国建设新局面。（新华社）",
@@ -620,6 +694,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "日本官员低头听中方讲话",
+          "url": "https://www.toutiao.com/trending/7573106674996117540/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "调查：香港千万富翁增至近40万人，总资产净值中位数逾2千万",
+          "url": "https://wallstreetcn.com/livenews/3006349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "检察机关依法对安徽省政协原党组成员、副主席周喜安涉嫌受贿案提起公诉。（新华社）",
@@ -655,13 +751,24 @@
           "time_info": "09时22分"
         },
         {
+          "title": "央媒：日本为何着急派官员来华协商？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "日本央行行长植田和男：与日本首相高市早苗讨论了国内外经济形势。 与高市早苗谈的很好。 与高市早苗讨论了货币政策。 告诉首相日本央行正在逐步调整宽松政策。 高市早苗没有什么特别的要求。 希望汇率走势稳定、反映基本面。 物价上涨和工资上涨的机制正在恢复。 会根据数据做出适当的判断。 将与政府合作观察外汇走势和影响。",
           "url": "https://wallstreetcn.com/livenews/3006317",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -738,7 +845,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -766,7 +873,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -777,7 +884,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
