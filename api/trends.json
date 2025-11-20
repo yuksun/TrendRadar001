@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T00:24:42.941937+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T01:16:00.596501+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中日韩三方文化部长本月会议将推迟？外交部回应",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
@@ -26,19 +26,53 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
+        },
+        {
+          "title": "官方回应多名女子后厨热舞影响卫生",
+          "url": "https://www.toutiao.com/trending/7574404467366576171/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
+        },
+        {
+          "title": "警方通报崇礼致13伤交通事故",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B4%87%E7%A4%BC%E8%87%B413%E4%BC%A4%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
+        },
+        {
+          "title": "黑龙江省原副省长毕宝文被查",
+          "url": "https://www.douyin.com/hot/2312704",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "如果你发现领导的水平也就那样，跟你预期差太多了该怎么办？",
           "url": "https://www.zhihu.com/question/1962444396650805151",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "日本广岛牡蛎大规模异常死亡，政府正调查原因",
@@ -48,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "中日韩三方文化部长本月会议将推迟？外交部回应",
@@ -59,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "《潜伏》里的翠平为什么用红中代表洪秘书？",
@@ -74,37 +108,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "官方回应多名女子后厨热舞影响卫生",
-          "url": "https://www.toutiao.com/trending/7574404467366576171/",
-          "source": "今日头条",
+          "title": "两位科特迪瓦咖啡和可可委员会（CCC）消息人士表示，由于降雨不稳定和缺乏农民投资，中期作物产量预计将下降25%至30%。",
+          "url": "https://flash.jin10.com/detail/20251121004030567800",
+          "source": "金十数据",
           "ranks": [
-            15
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "警方通报崇礼致13伤交通事故",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B4%87%E7%A4%BC%E8%87%B413%E4%BC%A4%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "黑龙江省原副省长毕宝文被查",
-          "url": "https://www.douyin.com/hot/2312704",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时16分"
         }
       ]
     },
@@ -120,19 +132,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
         },
         {
           "title": "陈梦领衔山东队夺冠,孙颖莎憾摘银",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347297&amp;topic_name=%E9%99%88%E6%A2%A6%E9%A2%86%E8%A1%94%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%86%A0%2C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%86%BE%E6%91%98%E9%93%B6",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时16分]"
         }
       ]
     }
