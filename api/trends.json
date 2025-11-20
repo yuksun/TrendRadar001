@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T13:19:49.545973+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2025-11-20T14:28:08.615008+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 52,
+      "match_count": 60,
       "titles": [
         {
           "title": "日本外务省官员离开中国外交部",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "公务员录用体检三项标准放宽后，被解聘的“地贫”幼师将继续申诉",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "贪污超1.08亿、受贿超1.05亿，新华保险原董事长李全一审被判死缓",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "5部门：体育教师在职称评聘、福利待遇等方面与其他学科教师享受同等待遇",
@@ -109,8 +109,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "澎湃回声｜“清华林博士”背后公司存虚假宣传，市监部门拟行政处罚",
@@ -132,11 +132,24 @@
             20,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
+        },
+        {
+          "title": "发现问题立马跟领导反映了，但领导爱理不理，问题爆雷后，领导将责任推给你，你会怎么应对？",
+          "url": "https://www.zhihu.com/question/1974053189285323289",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "男子晒与“省领导”聊天记录被抓",
@@ -156,17 +169,6 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
-          "title": "发现问题立马跟领导反映了，但领导爱理不理，问题爆雷后，领导将责任推给你，你会怎么应对？",
-          "url": "https://www.zhihu.com/question/1974053189285323289",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时19分]"
-        },
-        {
           "title": "日本政府被判赔偿39亿日元",
           "url": "https://news.ifeng.com/c/8oQPrVEN23Z",
           "source": "凤凰网",
@@ -175,8 +177,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时28分]"
+        },
+        {
+          "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
+          "url": "https://www.zhihu.com/question/1974499754890196831",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "日本学者纐缬厚：高市早苗不配担任公职",
@@ -190,6 +205,17 @@
           "time_info": "[11时09分 ~ 12时21分]"
         },
         {
+          "title": "钧正平：加速右倾的日本政府，必将成为日本前途的“掘墓人”",
+          "url": "https://news.ifeng.com/c/8oQuRQqTxmO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时28分]"
+        },
+        {
           "title": "人民币兑美元中间价报7.0905，下调33点；上一交易日中间价7.0872，上一交易日官方收盘价7.1096，上日夜盘报收7.1135。",
           "url": "https://wallstreetcn.com/livenews/3007537",
           "source": "华尔街见闻-快讯",
@@ -201,39 +227,18 @@
           "time_info": "09时21分"
         },
         {
-          "title": "宁波市市长会见曹德旺",
-          "url": "https://wallstreetcn.com/livenews/3007663",
-          "source": "华尔街见闻-快讯",
+          "title": "云南昆明市委常委、常务副市长陈伟主动投案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31999442",
+          "source": "澎湃新闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
-          "url": "https://www.zhihu.com/question/1974499754890196831",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            4
+            18,
+            19,
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时19分]"
-        },
-        {
-          "title": "钧正平：加速右倾的日本政府，必将成为日本前途的“掘墓人”",
-          "url": "https://news.ifeng.com/c/8oQuRQqTxmO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "民众在东京集会，反对日本政府扩张军备(图)",
@@ -245,6 +250,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "日本政府被判赔39亿日元",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%A2%AB%E5%88%A4%E8%B5%9439%E4%BA%BF%E6%97%A5%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时28分]"
+        },
+        {
+          "title": "村委讨论处理单身返乡人员？假的",
+          "url": "https://www.toutiao.com/trending/7574346028942557235/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时28分]"
         },
         {
           "title": "会议纪要突显出美联储官员们对10月降息25个基点的意见分歧，给12月降息与否蒙上阴影",
@@ -320,6 +350,18 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
+          "title": "宁波市市长会见曹德旺",
+          "url": "https://wallstreetcn.com/livenews/3007663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时28分]"
+        },
+        {
           "title": "巴西卫生部长：巴西卫生系统愿借鉴中国经验提升气候变化适应力",
           "url": "https://wallstreetcn.com/livenews/3007654",
           "source": "华尔街见闻-快讯",
@@ -330,6 +372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时19分]"
+        },
+        {
+          "title": "柯文哲已回民众党中央党部办公，党内人士称其“不太会插手党务”",
+          "url": "https://news.ifeng.com/c/8oQhvbYs8bw",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时28分]"
         },
         {
           "title": "日本民众东京集会 反对政府扩张军备",
@@ -346,52 +399,17 @@
           "time_info": "[09时21分 ~ 13时19分]"
         },
         {
-          "title": "云南昆明市委常委、常务副市长陈伟主动投案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31999442",
-          "source": "澎湃新闻",
+          "title": "员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？",
+          "url": "https://www.zhihu.com/question/1974082897754420651",
+          "source": "知乎",
           "ranks": [
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时19分]"
-        },
-        {
-          "title": "日本政府被判赔39亿日元",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%A2%AB%E5%88%A4%E8%B5%9439%E4%BA%BF%E6%97%A5%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            10,
-            7
+            17,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时19分]"
-        },
-        {
-          "title": "村委讨论处理单身返乡人员？假的",
-          "url": "https://www.toutiao.com/trending/7574346028942557235/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时19分]"
-        },
-        {
-          "title": "柯文哲已回民众党中央党部办公，党内人士称其“不太会插手党务”",
-          "url": "https://news.ifeng.com/c/8oQhvbYs8bw",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时19分]"
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：所有的美联储候选人都理解独立性的重要意义。",
@@ -406,6 +424,17 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
+          "title": "官方回应多名女子后厨热舞影响卫生",
+          "url": "https://www.toutiao.com/trending/7574404467366576171/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：鉴于债务问题所取得的进展，可以开始讨论退还部分款项。",
           "url": "https://wallstreetcn.com/livenews/3007304",
           "source": "华尔街见闻-快讯",
@@ -416,18 +445,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？",
-          "url": "https://www.zhihu.com/question/1974082897754420651",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时19分]"
         },
         {
           "title": "厄瓜多尔环境和能源部副部长：厄瓜多尔启动石油招标，寻求高达3.6亿美元的私人投资来开发三个油田区块。",
@@ -500,6 +517,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "王沪宁主持召开全国政协主席会议",
+          "url": "https://wallstreetcn.com/livenews/3007688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "意大利考虑支持西班牙领导欧元区财长职位。",
           "url": "https://flash.jin10.com/detail/20251119235149914800",
           "source": "金十数据",
@@ -509,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "德国财政部长克林贝伊尔：在新的全球背景下，新加坡已准备好与德国加强合作。",
+          "url": "https://flash.jin10.com/detail/20251120140250959800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "NHK报道称，日本政府计划的经济方案规模约21.3万亿日元。",
@@ -522,6 +561,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "日本央行小枝淳子：我们将通过调查等各种途径获取更多信息，以掌握明年度工资谈判走向。 各项指标显示潜在通胀率正逐渐接近2%，我们目前还未到需要仔细评估这一水平能否稳固维持的阶段。 我对潜在通胀和通胀上行风险的看法与日本央行10月编制季度展望报告时相比没有太大变化。",
+          "url": "https://wallstreetcn.com/livenews/3007684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "年内专项债券投向政府投资基金合计规模已超500亿元",
           "url": "https://wallstreetcn.com/livenews/3007460",
           "source": "华尔街见闻-快讯",
@@ -531,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
+          "url": "https://flash.jin10.com/detail/20251120135708877800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "高校通报网传高中学历当博导",
@@ -544,6 +605,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "德国财政部长克林贝伊尔：新加坡在供应链方面面临着与德国类似的挑战。",
+          "url": "https://flash.jin10.com/detail/20251120135619581800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "以色列方面称，总理办公室发现一个可疑信封。此事正在调查中。",
           "url": "https://flash.jin10.com/detail/20251120042111116800",
           "source": "金十数据",
@@ -553,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：当政府支出方案更多细节公布后，我们将在预测中纳入其影响。",
+          "url": "https://flash.jin10.com/detail/20251120135217048800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美联储会议纪要：多数与会者表示，在转向更中性的政策立场时，委员会正在帮助阻止劳动力市场状况出现重大恶化的可能性。",
@@ -586,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：我们将通过包括调查在内的更多渠道，获取有关明年工资谈判方向的信息。",
+          "url": "https://flash.jin10.com/detail/20251120134725038800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美联储会议纪要：多数官员认为随着时间的推移会进一步放松政策，但有几位官员表示不一定会在12月份（降息）。",
@@ -638,18 +732,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "陈梦领衔山东队夺冠,孙颖莎憾摘银",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347297&amp;topic_name=%E9%99%88%E6%A2%A6%E9%A2%86%E8%A1%94%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%86%A0%2C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%86%BE%E6%91%98%E9%93%B6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时19分]"
-        },
-        {
           "title": "全运会乒乓女团山东夺冠",
           "url": "https://www.douyin.com/hot/2311386",
           "source": "抖音",
@@ -662,6 +744,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时21分]"
+        },
+        {
+          "title": "陈梦领衔山东队夺冠,孙颖莎憾摘银",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347297&amp;topic_name=%E9%99%88%E6%A2%A6%E9%A2%86%E8%A1%94%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%86%A0%2C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%86%BE%E6%91%98%E9%93%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "全运会乒乓球女团山东队夺冠",
@@ -767,11 +862,12 @@
           "url": "https://www.douyin.com/hot/2311539",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "山东队夺冠陈梦含泪比手势“1”",
