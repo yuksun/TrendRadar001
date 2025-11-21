@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-21T17:20:20.371440+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-11-21T18:20:29.009844+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 61,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "凤凰潮APP实控人叶建益因涉嫌传销被刑拘，此前多地政府发出风险提示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32004068",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 18时20分]"
+        },
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
           "url": "https://m.thepaper.cn/newsDetail_forward_32006610",
@@ -18,20 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 17时20分]"
-        },
-        {
-          "title": "凤凰潮APP实控人叶建益因涉嫌传销被刑拘，此前多地政府发出风险提示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32004068",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 18时20分]"
         },
         {
           "title": "中日韩三方文化部长本月会议将推迟？外交部回应",
@@ -103,6 +103,22 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
+          "url": "https://www.zhihu.com/question/621445283",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时20分]"
+        },
+        {
           "title": "日本广岛牡蛎大规模异常死亡，政府正调查原因",
           "url": "https://news.ifeng.com/c/8oR7R8wkARy",
           "source": "凤凰网",
@@ -129,21 +145,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
-          "url": "https://www.zhihu.com/question/621445283",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时20分]"
-        },
-        {
           "title": "日本水产从业者忧水产品销路，呼吁高市政府回应",
           "url": "https://news.ifeng.com/c/8oSKFYrCke6",
           "source": "凤凰网",
@@ -162,7 +163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -173,9 +174,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "财政部副部长宋其超出席中亚区域经济合作机制第24次部长级会议",
+          "url": "https://wallstreetcn.com/livenews/3008621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "路透调查：36位经济学家中有32位预测，新西兰联储将于11月26日再次降息25个基点至2.25%。",
@@ -220,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：乌克兰可以依靠欧洲。",
+          "url": "https://flash.jin10.com/detail/20251121180109496800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "日本政府被判赔39亿日元",
@@ -273,6 +296,19 @@
           "time_info": "[13时19分 ~ 14时29分]"
         },
         {
+          "title": "这里是都挺讷金色大厅吗",
+          "url": "https://www.douyin.com/hot/2312867",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时20分]"
+        },
+        {
           "title": "重庆市交通运输委等部门联合召开网约车平台依法合规经营工作部署会",
           "url": "https://wallstreetcn.com/livenews/3008453",
           "source": "华尔街见闻-快讯",
@@ -305,19 +341,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 13时19分]"
-        },
-        {
-          "title": "这里是都挺讷金色大厅吗",
-          "url": "https://www.douyin.com/hot/2312867",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "四川省委书记王晓晖会见洪秀柱",
@@ -450,13 +473,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：对俄罗斯的制裁正在产生影响。",
+          "url": "https://flash.jin10.com/detail/20251121180031818800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "两部门：每年对H股会计师事务所进行综合评估 不再符合基本要求的将撤回推荐",
           "url": "https://wallstreetcn.com/livenews/3008551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -489,9 +523,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "“德政府内部，人们争相证明自己能与中国建立更好联系”",
+          "url": "https://news.ifeng.com/c/8oSrhUUOYmz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们正朝着实现2030年气候目标迈进。",
+          "url": "https://flash.jin10.com/detail/20251121175559334800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "欧盟贸易专员：与澳大利亚资源部长讨论了投资方式，可能是通过股权参与、长期承购协议或联合投资。",
@@ -503,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：将与乌克兰总统泽连斯基取得联系。",
+          "url": "https://flash.jin10.com/detail/20251121175242434800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "英国10月公共部门净借款 174.34亿英镑，预期 150亿英镑，前值 202亿英镑。",
@@ -549,6 +616,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：自第一天起，我们便与乌克兰肩并肩，这一进程仍在继续。",
+          "url": "https://flash.jin10.com/detail/20251121175159940800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "十四届全国人大三次会议9160件代表建议全部办理完毕",
           "url": "https://wallstreetcn.com/livenews/3008472",
           "source": "华尔街见闻-快讯",
@@ -593,6 +671,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：我们将讨论扩大可再生能源、数字治理和人工智能的规模。",
+          "url": "https://flash.jin10.com/detail/20251121175007535800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "日本央行高级官员：潜在通胀正逐步迈向2%，无法确定确切水平。",
           "url": "https://flash.jin10.com/detail/20251121103841907800",
           "source": "金十数据",
@@ -604,6 +693,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：我们将在G20会议上倡导建立一个强大、改革且具有影响力的世贸组织。",
+          "url": "https://flash.jin10.com/detail/20251121174920563800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "英国10月政府收支短差 208.25亿英镑，前值由-109亿英镑修正为-107.82亿英镑。",
           "url": "https://flash.jin10.com/detail/20251121150003702800",
           "source": "金十数据",
@@ -613,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：（在二十国集团会议上表示）欧洲正加倍坚定我们的核心信念，即基于规则的贸易能带来好处。我们正在不停地工作，以敲定与印度、澳大利亚、阿联酋、泰国、菲律宾和马来西亚的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20251121174639295800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：数据表明，我们（美联储）应该在12月份降息。 美联储主席候选人清单上的人都是谦逊的。",
@@ -728,7 +839,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黑龙江原副省长、公安厅原厅长毕宝文被查，曾长期在山东工作",
@@ -744,8 +855,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 18时20分]"
         },
         {
           "title": "陈梦领衔山东队夺冠,孙颖莎憾摘银",
@@ -761,8 +872,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 18时20分]"
         },
         {
           "title": "山东代表团收获49金实现全运五连冠",
@@ -787,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "全运会山东队超燃瞬间",
+          "url": "https://www.douyin.com/hot/2313293",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "山东实现全运会五连冠",
