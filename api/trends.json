@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T09:22:12.814360+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-11-21T11:10:25.858791+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时10分]"
         },
         {
           "title": "中日韩三方文化部长本月会议将推迟？外交部回应",
@@ -97,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "凤凰潮APP实控人叶建益因涉嫌传销被刑拘，此前多地政府发出风险提示",
@@ -108,8 +108,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时10分]"
+        },
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "time_info": "[09时22分 ~ 11时10分]"
         },
         {
           "title": "路透调查：36位经济学家中有32位预测，新西兰联储将于11月26日再次降息25个基点至2.25%。",
@@ -123,15 +135,26 @@
           "time_info": "04时21分"
         },
         {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
+          "title": "泰国财政部长确认将债务占GDP比重控制在70%以下的目标。",
+          "url": "https://flash.jin10.com/detail/20251121110002918800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "日本水产从业者忧水产品销路，呼吁高市政府回应",
+          "url": "https://news.ifeng.com/c/8oSKFYrCke6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "日本政府被判赔39亿日元",
@@ -177,11 +200,12 @@
           "url": "https://www.toutiao.com/trending/7574768550096764979/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时10分]"
         },
         {
           "title": "美联储古尔斯比：如果政府可以告诉中央银行如何处理利率问题，通货膨胀就会上升，经济增长就会放缓。如果美联储失去独立性，将令我及市场感到痛心。不过我目前对此并不担心。",
@@ -218,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "苏-57战机实现出口，俄官员：哪个国家买的，不便透露",
+          "url": "https://news.ifeng.com/c/8oRjxx690HL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时10分]"
         },
         {
           "title": "美联储古尔斯比：在官方数据匮乏的情况下，人们对通胀方面的担忧更为严重，因为可用数据较少。",
@@ -295,20 +330,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
         {
-          "title": "苏-57战机实现出口，俄官员：哪个国家买的，不便透露",
-          "url": "https://news.ifeng.com/c/8oRjxx690HL",
-          "source": "凤凰网",
+          "title": "俄总统新闻秘书：关于俄乌和谈“28点”计划无新消息提供",
+          "url": "https://wallstreetcn.com/livenews/3008362",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "11时10分"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Dhingra：关税造成英国价格轻微下降。",
@@ -328,7 +363,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -342,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "日本央行高级官员：潜在通胀正逐步迈向2%，无法确定确切水平。",
+          "url": "https://flash.jin10.com/detail/20251121103841907800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：数据表明，我们（美联储）应该在12月份降息。 美联储主席候选人清单上的人都是谦逊的。",
@@ -410,6 +456,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "日本央行行长植田和男：我们希望在下次会议及今后的会议上，充分利用包括各分支机构在全国范围内收集的问卷调查在内的信息。",
+          "url": "https://flash.jin10.com/detail/20251121103111678800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：预计即使在编制额外预算为刺激计划提供资金后，日本的债务/GDP比率仍将比上年略有下降。 日本在实现可持续、稳定的物价上涨且伴随工资增长方面仍只走了一半。 将继续基于日本政府与日本央行之间的协议，与日本央行进行合作，协议的实质内容保持不变。",
+          "url": "https://wallstreetcn.com/livenews/3008327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "张又侠同俄罗斯国防部长举行会谈",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
           "source": "百度热搜",
@@ -436,8 +504,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时10分]"
         },
         {
           "title": "陈梦领衔山东队夺冠,孙颖莎憾摘银",
@@ -445,11 +513,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时10分]"
         },
         {
           "title": "山东健儿一日狂揽7金",
