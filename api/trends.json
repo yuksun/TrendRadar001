@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T20:37:20.496764+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2025-11-21T21:28:05.260280+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 85,
+      "match_count": 90,
       "titles": [
         {
           "title": "凤凰潮APP实控人叶建益因涉嫌传销被刑拘，此前多地政府发出风险提示",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时21分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 21时28分]"
         },
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
@@ -46,20 +46,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时26分]"
-        },
-        {
           "title": "我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？",
           "url": "https://www.zhihu.com/question/621445283",
           "source": "知乎",
@@ -72,8 +58,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 21时28分]"
+        },
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 16时26分]"
         },
         {
           "title": "官方回应多名女子后厨热舞影响卫生",
@@ -195,6 +195,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "涉嫌信息披露违法违规，聚石化学、豪尔赛被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207698",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "路透调查：36位经济学家中有32位预测，新西兰联储将于11月26日再次降息25个基点至2.25%。",
           "url": "https://flash.jin10.com/detail/20251121040817938800",
           "source": "金十数据",
@@ -215,6 +226,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美联储威廉姆斯：当问题涉及个人情况而非重大议题时，调查能提供更好的信息。",
+          "url": "https://flash.jin10.com/detail/20251121211158474800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美联储威廉姆斯：在没有劳工统计局数据的情况下，调查证据非常有价值。",
+          "url": "https://flash.jin10.com/detail/20251121211150163800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "广岛市长：应坚持“无核三原则”不动摇",
@@ -301,6 +334,18 @@
           "time_info": "[13时19分 ~ 14时29分]"
         },
         {
+          "title": "解放西硬核执法名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E8%A5%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时28分]"
+        },
+        {
           "title": "重庆市交通运输委等部门联合召开网约车平台依法合规经营工作部署会",
           "url": "https://wallstreetcn.com/livenews/3008453",
           "source": "华尔街见闻-快讯",
@@ -325,6 +370,17 @@
           "time_info": "[18时20分 ~ 19时16分]"
         },
         {
+          "title": "“德政府内部，人们争相证明自己能与中国建立更好联系”",
+          "url": "https://news.ifeng.com/c/8oSrhUUOYmz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时28分]"
+        },
+        {
           "title": "开公车上坟？河南漯河官方辟谣",
           "url": "https://www.toutiao.com/trending/7574745860190388265/",
           "source": "今日头条",
@@ -347,6 +403,18 @@
           "time_info": "[09时22分 ~ 13时19分]"
         },
         {
+          "title": "湖南高院通报“冷水江两高中生奸杀教师案”：申诉理由不能成立，予以驳回",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32016370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时28分]"
+        },
+        {
           "title": "四川省委书记王晓晖会见洪秀柱",
           "url": "https://www.toutiao.com/trending/7574768550096764979/",
           "source": "今日头条",
@@ -357,28 +425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 11时10分]"
-        },
-        {
-          "title": "“德政府内部，人们争相证明自己能与中国建立更好联系”",
-          "url": "https://news.ifeng.com/c/8oSrhUUOYmz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
-        },
-        {
-          "title": "解放西硬核执法名场面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E8%A5%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "美联储古尔斯比：如果政府可以告诉中央银行如何处理利率问题，通货膨胀就会上升，经济增长就会放缓。如果美联储失去独立性，将令我及市场感到痛心。不过我目前对此并不担心。",
@@ -493,17 +539,6 @@
           "source": "微博",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "湖南高院通报“冷水江两高中生奸杀教师案”：申诉理由不能成立，予以驳回",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32016370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -796,15 +831,37 @@
           "time_info": "15时19分"
         },
         {
+          "title": "欧洲央行管委内格尔：欧洲必须大胆应对生产力不足问题。",
+          "url": "https://flash.jin10.com/detail/20251121210008735800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "以色列组建部长团队监督加沙停火协议第二阶段落实",
           "url": "https://wallstreetcn.com/livenews/3008694",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "领导说你的材料写得太虚，怎么办？",
+          "url": "https://www.zhihu.com/question/643340756",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：（在二十国集团会议上表示）欧洲正加倍坚定我们的核心信念，即基于规则的贸易能带来好处。我们正在不停地工作，以敲定与印度、澳大利亚、阿联酋、泰国、菲律宾和马来西亚的贸易协定。",
@@ -901,7 +958,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -945,7 +1002,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -956,7 +1013,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -978,7 +1035,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1031,8 +1088,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 20时37分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 21时28分]"
         },
         {
           "title": "山东代表团收获49金实现全运五连冠",
