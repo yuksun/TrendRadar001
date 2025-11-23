@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T18:18:49.333674+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2025-11-23T19:15:05.483440+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -83,11 +83,12 @@
             2,
             3,
             10,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 19时15分]"
         },
         {
           "title": "媒体：网友举报涉毒艺人含笑直播卖手串，曾参演《狂飙》后道歉并被删戏份",
@@ -99,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时41分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时41分 ~ 19时15分]"
         },
         {
           "title": "中华人民共和国和塔吉克斯坦共和国外交部长首次战略对话联合声明",
@@ -140,8 +141,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时32分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时32分 ~ 19时15分]"
         },
         {
           "title": "北京市委书记尹力：持续推动高水平脑机接口创新成果转化为高质量诊疗服务",
@@ -240,6 +241,31 @@
           "time_info": "[00时21分 ~ 12时32分]"
         },
         {
+          "title": "英国政府推出新的关键矿产战略：到2035年生产至少5万吨锂",
+          "url": "https://wallstreetcn.com/livenews/3009037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时15分]"
+        },
+        {
+          "title": "哈马斯代表团抵达开罗 将与埃及官员讨论停火事宜",
+          "url": "https://flash.jin10.com/detail/20251123190331526800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了中东局势，并表示支持旨在结束加沙战争的全面和平计划。",
           "url": "https://flash.jin10.com/detail/20251123140350925800",
           "source": "金十数据",
@@ -285,17 +311,51 @@
           "time_info": "[11时26分 ~ 15时17分]"
         },
         {
-          "title": "英国政府推出新的关键矿产战略：到2035年生产至少5万吨锂",
-          "url": "https://wallstreetcn.com/livenews/3009037",
+          "title": "以军称打死哈马斯武器装备部门负责人",
+          "url": "https://flash.jin10.com/detail/20251123183421408800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "哈马斯代表团抵达开罗，将与埃及官员讨论停火事宜",
+          "url": "https://wallstreetcn.com/livenews/3009079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            15
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "火锅店误将燃料加入汤锅致11人入院，官方：已成立联合调查组",
+          "url": "https://news.ifeng.com/c/8oVvdazqB9N",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时15分]"
+        },
+        {
+          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "村委会办公楼起火账本被烧？当地回应",
@@ -339,18 +399,6 @@
           "time_info": "[11时26分 ~ 14时27分]"
         },
         {
-          "title": "火锅店误将燃料加入汤锅致11人入院，官方：已成立联合调查组",
-          "url": "https://news.ifeng.com/c/8oVvdazqB9N",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时18分]"
-        },
-        {
           "title": "涉毒艺人含笑被举报直播卖手串",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B6%89%E6%AF%92%E8%89%BA%E4%BA%BA%E5%90%AB%E7%AC%91%E8%A2%AB%E4%B8%BE%E6%8A%A5%E7%9B%B4%E6%92%AD%E5%8D%96%E6%89%8B%E4%B8%B2%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -363,16 +411,15 @@
           "time_info": "[09时41分 ~ 11时26分]"
         },
         {
-          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
-          "source": "澎湃新闻",
+          "title": "黄豆豆破格提拔为副局级干部",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E8%B1%86%E8%B1%86%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94%E4%B8%BA%E5%89%AF%E5%B1%80%E7%BA%A7%E5%B9%B2%E9%83%A8",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "印度劫匪冒充官员拦截运钞车3人被捕",
@@ -396,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "以军称打死哈马斯武器装备部门负责人",
+          "url": "https://wallstreetcn.com/livenews/3009073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "舞蹈家黄豆豆破格提拔，已任副局级领导干部",
