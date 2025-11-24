@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T01:18:38.248924+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-11-25T02:29:00.338656+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
@@ -15,30 +15,64 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
         },
         {
-          "title": "欧洲央行管委内格尔：食品通胀依然顽固；欧洲央行同样密切关注服务业强劲的价格上涨。",
-          "url": "https://flash.jin10.com/detail/20251125011216692800",
+          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：欧洲央行密切关注高企的食品和服务业通胀",
+          "url": "https://flash.jin10.com/detail/20251125020440473800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时29分"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
-          "url": "https://wallstreetcn.com/livenews/3009709",
-          "source": "华尔街见闻-快讯",
+          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
+        },
+        {
+          "title": "T1官方认证!Faker电竞詹皇封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
+        },
+        {
+          "title": "官方通报“彝族老人被围堵拍摄”",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
         },
         {
           "title": "亚马逊(AMZN.O)：此次投资将为AWS Top Secret（最高机密）、AWS Secret（机密）和AWS GovCloud（政府云）各级别机密区域新增近 1.3 吉瓦（GW） 的算力容量，覆盖所有机密等级。",
@@ -53,15 +87,41 @@
           "time_info": "[00时22分 ~ 01时18分]"
         },
         {
-          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
-          "source": "澎湃新闻",
+          "title": "欧洲央行管委内格尔：食品通胀依然顽固；欧洲央行同样密切关注服务业强劲的价格上涨。",
+          "url": "https://flash.jin10.com/detail/20251125011216692800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
+          "url": "https://wallstreetcn.com/livenews/3009709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "巴里克矿业：处置好与马里政府之间的分歧。 与该国黄金矿场相关的所有指控都将被撤销。",
+          "url": "https://wallstreetcn.com/livenews/3009685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "日官员：中日对立升级尚未达到顶点",
@@ -75,26 +135,15 @@
           "time_info": "[00时21分 ~ 01时18分]"
         },
         {
-          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
-          "source": "澎湃新闻",
+          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
+          "url": "https://www.zhihu.com/question/1971846649618891475",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
-        },
-        {
-          "title": "T1官方认证!Faker电竞詹皇封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "特区政府停止与日本领事馆官方交流",
@@ -109,46 +158,12 @@
           "time_info": "[00时21分 ~ 01时18分]"
         },
         {
-          "title": "官方通报“彝族老人被围堵拍摄”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
-        },
-        {
-          "title": "巴里克矿业：处置好与马里政府之间的分歧。 与该国黄金矿场相关的所有指控都将被撤销。",
-          "url": "https://wallstreetcn.com/livenews/3009685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时18分]"
-        },
-        {
           "title": "领导对我的工作定位模糊，我该怎么办？",
           "url": "https://www.zhihu.com/question/1930904054000780046",
           "source": "知乎",
           "ranks": [
             12,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时18分]"
-        },
-        {
-          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
-          "url": "https://www.zhihu.com/question/1971846649618891475",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -164,6 +179,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "联合国秘书长呼吁苏丹冲突双方立即停火并开启谈判",
+          "url": "https://wallstreetcn.com/livenews/3009714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "市场消息：加拿大黄金矿业公司巴里克宣布结束与马里军政府的争端。",
+          "url": "https://flash.jin10.com/detail/20251125011643190800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：随着12月预测的发布，我们将更清楚地了解货币政策立场是否仍然适当。",
+          "url": "https://flash.jin10.com/detail/20251125011236048800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：欧元兑美元EUR/USD目前1.16的水平无需担忧。",
+          "url": "https://flash.jin10.com/detail/20251125011227679800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "亚马逊旗下低地球轨道（LEO）卫星部门的Project Kuiper项目发布了千兆级速度的“Ultra”新天线，并开始企业预览。",
@@ -190,8 +249,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时29分]"
         }
       ]
     }
