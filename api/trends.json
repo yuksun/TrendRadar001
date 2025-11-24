@@ -1,1090 +1,171 @@
 {
-  "generated_at": "2025-11-24T23:22:13.182767+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2025-11-25T00:22:14.401866+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 82,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "网红主播批量撤离杭州？记者现场调查：知名网红大楼租金近乎腰斩 “新主播”上线",
-          "url": "https://www.cls.cn/detail/2208246",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 11时23分]"
-        },
-        {
-          "title": "领导和我住一幢楼，知道我每天开车，请问我怎么才可以不送他上下班又不会显得很难看?",
-          "url": "https://www.zhihu.com/question/1975247155791955652",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 19时17分]"
-        },
-        {
-          "title": "如何评价人类历史上首部官方证实外星人存在的纪录片《揭露时代》？",
-          "url": "https://www.zhihu.com/question/1969679940577388379",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2,
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 16时27分]"
-        },
         {
           "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
           "url": "https://m.thepaper.cn/newsDetail_forward_32016556",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17,
-            15,
-            11,
-            10,
-            8,
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 23时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "T1官方认证!Faker电竞詹皇封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
+          "title": "亚马逊(AMZN.O)：此次投资将为AWS Top Secret（最高机密）、AWS Secret（机密）和AWS GovCloud（政府云）各级别机密区域新增近 1.3 吉瓦（GW） 的算力容量，覆盖所有机密等级。",
+          "url": "https://flash.jin10.com/detail/20251125000522251800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2,
-            6,
-            7,
-            11,
-            12,
-            13,
-            14,
-            15,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 23时22分]"
-        },
-        {
-          "title": "市人大代表建议优化上海外牌限行政策，公安部门回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025759",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 17时24分]"
-        },
-        {
-          "title": "男子路过小学班主任家进门看望老师",
-          "url": "https://www.toutiao.com/trending/7575501304223678514/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            20,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "四川一国企整治年轻干部网络赌博：覆盖各级40周岁以下干部职工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32026072",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            18,
-            12,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 18时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17,
-            12,
-            11,
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时33分 ~ 23时22分]"
-        },
-        {
-          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            11,
-            10,
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时20分]"
-        },
-        {
-          "title": "黄豆豆破格提拔为副局级干部",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E8%B1%86%E8%B1%86%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94%E4%B8%BA%E5%89%AF%E5%B1%80%E7%BA%A7%E5%B9%B2%E9%83%A8",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            13,
-            10,
-            12,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
-          "url": "https://www.zhihu.com/question/1971846649618891475",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11,
-            10,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 23时22分]"
-        },
-        {
-          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时20分 ~ 23时22分]"
-        },
-        {
-          "title": "证监会原党委委员王会民被开除党籍",
-          "url": "https://www.cls.cn/detail/2208610",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时17分]"
-        },
-        {
-          "title": "央媒关注某高校“首席科学家”涉嫌造假被查：改革完善人才评聘机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32024891",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "乌克兰最高安全官员乌梅罗夫：乌克兰预计今天将取得更多进展。",
-          "url": "https://flash.jin10.com/detail/20251123223959300800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "火锅店误将燃料加入汤锅致11人入院，官方：已成立联合调查组",
-          "url": "https://news.ifeng.com/c/8oVvdazqB9N",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "高市早苗为何一意孤行？日本政府内部：你捅了大娄子！",
-          "url": "https://news.ifeng.com/c/8oXR0XsqHEw",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时19分]"
-        },
-        {
-          "title": "11月24日投资避雷针：两公司因涉嫌信息披露违法违规 被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2208418",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 17时24分]"
-        },
-        {
-          "title": "乘客被困高铁厕所多人踹门施救，官方回应(图)",
-          "url": "https://news.ifeng.com/c/8oVgSgYNnhA",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 16时27分]"
-        },
-        {
-          "title": "德国外交部长：日内瓦会谈为欧洲人赢得了决定性的胜利。",
-          "url": "https://flash.jin10.com/detail/20251124142305284800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "法国外交部长：将继续努力确保我们具备尊重乌克兰主权和欧洲安全的和平条件。",
-          "url": "https://flash.jin10.com/detail/20251124191556511800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "日官员：中日对立升级尚未达到顶点",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AE%98%E5%91%98%EF%BC%9A%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%AB%8B%E5%8D%87%E7%BA%A7%E5%B0%9A%E6%9C%AA%E8%BE%BE%E5%88%B0%E9%A1%B6%E7%82%B9",
           "source": "百度热搜",
           "ranks": [
-            9,
-            13,
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时39分 ~ 23时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "法国外交部长：与乌克兰同行及欧洲同事进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251124191503951800",
-          "source": "金十数据",
+          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "法国外交部：伊朗外交部长将于11月26日在巴黎举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251124220428935800",
-          "source": "金十数据",
+          "title": "T1官方认证!Faker电竞詹皇封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0847，上调28点；上一交易日中间价7.0875，上一交易日官方收盘价7.1103，上日夜盘报收7.1050。",
-          "url": "https://wallstreetcn.com/livenews/3009254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "安徽省委书记随机抽点6名正厅发言",
-          "url": "https://www.toutiao.com/trending/7575545665889173510/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 07时17分]"
-        },
-        {
-          "title": "官方否认上海、广州试点「老头乐」C7 驾照，你认为驾驶老头乐应该考取驾照吗？",
-          "url": "https://www.zhihu.com/question/1976021420422160836",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            9,
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时29分]"
-        },
-        {
-          "title": "同事经常故意把工作干砸，领导就把他的工作交给你，该怎么办?",
-          "url": "https://www.zhihu.com/question/663171918",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时17分]"
-        },
-        {
-          "title": "香港就内幕交易案起诉前港交所员工 指控其受贿",
-          "url": "https://wallstreetcn.com/livenews/3009583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时33分]"
-        },
-        {
-          "title": "何立峰同法国经济、财政和工业、能源与数字主权部部长莱斯屈尔举行视频通话",
-          "url": "https://wallstreetcn.com/livenews/3009626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 23时22分]"
-        },
-        {
-          "title": "中国证监会原党委委员、中央纪委国家监委驻中国证监会纪检监察组原组长王会民严重违纪违法被开除党籍",
-          "url": "https://wallstreetcn.com/livenews/3009319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时20分]"
-        },
-        {
-          "title": "李乐成会见智利矿业部部长奥罗拉·威廉姆斯",
-          "url": "https://wallstreetcn.com/livenews/3009576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时33分]"
-        },
-        {
-          "title": "日本前首相批评高市错误言论 称应阐明日方官方立场",
-          "url": "https://wallstreetcn.com/livenews/3009315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时20分]"
-        },
-        {
-          "title": "官员称，巴基斯坦准军事部队总部发生自杀式炸弹袭击，至少三人死亡。",
-          "url": "https://flash.jin10.com/detail/20251124120426821800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时20分]"
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "工业和信息化部公示人形机器人标准化技术委员会委员名单。其中，宇树科技股份有限公司王兴兴、智元创新（上海）科技股份有限公司彭志辉均任副主任委员。",
-          "url": "https://wallstreetcn.com/livenews/3009363",
-          "source": "华尔街见闻-快讯",
+          "title": "特区政府停止与日本领事馆官方交流",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E4%B8%8E%E6%97%A5%E6%9C%AC%E9%A2%86%E4%BA%8B%E9%A6%86%E5%AE%98%E6%96%B9%E4%BA%A4%E6%B5%81%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
-          "url": "https://wallstreetcn.com/livenews/3009181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时17分]"
-        },
-        {
-          "title": "市场消息：安全官员称，在伊拉克库尔德斯坦地区霍尔莫尔天然气田附近，安全部队向无人机开火。",
-          "url": "https://flash.jin10.com/detail/20251124055056110800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "乌克兰最高安全官员Umerov：我们预计今天将（与欧洲）取得更多进展。",
-          "url": "https://wallstreetcn.com/livenews/3009139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            16,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时14分]"
-        },
-        {
-          "title": "李家超：香港特区政府支持国家对日本的外交政策",
-          "url": "https://news.ifeng.com/c/8oXZCEHDeMJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时27分]"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：乌克兰领土完整与主权必须得到尊重。",
-          "url": "https://wallstreetcn.com/livenews/3009602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
-        },
-        {
-          "title": "工信部人形机器人标准化技术委员会委员名单公示：王兴兴、彭志辉等为副主任委员",
-          "url": "https://www.cls.cn/detail/2208716",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 21时33分]"
-        },
-        {
-          "title": "为什么院士万人长江什么的多数都是学校学院的领导？",
-          "url": "https://www.zhihu.com/question/1975609679318124391",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
-        },
-        {
-          "title": "深江铁路13死坍塌事故调查报告公布",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E6%B1%9F%E9%93%81%E8%B7%AF13%E6%AD%BB%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时22分]"
-        },
-        {
-          "title": "李家超：香港特区政府支持国家对日本的外交政策",
-          "url": "https://wallstreetcn.com/livenews/3009354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "俄官员称欧盟的和平计划是让冲突持续的方案",
-          "url": "https://flash.jin10.com/detail/20251124045803752800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "北约秘书长吕特：和平计划的一些要素需要改进。",
-          "url": "https://wallstreetcn.com/livenews/3009639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时22分]"
-        },
-        {
-          "title": "云南彝良通报“大量垃圾倾倒山中”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%9D%E8%89%AF%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE%E5%80%BE%E5%80%92%E5%B1%B1%E4%B8%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时18分]"
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "官方通报“彝族老人被围堵拍摄”",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "上海市网信办开展“AI滥用”专项执法工作",
-          "url": "https://wallstreetcn.com/livenews/3009453",
+          "title": "巴西计划与预算部部长：我们在稀土元素法律框架方面正取得进展。",
+          "url": "https://flash.jin10.com/detail/20251124234912859800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "巴里克矿业：处置好与马里政府之间的分歧。 与该国黄金矿场相关的所有指控都将被撤销。",
+          "url": "https://wallstreetcn.com/livenews/3009685",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "亚马逊旗下低地球轨道（LEO）卫星部门的Project Kuiper项目发布了千兆级速度的“Ultra”新天线，并开始企业预览。",
-          "url": "https://flash.jin10.com/detail/20251124230313210800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "商务部部长助理袁晓明在沙特利雅得出席联合国工业发展组织第21届大会",
-          "url": "https://wallstreetcn.com/livenews/3009245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "英国政府预算案前安抚企业 拟大幅削减制造业能源成本",
-          "url": "https://flash.jin10.com/detail/20251124082035261800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "日本前首相批评高市错误言论 称应阐明日方官方立场",
-          "url": "https://flash.jin10.com/detail/20251124105941407800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "丹麦外交部长：今天不要指望钢铁关税方面会有突破性进展。",
-          "url": "https://flash.jin10.com/detail/20251124161442998800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "瑞典外交部长：瑞典不会承认俄罗斯对克里米亚或乌克兰任何其他领土的占领。",
-          "url": "https://flash.jin10.com/detail/20251124164355151800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "官方通报乘客被困高铁厕所",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "瑞典外交部长：为实现公正、持久的乌克兰和平，边界不能通过武力改变，不能对乌克兰武装部队施加限制，也不能限制乌克兰人的主权权利，这其中包括选择加入欧盟的道路等选择。",
-          "url": "https://flash.jin10.com/detail/20251124164251437800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "瑞士宝盛集团：Victoria Mclean将担任瑞士宝盛集团首席合规官，并加入执行委员会。",
-          "url": "https://flash.jin10.com/detail/20251124133056593800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "莫斯科市长表示，一架无人机在飞往莫斯科途中被击落。",
-          "url": "https://flash.jin10.com/detail/20251124175209607800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "德国政府发言人：欧洲参与了所有涉及自身的议题，重申全力支持乌克兰。",
-          "url": "https://flash.jin10.com/detail/20251124185619821800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "德国政府发言人：认为日内瓦会谈结果积极，欧洲达成共识非常重要。",
-          "url": "https://flash.jin10.com/detail/20251124185450710800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时22分"
         },
         {
           "title": "领导对我的工作定位模糊，我该怎么办？",
           "url": "https://www.zhihu.com/question/1930904054000780046",
           "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时22分"
+          "time_info": "00时22分"
         },
         {
-          "title": "日本政府顾问：可动用外汇储备干预并支撑日元",
-          "url": "https://flash.jin10.com/detail/20251124122234590800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "市场监管部门2024年以来共查办商标专利领域违法案件7.1万件",
-          "url": "https://wallstreetcn.com/livenews/3009442",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
+          "url": "https://www.zhihu.com/question/1971846649618891475",
+          "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "00时22分"
         },
         {
-          "title": "乌克兰总统办公室主任叶尔马克：此前大家所见的28点和平计划已不复存在。",
-          "url": "https://wallstreetcn.com/livenews/3009652",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊旗下低地球轨道（LEO）卫星部门的Project Kuiper项目发布了千兆级速度的“Ultra”新天线，并开始企业预览。",
+          "url": "https://flash.jin10.com/detail/20251124230313210800",
+          "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "韩元汇率跌至16年冰点 韩国政府周一或讨论稳汇率措施",
-          "url": "https://flash.jin10.com/detail/20251124075529152800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "克宫：未收到关于日内瓦乌克兰和平谈判的官方最新进展",
-          "url": "https://flash.jin10.com/detail/20251124174301636800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩重申，必须尊重乌克兰的领土和主权。",
-          "url": "https://flash.jin10.com/detail/20251124194847057800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "北约秘书长吕特：肯定会让乌克兰的和平协议达成。",
-          "url": "https://flash.jin10.com/detail/20251124212941360800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "北约秘书长吕特：和平计划的某些要素需要改进。",
-          "url": "https://flash.jin10.com/detail/20251124212842798800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "受贿数额特别巨大 国家药监局原副局长陈时飞被提起公诉",
-          "url": "https://wallstreetcn.com/livenews/3009284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "韩国政府与国民年金公团将讨论如何平衡盈利和外汇稳定的关系",
-          "url": "https://wallstreetcn.com/livenews/3009434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "乌克兰官员：此前的28点和平计划已不复存在",
-          "url": "https://flash.jin10.com/detail/20251124224609449800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "政府数据显示：印度4月至10月成品钢进口量同比下降34%，由于需求疲软和供应过剩，10月份印度钢铁价格承压。",
-          "url": "https://flash.jin10.com/detail/20251124174011042800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "法国总理勒科尔尼：政府的目标仍然是确保预算到位。",
-          "url": "https://flash.jin10.com/detail/20251124183701742800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "印尼科技巨头GoTo集团宣布领导层变更计划，将任命Patuwo为新CEO，接替Walujo。",
-          "url": "https://wallstreetcn.com/livenews/3009272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1056，较上一交易日官方收盘价涨47点，较上日夜盘收盘跌6点。",
-          "url": "https://wallstreetcn.com/livenews/3009474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "民调显示德国民众对政府满意度降至新低",
-          "url": "https://flash.jin10.com/detail/20251124102455615800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "中证协通报今年第三批自律处分典型案例，剑指从业人员水平测试违规行为",
-          "url": "https://wallstreetcn.com/livenews/3009269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "莫迪政府拟推十余项重大法案，加速改革与投资",
-          "url": "https://flash.jin10.com/detail/20251124155601272800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "中国即将发行或正在发行的地方政府债",
-          "url": "https://wallstreetcn.com/livenews/3009219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "山东调查面条厂手搓“三无飞机”",
-          "url": "https://www.toutiao.com/trending/7575930026458120228/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            13,
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时24分]"
-        },
         {
           "title": "山东诸城偷排危废致4死案续：2名主犯死刑复核未通过，重审明天将开庭",
           "url": "https://m.thepaper.cn/newsDetail_forward_32030308",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时39分 ~ 23时22分]"
-        },
-        {
-          "title": "山东邹平成立“三无飞机”调查组",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%82%B9%E5%B9%B3%E6%88%90%E7%AB%8B%E2%80%9C%E4%B8%89%E6%97%A0%E9%A3%9E%E6%9C%BA%E2%80%9D%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时20分]"
-        },
-        {
-          "title": "山东3位县委书记拟提拔使用",
-          "url": "https://www.toutiao.com/trending/7575914616875565102/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     }
