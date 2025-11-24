@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T07:17:11.603377+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-11-24T09:28:20.761473+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "网红主播批量撤离杭州？记者现场调查：知名网红大楼租金近乎腰斩 “新主播”上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时28分]"
         },
         {
           "title": "如何评价人类历史上首部官方证实外星人存在的纪录片《揭露时代》？",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时28分]"
         },
         {
           "title": "男子路过小学班主任家进门看望老师",
@@ -41,19 +41,6 @@
             20,
             9,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            11
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -77,6 +64,20 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
+          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时28分]"
+        },
+        {
           "title": "市人大代表建议优化上海外牌限行政策，公安部门回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025759",
           "source": "澎湃新闻",
@@ -86,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时28分]"
         },
         {
           "title": "四川一国企整治年轻干部网络赌博：覆盖各级40周岁以下干部职工",
@@ -99,8 +100,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时28分]"
         },
         {
           "title": "央媒关注某高校“首席科学家”涉嫌造假被查：改革完善人才评聘机制",
@@ -139,6 +140,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0847，上调28点；上一交易日中间价7.0875，上一交易日官方收盘价7.1103，上日夜盘报收7.1050。",
+          "url": "https://wallstreetcn.com/livenews/3009254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "领导和我住一幢楼，知道我每天开车，请问我怎么才可以不送他上下班又不会显得很难看?",
+          "url": "https://www.zhihu.com/question/1975247155791955652",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "安徽省委书记随机抽点6名正厅发言",
@@ -216,6 +239,89 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时18分]"
+        },
+        {
+          "title": "商务部部长助理袁晓明在沙特利雅得出席联合国工业发展组织第21届大会",
+          "url": "https://wallstreetcn.com/livenews/3009245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "英国政府预算案前安抚企业 拟大幅削减制造业能源成本",
+          "url": "https://flash.jin10.com/detail/20251124082035261800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "官方否认上海、广州试点「老头乐」C7 驾照，你认为驾驶老头乐应该考取驾照吗？",
+          "url": "https://www.zhihu.com/question/1976021420422160836",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "乘客被困高铁厕所多人踹门施救，官方回应(图)",
+          "url": "https://news.ifeng.com/c/8oVgSgYNnhA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "韩元汇率跌至16年冰点 韩国政府周一或讨论稳汇率措施",
+          "url": "https://flash.jin10.com/detail/20251124075529152800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3009219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东邹平成立“三无飞机”调查组",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E9%82%B9%E5%B9%B3%E6%88%90%E7%AB%8B%E2%80%9C%E4%B8%89%E6%97%A0%E9%A3%9E%E6%9C%BA%E2%80%9D%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
