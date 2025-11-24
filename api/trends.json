@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T19:17:31.620698+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-11-24T20:39:46.758724+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "网红主播批量撤离杭州？记者现场调查：知名网红大楼租金近乎腰斩 “新主播”上线",
@@ -60,11 +60,12 @@
             7,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 20时39分]"
         },
         {
           "title": "市人大代表建议优化上海外牌限行政策，公安部门回应",
@@ -128,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时23分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 20时39分]"
         },
         {
           "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
@@ -164,6 +165,23 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
+          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            12,
+            11,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 20时39分]"
+        },
+        {
           "title": "证监会原党委委员王会民被开除党籍",
           "url": "https://www.cls.cn/detail/2208610",
           "source": "财联社热门",
@@ -178,20 +196,19 @@
           "time_info": "[12时33分 ~ 19时17分]"
         },
         {
-          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
+          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
           "source": "澎湃新闻",
           "ranks": [
             20,
             17,
-            12,
-            11,
-            10,
-            8
+            16,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时33分 ~ 19时17分]"
+          "time_info": "[13时20分 ~ 20时39分]"
         },
         {
           "title": "央媒关注某高校“首席科学家”涉嫌造假被查：改革完善人才评聘机制",
@@ -221,6 +238,21 @@
           "time_info": "[00时21分 ~ 06时18分]"
         },
         {
+          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
+          "url": "https://www.zhihu.com/question/1971846649618891475",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 20时39分]"
+        },
+        {
           "title": "火锅店误将燃料加入汤锅致11人入院，官方：已成立联合调查组",
           "url": "https://news.ifeng.com/c/8oVvdazqB9N",
           "source": "凤凰网",
@@ -230,20 +262,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 19时17分]"
         },
         {
           "title": "高市早苗为何一意孤行？日本政府内部：你捅了大娄子！",
@@ -270,21 +288,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时23分 ~ 17时24分]"
-        },
-        {
-          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
-          "url": "https://www.zhihu.com/question/1971846649618891475",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11,
-            10,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 19时17分]"
         },
         {
           "title": "乘客被困高铁厕所多人踹门施救，官方回应(图)",
@@ -315,18 +318,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "香港就内幕交易案起诉前港交所员工 指控其受贿",
-          "url": "https://wallstreetcn.com/livenews/3009583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -337,7 +329,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -351,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "李乐成会见智利矿业部部长奥罗拉·威廉姆斯",
-          "url": "https://wallstreetcn.com/livenews/3009576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "安徽省委书记随机抽点6名正厅发言",
@@ -418,6 +399,18 @@
           "time_info": "[11时23分 ~ 13时20分]"
         },
         {
+          "title": "香港就内幕交易案起诉前港交所员工 指控其受贿",
+          "url": "https://wallstreetcn.com/livenews/3009583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时39分]"
+        },
+        {
           "title": "日本前首相批评高市错误言论 称应阐明日方官方立场",
           "url": "https://wallstreetcn.com/livenews/3009315",
           "source": "华尔街见闻-快讯",
@@ -453,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时29分]"
+        },
+        {
+          "title": "李乐成会见智利矿业部部长奥罗拉·威廉姆斯",
+          "url": "https://wallstreetcn.com/livenews/3009576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时39分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -554,6 +559,18 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "工信部人形机器人标准化技术委员会委员名单公示：王兴兴、彭志辉等为副主任委员",
+          "url": "https://www.cls.cn/detail/2208716",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时39分]"
+        },
+        {
           "title": "云南彝良通报“大量垃圾倾倒山中”",
           "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%9D%E8%89%AF%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE%E5%80%BE%E5%80%92%E5%B1%B1%E4%B8%AD%E2%80%9D",
           "source": "百度热搜",
@@ -586,6 +603,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：乌克兰领土完整与主权必须得到尊重。",
+          "url": "https://wallstreetcn.com/livenews/3009602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "日官员：中日对立升级尚未达到顶点",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AE%98%E5%91%98%EF%BC%9A%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%AB%8B%E5%8D%87%E7%BA%A7%E5%B0%9A%E6%9C%AA%E8%BE%BE%E5%88%B0%E9%A1%B6%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "商务部部长助理袁晓明在沙特利雅得出席联合国工业发展组织第21届大会",
@@ -693,20 +732,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "工信部人形机器人标准化技术委员会委员名单公示：王兴兴、彭志辉等为副主任委员",
-          "url": "https://www.cls.cn/detail/2208716",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时17分"
         },
         {
           "title": "德国政府发言人：认为日内瓦会谈结果积极，欧洲达成共识非常重要。",
@@ -715,7 +743,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -764,6 +792,17 @@
           "time_info": "18时22分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩重申，必须尊重乌克兰的领土和主权。",
+          "url": "https://flash.jin10.com/detail/20251124194847057800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "受贿数额特别巨大 国家药监局原副局长陈时飞被提起公诉",
           "url": "https://wallstreetcn.com/livenews/3009284",
           "source": "华尔街见闻-快讯",
@@ -803,7 +842,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -877,7 +916,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "山东调查面条厂手搓“三无飞机”",
@@ -921,6 +960,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时23分 ~ 15时19分]"
+        },
+        {
+          "title": "山东诸城偷排危废致4死案续：2名主犯死刑复核未通过，重审明天将开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32030308",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     }
