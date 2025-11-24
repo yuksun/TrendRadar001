@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T14:30:00.041105+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2025-11-24T15:19:36.097582+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "网红主播批量撤离杭州？记者现场调查：知名网红大楼租金近乎腰斩 “新主播”上线",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时19分]"
         },
         {
           "title": "男子路过小学班主任家进门看望老师",
@@ -48,6 +48,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "领导和我住一幢楼，知道我每天开车，请问我怎么才可以不送他上下班又不会显得很难看?",
+          "url": "https://www.zhihu.com/question/1975247155791955652",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时19分]"
         },
         {
           "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
@@ -92,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时19分]"
         },
         {
           "title": "四川一国企整治年轻干部网络赌博：覆盖各级40周岁以下干部职工",
@@ -107,21 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时29分]"
-        },
-        {
-          "title": "领导和我住一幢楼，知道我每天开车，请问我怎么才可以不送他上下班又不会显得很难看?",
-          "url": "https://www.zhihu.com/question/1975247155791955652",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时19分]"
         },
         {
           "title": "央媒关注某高校“首席科学家”涉嫌造假被查：改革完善人才评聘机制",
@@ -142,11 +142,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时19分]"
         },
         {
           "title": "乌克兰最高安全官员乌梅罗夫：乌克兰预计今天将取得更多进展。",
@@ -182,8 +183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时19分]"
         },
         {
           "title": "德国外交部长：日内瓦会谈为欧洲人赢得了决定性的胜利。",
@@ -192,9 +193,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "乘客被困高铁厕所多人踹门施救，官方回应(图)",
+          "url": "https://news.ifeng.com/c/8oVgSgYNnhA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时19分]"
         },
         {
           "title": "人民币兑美元中间价报7.0847，上调28点；上一交易日中间价7.0875，上一交易日官方收盘价7.1103，上日夜盘报收7.1050。",
@@ -221,6 +233,20 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "11月24日投资避雷针：两公司因涉嫌信息披露违法违规 被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2208418",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时19分]"
+        },
+        {
           "title": "官方否认上海、广州试点「老头乐」C7 驾照，你认为驾驶老头乐应该考取驾照吗？",
           "url": "https://www.zhihu.com/question/1976021420422160836",
           "source": "知乎",
@@ -235,15 +261,18 @@
           "time_info": "[09时28分 ~ 14时29分]"
         },
         {
-          "title": "乘客被困高铁厕所多人踹门施救，官方回应(图)",
-          "url": "https://news.ifeng.com/c/8oVgSgYNnhA",
-          "source": "凤凰网",
+          "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32016556",
+          "source": "澎湃新闻",
           "ranks": [
+            18,
+            17,
+            15,
             11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时29分]"
+          "time_info": "[11时23分 ~ 15时19分]"
         },
         {
           "title": "中国证监会原党委委员、中央纪委国家监委驻中国证监会纪检监察组原组长王会民严重违纪违法被开除党籍",
@@ -296,6 +325,19 @@
           "time_info": "[13时20分 ~ 14时29分]"
         },
         {
+          "title": "证监会原党委委员王会民被开除党籍",
+          "url": "https://www.cls.cn/detail/2208610",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时19分]"
+        },
+        {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
           "url": "https://wallstreetcn.com/livenews/3009181",
           "source": "华尔街见闻-快讯",
@@ -310,19 +352,6 @@
           "time_info": "[04时20分 ~ 07时17分]"
         },
         {
-          "title": "11月24日投资避雷针：两公司因涉嫌信息披露违法违规 被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2208418",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时29分]"
-        },
-        {
           "title": "市场消息：安全官员称，在伊拉克库尔德斯坦地区霍尔莫尔天然气田附近，安全部队向无人机开火。",
           "url": "https://flash.jin10.com/detail/20251124055056110800",
           "source": "金十数据",
@@ -335,18 +364,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32016556",
+          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
           "source": "澎湃新闻",
           "ranks": [
-            18,
+            20,
             17,
-            15,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时29分]"
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "乌克兰最高安全官员Umerov：我们预计今天将（与欧洲）取得更多进展。",
@@ -363,30 +391,29 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
-          "title": "证监会原党委委员王会民被开除党籍",
-          "url": "https://www.cls.cn/detail/2208610",
-          "source": "财联社热门",
+          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
+          "url": "https://www.zhihu.com/question/1971846649618891475",
+          "source": "知乎",
           "ranks": [
+            18,
             11,
-            8,
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
-          "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
+          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17,
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "为什么院士万人长江什么的多数都是学校学院的领导？",
@@ -399,6 +426,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时33分 ~ 14时29分]"
+        },
+        {
+          "title": "李家超：香港特区政府支持国家对日本的外交政策",
+          "url": "https://news.ifeng.com/c/8oXZCEHDeMJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "李家超：香港特区政府支持国家对日本的外交政策",
@@ -425,30 +464,6 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？",
-          "url": "https://www.zhihu.com/question/1971846649618891475",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "受贿数额特别巨大，国家药监局原副局长陈时飞被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32028757",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
           "title": "云南彝良通报“大量垃圾倾倒山中”",
           "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%BD%9D%E8%89%AF%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE%E5%80%BE%E5%80%92%E5%B1%B1%E4%B8%AD%E2%80%9D",
           "source": "百度热搜",
@@ -459,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时18分]"
-        },
-        {
-          "title": "李家超：香港特区政府支持国家对日本的外交政策",
-          "url": "https://news.ifeng.com/c/8oXZCEHDeMJ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "商务部部长助理袁晓明在沙特利雅得出席联合国工业发展组织第21届大会",
@@ -505,13 +509,24 @@
           "time_info": "11时23分"
         },
         {
+          "title": "官方通报乘客被困高铁厕所",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "瑞士宝盛集团：Victoria Mclean将担任瑞士宝盛集团首席合规官，并加入执行委员会。",
           "url": "https://flash.jin10.com/detail/20251124133056593800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -536,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "同事经常故意把工作干砸，领导就把他的工作交给你，该怎么办?",
+          "url": "https://www.zhihu.com/question/663171918",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "受贿数额特别巨大 国家药监局原副局长陈时飞被提起公诉",
@@ -605,11 +631,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "山东邹平成立“三无飞机”调查组",
@@ -631,11 +658,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 15时19分]"
         }
       ]
     }
