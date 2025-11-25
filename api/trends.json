@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T12:25:40.267613+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-11-25T13:19:40.112706+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
@@ -67,11 +67,12 @@
           "ranks": [
             17,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 12时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 13时19分]"
         },
         {
           "title": "特区政府停止与日本领事馆官方交流",
@@ -233,6 +234,17 @@
           "time_info": "[00时21分 ~ 01时18分]"
         },
         {
+          "title": "香港保安局局长邓炳强：将跟随国家政策决定对日措施",
+          "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时19分]"
+        },
+        {
           "title": "美法官驳回对FBI前局长科米的起诉",
           "url": "https://wallstreetcn.com/livenews/3009740",
           "source": "华尔街见闻-快讯",
@@ -243,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "韩国发生非洲猪瘟疫情 政府发布“严重”级危机警报",
+          "url": "https://wallstreetcn.com/livenews/3009963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时19分]"
         },
         {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
@@ -267,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "日本政府设立新机构审查税制和财政支出",
+          "url": "https://wallstreetcn.com/livenews/3009960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时19分]"
         },
         {
           "title": "苹果罕见裁员 数十个销售部门岗位被裁",
@@ -329,6 +365,18 @@
           "time_info": "[02时29分 ~ 03时13分]"
         },
         {
+          "title": "旅客跳入股道与动车碰撞 广西通报",
+          "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E8%B7%B3%E5%85%A5%E8%82%A1%E9%81%93%E4%B8%8E%E5%8A%A8%E8%BD%A6%E7%A2%B0%E6%92%9E+%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 13时19分]"
+        },
+        {
           "title": "耿长有任河北省委常委、省纪委书记",
           "url": "https://www.toutiao.com/trending/7576244211927302182/",
           "source": "今日头条",
@@ -338,17 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
-        },
-        {
-          "title": "香港保安局局长邓炳强：将跟随国家政策决定对日措施",
-          "url": "https://news.ifeng.com/c/8oZ7VMqIErE",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "巴西计划与预算部部长：我们在稀土元素法律框架方面正取得进展。",
@@ -362,26 +399,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "韩国发生非洲猪瘟疫情 政府发布“严重”级危机警报",
-          "url": "https://wallstreetcn.com/livenews/3009963",
-          "source": "华尔街见闻-快讯",
+          "title": "网传南大物理学教授闻海虎给多位老师发回应王牧、彭茹雯对自己举报的澄清邮件，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1976353956956430592",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "日本政府设立新机构审查税制和财政支出",
-          "url": "https://wallstreetcn.com/livenews/3009960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "13时19分"
         },
         {
           "title": "据日本共同社：日本政府周二成立新机构，负责审查补贴与税收政策。财务省表示，此举是首相高市早苗推行所谓“明智支出”以促进经济增长的举措之一。该机构被称为日本版“政府效率部”（DOGE），将由财务大臣片山皋月美领导。",
@@ -472,17 +498,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "旅客跳入股道与动车碰撞 广西通报",
-          "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E8%B7%B3%E5%85%A5%E8%82%A1%E9%81%93%E4%B8%8E%E5%8A%A8%E8%BD%A6%E7%A2%B0%E6%92%9E+%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
           "title": "日本财务大臣片山皋月：建立日本版的政府效率部。目标是取消无效补贴。",
           "url": "https://wallstreetcn.com/livenews/3009830",
           "source": "华尔街见闻-快讯",
@@ -520,8 +535,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 12时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 13时19分]"
         }
       ]
     }
