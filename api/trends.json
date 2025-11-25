@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T09:23:10.486335+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-11-25T11:14:29.343754+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
@@ -65,11 +65,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 11时14分]"
         },
         {
           "title": "特区政府停止与日本领事馆官方交流",
@@ -140,9 +141,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "澳新银行：日本官员的口头干预不太可能持续提振日元",
+          "url": "https://wallstreetcn.com/livenews/3009917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：现阶段1.16的欧元汇率水平不足为虑。 欧洲央行正关注食品和服务通胀偏高问题。 12月份将考虑什么是适宜的（政策方案）。",
@@ -337,15 +349,48 @@
           "time_info": "00时22分"
         },
         {
+          "title": "据日本共同社：日本政府周二成立新机构，负责审查补贴与税收政策。财务省表示，此举是首相高市早苗推行所谓“明智支出”以促进经济增长的举措之一。该机构被称为日本版“政府效率部”（DOGE），将由财务大臣片山皋月美领导。",
+          "url": "https://flash.jin10.com/detail/20251125104251675800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "据路透调查：韩国央行基准利率预计到2026年将维持在2.25%（10月份调查为2.00%）。",
           "url": "https://flash.jin10.com/detail/20251125083627232800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "11月24日下午，商务部部长王文涛应约与匈牙利外交与对外经济部部长彼得·西雅尔多通话，就中匈、中欧经贸合作深入交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3009899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "警方通报网红嘉宝被行拘15天",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A2%E5%98%89%E5%AE%9D%E8%A2%AB%E8%A1%8C%E6%8B%9815%E5%A4%A9%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "据路透调查：36位经济学家中有32位表示，预计韩国央行11月27日会将基准利率维持在2.50%。",
@@ -354,7 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -392,13 +437,24 @@
           "time_info": "02时29分"
         },
         {
+          "title": "旅客跳入股道与动车碰撞 广西通报",
+          "url": "https://www.baidu.com/s?wd=%E6%97%85%E5%AE%A2%E8%B7%B3%E5%85%A5%E8%82%A1%E9%81%93%E4%B8%8E%E5%8A%A8%E8%BD%A6%E7%A2%B0%E6%92%9E+%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "日本财务大臣片山皋月：建立日本版的政府效率部。目标是取消无效补贴。",
           "url": "https://wallstreetcn.com/livenews/3009830",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -429,8 +485,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 11时14分]"
         }
       ]
     }
