@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T19:18:01.627520+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2025-11-25T20:39:46.490097+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "影子调查｜85套法拍房办证难背后：部分购房者先遇烂尾，筹款自救后又遭法拍",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时18分]"
+        },
+        {
+          "title": "高中生重拳举报,环卫大叔奖金全无",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347485&amp;topic_name=%E9%AB%98%E4%B8%AD%E7%94%9F%E9%87%8D%E6%8B%B3%E4%B8%BE%E6%8A%A5%2C%E7%8E%AF%E5%8D%AB%E5%A4%A7%E5%8F%94%E5%A5%96%E9%87%91%E5%85%A8%E6%97%A0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时39分]"
         },
         {
           "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
@@ -75,18 +87,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时21分 ~ 15时19分]"
-        },
-        {
-          "title": "高中生重拳举报,环卫大叔奖金全无",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347485&amp;topic_name=%E9%AB%98%E4%B8%AD%E7%94%9F%E9%87%8D%E6%8B%B3%E4%B8%BE%E6%8A%A5%2C%E7%8E%AF%E5%8D%AB%E5%A4%A7%E5%8F%94%E5%A5%96%E9%87%91%E5%85%A8%E6%97%A0",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "特区政府停止与日本领事馆官方交流",
@@ -171,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "西班牙政府发言人：政府将向埃斯特雷马杜拉地区的Diamond Foundry芯片工厂投资7.53亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251125203004904800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "乌克兰官员发布通告，要求居民停留在避难所内，称基辅面临弹道导弹袭击威胁。",
@@ -304,6 +315,19 @@
           "time_info": "[11时14分 ~ 12时25分]"
         },
         {
+          "title": "刑庭庭长凌晨醉驾被当场查获，武汉中院通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32039513",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时39分]"
+        },
+        {
           "title": "王兴兴、稚晖君入选，工信部人形机器人标准化技术委员会名单公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32031326",
           "source": "澎湃新闻",
@@ -363,18 +387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 14时30分]"
-        },
-        {
-          "title": "刑庭庭长凌晨醉驾被当场查获，武汉中院通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32039513",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时18分]"
         },
         {
           "title": "日本政府设立新机构审查税制和财政支出",
@@ -594,7 +606,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -627,9 +639,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "班主任让小学生在走廊补作业后孩子入院治疗，家长起诉被驳回",
+          "url": "https://news.ifeng.com/c/8oZg26LhJeY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "印尼能源部副部长：燃油零售商壳牌已同意从印尼国家石油公司购买10万桶汽油。",
@@ -693,7 +716,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
