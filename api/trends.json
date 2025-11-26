@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T22:20:43.157639+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2025-11-26T23:18:54.025387+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 134,
+      "match_count": 143,
       "titles": [
         {
           "title": "刑庭庭长凌晨醉驾被当场查获，武汉中院通报",
@@ -101,11 +101,12 @@
             16,
             18,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 22时20分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 23时18分]"
         },
         {
           "title": "净网：网民编造民宿现不明病毒感染者被查",
@@ -144,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[12时25分 ~ 23时18分]"
         },
         {
           "title": "日本称政府立场维持不变 中方驳斥",
@@ -177,18 +178,6 @@
           "time_info": "[14时29分 ~ 22时20分]"
         },
         {
-          "title": "成都市长王凤朝被查",
-          "url": "https://www.toutiao.com/trending/7576971887893430314/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时20分]"
-        },
-        {
           "title": "博主举报山西吕梁隐匿3处垃圾倾倒点，官方通报：全面整改",
           "url": "https://news.ifeng.com/c/8oaWYOeMQAJ",
           "source": "凤凰网",
@@ -200,6 +189,21 @@
           "time_info": "[09时23分 ~ 18时22分]"
         },
         {
+          "title": "成都市市长王凤朝被查",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%B8%82%E5%B8%82%E9%95%BF%E7%8E%8B%E5%87%A4%E6%9C%9D%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4,
+            12,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时18分]"
+        },
+        {
           "title": "美官员称乌方已原则同意和平协议，泽连斯基表态",
           "url": "https://news.ifeng.com/c/8oZslQUkzyX",
           "source": "凤凰网",
@@ -209,6 +213,47 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "成都市市长王凤朝被查",
+          "url": "https://www.douyin.com/hot/2318648",
+          "source": "抖音",
+          "ranks": [
+            15,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时18分]"
+        },
+        {
+          "title": "成都市长王凤朝被查",
+          "url": "https://www.toutiao.com/trending/7576971887893430314/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时18分]"
+        },
+        {
+          "title": "辽宁披露：见死不救的局长已被查",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%8A%AB%E9%9C%B2%EF%BC%9A%E8%A7%81%E6%AD%BB%E4%B8%8D%E6%95%91%E7%9A%84%E5%B1%80%E9%95%BF%E5%B7%B2%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8,
+            7,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 23时18分]"
         },
         {
           "title": "日本称政府立场维持不变 中方驳斥",
@@ -249,48 +294,6 @@
           "time_info": "[17时21分 ~ 22时20分]"
         },
         {
-          "title": "成都市市长王凤朝被查",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%B8%82%E5%B8%82%E9%95%BF%E7%8E%8B%E5%87%A4%E6%9C%9D%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4,
-            12,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时20分]"
-        },
-        {
-          "title": "成都市市长王凤朝被查",
-          "url": "https://www.douyin.com/hot/2318648",
-          "source": "抖音",
-          "ranks": [
-            15,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时20分]"
-        },
-        {
-          "title": "辽宁披露：见死不救的局长已被查",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E6%8A%AB%E9%9C%B2%EF%BC%9A%E8%A7%81%E6%AD%BB%E4%B8%8D%E6%95%91%E7%9A%84%E5%B1%80%E9%95%BF%E5%B7%B2%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时20分]"
-        },
-        {
           "title": "日本称政府立场维持不变 中方驳斥",
           "url": "https://www.toutiao.com/trending/7576174782194994742/",
           "source": "今日头条",
@@ -301,6 +304,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
+          "title": "受贿6793万余元 杜玉波一审被判15年",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF6793%E4%B8%87%E4%BD%99%E5%85%83+%E6%9D%9C%E7%8E%89%E6%B3%A2%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A415%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            24,
+            25,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时18分]"
         },
         {
           "title": "台外事部门负责人要求民众多到日本旅游，国台办回应",
@@ -323,6 +341,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "四川省成都市委副书记、市长王凤朝被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32048021",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时18分]"
         },
         {
           "title": "日本致函联合国秘书长辩解 中方驳斥",
@@ -361,31 +392,6 @@
           "time_info": "20时40分"
         },
         {
-          "title": "印度和印度尼西亚国防部长将于11月27日举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251126221554149800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "受贿6793万余元 杜玉波一审被判15年",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF6793%E4%B8%87%E4%BD%99%E5%85%83+%E6%9D%9C%E7%8E%89%E6%B3%A2%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A415%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时20分]"
-        },
-        {
           "title": "伊朗外交部：伊朗外交部长出发前往法国。",
           "url": "https://flash.jin10.com/detail/20251126180330403800",
           "source": "金十数据",
@@ -395,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "欧洲央行管委武伊契奇：微观管理货币政策以实现2%的目标几乎是一项不可能完成的任务，只会带来不必要的波动。",
-          "url": "https://flash.jin10.com/detail/20251126221500764800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "人民币兑美元中间价报7.0796，上调30点；上一交易日中间价7.0826，上一交易日官方收盘价7.0938，上日夜盘报收7.0845。",
@@ -430,17 +425,6 @@
           "time_info": "16时26分"
         },
         {
-          "title": "欧洲央行管委武伊契奇：由于气候变化，预测食品通胀难度加大，存在出现意外的风险。",
-          "url": "https://flash.jin10.com/detail/20251126221058148800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "马斯克开始用Grok替代员工了！最惨部门裁员90%",
           "url": "https://wallstreetcn.com/articles/3760101",
           "source": "华尔街见闻",
@@ -452,6 +436,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时19分 ~ 19时17分]"
+        },
+        {
+          "title": "就安世半导体等经贸问题，商务部部长王文涛与欧方视频会谈",
+          "url": "https://www.cls.cn/detail/2211968",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "联合国正式启动下任秘书长遴选程序",
@@ -519,18 +514,6 @@
           "time_info": "[17时21分 ~ 19时17分]"
         },
         {
-          "title": "四川省成都市委副书记、市长王凤朝被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32048021",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时20分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：我们需要强有力的跨大西洋合作，因为它能带来成果。",
           "url": "https://flash.jin10.com/detail/20251126021358701800",
           "source": "金十数据",
@@ -542,6 +525,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时21分]"
+        },
+        {
+          "title": "印度和印度尼西亚国防部长将于11月27日举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251126221554149800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：乌克兰的利益就是我们的利益。",
@@ -568,6 +563,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时21分]"
+        },
+        {
+          "title": "欧洲央行管委武伊契奇：微观管理货币政策以实现2%的目标几乎是一项不可能完成的任务，只会带来不必要的波动。",
+          "url": "https://flash.jin10.com/detail/20251126221500764800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
         },
         {
           "title": "欧盟准备将芬兰纳入“违反财政制度”的国家清单。 此前，芬兰政府没能控制好公共财政（预算）缺口。 2024年，芬兰预算赤字与GDP的比率超过3%，并“计划”在2025年再次打破这一上限。",
@@ -606,6 +613,18 @@
           "time_info": "[17时21分 ~ 18时22分]"
         },
         {
+          "title": "欧洲央行管委武伊契奇：由于气候变化，预测食品通胀难度加大，存在出现意外的风险。",
+          "url": "https://flash.jin10.com/detail/20251126221058148800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
+        },
+        {
           "title": "科技部部长阴和俊：要部署实施一批国家重大科技任务，全链条推进重点领域关键核心技术攻关取得决定性突破",
           "url": "https://wallstreetcn.com/livenews/3010318",
           "source": "华尔街见闻-快讯",
@@ -616,6 +635,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时18分]"
         },
         {
           "title": "美最年轻陆军部长被任命为乌克兰谈判特使，是万斯的耶鲁室友",
@@ -642,17 +675,17 @@
           "time_info": "[03时16分 ~ 05时17分]"
         },
         {
-          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
-          "source": "澎湃新闻",
+          "title": "云南一荒野求生大赛被官方叫停",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E5%A4%A7%E8%B5%9B%E8%A2%AB%E5%AE%98%E6%96%B9%E5%8F%AB%E5%81%9C",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            19,
-            15
+            29,
+            24,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "time_info": "[21时34分 ~ 23时18分]"
         },
         {
           "title": "医院通报61万心脏瓣膜手术",
@@ -702,6 +735,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
+          "title": "日本致函联合国，强调「日本政府防卫的基本方针是专守防卫这一被动防卫战略」，如何看待日方的狡辩？有用吗？",
+          "url": "https://www.zhihu.com/question/1977033040975917837",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
         },
         {
           "title": "日本女市长与下属多次开房后提出辞职",
@@ -763,6 +808,18 @@
           "time_info": "[03时16分 ~ 04时21分]"
         },
         {
+          "title": "日本在野党批日本政府愚蠢",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E6%89%B9%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%84%9A%E8%A0%A2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
+        },
+        {
           "title": "国台办回应台外事部门要民众多买日货",
           "url": "https://www.toutiao.com/trending/7575899621114363950/",
           "source": "今日头条",
@@ -784,6 +841,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 11时14分]"
+        },
+        {
+          "title": "中保协：目前金融监管部门未批准或备案任何名称为“安我股保”的保险产品",
+          "url": "https://www.cls.cn/detail/2211560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 23时18分]"
         },
         {
           "title": "英国政府批准从2026年4月起将主要最低工资标准上调4.1%，至每小时12.71英镑（16.67美元）。",
@@ -869,6 +938,18 @@
           "time_info": "[21时34分 ~ 22时20分]"
         },
         {
+          "title": "成都市委就王凤朝被查表态",
+          "url": "https://www.toutiao.com/trending/7576994960789241910/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
+        },
+        {
           "title": "医院通报61万心脏瓣膜手术",
           "url": "https://www.toutiao.com/trending/7575834859550277674/",
           "source": "今日头条",
@@ -890,18 +971,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时21分]"
-        },
-        {
-          "title": "云南一荒野求生大赛被官方叫停",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E5%A4%A7%E8%B5%9B%E8%A2%AB%E5%AE%98%E6%96%B9%E5%8F%AB%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时20分]"
         },
         {
           "title": "新西兰联储：委员会以5票对1票的投票结果决定将官方现金利率（OCR）下调25个基点至2.25%。",
@@ -926,15 +995,37 @@
           "time_info": "20时40分"
         },
         {
+          "title": "德国国防部长：德国必须重新界定自身角色，因为我们无法预知未来还能依赖哪些联盟。",
+          "url": "https://flash.jin10.com/detail/20251126225442389800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "英国政府：新的石油和天然气价格机制将取代能源利润税，该税预计将于2030年4月或更早结束。",
           "url": "https://flash.jin10.com/detail/20251126220129671800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "德国国防部长：乌克兰绝不能被迫单方面割让领土。",
+          "url": "https://flash.jin10.com/detail/20251126225334538800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "新西兰联储：委员会指出，降低官方现金利率有助于巩固消费者和企业的信心，并抵御经济复苏速度慢于实现通胀目标所需的风险。",
@@ -987,7 +1078,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1020,9 +1111,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "英国预算责任办公室主席Richard Hughes在被问及是否会因财政报告提前发布而辞职时表示：将遵守正在进行的调查的建议。",
+          "url": "https://flash.jin10.com/detail/20251126224852735800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "英国预算责任办公室(OBR)发言人：OBR主任就提前披露预算报告致歉。",
+          "url": "https://wallstreetcn.com/livenews/3010942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英国预算责任办公室：政府仍计划要求预算责任办公室每年提交两份经济和财政预测。",
@@ -1053,7 +1166,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1078,17 +1191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        },
-        {
-          "title": "中保协：目前金融监管部门未批准或备案任何名称为“安我股保”的保险产品",
-          "url": "https://www.cls.cn/detail/2211560",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "伊拉克官员：伊拉克政府已安排向卢克石油西库尔纳-2油田的当地员工支付拖欠的工资，以维持产量。西库尔纳-2油田的石油产量保持稳定，日均约为46万至48万桶。",
@@ -1152,20 +1254,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
         {
-          "title": "日本致函联合国，强调「日本政府防卫的基本方针是专守防卫这一被动防卫战略」，如何看待日方的狡辩？有用吗？",
-          "url": "https://www.zhihu.com/question/1977033040975917837",
-          "source": "知乎",
+          "title": "大使馆通报仝卓表弟获救",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%80%9A%E6%8A%A5%E4%BB%9D%E5%8D%93%E8%A1%A8%E5%BC%9F%E8%8E%B7%E6%95%91%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时18分"
+        },
+        {
+          "title": "欧洲央行管委武伊契奇：若要再次降息，你必须看到通胀路径出现下行。",
+          "url": "https://flash.jin10.com/detail/20251126223714529800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "塞尔维亚官员：塞尔维亚正准备修订法律，以实现对俄资炼油厂的接管。",
@@ -1185,7 +1298,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1218,7 +1331,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1421,15 +1534,15 @@
           "time_info": "17时21分"
         },
         {
-          "title": "成都市委就王凤朝被查表态",
-          "url": "https://www.toutiao.com/trending/7576994960789241910/",
-          "source": "今日头条",
+          "title": "波兰部长：波兰将在“安全计划”中重点发展无人机能力。",
+          "url": "https://flash.jin10.com/detail/20251126222115168800",
+          "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时18分"
         },
         {
           "title": "英国债务管理局（DMO）：2025/26财年计划的国库券(T-Bill)净发行量为110亿英镑（4月份的任务目标为100亿英镑；路透社的调查预测为100亿英镑）。",
@@ -1438,7 +1551,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1463,6 +1576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "市场消息：缅甸军政府宣布在选举前夕实施意外的大规模赦免。",
+          "url": "https://flash.jin10.com/detail/20251126221706847800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "韩国财政部长：不会动用国家养老金来暂时遏制韩元贬值。",
@@ -1548,7 +1672,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1573,17 +1697,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
-        },
-        {
-          "title": "日本在野党批日本政府愚蠢",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E9%87%8E%E5%85%9A%E6%89%B9%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%84%9A%E8%A0%A2%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         }
       ]
     },
