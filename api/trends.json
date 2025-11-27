@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T21:31:53.166587+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-11-27T22:19:18.025365+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 99,
+      "match_count": 105,
       "titles": [
         {
           "title": "四川省成都市委副书记、市长王凤朝被查",
@@ -307,11 +307,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "新西兰财政部长：前投资银行家罗杰·芬利已被任命为新西兰联储理事会主席，其自2023年2月起担任理事会副主席，此次（理事会主席）任命任期至其当前任期结束，即2027年6月30日。",
@@ -342,7 +343,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -484,6 +485,19 @@
           "time_info": "[00时24分 ~ 02时23分]"
         },
         {
+          "title": "香港特区政府向每户灾民派发1万港元",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%90%91%E6%AF%8F%E6%88%B7%E7%81%BE%E6%B0%91%E6%B4%BE%E5%8F%911%E4%B8%87%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
+        },
+        {
           "title": "香港宏福苑监督修葺顾问公司发声明：现阶段暂不作进一步评论或披露细节",
           "url": "https://wallstreetcn.com/livenews/3011511",
           "source": "华尔街见闻-快讯",
@@ -557,18 +571,6 @@
           "time_info": "[11时11分 ~ 12时23分]"
         },
         {
-          "title": "香港特区政府向每户灾民派发1万港元",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%90%91%E6%AF%8F%E6%88%B7%E7%81%BE%E6%B0%91%E6%B4%BE%E5%8F%911%E4%B8%87%E6%B8%AF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
-        },
-        {
           "title": "国家铁路局调查昆明11死事故",
           "url": "https://www.toutiao.com/trending/7577314060111367731/",
           "source": "今日头条",
@@ -617,6 +619,31 @@
           "time_info": "[17时21分 ~ 19时17分]"
         },
         {
+          "title": "官方回应蜜雪冰城要卖早餐",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E6%97%A9%E9%A4%90%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
+        },
+        {
+          "title": "安徽亳州通报乡镇突发巨响",
+          "url": "https://www.toutiao.com/trending/7577177374598332422/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
+        },
+        {
           "title": "婚后出轨同居不一定算重婚",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E5%87%BA%E8%BD%A8%E5%90%8C%E5%B1%85%E4%B8%8D%E4%B8%80%E5%AE%9A%E7%AE%97%E9%87%8D%E5%A9%9A%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -627,6 +654,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
+          "title": "中央空管办等部门将在北京市行政区全域划设无人机电子围栏",
+          "url": "https://wallstreetcn.com/livenews/3011535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
+        },
+        {
+          "title": "西安通报多车连撞事故：肇事者被控制",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%80%9A%E6%8A%A5%E5%A4%9A%E8%BD%A6%E8%BF%9E%E6%92%9E%E4%BA%8B%E6%95%85%EF%BC%9A%E8%82%87%E4%BA%8B%E8%80%85%E8%A2%AB%E6%8E%A7%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "28岁女孩面部长巨瘤决定不婚不育",
@@ -641,18 +694,6 @@
           "time_info": "[18时21分 ~ 19时17分]"
         },
         {
-          "title": "官方回应蜜雪冰城要卖早餐",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E6%97%A9%E9%A4%90%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
-        },
-        {
           "title": "【市场监管总局召开2025年第五次企业公平竞争座谈会】11月27日，市场监管总局召开2025年第五次企业公平竞争座谈会，围绕“促进公平竞争，优化营商环境”主题，与三星、宝马、强生、拜耳、正大、宝洁、宜家等外资企业深入交流，听取意见建议。总局党组成员、副局长孟扬出席会议并讲话。孟扬介绍了市场监管总局强化反垄断监管执法、深化竞争领域制度型开放、加强公平竞争治理等方面的工作情况。他强调，总局将进一步加强重点领域反垄断执法，加强公平竞争审查和经营者集中审查，坚决破除阻碍全国统一大市场建设的卡点堵点，营造市场化、法治化、国际化一流营商环境，充分激发各类经营主体发展活力。",
           "url": "https://wallstreetcn.com/livenews/3011483",
           "source": "华尔街见闻-快讯",
@@ -663,18 +704,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时17分]"
-        },
-        {
-          "title": "安徽亳州通报乡镇突发巨响",
-          "url": "https://www.toutiao.com/trending/7577177374598332422/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
         },
         {
           "title": "机构：英国政府可采取更多措施提升市场吸引力",
@@ -689,18 +718,6 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
-          "title": "中央空管办等部门将在北京市行政区全域划设无人机电子围栏",
-          "url": "https://wallstreetcn.com/livenews/3011535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
-        },
-        {
           "title": "外交部：中国政府发布《新时代的中国军控、裁军与防扩散》白皮书具有重要意义",
           "url": "https://wallstreetcn.com/livenews/3011418",
           "source": "华尔街见闻-快讯",
@@ -711,18 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时21分]"
-        },
-        {
-          "title": "西安通报多车连撞事故：肇事者被控制",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%80%9A%E6%8A%A5%E5%A4%9A%E8%BD%A6%E8%BF%9E%E6%92%9E%E4%BA%8B%E6%95%85%EF%BC%9A%E8%82%87%E4%BA%8B%E8%80%85%E8%A2%AB%E6%8E%A7%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时31分]"
         },
         {
           "title": "伊拉克库尔德斯坦地区自然资源部和电力部，以及阿联酋达纳天然气公司目前正赶赴现场，调查无人机袭击事件。",
@@ -759,6 +764,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 20时39分]"
+        },
+        {
+          "title": "铁路通报绵阳2人被列车碰撞身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E9%80%9A%E6%8A%A5%E7%BB%B5%E9%98%B32%E4%BA%BA%E8%A2%AB%E5%88%97%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时19分]"
         },
         {
           "title": "英国财政大臣Reeves：我的优先任务是降低（政府）融资和债务。 生产力下降，造成英国冻结所得税门槛。（彭博电视）",
@@ -883,6 +900,28 @@
           "time_info": "19时17分"
         },
         {
+          "title": "俄罗斯总统普京：乌克兰领导层是非法的。",
+          "url": "https://flash.jin10.com/detail/20251127220333265800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "欧央行官员Kazaks：“现在谈降息为时过早”，通胀风险仍需警惕",
+          "url": "https://wallstreetcn.com/livenews/3011568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "叙利亚能源部长：叙利亚将新建一座日产能15万桶的炼油厂。",
           "url": "https://flash.jin10.com/detail/20251127200838581800",
           "source": "金十数据",
@@ -892,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "菲律宾财政部长：预计菲律宾GDP最快将于第一季度实现5.5%的增长。",
+          "url": "https://flash.jin10.com/detail/20251127215626102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "工信部：将会同有关部门加强养老服务机器人研发 继续加力扩围发布优质老年用品推广目录",
@@ -927,13 +977,24 @@
           "time_info": "13时19分"
         },
         {
+          "title": "俄罗斯总统普京：或将与美方官员讨论军控问题。",
+          "url": "https://flash.jin10.com/detail/20251127215338186800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "南非作物估测委员会：南非2025年小麦产量预测为203万公吨，而2024年为193万公吨。",
           "url": "https://flash.jin10.com/detail/20251127203250242800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -966,18 +1027,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "铁路通报绵阳2人被列车碰撞身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E9%80%9A%E6%8A%A5%E7%BB%B5%E9%98%B32%E4%BA%BA%E8%A2%AB%E5%88%97%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1015,13 +1065,24 @@
           "time_info": "13时19分"
         },
         {
+          "title": "俄罗斯总统普京：俄罗斯政府正在制定一揽子反制措施。",
+          "url": "https://flash.jin10.com/detail/20251127215020277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "铁路通报售货大姨被停职情况",
           "url": "https://s.weibo.com/weibo?q=%23%E9%93%81%E8%B7%AF%E9%80%9A%E6%8A%A5%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E6%83%85%E5%86%B5%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1032,7 +1093,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1153,7 +1214,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1189,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯正在与乌克兰特勤部门保持联系。",
+          "url": "https://flash.jin10.com/detail/20251127213452693800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "英国预算责任办公室(OBR)发言人：OBR主任Hughes就提前披露预算报告致歉。 财政大臣Reeves对Hughes有信心。 Hughes称预算报告无意之间被上传到网站，“我将服从财政部的建议”。",
