@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T13:20:08.057524+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-11-28T14:30:39.014196+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "香港特区政府向每户灾民派发1万港元",
@@ -52,6 +52,18 @@
           "time_info": "[00时23分 ~ 12时23分]"
         },
         {
+          "title": "香港政务司司长：应尽快推进金属棚架取代竹棚架",
+          "url": "https://news.ifeng.com/c/8od8f9issS0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时30分]"
+        },
+        {
           "title": "官方回应蜜雪冰城要卖早餐",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E6%97%A9%E9%A4%90%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -63,18 +75,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "香港政务司司长：应尽快推进金属棚架取代竹棚架",
-          "url": "https://news.ifeng.com/c/8od8f9issS0",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时20分]"
         },
         {
           "title": "安徽亳州通报乡镇突发巨响",
@@ -114,6 +114,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "普京：与乌克兰现领导层谈判无实际意义 | 环球市场",
+          "url": "https://www.cls.cn/detail/2213356",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时30分]"
         },
         {
           "title": "俄罗斯政府已批准与沙特阿拉伯签署免签旅行协议。",
@@ -167,19 +180,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 04时19分]"
-        },
-        {
-          "title": "普京：与乌克兰现领导层谈判无实际意义 | 环球市场",
-          "url": "https://www.cls.cn/detail/2213356",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时20分]"
         },
         {
           "title": "哥伦比亚财政规则委员会将2025年财政赤字预测下调至占GDP的6.2%，低于此前的6.7%，也低于7.1%的目标水平。",
@@ -268,6 +268,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "长春亚泰通报球员被女友举报出轨：违反社会公德，对其停赛停训停薪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32054709",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时30分]"
+        },
+        {
+          "title": "网友反映问题后 省委书记暗访",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E9%97%AE%E9%A2%98%E5%90%8E+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时30分]"
         },
         {
           "title": "长春亚泰通报球员被女友举报出轨",
@@ -378,28 +401,6 @@
           "time_info": "[01时16分 ~ 02时26分]"
         },
         {
-          "title": "长春亚泰通报球员被女友举报出轨：违反社会公德，对其停赛停训停薪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32054709",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "网友反映问题后 省委书记暗访",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%8F%8D%E6%98%A0%E9%97%AE%E9%A2%98%E5%90%8E+%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
           "title": "男子醉驾被吊销驾照 无证酒驾再被查",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%A2%AB%E5%90%8A%E9%94%80%E9%A9%BE%E7%85%A7+%E6%97%A0%E8%AF%81%E9%85%92%E9%A9%BE%E5%86%8D%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -421,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "印度贸易部长：印度正与14个贸易集团就贸易协定进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251128134113586800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "标普：预计英国的公共部门赤字将持续到2028年趋于缓和。",
@@ -500,13 +512,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "网友收到蜜雪冰城早餐调查问卷，蜜雪冰城要开始卖早餐了吗？你看好它的前景吗？",
+          "url": "https://www.zhihu.com/question/1977482187839336464",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "芝商所（CME）：正在努力解决宕机问题，将在获取相关信息后立即向客户通报详情。",
           "url": "https://flash.jin10.com/detail/20251128121146824800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -559,8 +582,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 14时30分]"
         }
       ]
     }
