@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T15:19:35.289591+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-11-28T16:26:59.632172+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "香港特区政府向每户灾民派发1万港元",
@@ -64,6 +64,20 @@
           "time_info": "[11时10分 ~ 15时19分]"
         },
         {
+          "title": "普京：与乌克兰现领导层谈判无实际意义 | 环球市场",
+          "url": "https://www.cls.cn/detail/2213356",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时26分]"
+        },
+        {
           "title": "官方回应蜜雪冰城要卖早餐",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E6%97%A9%E9%A4%90%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -75,20 +89,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "普京：与乌克兰现领导层谈判无实际意义 | 环球市场",
-          "url": "https://www.cls.cn/detail/2213356",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时19分]"
         },
         {
           "title": "安徽亳州通报乡镇突发巨响",
@@ -128,6 +128,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "国家发改委主任郑栅洁主持召开民营企业座谈会 就“十五五”时期服务业高质量发展听取意见建议",
+          "url": "https://wallstreetcn.com/livenews/3012048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们期待进一步向欧盟委员会说明，为何苹果地图和苹果广告不应被指定。",
+          "url": "https://flash.jin10.com/detail/20251128161747493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "俄罗斯政府已批准与沙特阿拉伯签署免签旅行协议。",
@@ -320,6 +342,19 @@
           "time_info": "[01时16分 ~ 03时15分]"
         },
         {
+          "title": "网友收到蜜雪冰城早餐调查问卷，蜜雪冰城要开始卖早餐了吗？你看好它的前景吗？",
+          "url": "https://www.zhihu.com/question/1977482187839336464",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时26分]"
+        },
+        {
           "title": "英国预算责任办公室（ORB）将12月1日作为调查11月26日“提前披露秋季预算报告”事故的截止日期。",
           "url": "https://wallstreetcn.com/livenews/3011594",
           "source": "华尔街见闻-快讯",
@@ -378,18 +413,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 11时10分]"
-        },
-        {
-          "title": "网友收到蜜雪冰城早餐调查问卷，蜜雪冰城要开始卖早餐了吗？你看好它的前景吗？",
-          "url": "https://www.zhihu.com/question/1977482187839336464",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "3名女子身绑5.88千克活虫入境被查",
@@ -455,7 +478,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -488,7 +511,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -499,7 +522,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -510,9 +533,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "香港火灾调查时间预计需三至四周",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%97%B6%E9%97%B4%E9%A2%84%E8%AE%A1%E9%9C%80%E4%B8%89%E8%87%B3%E5%9B%9B%E5%91%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "民进党征召郑丽君参选台北市长？郭正亮：她支持度低到难以想象",
+          "url": "https://news.ifeng.com/c/8oeQJSxeB2V",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "加拿大文化部长Steven Guilbeault宣布辞职，此人之前是一名来自Greenpeace的环境保护主义分子。 11月27日稍早，该国总理卡尼与石油重镇Alberta省签署新建石油输送管道的协议。",
@@ -532,7 +577,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -543,7 +588,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -581,6 +626,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "香港大埔火灾调查预计需要三至四周",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E9%A2%84%E8%AE%A1%E9%9C%80%E8%A6%81%E4%B8%89%E8%87%B3%E5%9B%9B%E5%91%A8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "埃及计划部长：埃及2025/2026财年的经济增长目标为约5%。",
           "url": "https://flash.jin10.com/detail/20251127223643294800",
           "source": "金十数据",
@@ -592,6 +648,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "官方通报小学午休收取费用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%8D%88%E4%BC%91%E6%94%B6%E5%8F%96%E8%B4%B9%E7%94%A8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "芝商所（CME）：正在努力解决宕机问题，将在获取相关信息后立即向客户通报详情。",
           "url": "https://flash.jin10.com/detail/20251128121146824800",
           "source": "金十数据",
@@ -601,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "法国三季度私营部门就业人数季环比终值 -0.1%，初值 -0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3012021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "中国即将发行或正在发行的地方政府债",
@@ -634,6 +712,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "印尼主权财富基金丹南塔拉官员：“爱国债券”第二阶段发行有所延迟，但将在年底前完成发行。",
+          "url": "https://flash.jin10.com/detail/20251128155627785800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "香港大埔火灾调查预计需三至四周",
+          "url": "https://www.toutiao.com/trending/7577227344327282239/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -649,11 +749,12 @@
             2,
             6,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 16时26分]"
         }
       ]
     }
