@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T07:17:38.744009+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-30T09:41:23.294135+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 37,
       "titles": [
         {
           "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
@@ -37,33 +37,49 @@
           "url": "https://news.ifeng.com/c/8og2tiEBZRG",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
         },
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
           "url": "https://flash.jin10.com/detail/20251129231934613800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
         },
         {
           "title": "中央港澳办协调中央有关部门和广东省继续为香港救灾工作提供协助和支援",
           "url": "https://wallstreetcn.com/livenews/3012484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
+        },
+        {
+          "title": "香港特区政府：此前失踪名单中144人确认安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067431",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时41分]"
         },
         {
           "title": "云南澜沧县被指将大量垃圾直排天坑溶洞，官方：已展开清理",
@@ -75,20 +91,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "香港特区政府：此前失踪名单中144人确认安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067431",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时41分]"
         },
         {
           "title": "云南澜沧通报竹塘乡露天垃圾堆放问题处置进展",
@@ -96,11 +100,60 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时41分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：数字化反腐败项目也在持续推进。",
+          "url": "https://flash.jin10.com/detail/20251129222434410800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
+        },
+        {
+          "title": "两部门：紧急协调援助应急装备物资，全力支持香港大埔火灾应对处置后续工作",
+          "url": "https://wallstreetcn.com/livenews/3012478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
+        },
+        {
+          "title": "国家金融监督管理总局办公厅：在港中资银行要加大金融服务力度，帮助受影响客户渡过难关",
+          "url": "https://wallstreetcn.com/livenews/3012472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
+        },
+        {
+          "title": "乌国家安全与国防委员会秘书乌梅罗夫将率乌代表团与美谈判",
+          "url": "https://wallstreetcn.com/livenews/3012471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时41分]"
         },
         {
           "title": "土耳其交付9200辆新执法车停满机场",
@@ -133,55 +186,11 @@
           "time_info": "[01时15分 ~ 07时17分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：数字化反腐败项目也在持续推进。",
-          "url": "https://flash.jin10.com/detail/20251129222434410800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
           "title": "美媒：辞职数小时后，前乌总统办公室主任称要“奔赴前线”",
           "url": "https://news.ifeng.com/c/8og7V49qmCy",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "两部门：紧急协调援助应急装备物资，全力支持香港大埔火灾应对处置后续工作",
-          "url": "https://wallstreetcn.com/livenews/3012478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "国家金融监督管理总局办公厅：在港中资银行要加大金融服务力度，帮助受影响客户渡过难关",
-          "url": "https://wallstreetcn.com/livenews/3012472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "乌国家安全与国防委员会秘书乌梅罗夫将率乌代表团与美谈判",
-          "url": "https://wallstreetcn.com/livenews/3012471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -226,11 +235,67 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时17分]"
+          "appearance_count": 6,
+          "time_info": "[03时14分 ~ 09时41分]"
+        },
+        {
+          "title": "中国11月官方制造业PMI 49.2，预期49.3，前值49。",
+          "url": "https://flash.jin10.com/detail/20251130093050816800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国11月官方制造业PMI 49.2，前值 49。",
+          "url": "https://wallstreetcn.com/livenews/3012502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国11月官方综合PMI 49.7，前值 50。",
+          "url": "https://wallstreetcn.com/livenews/3012501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国11月官方制造业PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251130092000002800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国11月官方非制造业PMI 49.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3012500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "儿子举报父亲偷电瓶 民警现场叹息",
@@ -296,6 +361,18 @@
           "time_info": "[03时14分 ~ 07时17分]"
         },
         {
+          "title": "丈夫出轨闺蜜转账60多万",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E9%97%BA%E8%9C%9C%E8%BD%AC%E8%B4%A660%E5%A4%9A%E4%B8%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时41分]"
+        },
+        {
           "title": "乌总统办公室主任辞职后要上前线",
           "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E6%80%BB%E7%BB%9F%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C%E5%90%8E%E8%A6%81%E4%B8%8A%E5%89%8D%E7%BA%BF",
           "source": "百度热搜",
@@ -307,15 +384,70 @@
           "time_info": "[02时25分 ~ 03时14分]"
         },
         {
-          "title": "丈夫出轨闺蜜转账60多万",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E9%97%BA%E8%9C%9C%E8%BD%AC%E8%B4%A660%E5%A4%9A%E4%B8%87%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "福建一大坝偷工减料？中国电建通报",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A4%A7%E5%9D%9D%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BB%BA%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "台军方炒作：大陆26架次军机、8艘舰艇、2艘公务船在台海活动",
+          "url": "https://news.ifeng.com/c/8ohBk0eFKfk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时41分"
+        },
+        {
+          "title": "早产儿突然病危离世 江西卫健委通报",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A9%E4%BA%A7%E5%84%BF%E7%AA%81%E7%84%B6%E7%97%85%E5%8D%B1%E7%A6%BB%E4%B8%96+%E6%B1%9F%E8%A5%BF%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "男子出轨染性病传给妻子却带情人治疗",
+          "url": "https://www.toutiao.com/trending/7578146252287705130/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "官方通报大坝建设被指偷工减料",
+          "url": "https://www.douyin.com/hot/2321768",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
