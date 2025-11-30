@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T17:18:33.757300+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-11-30T18:18:38.536353+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "视频丨香港特区政府为大埔火灾遇难者举行悼念活动",
@@ -41,11 +41,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "香港针对火灾成立跨部门调查专组，主要调查两方面",
@@ -91,6 +92,22 @@
           "time_info": "[00时21分 ~ 17时18分]"
         },
         {
+          "title": "新疆自治区常务副主席陈伟俊被查",
+          "url": "https://www.douyin.com/hot/2321893",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1,
+            4,
+            8,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 18时18分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：数字化反腐败项目也在持续推进。",
           "url": "https://flash.jin10.com/detail/20251129222434410800",
           "source": "金十数据",
@@ -102,6 +119,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 11时26分]"
+        },
+        {
+          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 18时18分]"
         },
         {
           "title": "云南澜沧县被指将大量垃圾直排天坑溶洞，官方：已展开清理",
@@ -149,19 +181,16 @@
           "time_info": "[00时21分 ~ 15时17分]"
         },
         {
-          "title": "新疆自治区常务副主席陈伟俊被查",
-          "url": "https://www.douyin.com/hot/2321893",
-          "source": "抖音",
+          "title": "男子出轨染性病传给妻子却带情人治疗",
+          "url": "https://www.toutiao.com/trending/7578146252287705130/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            1,
-            4,
-            8,
-            10
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 18时18分]"
         },
         {
           "title": "中国11月官方制造业PMI 49.2，前值 49。",
@@ -173,25 +202,58 @@
             8,
             9,
             12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 17时18分]"
-        },
-        {
-          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9,
-            11
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时41分 ~ 17时18分]"
+          "time_info": "[09时41分 ~ 18时18分]"
+        },
+        {
+          "title": "中国11月官方综合PMI 49.7，前值 50。",
+          "url": "https://wallstreetcn.com/livenews/3012501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            9,
+            10,
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 18时18分]"
+        },
+        {
+          "title": "中国11月官方非制造业PMI 49.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3012500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            10,
+            11,
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 18时18分]"
+        },
+        {
+          "title": "中国11月官方制造业PMI升至49.2，受高基数影响非制造业PMI小幅回落",
+          "url": "https://wallstreetcn.com/articles/3760390",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 18时18分]"
         },
         {
           "title": "国家金融监督管理总局办公厅：在港中资银行要加大金融服务力度，帮助受影响客户渡过难关",
@@ -233,17 +295,6 @@
           "time_info": "[01时15分 ~ 07时17分]"
         },
         {
-          "title": "男子出轨染性病传给妻子却带情人治疗",
-          "url": "https://www.toutiao.com/trending/7578146252287705130/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 17时18分]"
-        },
-        {
           "title": "香港特区政府举行悼念活动",
           "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -259,48 +310,18 @@
           "time_info": "[01时15分 ~ 07时17分]"
         },
         {
-          "title": "中国11月官方综合PMI 49.7，前值 50。",
-          "url": "https://wallstreetcn.com/livenews/3012501",
-          "source": "华尔街见闻-快讯",
+          "title": "14岁初中生体测猝死 当地通报",
+          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E4%BD%93%E6%B5%8B%E7%8C%9D%E6%AD%BB+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            7,
             9,
-            10,
+            12,
             13,
-            16
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时41分 ~ 17时18分]"
-        },
-        {
-          "title": "中国11月官方非制造业PMI 49.5，前值 50.1。",
-          "url": "https://wallstreetcn.com/livenews/3012500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            10,
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 17时18分]"
-        },
-        {
-          "title": "中国11月官方制造业PMI升至49.2，受高基数影响非制造业PMI小幅回落",
-          "url": "https://wallstreetcn.com/articles/3760390",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时18分]"
+          "time_info": "[12时33分 ~ 18时18分]"
         },
         {
           "title": "美媒：辞职数小时后，前乌总统办公室主任称要“奔赴前线”",
@@ -362,17 +383,19 @@
           "time_info": "[11时26分 ~ 16时22分]"
         },
         {
-          "title": "14岁初中生体测猝死 当地通报",
-          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E4%BD%93%E6%B5%8B%E7%8C%9D%E6%AD%BB+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "船运调查机构ITS：马来西亚11月棕榈油出口量预计为1316455吨，下降19.7%。",
+          "url": "https://flash.jin10.com/detail/20251130134823688800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            12,
-            13
+            1,
+            2,
+            7,
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 18时18分]"
         },
         {
           "title": "中国11月官方制造业PMI 49.2，预期49.3，前值49。",
@@ -405,18 +428,32 @@
           "time_info": "[09时41分 ~ 15时17分]"
         },
         {
-          "title": "船运调查机构ITS：马来西亚11月棕榈油出口量预计为1316455吨，下降19.7%。",
-          "url": "https://flash.jin10.com/detail/20251130134823688800",
-          "source": "金十数据",
+          "title": "新疆维吾尔自治区党委常委、自治区政府常务副主席陈伟俊被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32070283",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            2,
-            7,
-            15
+            8,
+            6,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时18分]"
+          "time_info": "[15时17分 ~ 18时18分]"
+        },
+        {
+          "title": "香港特区政府为大埔宏福苑受灾民众提供免费住所",
+          "url": "https://wallstreetcn.com/livenews/3012511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 18时18分]"
         },
         {
           "title": "台军方炒作：大陆26架次军机、8艘舰艇、2艘公务船在台海活动",
@@ -442,19 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时19分]"
-        },
-        {
-          "title": "香港特区政府为大埔宏福苑受灾民众提供免费住所",
-          "url": "https://wallstreetcn.com/livenews/3012511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时18分]"
         },
         {
           "title": "新疆常务副主席陈伟俊被查",
@@ -484,17 +508,6 @@
           "time_info": "[03时14分 ~ 09时41分]"
         },
         {
-          "title": "俄罗斯外交部就里海管道联盟（CPC）基础设施遭袭击发表声明：俄罗斯将向所有国际平台通报里海管道联盟（CPC）设施遭袭事件。",
-          "url": "https://flash.jin10.com/detail/20251130164335166800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "福建一大坝偷工减料？中国电建通报",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A4%A7%E5%9D%9D%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BB%BA%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -520,17 +533,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
-          "url": "https://flash.jin10.com/detail/20251130160826101800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "儿子举报父亲偷电瓶 民警现场叹息",
           "url": "https://www.toutiao.com/trending/7577370549618327595/",
           "source": "今日头条",
@@ -545,29 +547,29 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "新疆维吾尔自治区党委常委、自治区政府常务副主席陈伟俊被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32070283",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时18分]"
-        },
-        {
           "title": "香港特区政府：将全力支援受灾居民，全速进行调查工作",
           "url": "https://wallstreetcn.com/livenews/3012512",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
+        },
+        {
+          "title": "俄罗斯外交部就里海管道联盟（CPC）基础设施遭袭击发表声明：俄罗斯将向所有国际平台通报里海管道联盟（CPC）设施遭袭事件。",
+          "url": "https://flash.jin10.com/detail/20251130164335166800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "库尔德斯坦地区政府电力部：霍尔莫尔油田的作业已重启，天然气输送至发电站的工作于凌晨2时启动。",
@@ -575,11 +577,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
+        },
+        {
+          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
+          "url": "https://flash.jin10.com/detail/20251130160826101800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "早产儿突然病危离世 江西卫健委通报",
@@ -606,6 +621,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 06时17分]"
+        },
+        {
+          "title": "乌总统办公室主任解职后首发声，谈泽连斯基：仍是朋友",
+          "url": "https://news.ifeng.com/c/8ohd7j5NhoD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "丈夫出轨闺蜜转账60多万",
@@ -669,15 +695,28 @@
           "time_info": "[14时28分 ~ 16时22分]"
         },
         {
-          "title": "乌总统办公室主任解职后首发声，谈泽连斯基：仍是朋友",
-          "url": "https://news.ifeng.com/c/8ohd7j5NhoD",
-          "source": "凤凰网",
+          "title": "公安部：网络空间安全监督检查对象包括网络运营者、数据处理者、个人信息处理者等",
+          "url": "https://www.cls.cn/detail/2214979",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
+          "title": "香港特区政府：将全速进行调查工作",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%EF%BC%9A%E5%B0%86%E5%85%A8%E9%80%9F%E8%BF%9B%E8%A1%8C%E8%B0%83%E6%9F%A5%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "官方通报大坝建设被指偷工减料",
@@ -702,6 +741,17 @@
           "time_info": "[02时25分 ~ 03时14分]"
         },
         {
+          "title": "大量垃圾直排天坑溶洞遭曝光后，云南澜沧开会要求强化行政执法与刑事司法衔接",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068820",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "县委副书记任前公示被指年龄不一致",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E4%BB%BB%E5%89%8D%E5%85%AC%E7%A4%BA%E8%A2%AB%E6%8C%87%E5%B9%B4%E9%BE%84%E4%B8%8D%E4%B8%80%E8%87%B4%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -713,26 +763,15 @@
           "time_info": "11时26分"
         },
         {
-          "title": "公安部：网络空间安全监督检查对象包括网络运营者、数据处理者、个人信息处理者等",
-          "url": "https://www.cls.cn/detail/2214979",
+          "title": "中国人民银行、科技部等部门联合召开科技金融统筹推进机制第一次会议",
+          "url": "https://www.cls.cn/detail/2214817",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "香港特区政府：将全速进行调查工作",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%EF%BC%9A%E5%B0%86%E5%85%A8%E9%80%9F%E8%BF%9B%E8%A1%8C%E8%B0%83%E6%9F%A5%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "18时18分"
         },
         {
           "title": "领导要求每天写日报，是形式主义的表现吗？",
@@ -755,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "群众举报出租屋异常 警方突击抓嫖",
+          "url": "https://www.toutiao.com/trending/7578240014816018473/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "周涛 女领导说要带你回家",
@@ -801,11 +851,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 18时18分]"
         }
       ]
     }
