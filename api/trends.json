@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T15:21:32.406662+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-02T16:28:25.917742+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 67,
+      "match_count": 76,
       "titles": [
         {
           "title": "湖南郴州一烟花爆竹店店主举报公职人员并疑似喝农药，官方通报",
@@ -128,6 +128,21 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
+          "title": "冲绳向高市政府提交请愿书",
+          "url": "https://www.baidu.com/s?wd=%E5%86%B2%E7%BB%B3%E5%90%91%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BA%A4%E8%AF%B7%E6%84%BF%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            1,
+            2,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时28分]"
+        },
+        {
           "title": "33岁驻村干部病逝：孩子还不到一岁",
           "url": "https://www.baidu.com/s?wd=33%E5%B2%81%E9%A9%BB%E6%9D%91%E5%B9%B2%E9%83%A8%E7%97%85%E9%80%9D%EF%BC%9A%E5%AD%A9%E5%AD%90%E8%BF%98%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B2%81",
           "source": "百度热搜",
@@ -162,18 +177,18 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
-          "title": "冲绳向高市政府提交请愿书",
-          "url": "https://www.baidu.com/s?wd=%E5%86%B2%E7%BB%B3%E5%90%91%E9%AB%98%E5%B8%82%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BA%A4%E8%AF%B7%E6%84%BF%E4%B9%A6",
-          "source": "百度热搜",
+          "title": "香港特区将成立独立委员会调查火灾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            1,
-            2,
-            18
+            8,
+            15,
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时28分]"
         },
         {
           "title": "一个前同事现在成了大领导，求他帮一个小忙，帮完了请他吃饭却被拒绝，这是为什么呢?",
@@ -191,6 +206,29 @@
           "time_info": "[09时25分 ~ 15时21分]"
         },
         {
+          "title": "香港将成立独立委员会调查火灾",
+          "url": "https://www.douyin.com/hot/2323845",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时28分]"
+        },
+        {
+          "title": "商务部为什么又一次延长对进口牛肉保障措施调查期限？牛肉会涨价吗？",
+          "url": "https://www.zhihu.com/question/1977021686906840147",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 16时28分]"
+        },
+        {
           "title": "内存短缺引发内部博弈 三星设备部门寻求利润最大化",
           "url": "https://flash.jin10.com/detail/20251202140855235800",
           "source": "金十数据",
@@ -202,40 +240,15 @@
           "time_info": "14时31分"
         },
         {
-          "title": "香港特区将成立独立委员会调查火灾",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
+          "title": "台外事部门负责人声称中日争端可能会持续一年之久，外交部回应",
+          "url": "https://news.ifeng.com/c/8ol3a42Lgby",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            15,
-            24,
-            25
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时21分]"
-        },
-        {
-          "title": "香港将成立独立委员会调查火灾",
-          "url": "https://www.douyin.com/hot/2323845",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时21分]"
-        },
-        {
-          "title": "商务部为什么又一次延长对进口牛肉保障措施调查期限？牛肉会涨价吗？",
-          "url": "https://www.zhihu.com/question/1977021686906840147",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 15时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "印尼财政部官员：（被问及熊猫债时）对此持“开放态度”。",
@@ -244,7 +257,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -255,7 +268,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -518,6 +531,18 @@
           "time_info": "[06时16分 ~ 07时19分]"
         },
         {
+          "title": "举报公职人员后喝农药店主已去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E5%96%9D%E5%86%9C%E8%8D%AF%E5%BA%97%E4%B8%BB%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时28分]"
+        },
+        {
           "title": "新西兰联储主席布雷曼：将与货币政策委员会讨论在成员投票方式上提高透明度的可能性。",
           "url": "https://flash.jin10.com/detail/20251202053128891800",
           "source": "金十数据",
@@ -528,6 +553,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时19分]"
+        },
+        {
+          "title": "王励勤担任乒羽中心副主任对乒乓球发展有什么影响？",
+          "url": "https://www.zhihu.com/question/1979098595153163089",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时28分]"
         },
         {
           "title": "宁德时代董事长回应“基层员工涨薪”",
@@ -602,7 +639,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -613,9 +650,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "法国10月政府预算 -1361.7亿欧元，前值-1554亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251202154502098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "西班牙政府召开紧急会议 严防非洲猪瘟病毒进入商业养猪场",
@@ -629,15 +677,15 @@
           "time_info": "09时25分"
         },
         {
-          "title": "举报公职人员后喝农药店主已去世",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E5%96%9D%E5%86%9C%E8%8D%AF%E5%BA%97%E4%B8%BB%E5%B7%B2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "郑州通报3起网络谣言典型案例",
+          "url": "https://www.douyin.com/hot/2323596",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时28分"
         },
         {
           "title": "日本设置政府效率部 拒绝马斯克式激进裁员",
@@ -651,15 +699,26 @@
           "time_info": "11时18分"
         },
         {
-          "title": "王励勤担任乒羽中心副主任对乒乓球发展有什么影响？",
-          "url": "https://www.zhihu.com/question/1979098595153163089",
+          "title": "外交部：中俄实现互免签证是两国政府和人民又一次双向奔赴",
+          "url": "https://wallstreetcn.com/livenews/3013567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "香港特区将成立独立委员会调查火灾，有哪些信息值得关注？目前调查进展如何？",
+          "url": "https://www.zhihu.com/question/1979134778298081681",
           "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时28分"
         },
         {
           "title": "英国财政大臣：上周曝光的英国预算责任办公室（OBR）信息提前泄露的问题并非新问题，政府对此事高度重视，OBR绝不能再次发生此类事件。",
@@ -679,7 +738,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -695,13 +754,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "外交部：台湾没有什么“外交部长”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E2%80%9C%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "英国央行金融稳定报告：金融政策委员会将致力于提升监管缓冲的实用性，从而降低银行持有超出监管要求资本的动机。",
           "url": "https://flash.jin10.com/detail/20251202150532448800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -726,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "五部门：鼓励地方利用算力券、模型券、数据券等方式，在算力、算法、数据等方面提供便利和优惠",
+          "url": "https://wallstreetcn.com/livenews/3013554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "日本财务大臣片山皋月：日本央行与政府对经济正在温和复苏的看法不存在分歧。",
@@ -778,7 +859,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -792,6 +873,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "五部门发布关于加强数据要素学科专业建设和数字人才队伍建设的意见",
+          "url": "https://wallstreetcn.com/livenews/3013550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "男子因吸毒5年内3次被查处",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%B8%E6%AF%925%E5%B9%B4%E5%86%853%E6%AC%A1%E8%A2%AB%E6%9F%A5%E5%A4%84%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "任开斌任辽宁省公安厅党委书记",
