@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:19:25.746263+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-12-02T20:41:30.822960+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 94,
+      "match_count": 105,
       "titles": [
         {
           "title": "湖南郴州一烟花爆竹店店主举报公职人员并疑似喝农药，官方通报",
@@ -204,6 +204,17 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
+          "title": "台官员称中日争端或持续一年，外交部回应",
+          "url": "https://news.ifeng.com/c/8ol3a42Lgby",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时41分]"
+        },
+        {
           "title": "一个前同事现在成了大领导，求他帮一个小忙，帮完了请他吃饭却被拒绝，这是为什么呢?",
           "url": "https://www.zhihu.com/question/1978507910293235603",
           "source": "知乎",
@@ -217,17 +228,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时25分 ~ 19时19分]"
-        },
-        {
-          "title": "台官员称中日争端或持续一年，外交部回应",
-          "url": "https://news.ifeng.com/c/8ol3a42Lgby",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时19分]"
         },
         {
           "title": "香港将成立独立委员会调查火灾",
@@ -281,9 +281,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "三位知情人士：苹果(AAPL.O)将拒绝在其智能手机上预装印度国有网络安全应用的要求，并将向印度政府表达其顾虑。",
+          "url": "https://flash.jin10.com/detail/20251202201405794800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "印尼财政部官员：（被问及熊猫债时）对此持“开放态度”。",
@@ -295,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "从牛局长视角看疯狂动物城2",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%89%9B%E5%B1%80%E9%95%BF%E8%A7%86%E8%A7%92%E7%9C%8B%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "欧洲央行管委：无需对微小通胀偏差做出反应 应警惕金融风险",
@@ -314,9 +336,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "哈马斯官员：哈马斯正在移交两名仍被扣押遗体中的其中一具。",
+          "url": "https://flash.jin10.com/detail/20251202201145611800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "瑞典政府：向乌克兰捐赠11亿瑞典克朗用于平民援助。",
@@ -361,7 +394,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -378,6 +411,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 05时17分]"
+        },
+        {
+          "title": "外交部：台湾没有什么“外交部长”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E2%80%9C%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "法国总统马克龙：我们无权对乌克兰的腐败问题说三道四。",
@@ -528,6 +575,20 @@
           "time_info": "[16时28分 ~ 19时19分]"
         },
         {
+          "title": "马上评｜妻子出轨判赔8000元，离婚赔偿为何难让人满意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32085060",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时41分]"
+        },
+        {
           "title": "王励勤担任乒羽中心副主任对乒乓球发展有什么影响？",
           "url": "https://www.zhihu.com/question/1979098595153163089",
           "source": "知乎",
@@ -540,19 +601,6 @@
           "time_info": "[15时21分 ~ 18时21分]"
         },
         {
-          "title": "外交部：台湾没有什么“外交部长”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E2%80%9C%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时19分]"
-        },
-        {
           "title": "郴州一烟花店主实名举报公职人员后喝农药轻生，官方成立联合调查组，调查进展如何？背后哪些问题值得反思？",
           "url": "https://www.zhihu.com/question/1978860807656863686",
           "source": "知乎",
@@ -562,6 +610,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时25分 ~ 19时19分]"
+        },
+        {
+          "title": "《疯狂动物城 2》中的马市长是好人吗？",
+          "url": "https://www.zhihu.com/question/1977338231285642749",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "香港将成立独立委员会调查火灾",
@@ -576,17 +636,17 @@
           "time_info": "[12时29分 ~ 13时19分]"
         },
         {
-          "title": "马上评｜妻子出轨判赔8000元，离婚赔偿为何难让人满意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32085060",
-          "source": "澎湃新闻",
+          "title": "航司通报东京飞上海航班紧急返航",
+          "url": "https://www.baidu.com/s?wd=%E8%88%AA%E5%8F%B8%E9%80%9A%E6%8A%A5%E4%B8%9C%E4%BA%AC%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E8%BF%94%E8%88%AA",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            18
+            25,
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时19分]"
+          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "男子因吸毒5年内3次被查处",
@@ -661,17 +721,6 @@
           "time_info": "[11时18分 ~ 12时30分]"
         },
         {
-          "title": "《疯狂动物城 2》中的马市长是好人吗？",
-          "url": "https://www.zhihu.com/question/1977338231285642749",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时19分]"
-        },
-        {
           "title": "举报公职人员后喝农药的店主已去世",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E5%96%9D%E5%86%9C%E8%8D%AF%E7%9A%84%E5%BA%97%E4%B8%BB%E5%B7%B2%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -720,6 +769,18 @@
           "time_info": "[06时16分 ~ 07时19分]"
         },
         {
+          "title": "外交部回应台外事部门负责人言论",
+          "url": "https://www.toutiao.com/trending/7578381402815692843/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
+        },
+        {
           "title": "中央港澳办协调应急管理部等中央有关部门继续为香港救灾工作提供协助和支援",
           "url": "https://wallstreetcn.com/livenews/3013597",
           "source": "华尔街见闻-快讯",
@@ -730,18 +791,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时21分]"
-        },
-        {
-          "title": "航司通报东京飞上海航班紧急返航",
-          "url": "https://www.baidu.com/s?wd=%E8%88%AA%E5%8F%B8%E9%80%9A%E6%8A%A5%E4%B8%9C%E4%BA%AC%E9%A3%9E%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E7%B4%A7%E6%80%A5%E8%BF%94%E8%88%AA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时19分]"
         },
         {
           "title": "超绝羊副市长",
@@ -888,6 +937,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "俄罗斯经济部长：俄罗斯卢布汇率将强于此前预期。",
+          "url": "https://flash.jin10.com/detail/20251202193858678800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "外交部：中俄实现互免签证是两国政府和人民又一次双向奔赴",
           "url": "https://wallstreetcn.com/livenews/3013567",
           "source": "华尔街见闻-快讯",
@@ -899,15 +959,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "外交部回应台外事部门负责人言论",
-          "url": "https://www.toutiao.com/trending/7578381402815692843/",
-          "source": "今日头条",
+          "title": "国家发展改革委副主任周海兵会见乌兹别克斯坦投资、工业和贸易部副部长卡西莫夫",
+          "url": "https://wallstreetcn.com/livenews/3013704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "20时41分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0712，较上一交易日官方收盘价涨13点，较上日夜盘收盘涨13点。",
@@ -943,6 +1003,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "熊征宇出任武汉市代市长，此前为宜昌市委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32087055",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "英国央行金融稳定报告：金融政策委员会将审查杠杆率在英国的实施情况，以确保其发挥预期作用。",
           "url": "https://flash.jin10.com/detail/20251202150620792800",
           "source": "金十数据",
@@ -954,6 +1025,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "欧盟委员会发言人：加拿大将向欧盟预算支付1000万欧元，用于“欧洲安全行动”（SAFE）计划。",
+          "url": "https://flash.jin10.com/detail/20251202193212094800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "乌克兰政府提出用债券取代与GDP挂钩的权证",
           "url": "https://flash.jin10.com/detail/20251202023115632800",
           "source": "金十数据",
@@ -963,6 +1045,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "优质座位大量被锁！10家航司被调查，揭开乘机选座“潜规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32081124",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "英国OBR预算责任委员会委员迈尔斯：英国债务与GDP比率持续上升“不可持续”。",
+          "url": "https://flash.jin10.com/detail/20251202192921823800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "以色列总理办公室：调查结果将送交国家法医中心进行检验。",
+          "url": "https://flash.jin10.com/detail/20251202192359297800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "英国央行金融稳定报告：金融政策委员会将致力于提升监管缓冲的实用性，从而降低银行持有超出监管要求资本的动机。",
@@ -1015,7 +1130,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1103,7 +1218,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1128,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "卫健部门回应群内统计末次月经时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E7%BE%A4%E5%86%85%E7%BB%9F%E8%AE%A1%E6%9C%AB%E6%AC%A1%E6%9C%88%E7%BB%8F%E6%97%B6%E9%97%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
