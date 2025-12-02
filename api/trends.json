@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T16:28:25.917742+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-12-02T17:25:48.105763+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 76,
+      "match_count": 82,
       "titles": [
         {
           "title": "湖南郴州一烟花爆竹店店主举报公职人员并疑似喝农药，官方通报",
@@ -136,11 +136,12 @@
             1,
             2,
             18,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 17时25分]"
         },
         {
           "title": "33岁驻村干部病逝：孩子还不到一岁",
@@ -184,11 +185,23 @@
             8,
             15,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 17时25分]"
+        },
+        {
+          "title": "商务部为什么又一次延长对进口牛肉保障措施调查期限？牛肉会涨价吗？",
+          "url": "https://www.zhihu.com/question/1977021686906840147",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 17时25分]"
         },
         {
           "title": "一个前同事现在成了大领导，求他帮一个小忙，帮完了请他吃饭却被拒绝，这是为什么呢?",
@@ -218,15 +231,15 @@
           "time_info": "[11时18分 ~ 16时28分]"
         },
         {
-          "title": "商务部为什么又一次延长对进口牛肉保障措施调查期限？牛肉会涨价吗？",
-          "url": "https://www.zhihu.com/question/1977021686906840147",
-          "source": "知乎",
+          "title": "台外事部门负责人声称中日争端可能会持续一年之久，外交部回应",
+          "url": "https://news.ifeng.com/c/8ol3a42Lgby",
+          "source": "凤凰网",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 16时28分]"
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "内存短缺引发内部博弈 三星设备部门寻求利润最大化",
@@ -238,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "台外事部门负责人声称中日争端可能会持续一年之久，外交部回应",
-          "url": "https://news.ifeng.com/c/8ol3a42Lgby",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "印尼财政部官员：（被问及熊猫债时）对此持“开放态度”。",
@@ -460,6 +462,18 @@
           "time_info": "[12时29分 ~ 13时19分]"
         },
         {
+          "title": "王励勤担任乒羽中心副主任对乒乓球发展有什么影响？",
+          "url": "https://www.zhihu.com/question/1979098595153163089",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时25分]"
+        },
+        {
           "title": "成都市长王凤朝落马幕后",
           "url": "https://www.toutiao.com/trending/7578858884631412742/",
           "source": "今日头条",
@@ -543,6 +557,17 @@
           "time_info": "[15时21分 ~ 16时28分]"
         },
         {
+          "title": "郑州通报3起网络谣言典型案例",
+          "url": "https://www.douyin.com/hot/2323596",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时25分]"
+        },
+        {
           "title": "新西兰联储主席布雷曼：将与货币政策委员会讨论在成员投票方式上提高透明度的可能性。",
           "url": "https://flash.jin10.com/detail/20251202053128891800",
           "source": "金十数据",
@@ -555,16 +580,16 @@
           "time_info": "[06时16分 ~ 07时19分]"
         },
         {
-          "title": "王励勤担任乒羽中心副主任对乒乓球发展有什么影响？",
-          "url": "https://www.zhihu.com/question/1979098595153163089",
-          "source": "知乎",
+          "title": "外交部：台湾没有什么“外交部长”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E2%80%9C%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            17
+            22,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
+          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "宁德时代董事长回应“基层员工涨薪”",
@@ -576,6 +601,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时21分]"
+        },
+        {
+          "title": "男子因吸毒5年内3次被查处",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%B8%E6%AF%925%E5%B9%B4%E5%86%853%E6%AC%A1%E8%A2%AB%E6%9F%A5%E5%A4%84%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "英国预算责任办公室（OBR）主管辞职，上周“提前”发布秋季预算事件遭到调查。",
@@ -600,6 +637,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "航司通报东京飞上海航班紧急返航",
+          "url": "https://www.toutiao.com/trending/7579071741126754313/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "商业不动产REITs将很快向监管部门递交申报材料",
           "url": "https://wallstreetcn.com/livenews/3013237",
           "source": "华尔街见闻-快讯",
@@ -620,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "郴州一烟花店主实名举报公职人员后喝农药轻生，官方成立联合调查组，调查进展如何？背后哪些问题值得反思？",
+          "url": "https://www.zhihu.com/question/1978860807656863686",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "西班牙政府召开紧急会议 严防非洲猪瘟病毒进入商业养猪场",
@@ -661,7 +720,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -675,17 +734,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "郑州通报3起网络谣言典型案例",
-          "url": "https://www.douyin.com/hot/2323596",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "日本设置政府效率部 拒绝马斯克式激进裁员",
@@ -705,9 +753,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "中央港澳办协调应急管理部等中央有关部门继续为香港救灾工作提供协助和支援",
+          "url": "https://wallstreetcn.com/livenews/3013597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0712，较上一交易日官方收盘价涨13点，较上日夜盘收盘涨13点。",
+          "url": "https://wallstreetcn.com/livenews/3013596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "香港特区将成立独立委员会调查火灾，有哪些信息值得关注？目前调查进展如何？",
@@ -716,7 +786,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -754,15 +824,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "外交部：台湾没有什么“外交部长”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E2%80%9C%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "马上评｜妻子出轨判赔8000元，离婚赔偿为何难让人满意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32085060",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "17时25分"
         },
         {
           "title": "英国央行金融稳定报告：金融政策委员会将致力于提升监管缓冲的实用性，从而降低银行持有超出监管要求资本的动机。",
@@ -804,7 +874,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -881,20 +951,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
         {
-          "title": "男子因吸毒5年内3次被查处",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%B8%E6%AF%925%E5%B9%B4%E5%86%853%E6%AC%A1%E8%A2%AB%E6%9F%A5%E5%A4%84%23&t=31&band_rank=29&Refer=top",
+          "title": "超绝羊副市长",
+          "url": "https://s.weibo.com/weibo?q=%E8%B6%85%E7%BB%9D%E7%BE%8A%E5%89%AF%E5%B8%82%E9%95%BF&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "17时25分"
         },
         {
           "title": "任开斌任辽宁省公安厅党委书记",
