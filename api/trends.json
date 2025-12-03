@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:18:31.151150+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-12-03T20:41:08.573695+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 74,
+      "match_count": 84,
       "titles": [
         {
           "title": "香港特区政府介绍大埔火灾搜救安置等最新进展",
@@ -29,11 +29,12 @@
             8,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时21分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[01时21分 ~ 20时41分]"
         },
         {
           "title": "从牛局长视角看疯狂动物城2",
@@ -83,11 +84,25 @@
             10,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时24分 ~ 20时41分]"
+        },
+        {
+          "title": "成都一串串摊回收锅底重复使用，官方通报将严肃处罚，回收锅底有什么危害？摊主说「都这样」是真的吗？",
+          "url": "https://www.zhihu.com/question/1979226228906021190",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 20时41分]"
         },
         {
           "title": "熊征宇出任武汉市代市长，此前为宜昌市委书记",
@@ -184,6 +199,18 @@
           "time_info": "[11时16分 ~ 19时18分]"
         },
         {
+          "title": "李刚受贿1.02亿余元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E5%8F%97%E8%B4%BF1.02%E4%BA%BF%E4%BD%99%E5%85%83%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时41分]"
+        },
+        {
           "title": "台外事部门抗议哥伦比亚否认将在台湾设办事处，国台办回应",
           "url": "https://news.ifeng.com/c/8omNp7535lQ",
           "source": "凤凰网",
@@ -196,17 +223,32 @@
           "time_info": "[11时16分 ~ 15时21分]"
         },
         {
-          "title": "成都一串串摊回收锅底重复使用，官方通报将严肃处罚，回收锅底有什么危害？摊主说「都这样」是真的吗？",
-          "url": "https://www.zhihu.com/question/1979226228906021190",
-          "source": "知乎",
+          "title": "网信部门查处网络名人账号违法行为",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BF%A1%E9%83%A8%E9%97%A8%E6%9F%A5%E5%A4%84%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%A6%E5%8F%B7%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            4,
+            2,
+            8,
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时41分]"
+        },
+        {
+          "title": "网信部门依法查处张雪峰等网络名人账号违法违规行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32094604",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8,
+            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "俄官员：朝军工程部队参与库尔斯克州排雷工作",
@@ -220,16 +262,49 @@
           "time_info": "[00时27分 ~ 07时17分]"
         },
         {
-          "title": "李刚受贿1.02亿余元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E5%8F%97%E8%B4%BF1.02%E4%BA%BF%E4%BD%99%E5%85%83%23&t=31&band_rank=4&Refer=top",
+          "title": "网络名人账号违法违规行为被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%A6%E5%8F%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            4,
-            1
+            1,
+            8,
+            10,
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时41分]"
+        },
+        {
+          "title": "澎湃回声｜工厂量产销售“儿童色情特征”情趣娃娃，东莞惠州多部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32092845",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时41分]"
+        },
+        {
+          "title": "户晨风、张雪峰在列，网信部门依法查处网络名人账号违法违规行为",
+          "url": "https://www.cls.cn/detail/2218253",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "批上届政府“失职”，英国首相敦促与中国接触",
@@ -244,6 +319,18 @@
           "time_info": "[09时25分 ~ 14时31分]"
         },
         {
+          "title": "高市称日本政府对台湾的立场没改变",
+          "url": "https://www.toutiao.com/trending/7579560279013330468/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时41分]"
+        },
+        {
           "title": "账号被查处 张雪峰回应：已深刻反省",
           "url": "https://www.baidu.com/s?wd=%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%9F%A5%E5%A4%84+%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%9E%E5%BA%94%EF%BC%9A%E5%B7%B2%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81",
           "source": "百度热搜",
@@ -255,17 +342,15 @@
           "time_info": "[17时23分 ~ 18时23分]"
         },
         {
-          "title": "网信部门查处网络名人账号违法行为",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BF%A1%E9%83%A8%E9%97%A8%E6%9F%A5%E5%A4%84%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%A6%E5%8F%B7%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA",
+          "title": "高市早苗称日本政府对台立场没改变",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%B2%A1%E6%94%B9%E5%8F%98",
           "source": "百度热搜",
           "ranks": [
-            2,
-            8,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "一个前同事现在成了大领导，求他帮一个小忙，帮完了请他吃饭却被拒绝，这是为什么呢?",
@@ -318,34 +403,6 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "网络名人账号违法违规行为被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E8%B4%A6%E5%8F%B7%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            8,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
-          "title": "户晨风、张雪峰在列，网信部门依法查处网络名人账号违法违规行为",
-          "url": "https://www.cls.cn/detail/2218253",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
           "title": "市场消息：印度国大党敦促议会，政府必须阐明强制在手机中预装不可卸载应用程序的法律依据。",
           "url": "https://flash.jin10.com/detail/20251203124533413800",
           "source": "金十数据",
@@ -355,20 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "澎湃回声｜工厂量产销售“儿童色情特征”情趣娃娃，东莞惠州多部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32092845",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时18分]"
         },
         {
           "title": "举报公职人员后喝农药烟花爆竹店主已去世，知情人：中毒的剂量太大",
@@ -384,6 +427,17 @@
           "time_info": "[09时24分 ~ 13时19分]"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：看到乌克兰融资需求不断增长。",
+          "url": "https://flash.jin10.com/detail/20251203203204924800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "路透调查：马来西亚11月份棕榈油出口预计为144万吨，较10月份下降14.9%。",
           "url": "https://flash.jin10.com/detail/20251203122606430800",
           "source": "金十数据",
@@ -393,18 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "高市称日本政府对台湾的立场没改变",
-          "url": "https://www.toutiao.com/trending/7579560279013330468/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "张雪峰等网络名人账号被查",
@@ -429,30 +471,6 @@
           "time_info": "13时19分"
         },
         {
-          "title": "乌克兰代表将在会晤欧洲官员后着手准备与美总统代表会面",
-          "url": "https://wallstreetcn.com/livenews/3014401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "网信部门依法查处张雪峰等网络名人账号违法违规行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32094604",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
           "title": "路透调查：马来西亚11月棕榈油终端库存预计为266万吨，较10月增长7.78%。",
           "url": "https://flash.jin10.com/detail/20251203122524343800",
           "source": "金十数据",
@@ -462,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "市场消息：欧盟委员会提出以欧盟借款和赔偿贷款作为解决方案，并附有五项法律提案。",
+          "url": "https://flash.jin10.com/detail/20251203203118696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "网信部门查处网络名人账号违法行为",
@@ -500,6 +529,18 @@
           "time_info": "[15时21分 ~ 16时27分]"
         },
         {
+          "title": "乌克兰代表将在会晤欧洲官员后着手准备与美总统代表会面",
+          "url": "https://wallstreetcn.com/livenews/3014401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
           "title": "《疯狂动物城 2》中的马市长是好人吗？",
           "url": "https://www.zhihu.com/question/1977338231285642749",
           "source": "知乎",
@@ -512,6 +553,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时19分]"
+        },
+        {
+          "title": "受贿1.02亿余元 李刚一审获刑15年",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF1.02%E4%BA%BF%E4%BD%99%E5%85%83+%E6%9D%8E%E5%88%9A%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
+          "title": "澎湃回声｜广东惠阳通报企业违规生产销售“情趣娃娃”：暂停生产，接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32095044",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时41分]"
         },
         {
           "title": "中方再次致函联合国秘书长",
@@ -559,6 +624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
+          "title": "烟花店老板举报官员后自杀？妻子回应",
+          "url": "https://www.baidu.com/s?wd=%E7%83%9F%E8%8A%B1%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BE%E6%8A%A5%E5%AE%98%E5%91%98%E5%90%8E%E8%87%AA%E6%9D%80%EF%BC%9F%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "英国和日本领衔全球政府举债新风向：倚重短债融资、压减长债发行",
@@ -631,6 +707,17 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
+          "title": "市场消息：欧盟委员会提出两项方案，以满足乌克兰2026-2027年的融资需求。",
+          "url": "https://flash.jin10.com/detail/20251203203101479800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "惠誉：澳大利亚和新西兰地方政府债务攀升，但财政稳定性仍得以维持。",
           "url": "https://flash.jin10.com/detail/20251203104814361800",
           "source": "金十数据",
@@ -675,6 +762,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "优步CEO将访问日本、韩国，将与亚洲政府官员和商界领袖会面。（道琼斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3014437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "中方在世贸组织呼吁加强贸易措施监督 提升贸易政策透明度",
           "url": "https://flash.jin10.com/detail/20251203053923164800",
           "source": "金十数据",
@@ -692,7 +790,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -706,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "印度财政部长：国际货币基金组织对印度经济数据质量的评级，是由于采用了旧的基准年。",
+          "url": "https://flash.jin10.com/detail/20251203201544376800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0661，较上一交易日官方收盘价涨51点，较上日夜盘收盘涨64点。",
@@ -730,17 +839,6 @@
           "time_info": "15时21分"
         },
         {
-          "title": "澎湃回声｜广东惠阳通报企业违规生产销售“情趣娃娃”：暂停生产，接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32095044",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "比利时外长：欧盟委员会的提案并未解决我们的关切。",
           "url": "https://flash.jin10.com/detail/20251203154227879800",
           "source": "金十数据",
@@ -758,7 +856,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -796,15 +894,15 @@
           "time_info": "16时27分"
         },
         {
-          "title": "受贿1.02亿余元 李刚一审获刑15年",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF1.02%E4%BA%BF%E4%BD%99%E5%85%83+%E6%9D%8E%E5%88%9A%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "商务部副部长凌激会见法国阿尔斯通集团首席执行官韩法利",
+          "url": "https://wallstreetcn.com/livenews/3014414",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时41分"
         },
         {
           "title": "两部门：优化银发旅游适老化无障碍出行环境",
@@ -840,6 +938,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "乌克兰财政部长：乌克兰明年需要超过450亿美元的外国援助。",
+          "url": "https://flash.jin10.com/detail/20251203200955028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "西班牙农业部长：英国告知我们，在猪瘟爆发之际，其对猪肉进口将采取与欧盟相同的做法。",
           "url": "https://flash.jin10.com/detail/20251203003634838800",
           "source": "金十数据",
@@ -871,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "欧洲央行要求意大利政府重新审视黄金储备提案",
+          "url": "https://flash.jin10.com/detail/20251203200318876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "发改委周海兵副主任会见乌兹别克斯坦投资、工业和贸易部副部长卡西莫夫",
