@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T22:20:35.434170+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2025-12-05T23:21:23.428708+08:00",
+  "total_titles_processed": 2049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
         {
           "title": "村支书偷偷为全村275户交保费8年",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时30分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[14时30分 ~ 23时21分]"
         },
         {
           "title": "如何看待新东方员工发全员信吐槽「加班成奴」被秒删，公司称其违反内部举报机制？反应问题还有哪些更好方式？",
@@ -85,6 +85,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时18分 ~ 13时20分]"
+        },
+        {
+          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
+          "url": "https://www.zhihu.com/question/1980256801569130289",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 23时21分]"
         },
         {
           "title": "安徽一市公安局副局长任上被查",
@@ -123,18 +137,55 @@
           "time_info": "19时18分"
         },
         {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
+          "title": "税务部门公布陈震偷税案细节",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%85%AC%E5%B8%83%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            10,
-            9,
-            11
+            8,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时21分 ~ 22时20分]"
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
+          "title": "处罚名单现“孙俪”等明星 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%84%E7%BD%9A%E5%90%8D%E5%8D%95%E7%8E%B0%E2%80%9C%E5%AD%99%E4%BF%AA%E2%80%9D%E7%AD%89%E6%98%8E%E6%98%9F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
+          "title": "处罚名单现孙俪鹿晗？官方通报",
+          "url": "https://www.toutiao.com/trending/7580143904054312996/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
+          "title": "交通运输部原党组成员，国家铁路局原党组书记、局长费东斌被双开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32113485",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时21分]"
         },
         {
           "title": "路透调查：巴西央行12月会议料维持利率不变 或释放降息信号",
@@ -148,6 +199,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "密歇根大学调查的现状指标为50.7，跌至纪录低点。",
+          "url": "https://flash.jin10.com/detail/20251205230924817800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "被印度记者盯了3天，普京打趣回应：到底谁在情报部门干过",
           "url": "https://v.ifeng.com/c/8opzeKkvIy2",
           "source": "凤凰网",
@@ -157,6 +219,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时26分 ~ 20时40分]"
+        },
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时21分]"
         },
         {
           "title": "人民币兑美元中间价报7.0749，下调16点；上一交易日中间价7.0733，上一交易日官方收盘价7.0690，上日夜盘报收7.0710。",
@@ -179,55 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "税务部门公布陈震偷税案细节",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%85%AC%E5%B8%83%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88%E7%BB%86%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 22时20分]"
-        },
-        {
-          "title": "处罚名单现“孙俪”等明星 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%84%E7%BD%9A%E5%90%8D%E5%8D%95%E7%8E%B0%E2%80%9C%E5%AD%99%E4%BF%AA%E2%80%9D%E7%AD%89%E6%98%8E%E6%98%9F+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 22时20分]"
-        },
-        {
-          "title": "处罚名单现孙俪鹿晗？官方通报",
-          "url": "https://www.toutiao.com/trending/7580143904054312996/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 22时20分]"
-        },
-        {
-          "title": "交通运输部原党组成员，国家铁路局原党组书记、局长费东斌被双开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32113485",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 22时20分]"
         },
         {
           "title": "据华尔街日报：白宫将于本月向规划委员会提交新建宴会厅的方案。",
@@ -349,19 +376,6 @@
           "time_info": "[09时25分 ~ 17时21分]"
         },
         {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时20分]"
-        },
-        {
           "title": "官方通报孙俪李现等占道经营被处罚",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E4%BF%AA%E6%9D%8E%E7%8E%B0%E7%AD%89%E5%8D%A0%E9%81%93%E7%BB%8F%E8%90%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -371,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
+          "title": "税务部门公布陈震偷税案件细节，用空壳工作室虚假申报，是典型的「转换收入性质」的违法行为，此案有何警示？",
+          "url": "https://www.zhihu.com/question/1980339648262865679",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "阿根廷央行市场预期调查显示，阿根廷2025年底通胀率预计为30.4%，较此前预测上调0.8个百分点。",
@@ -395,6 +421,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时26分]"
+        },
+        {
+          "title": "香港通报大埔火灾调查最新进展",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "商务部副部长兼国际贸易谈判副代表凌激会见丹麦托普索公司总裁兼首席执行官罗兰·巴安",
@@ -489,17 +527,6 @@
           "time_info": "16时26分"
         },
         {
-          "title": "税务部门公布陈震偷税案件细节，用空壳工作室虚假申报，是典型的「转换收入性质」的违法行为，此案有何警示？",
-          "url": "https://www.zhihu.com/question/1980339648262865679",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "日本经济财政大臣城内实：希望日本央行在与政府密切协作的同时，依据日政府与日本央行联合协议所载原则，引导实施恰当的货币政策，以稳定实现2%的通胀目标。",
           "url": "https://flash.jin10.com/detail/20251205183516341800",
           "source": "金十数据",
@@ -539,7 +566,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -564,17 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "香港通报大埔火灾调查最新进展",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "工信部：拟筹建量子信息标准化技术委员会",
@@ -652,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "香港通报火灾调查最新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%80%9A%E6%8A%A5%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "福建省委书记周祖翼：推动全省国防动员更高层次发展、新质生产力同新质战斗力高效融合",
@@ -742,6 +769,28 @@
           "time_info": "16时26分"
         },
         {
+          "title": "领导说「把你当自己人才说你」，这话能信几分？",
+          "url": "https://www.zhihu.com/question/1970360403247755472",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "领导为什么不喜欢有主见的员工呢？",
+          "url": "https://www.zhihu.com/question/7336861572",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "班主任来见证我的幸福啦",
           "url": "https://www.toutiao.com/trending/7579737553230856202/",
           "source": "今日头条",
@@ -784,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "香港通报大埔火灾调查最新进展",
+          "url": "https://www.toutiao.com/trending/7579310498106081299/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "国家数据局局长赴上海市调研数据要素市场化价值化工作",
@@ -852,6 +912,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "欧洲央行管委维勒鲁瓦：通胀下行风险大于上行风险",
+          "url": "https://flash.jin10.com/detail/20251205225003714800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
           "url": "https://wallstreetcn.com/livenews/3015856",
           "source": "华尔街见闻-快讯",
@@ -874,6 +945,17 @@
           "time_info": "17时21分"
         },
         {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：欧洲央行准备就绪。",
+          "url": "https://wallstreetcn.com/livenews/3016001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "国家铁路局原局长费东斌被“双开”",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%93%81%E8%B7%AF%E5%B1%80%E5%8E%9F%E5%B1%80%E9%95%BF%E8%B4%B9%E4%B8%9C%E6%96%8C%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D",
           "source": "百度热搜",
@@ -894,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：必须保持充分的政策灵活性，不排除任何政策行动。",
+          "url": "https://flash.jin10.com/detail/20251205224728544800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "商务部党组书记、部长王文涛：将推动进出口平衡发展，加大力度扩大进口",
