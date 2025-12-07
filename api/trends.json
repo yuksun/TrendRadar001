@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T18:18:07.534171+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-12-07T19:15:18.837663+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "杭师大福彩公益金受助名单被指作假，校方通报系工作人员弄虚作假并致歉，哪些信息值得关注？",
@@ -172,6 +172,20 @@
           "time_info": "[00时22分 ~ 12时32分]"
         },
         {
+          "title": "上海古籍出版社通报《西厢记》存多处错误：深感愧疚，下架整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124566",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 19时15分]"
+        },
+        {
           "title": "印度政府：印度11月柴油销量同比增长4.7%，汽油销量同比增长2.6%。 印度11月燃料销量同比增长3.0%，达到2127万公吨。",
           "url": "https://wallstreetcn.com/livenews/3016314",
           "source": "华尔街见闻-快讯",
@@ -197,22 +211,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时32分 ~ 18时18分]"
-        },
-        {
-          "title": "上海古籍出版社通报《西厢记》存多处错误：深感愧疚，下架整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124566",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时26分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时32分 ~ 19时15分]"
         },
         {
           "title": "百余考生作弊入职公职部门均被开除",
@@ -411,22 +411,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时18分]"
-        },
-        {
-          "title": "贝宁外交部长：目前确有一起（政变）企图，但局势已得到控制。",
-          "url": "https://flash.jin10.com/detail/20251207172528390800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时15分]"
         },
         {
           "title": "韩总统室介绍新政府成立半年成果",
@@ -457,6 +447,20 @@
           "time_info": "[14时27分 ~ 17时18分]"
         },
         {
+          "title": "印度电力部秘书：将在2至3年后根据需求重新评估煤电装机容量的新增情况。",
+          "url": "https://flash.jin10.com/detail/20251207151054908800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
+        },
+        {
           "title": "俞敏洪回应员工写信吐槽加班，称已要求调查员工反映的问题，如何评价？员工吐槽的问题真的会改变吗？",
           "url": "https://www.zhihu.com/question/1980717182502585704",
           "source": "知乎",
@@ -485,17 +489,16 @@
           "time_info": "[13时17分 ~ 15时18分]"
         },
         {
-          "title": "印度电力部秘书：将在2至3年后根据需求重新评估煤电装机容量的新增情况。",
-          "url": "https://flash.jin10.com/detail/20251207151054908800",
+          "title": "贝宁外交部长：目前确有一起（政变）企图，但局势已得到控制。",
+          "url": "https://flash.jin10.com/detail/20251207172528390800",
           "source": "金十数据",
           "ranks": [
-            4,
-            8,
-            16
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "金十图示：中国11月末官方储备资产变化一览",
@@ -540,6 +543,30 @@
           "time_info": "[13时17分 ~ 16时23分]"
         },
         {
+          "title": "确定选新北市长了？台媒体人：李四川有三关要过",
+          "url": "https://news.ifeng.com/c/8osy118fCdk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
+        },
+        {
+          "title": "女子婚后出轨伴郎并生娃双双获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E5%87%BA%E8%BD%A8%E4%BC%B4%E9%83%8E%E5%B9%B6%E7%94%9F%E5%A8%83%E5%8F%8C%E5%8F%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时15分]"
+        },
+        {
           "title": "黑熊争抢驯养员携带食物 杭野通报",
           "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E4%BA%89%E6%8A%A2%E9%A9%AF%E5%85%BB%E5%91%98%E6%90%BA%E5%B8%A6%E9%A3%9F%E7%89%A9+%E6%9D%AD%E9%87%8E%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -578,17 +605,6 @@
           "time_info": "[16时23分 ~ 18时18分]"
         },
         {
-          "title": "确定选新北市长了？台媒体人：李四川有三关要过",
-          "url": "https://news.ifeng.com/c/8osy118fCdk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时18分]"
-        },
-        {
           "title": "两部门：加强医保支付范围管理",
           "url": "https://flash.jin10.com/detail/20251207121238077800",
           "source": "金十数据",
@@ -602,16 +618,16 @@
           "time_info": "[14时27分 ~ 16时23分]"
         },
         {
-          "title": "女子婚后出轨伴郎并生娃双双获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E5%87%BA%E8%BD%A8%E4%BC%B4%E9%83%8E%E5%B9%B6%E7%94%9F%E5%A8%83%E5%8F%8C%E5%8F%8C%E8%8E%B7%E5%88%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "伊朗外交部：伊朗外交部长计划近期访问俄罗斯",
+          "url": "https://flash.jin10.com/detail/20251207170920912800",
+          "source": "金十数据",
           "ranks": [
-            22,
-            13
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "两部门： 加强医保支付范围管理",
@@ -625,15 +641,15 @@
           "time_info": "13时17分"
         },
         {
-          "title": "伊朗外交部：伊朗外交部长计划近期访问俄罗斯",
-          "url": "https://flash.jin10.com/detail/20251207170920912800",
-          "source": "金十数据",
+          "title": "领导提拔了不如自己的人，我该怎么办？",
+          "url": "https://www.zhihu.com/question/1947968030949770979",
+          "source": "知乎",
           "ranks": [
-            7
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时15分"
         },
         {
           "title": "税务部门公布陈震偷税案件细节，用空壳工作室虚假申报，是典型的「转换收入性质」的违法行为，此案有何警示？",
@@ -681,11 +697,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%94%B3%E8%AE%BA&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "山东省考",
