@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T22:16:51.459167+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-12-07T23:17:17.698985+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "杭师大福彩公益金受助名单被指作假，校方通报系工作人员弄虚作假并致歉，哪些信息值得关注？",
@@ -125,6 +125,23 @@
           "time_info": "[00时21分 ~ 11时26分]"
         },
         {
+          "title": "上海古籍出版社通报《西厢记》存多处错误：深感愧疚，下架整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124566",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[14时26分 ~ 23时17分]"
+        },
+        {
           "title": "人民日报访商务部部长王文涛：扩大高水平对外开放，大力提振消费",
           "url": "https://www.cls.cn/detail/2221662",
           "source": "财联社热门",
@@ -137,22 +154,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时22分 ~ 16时23分]"
-        },
-        {
-          "title": "上海古籍出版社通报《西厢记》存多处错误：深感愧疚，下架整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124566",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时26分 ~ 22时16分]"
         },
         {
           "title": "网络名人账号违法违规行为被查",
@@ -213,8 +214,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时32分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[12时32分 ~ 23时17分]"
         },
         {
           "title": "百余考生作弊入职公职部门均被开除",
@@ -448,17 +449,6 @@
           "time_info": "[16时23分 ~ 21时24分]"
         },
         {
-          "title": "消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。",
-          "url": "https://flash.jin10.com/detail/20251207212620551800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "韩总统室介绍新政府成立半年成果",
           "url": "https://flash.jin10.com/detail/20251207145856619800",
           "source": "金十数据",
@@ -471,6 +461,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时18分 ~ 18时18分]"
+        },
+        {
+          "title": "据知情人士透露，布鲁克菲尔德资产管理公司与新加坡政府投资公司（GIC）正接近对National Storage REIT提出具有约束力的收购要约，这笔交易对这家悉尼上市公司的估值可能在40亿澳元（合27亿美元）左右。双方正在敲定一项交易的细节，最早可能于周一宣布。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "铁路部门推出“雪具便利行”服务",
@@ -529,6 +530,18 @@
           "time_info": "[13时17分 ~ 15时18分]"
         },
         {
+          "title": "消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。",
+          "url": "https://flash.jin10.com/detail/20251207212620551800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "贝宁外交部长：目前确有一起（政变）企图，但局势已得到控制。",
           "url": "https://flash.jin10.com/detail/20251207172528390800",
           "source": "金十数据",
@@ -540,6 +553,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时18分 ~ 20时35分]"
+        },
+        {
+          "title": "河南省省长王凯会见老挝工业贸易部部长玛莱通·贡玛西",
+          "url": "https://wallstreetcn.com/livenews/3016409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "金十图示：中国11月末官方储备资产变化一览",
@@ -554,6 +580,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时26分 ~ 14时27分]"
+        },
+        {
+          "title": "女子婚后出轨伴郎并生娃 双双获刑",
+          "url": "https://www.toutiao.com/trending/7579906033473290250/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 23时17分]"
+        },
+        {
+          "title": "贝宁内政部长：贝宁武装部队挫败一起未遂政变",
+          "url": "https://wallstreetcn.com/livenews/3016407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "两部门：加强医保基金支付监测",
@@ -584,6 +636,20 @@
           "time_info": "[13时17分 ~ 16时23分]"
         },
         {
+          "title": "贝宁内政部长发表声明说，贝宁武装部队挫败了一起未遂政变。",
+          "url": "https://flash.jin10.com/detail/20251207192209698800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
+        },
+        {
           "title": "黑熊争抢驯养员携带食物 杭野通报",
           "url": "https://www.baidu.com/s?wd=%E9%BB%91%E7%86%8A%E4%BA%89%E6%8A%A2%E9%A9%AF%E5%85%BB%E5%91%98%E6%90%BA%E5%B8%A6%E9%A3%9F%E7%89%A9+%E6%9D%AD%E9%87%8E%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -594,18 +660,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时17分 ~ 16时23分]"
-        },
-        {
-          "title": "河南省省长王凯会见老挝工业贸易部部长玛莱通·贡玛西",
-          "url": "https://wallstreetcn.com/livenews/3016409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
         },
         {
           "title": "印度电力部秘书：计划到2035年实现煤炭发电装机容量307吉瓦。",
@@ -634,18 +688,6 @@
           "time_info": "[16时23分 ~ 18时18分]"
         },
         {
-          "title": "贝宁内政部长：贝宁武装部队挫败一起未遂政变",
-          "url": "https://wallstreetcn.com/livenews/3016407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
-        },
-        {
           "title": "两部门：加强医保支付范围管理",
           "url": "https://flash.jin10.com/detail/20251207121238077800",
           "source": "金十数据",
@@ -659,17 +701,28 @@
           "time_info": "[14时27分 ~ 16时23分]"
         },
         {
-          "title": "贝宁内政部长发表声明说，贝宁武装部队挫败了一起未遂政变。",
-          "url": "https://flash.jin10.com/detail/20251207192209698800",
-          "source": "金十数据",
+          "title": "中共中央印发《中国共产党工作机关条例》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125683",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            19,
-            24
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
+          "title": "云南省政府与方大集团举行工作会谈",
+          "url": "https://wallstreetcn.com/livenews/3016420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "伊朗外交部：伊朗外交部长计划近期访问俄罗斯",
@@ -682,18 +735,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 19时15分]"
-        },
-        {
-          "title": "女子婚后出轨伴郎并生娃 双双获刑",
-          "url": "https://www.toutiao.com/trending/7579906033473290250/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时16分]"
         },
         {
           "title": "领导提拔了不如自己的人，我该怎么办？",
@@ -728,28 +769,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "云南省政府与方大集团举行工作会谈",
-          "url": "https://wallstreetcn.com/livenews/3016420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "中共中央印发《中国共产党工作机关条例》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32125683",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "税务部门公布陈震偷税案件细节，用空壳工作室虚假申报，是典型的「转换收入性质」的违法行为，此案有何警示？",
