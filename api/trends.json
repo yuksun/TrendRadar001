@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T11:18:31.424770+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-09T12:28:28.273238+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "中共中央政治局召开会议 中共中央总书记习近平主持会议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 11时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时28分]"
         },
         {
           "title": "受贿2.36亿余元，十四届全国政协原常委苟仲文一审被判死缓",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时28分]"
         },
         {
           "title": "江苏溧阳通报演员名单照搬百度文库：已严肃处理相关人员及单位",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时28分]"
         },
         {
           "title": "前11个月税务部门查处1818名包括明星网红在内的“双高”人员",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时28分]"
         },
         {
           "title": "十四届全国政协原常委苟仲文受贿 2.36 亿余元，一审被判死缓，起到哪些警示作用？",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "贪污超11亿！白天辉被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%AA%E6%B1%A1%E8%B6%8511%E4%BA%BF%EF%BC%81%E7%99%BD%E5%A4%A9%E8%BE%89%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "加拿大政府声明：共识的一个重要要点是，对关键矿物供应链实施非市场政策，包括出口管制。",
@@ -181,17 +192,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "孕妻出轨被抓现行!丈夫当场崩溃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347824&amp;topic_name=%E5%AD%95%E5%A6%BB%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8A%93%E7%8E%B0%E8%A1%8C%21%E4%B8%88%E5%A4%AB%E5%BD%93%E5%9C%BA%E5%B4%A9%E6%BA%83",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "加拿大政府声明：七国集团财长通话讨论的核心议题集中在出口管制和关键矿物。",
           "url": "https://flash.jin10.com/detail/20251209024941223800",
           "source": "金十数据",
@@ -212,6 +212,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "孕妻出轨被抓现行!丈夫当场崩溃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347824&amp;topic_name=%E5%AD%95%E5%A6%BB%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8A%93%E7%8E%B0%E8%A1%8C%21%E4%B8%88%E5%A4%AB%E5%BD%93%E5%9C%BA%E5%B4%A9%E6%BA%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "欧洲议会：议会与成员国谈判代表就更新欧盟企业可持续发展报告及尽职调查要求相关法规达成临时协议。",
@@ -272,8 +284,32 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时28分]"
+        },
+        {
+          "title": "中共中央政治局召开会议，中共中央总书记习近平主持会议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32128866",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时25分 ~ 11时18分]"
+          "time_info": "[11时18分 ~ 12时28分]"
+        },
+        {
+          "title": "公安机关通缉100名涉电诈在逃人员",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E9%80%9A%E7%BC%89100%E5%90%8D%E6%B6%89%E7%94%B5%E8%AF%88%E5%9C%A8%E9%80%83%E4%BA%BA%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "日本原子能监管机构官员在电话中表示：在Onagawa（女川町）的核电站没有发现问题。（彭博）",
@@ -332,17 +368,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "中共中央政治局召开会议，中共中央总书记习近平主持会议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32128866",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "受贿2.36亿余元 苟仲文一审被判死缓",
           "url": "https://www.cls.cn/detail/2222866",
           "source": "财联社热门",
@@ -354,15 +379,15 @@
           "time_info": "06时18分"
         },
         {
-          "title": "公安机关通缉100名涉电诈在逃人员",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E9%80%9A%E7%BC%89100%E5%90%8D%E6%B6%89%E7%94%B5%E8%AF%88%E5%9C%A8%E9%80%83%E4%BA%BA%E5%91%98",
-          "source": "百度热搜",
+          "title": "澳洲联储声明：政策决定获得一致通过。 月度数据显示整体通胀出现回升迹象，通胀风险已转向上行，但评估通胀压力的持续性还需要一段时间。 过去一年失业率逐步上升。 劳动力市场状况似乎仍略显紧张，但预计将进一步适度缓解。 委员会将密切关注数据和不断变化的前景及风险评估，以指导其决策。 委员会判断，近期基础通胀的某些上升是由于临时性因素造成的。 委员会专注于实现物价稳定和充分就业的使命，并将采取其认为必要的措施来实现这一目标。 经济活动持续复苏。 围绕国内经济活动和通胀的前景存在不确定性，货币政策保持限制性的程度也存在不确定性。 全球经济的不确定性仍然很大，但到目前为止，对澳大利亚主要贸易伙伴的整体增长和贸易影响甚微。",
+          "url": "https://wallstreetcn.com/livenews/3017354",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "12时28分"
         },
         {
           "title": "郭德纲发文疑回应相声被举报",
@@ -387,6 +412,28 @@
           "time_info": "00时26分"
         },
         {
+          "title": "澳洲联储：委员会认为，近期核心通胀的某些上升是由临时性因素所致。",
+          "url": "https://flash.jin10.com/detail/20251209113144953800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "澳洲联储：委员会专注于实现物价稳定和充分就业的使命，并将采取其认为必要的措施以达成这一目标。",
+          "url": "https://flash.jin10.com/detail/20251209113137660800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "贝宁政府：政变策划者绑架了两名高级军事官员，两人随后获释。",
           "url": "https://flash.jin10.com/detail/20251209030242714800",
           "source": "金十数据",
@@ -404,7 +451,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -426,7 +473,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -453,6 +500,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "澳洲联储：委员会将密切关注数据，以及对前景和风险的不断变化的评估，以指导其决策。",
+          "url": "https://flash.jin10.com/detail/20251209113103301800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "联合国发言人：联合国秘书长古特雷斯对泰国与柬埔寨之间的最新事态发展深表关切。",
           "url": "https://flash.jin10.com/detail/20251209015419688800",
           "source": "金十数据",
@@ -462,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "澳洲联储：因此，委员会认为，在数据不断变化的情况下，保持谨慎态度并适时更新对前景的看法是恰当的。",
+          "url": "https://flash.jin10.com/detail/20251209113055734800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "加拿大政府声明：共识的一个重要要点是，对关键矿物供应链实施非市场政策表示关切，包括出口管制。",
