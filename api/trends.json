@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:23:18.233770+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-12-11T19:18:59.192763+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
         {
           "title": "国家药监局局长李利：将审评资源充分向“全球新”的原创性产品和突破“卡脖子”技术的国产替代产品倾斜",
@@ -134,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 19时18分]"
         },
         {
           "title": "新华每日电讯：百余公务员靠作弊入职被开除，公考公平不容挑战",
@@ -148,8 +148,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 19时18分]"
         },
         {
           "title": "马上评｜校领导动员学生为孩子拉票：荒唐的权力滥用",
@@ -233,6 +233,20 @@
           "time_info": "[01时01分 ~ 07时17分]"
         },
         {
+          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
+          "url": "https://www.cls.cn/detail/2226318",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 19时18分]"
+        },
+        {
           "title": "同事每天加班到 10 点但产出和我一样，该不该向领导说明真相？如何体面地拒绝无效内卷？",
           "url": "https://www.zhihu.com/question/1894427728297578558",
           "source": "知乎",
@@ -245,20 +259,6 @@
           "time_info": "[01时02分 ~ 15时24分]"
         },
         {
-          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
-          "url": "https://www.cls.cn/detail/2226318",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 18时23分]"
-        },
-        {
           "title": "缅甸成立打击电诈网赌中央监督委员会",
           "url": "https://news.ifeng.com/c/8oyuEVUt5Xc",
           "source": "凤凰网",
@@ -269,6 +269,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时17分]"
+        },
+        {
+          "title": "永劫无间官方电竞综艺",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E5%AE%98%E6%96%B9%E7%94%B5%E7%AB%9E%E7%BB%BC%E8%89%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            14,
+            17,
+            21,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 19时18分]"
         },
         {
           "title": "四川雅安现不明巨响 应急部门回应",
@@ -286,22 +303,6 @@
           "time_info": "[14时31分 ~ 18时23分]"
         },
         {
-          "title": "永劫无间官方电竞综艺",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E5%AE%98%E6%96%B9%E7%94%B5%E7%AB%9E%E7%BB%BC%E8%89%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            14,
-            17,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 18时23分]"
-        },
-        {
           "title": "受贿数额特别巨大！袁光宇被提起公诉",
           "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7%EF%BC%81%E8%A2%81%E5%85%89%E5%AE%87%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
           "source": "百度热搜",
@@ -315,18 +316,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时23分 ~ 15时24分]"
-        },
-        {
-          "title": "“油老虎”袁光宇被公诉：受贿数额巨大",
-          "url": "https://www.toutiao.com/trending/7582417909587804203/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
         },
         {
           "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿10月份铜产量同比增长11.7%，达到120,600吨。",
@@ -351,6 +340,19 @@
           "time_info": "14时32分"
         },
         {
+          "title": "中兴通讯AH股双双重挫 公告回应合规性调查报道",
+          "url": "https://www.cls.cn/detail/2226560",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
+        },
+        {
           "title": "广东成立调查组彻查汕头12死火灾",
           "url": "https://www.toutiao.com/trending/7582139763520441906/",
           "source": "今日头条",
@@ -363,6 +365,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 03时17分]"
+        },
+        {
+          "title": "“油老虎”袁光宇被公诉：受贿数额巨大",
+          "url": "https://www.toutiao.com/trending/7582417909587804203/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
         },
         {
           "title": "科威特将1月对亚洲出口的超轻原油官方售价定为较阿曼/迪拜均价贴水1.9美元/桶。",
@@ -404,9 +419,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "水银体温计 2026 年即将禁产销量大涨，部分售价翻了好几倍，为何会禁产？有人大量囤货出于什么考虑？",
+          "url": "https://www.zhihu.com/question/1981694626235638164",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时18分]"
         },
         {
           "title": "欧洲央行管委马赫鲁夫：“有信心”中期通胀将稳定在2%。",
@@ -456,30 +483,6 @@
           "time_info": "[02时29分 ~ 03时17分]"
         },
         {
-          "title": "中兴通讯AH股双双重挫 公告回应合规性调查报道",
-          "url": "https://www.cls.cn/detail/2226560",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
-        },
-        {
-          "title": "水银体温计 2026 年即将禁产销量大涨，部分售价翻了好几倍，为何会禁产？有人大量囤货出于什么考虑？",
-          "url": "https://www.zhihu.com/question/1981694626235638164",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时23分]"
-        },
-        {
           "title": "刚果（金）反政府武装称占领东部重镇乌维拉",
           "url": "https://flash.jin10.com/detail/20251211013225286800",
           "source": "金十数据",
@@ -501,6 +504,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时27分 ~ 13时22分]"
+        },
+        {
+          "title": "马斯克：若重来，不会领导“政府效率部”",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
         },
         {
           "title": "缅甸成立打击电诈网赌中央监督委员会",
@@ -554,6 +568,18 @@
           "time_info": "[01时02分 ~ 02时29分]"
         },
         {
+          "title": "医院回应：正调查张水华被处分文件为何泄露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32147212",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
+        },
+        {
           "title": "河南一学校通报校领导要求学生为其子女比赛投票：已免职",
           "url": "https://m.thepaper.cn/newsDetail_forward_32143517",
           "source": "澎湃新闻",
@@ -565,15 +591,15 @@
           "time_info": "[01时01分 ~ 01时56分]"
         },
         {
-          "title": "马斯克：若重来，不会领导“政府效率部”",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
-          "source": "凤凰网",
+          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时18分]"
         },
         {
           "title": "如何看待《绝区零》2.4 版本减负了随便观，但是 2.5 版本就将随便观的周期奖励砍掉？",
@@ -609,6 +635,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 16时28分]"
+        },
+        {
+          "title": "陕西一地给枯草喷颜料？官方回应",
+          "url": "https://www.toutiao.com/trending/7582203753156575270/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时18分]"
+        },
+        {
+          "title": "中央经济工作会议：着力稳定房地产市场 积极有序化解地方政府债务风险",
+          "url": "https://wallstreetcn.com/livenews/3019142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时18分]"
         },
         {
           "title": "路透调查：77%的经济学家不赞成日本政府主要通过新增债务为补充预算融资的计划。",
@@ -671,29 +721,6 @@
           "time_info": "[12时34分 ~ 13时22分]"
         },
         {
-          "title": "医院回应：正调查张水华被处分文件为何泄露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32147212",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
-        },
-        {
-          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
-        },
-        {
           "title": "智利国家铜业委员会：智利国家铜业公司10月份铜产量同比下降14.3%，至11.1万吨。",
           "url": "https://flash.jin10.com/detail/20251211020015901800",
           "source": "金十数据",
@@ -738,17 +765,6 @@
           "time_info": "17时25分"
         },
         {
-          "title": "陕西一地给枯草喷颜料？官方回应",
-          "url": "https://www.toutiao.com/trending/7582203753156575270/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "路透调查：马来西亚林吉特多头头寸创6个月新高，印度卢比空头头寸升至10个月高位。",
           "url": "https://flash.jin10.com/detail/20251211141325930800",
           "source": "金十数据",
@@ -769,17 +785,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "中央经济工作会议：着力稳定房地产市场 积极有序化解地方政府债务风险",
-          "url": "https://wallstreetcn.com/livenews/3019142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "路透调查：预计日本央行12月将加息25个基点，到明年9月利率将升至1%",
@@ -870,6 +875,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "福医大附一院院长否认「最快女护士」张水华离职，称尚未收到她的辞职申请，怎样看待院方的处理结果？",
+          "url": "https://www.zhihu.com/question/1982486551591084219",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
           "url": "https://wallstreetcn.com/livenews/3018628",
           "source": "华尔街见闻-快讯",
@@ -901,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "中国农业发展银行原政策研究室主任吴飚接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3019165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "尽管政府采取降温措施 首尔房价持续上涨",
@@ -1048,11 +1075,12 @@
             7,
             6,
             5,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时34分 ~ 19时18分]"
         },
         {
           "title": "山东聊城深夜3.7级地震 多地有震感",
