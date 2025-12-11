@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-11T11:24:15.105924+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2025-12-11T12:34:59.715651+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
-        {
-          "title": "5000万网红偷税漏税被实名举报",
-          "url": "https://s.weibo.com/weibo?q=%235000%E4%B8%87%E7%BD%91%E7%BA%A2%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 11时24分]"
-        },
         {
           "title": "国家药监局局长李利：将审评资源充分向“全球新”的原创性产品和突破“卡脖子”技术的国产替代产品倾斜",
           "url": "https://www.cls.cn/detail/2225801",
@@ -43,8 +31,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 11时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 12时34分]"
+        },
+        {
+          "title": "5000万网红偷税漏税被实名举报",
+          "url": "https://s.weibo.com/weibo?q=%235000%E4%B8%87%E7%BD%91%E7%BA%A2%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 12时34分]"
         },
         {
           "title": "美媒：关于政府效率部，马斯克惊人爆料",
@@ -71,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 11时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 12时34分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -321,6 +322,53 @@
           "time_info": "[01时02分 ~ 02时29分]"
         },
         {
+          "title": "印度国大党成员指控腐败问题：“花50亿卢比能当首席部长”",
+          "url": "https://news.ifeng.com/c/8ozLPKDBg1I",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时34分]"
+        },
+        {
+          "title": "受贿数额特别巨大！袁光宇被提起公诉",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7%EF%BC%81%E8%A2%81%E5%85%89%E5%AE%87%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "人民日报：让领导干部能上能下成为常态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32152370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "新华每日电讯：百余公务员靠作弊入职被开除，公考公平不容挑战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32152417",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
           "title": "亚马逊与意大利税务部门达成（和解）协议，将支付7.23亿欧元（罚款）。（安莎通讯社）",
           "url": "https://wallstreetcn.com/livenews/3018541",
           "source": "华尔街见闻-快讯",
@@ -368,50 +416,6 @@
           "time_info": "[06时20分 ~ 07时17分]"
         },
         {
-          "title": "印度国大党成员指控腐败问题：“花50亿卢比能当首席部长”",
-          "url": "https://news.ifeng.com/c/8ozLPKDBg1I",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时24分]"
-        },
-        {
-          "title": "人民日报：让领导干部能上能下成为常态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32152370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "新华每日电讯：百余公务员靠作弊入职被开除，公考公平不容挑战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32152417",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "受贿数额特别巨大！袁光宇被提起公诉",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7%EF%BC%81%E8%A2%81%E5%85%89%E5%AE%87%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
           "title": "智利国家铜业委员会：智利国家铜业公司10月份铜产量同比下降14.3%，至11.1万吨。",
           "url": "https://flash.jin10.com/detail/20251211020015901800",
           "source": "金十数据",
@@ -440,9 +444,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "路透调查：77%的经济学家不赞成日本政府主要通过新增债务为补充预算融资的计划。",
+          "url": "https://flash.jin10.com/detail/20251211120706012800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "瑞士经济部长：在这个充满不确定性的世界里，你永远无法确定任何事情。",
@@ -456,6 +471,39 @@
           "time_info": "01时02分"
         },
         {
+          "title": "路透调查：预计日本明年劳资谈判的加薪幅度为5.0%，今年为5.25%。",
+          "url": "https://flash.jin10.com/detail/20251211120652563800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "00后班主任高能量的一天",
+          "url": "https://search.bilibili.com/all?keyword=00%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "路透调查：69%经济学家预计，到2026年9月日本央行将把关键利率上调至至少1.0%。",
+          "url": "https://flash.jin10.com/detail/20251211120627583800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "瑞士官员：某些农产品指的是肉类和禽类产品、水果以及坚果。",
           "url": "https://flash.jin10.com/detail/20251211002504636800",
           "source": "金十数据",
@@ -465,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "路透调查：90%经济学家预计日本央行将于12月将关键利率上调至0.75%（11月调查为53%）。",
+          "url": "https://flash.jin10.com/detail/20251211120616762800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
@@ -569,7 +628,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "山东聊城深夜3.7级地震 多地有震感",
@@ -582,6 +641,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 11时24分]"
+        },
+        {
+          "title": "山东东营黄河口出现「鸟浪化鲲」震撼一幕，这是什么鸟？鸟群为何如此集群飞行？",
+          "url": "https://www.zhihu.com/question/1981291525523596720",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "山东冠县地震",
