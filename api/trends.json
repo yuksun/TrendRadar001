@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-12T09:27:49.360897+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-12T11:23:27.784896+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
-        {
-          "title": "胡锡进：在台湾问题上陷入孤立的日政府，正试图把西方拉入阵营",
-          "url": "https://news.ifeng.com/c/8p0OFtqHOtd",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时22分]"
-        },
         {
           "title": "苹果原装取卡针被传由铂金制成，回收价超 300 元，官方称是一种非晶态合金，这种金属有哪些特点？",
           "url": "https://www.zhihu.com/question/1981776734798963285",
@@ -31,8 +20,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时23分]"
+        },
+        {
+          "title": "胡锡进：在台湾问题上陷入孤立的日政府，正试图把西方拉入阵营",
+          "url": "https://news.ifeng.com/c/8p0OFtqHOtd",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "新华每日电讯：百余公务员靠作弊入职被开除，公考公平不容挑战",
@@ -67,11 +67,12 @@
             10,
             12,
             20,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 11时23分]"
         },
         {
           "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
@@ -81,11 +82,12 @@
             18,
             19,
             20,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 11时23分]"
         },
         {
           "title": "中央：坚持党政机关过紧日子",
@@ -100,6 +102,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时19分]"
+        },
+        {
+          "title": "福医大附一院院长否认「最快女护士」张水华离职，称尚未收到她的辞职申请，怎样看待院方的处理结果？",
+          "url": "https://www.zhihu.com/question/1982486551591084219",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时23分]"
         },
         {
           "title": "国外捐精者被查出20%精子带致癌基因",
@@ -126,18 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时22分]"
-        },
-        {
-          "title": "福医大附一院院长否认「最快女护士」张水华离职，称尚未收到她的辞职申请，怎样看待院方的处理结果？",
-          "url": "https://www.zhihu.com/question/1982486551591084219",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时27分]"
         },
         {
           "title": "江苏新任命一名女性代市长 系80后",
@@ -167,6 +169,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "财政部部长蓝佛安会见国际货币基金组织总裁格奥尔基耶娃",
+          "url": "https://wallstreetcn.com/livenews/3019585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "巴西政府证实，巴西总统卢拉与委内瑞拉总统马杜罗通话。",
           "url": "https://flash.jin10.com/detail/20251212021158136800",
           "source": "金十数据",
@@ -184,9 +197,39 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "永劫无间官方电竞综艺",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E5%AE%98%E6%96%B9%E7%94%B5%E7%AB%9E%E7%BB%BC%E8%89%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17,
+            29,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 11时23分]"
+        },
+        {
+          "title": "00后班主任高能量的一天",
+          "url": "https://search.bilibili.com/all?keyword=00%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            18,
+            27,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 11时23分]"
         },
         {
           "title": "美联储：对摩根大通结束执法行动。",
@@ -215,34 +258,6 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "永劫无间官方电竞综艺",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E5%AE%98%E6%96%B9%E7%94%B5%E7%AB%9E%E7%BB%BC%E8%89%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时27分]"
-        },
-        {
-          "title": "00后班主任高能量的一天",
-          "url": "https://search.bilibili.com/all?keyword=00%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%AB%98%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%80%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            18,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 09时27分]"
-        },
-        {
           "title": "甘肃平凉市委书记：谁敢刁难企业就下岗",
           "url": "https://www.toutiao.com/trending/7582500881347231780/",
           "source": "今日头条",
@@ -257,6 +272,18 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
+          "title": "村支书卖小米被小米法务投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%B3%95%E5%8A%A1%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
+        },
+        {
           "title": "欧盟官员表示，欧盟委员会正在考虑推出第二版针对国防项目的“欧洲安全行动”（SAFE）贷款计划。",
           "url": "https://flash.jin10.com/detail/20251212055948895800",
           "source": "金十数据",
@@ -267,6 +294,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "韩国艺人“鸟叔”被警方强制调查",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
         },
         {
           "title": "普京与马杜罗通电话，俄方重申对委内瑞拉政府支持",
@@ -305,6 +344,18 @@
           "time_info": "[05时21分 ~ 06时22分]"
         },
         {
+          "title": "院长贪腐上亿元落马 大药厂老板被抓",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%B4%AA%E8%85%90%E4%B8%8A%E4%BA%BF%E5%85%83%E8%90%BD%E9%A9%AC+%E5%A4%A7%E8%8D%AF%E5%8E%82%E8%80%81%E6%9D%BF%E8%A2%AB%E6%8A%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
+        },
+        {
           "title": "官方回应雅安多地出现不明巨响",
           "url": "https://www.douyin.com/hot/2333223",
           "source": "抖音",
@@ -328,26 +379,26 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
-          "title": "村支书卖小米被小米法务投诉下架",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%B3%95%E5%8A%A1%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "村支书卖小米被投诉下架",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "中石油研究部：未来五年，工业部门将成为中国天然气需求增长的最大贡献者。",
+          "url": "https://flash.jin10.com/detail/20251212105042822800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "村支书卖小米被投诉",
@@ -356,7 +407,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -367,9 +418,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "日本政府向青森县、北海道和岩手县发布紧急地震预警。",
+          "url": "https://flash.jin10.com/detail/20251212104533502800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "为什么领导最喜欢的不是能力强，工作努力的人？",
@@ -378,20 +440,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "韩国艺人“鸟叔”被警方强制调查",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "日本政府发布紧急地震预警。 日本气象厅称，地震初步震级为6.8级，在青森县近海；地震烈度为4级（最高7级）。 日本地震导致东京建筑物轻微摇晃。 据NHK，日本地震后预计不会发生海啸灾害。",
+          "url": "https://wallstreetcn.com/livenews/3019564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时23分"
         },
         {
           "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
@@ -416,6 +478,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "韩国财长具润哲：韩美将成立联合自由贸易协定委员会，以落实关税协议。",
+          "url": "https://flash.jin10.com/detail/20251212102538535800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "中印举行新一轮外交部官员磋商",
+          "url": "https://wallstreetcn.com/livenews/3019547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "阿根廷政府公布“期中成绩单”",
           "url": "https://flash.jin10.com/detail/20251212041518892800",
           "source": "金十数据",
@@ -433,18 +517,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "院长贪腐上亿元落马 大药厂老板被抓",
-          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E8%B4%AA%E8%85%90%E4%B8%8A%E4%BA%BF%E5%85%83%E8%90%BD%E9%A9%AC+%E5%A4%A7%E8%8D%AF%E5%8E%82%E8%80%81%E6%9D%BF%E8%A2%AB%E6%8A%93",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -466,7 +539,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -480,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "韩国艺人“鸟叔”被警方强制调查",
+          "url": "https://www.toutiao.com/trending/7582509512243314694/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "市场消息：美联储终止对摩根大通公司的执法行动。",
@@ -502,6 +586,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "山东：到2027年，全省人工智能核心产业规模力争突破2000亿元",
+          "url": "https://wallstreetcn.com/livenews/3019586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "《山东省铜产业高质量发展行动计划（2025—2027年）》发布",
+          "url": "https://wallstreetcn.com/livenews/3019553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
