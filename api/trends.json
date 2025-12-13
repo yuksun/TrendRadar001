@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T11:15:19.639912+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2025-12-13T12:25:32.134330+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "副部级潘良被查",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时25分]"
         },
         {
           "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时25分]"
         },
         {
           "title": "维京人大战变态辣喜提窜稀套餐",
@@ -54,11 +54,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时25分]"
         },
         {
           "title": "人大书记严选899元羽绒服卖断货",
@@ -102,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时25分]"
         },
         {
           "title": "国务院国资委原副部长级干部潘良被查",
@@ -118,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时25分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -321,11 +322,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时25分]"
         },
         {
           "title": "加拿大政府声明：加拿大授予庞巴迪一份7.53亿加元的合同，用于采购六架Global 6500飞机。",
@@ -338,6 +340,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时16分]"
+        },
+        {
+          "title": "韩国鸟叔被警方强制调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%9F%E5%8F%94%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时25分]"
         },
         {
           "title": "欧盟轮值主席国丹麦：欧盟各国政府同意无限期冻结俄罗斯央行在欧洲持有的资产。",
@@ -358,7 +372,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -374,24 +388,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "韩国鸟叔被警方强制调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%9F%E5%8F%94%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
           "title": "领导力是天生的还是能后期培养的？",
           "url": "https://www.zhihu.com/question/655161128",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -416,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "什么样的领导算是真正意义上的好领导？",
+          "url": "https://www.zhihu.com/question/657660156",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "商务部党组召开会议传达学习中央经济工作会议精神",
