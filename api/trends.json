@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T19:15:49.807154+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-12-13T20:36:34.055125+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "副部级潘良被查",
@@ -123,11 +123,12 @@
             12,
             13,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 19时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 20时36分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -201,6 +202,22 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "财政部：用好用足各类政府债券资金，发行超长期特别国债",
+          "url": "https://wallstreetcn.com/livenews/3020217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            6,
+            8,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时36分]"
+        },
+        {
           "title": "美官员称加沙国际稳定部队最快下月部署",
           "url": "https://wallstreetcn.com/livenews/3020205",
           "source": "华尔街见闻-快讯",
@@ -216,21 +233,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时20分 ~ 19时15分]"
-        },
-        {
-          "title": "财政部：用好用足各类政府债券资金，发行超长期特别国债",
-          "url": "https://wallstreetcn.com/livenews/3020217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时15分]"
         },
         {
           "title": "欧盟官员：乌克兰2027年前不可能加入欧盟",
@@ -500,6 +502,18 @@
           "time_info": "[14时28分 ~ 15时19分]"
         },
         {
+          "title": "为什么现在的年轻人越来越不愿意奉承领导了？",
+          "url": "https://www.zhihu.com/question/665776936",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时36分]"
+        },
+        {
           "title": "中央财办分管日常工作的副主任、中央农办主任韩文秀：明年还将根据形势变化出台实施增量政策",
           "url": "https://wallstreetcn.com/livenews/3020182",
           "source": "华尔街见闻-快讯",
@@ -511,6 +525,28 @@
           "time_info": "11时15分"
         },
         {
+          "title": "【茅台或于近期推出控量政策】记者从中国酒业评论人肖竹青处了解到，贵州茅台于近期推出控量政策，涵盖短期减负、中长期结构性改革两大维度。短期措施方面，2025年12月内，贵州茅台将停止向经销商发放所有茅台产品（预付款已完成），直至2026年1月1日，在适当时候恢复。肖竹青分析，此举旨在年底经销商资金紧张时期，直接为经销商减负，防止经销商因偿还贷款或支付新货款而出现恐慌性抛售行为。中长期结构性改革方面，2026年，贵州茅台计划大幅消减非标产品配额，从源头减少使经销渠道利润缩减的产品供应。但截至目前，对于上述情况，贵州茅台官方并未公布相关内容。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3020237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：我们依靠伊拉克政府在该国建立信任和稳定。",
+          "url": "https://flash.jin10.com/detail/20251213192903133800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "德国政府：乌克兰总统泽连斯基将于周一在柏林会晤德国总理默茨。",
           "url": "https://flash.jin10.com/detail/20251213000242033800",
           "source": "金十数据",
@@ -520,6 +556,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：我们赞赏伊拉克在战胜恐怖主义方面所展现出的勇气、坚定和决心，以及该国致力于从叙利亚东北部的霍尔难民营遣返其公民。",
+          "url": "https://flash.jin10.com/detail/20251213192850164800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "福建一煤矿致7死1伤31人被问责",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E7%85%A4%E7%9F%BF%E8%87%B47%E6%AD%BB1%E4%BC%A431%E4%BA%BA%E8%A2%AB%E9%97%AE%E8%B4%A3%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "捷克候任总理巴比什：捷克共和国不会为乌克兰融资提供担保，欧盟委员会必须另寻替代方案。",
+          "url": "https://flash.jin10.com/detail/20251213191559428800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "领导力是天生的还是能后期培养的？",
@@ -550,18 +619,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "为什么现在的年轻人越来越不愿意奉承领导了？",
-          "url": "https://www.zhihu.com/question/665776936",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -685,9 +743,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时36分]"
         },
         {
           "title": "稳楼市去库存 山东打响“第一枪”",
@@ -696,7 +754,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
