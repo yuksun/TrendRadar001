@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T22:24:52.498256+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2025-12-15T23:26:53.967153+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 115,
+      "match_count": 122,
       "titles": [
         {
           "title": "宁波通报患儿接受心脏手术后离世：多人被处理，主刀医师免职",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 23时26分]"
         },
         {
           "title": "学生卖冰糖葫芦被掀摊，警方通报掀摊者系争抢客源，已被行拘，如何看待这一社会现象？",
@@ -105,6 +105,23 @@
           "time_info": "[00时21分 ~ 18时24分]"
         },
         {
+          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            13,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时29分 ~ 23时26分]"
+        },
+        {
           "title": "亚运会三金得主举报被领导索要奖金",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E9%87%91%E5%BE%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -131,22 +148,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时21分 ~ 16时31分]"
-        },
-        {
-          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时29分 ~ 22时24分]"
         },
         {
           "title": "官方辟谣彭州地震致房屋倒塌",
@@ -197,6 +198,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时30分]"
+        },
+        {
+          "title": "官方回应王莉举报领导索要奖金",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            7,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 23时26分]"
         },
         {
           "title": "亚运会金牌得主举报比赛奖金被索要",
@@ -266,21 +282,6 @@
           "time_info": "[14时33分 ~ 17时31分]"
         },
         {
-          "title": "官方回应王莉举报领导索要奖金",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            7,
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 22时24分]"
-        },
-        {
           "title": "公务员平替岗挤满没能上岸的年轻人",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B3%E6%9B%BF%E5%B2%97%E6%8C%A4%E6%BB%A1%E6%B2%A1%E8%83%BD%E4%B8%8A%E5%B2%B8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -321,6 +322,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时39分 ~ 16时31分]"
+        },
+        {
+          "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178791",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 23时26分]"
         },
         {
           "title": "据叙利亚通讯社：为应对美叙联合军队在叙利亚中部帕尔米拉附近的袭击事件，叙利亚政府在霍姆斯郊区的弗尔库斯、卡里亚坦和巴迪亚地区开展打击极端组织“伊斯兰国”残余势力的行动。",
@@ -378,6 +394,34 @@
           "time_info": "[17时31分 ~ 22时24分]"
         },
         {
+          "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32179485",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时26分]"
+        },
+        {
+          "title": "「亚运三金王」王莉举报被领导索要 15 万元比赛奖金，怎么回事？暴露出体育行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1983833834140243856",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时26分]"
+        },
+        {
           "title": "全网最不扫兴校长",
           "url": "https://www.toutiao.com/trending/7583696344641978431/",
           "source": "今日头条",
@@ -391,6 +435,21 @@
           "time_info": "[14时33分 ~ 17时31分]"
         },
         {
+          "title": "菲方人员曾持刀威胁中方执法海警",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E4%BA%BA%E5%91%98%E6%9B%BE%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E4%B8%AD%E6%96%B9%E6%89%A7%E6%B3%95%E6%B5%B7%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            18,
+            17,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时26分]"
+        },
+        {
           "title": "印度官员：由于检查更加严格，俄罗斯石油进口量将下降。",
           "url": "https://flash.jin10.com/detail/20251215212143855800",
           "source": "金十数据",
@@ -400,20 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
-        },
-        {
-          "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32178791",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 22时24分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：政府正考虑出台更严格的枪支法律。",
@@ -460,20 +505,6 @@
           "time_info": "13时24分"
         },
         {
-          "title": "「亚运三金王」王莉举报被领导索要 15 万元比赛奖金，怎么回事？暴露出体育行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1983833834140243856",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时24分]"
-        },
-        {
           "title": "当地时间15日，澳大利亚新南威尔士州卫生部部长确认，邦迪海滩枪击案已造成16人死亡。",
           "url": "https://flash.jin10.com/detail/20251215040235746800",
           "source": "金十数据",
@@ -508,21 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "菲方人员曾持刀威胁中方执法海警",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E4%BA%BA%E5%91%98%E6%9B%BE%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E4%B8%AD%E6%96%B9%E6%89%A7%E6%B3%95%E6%B5%B7%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            18,
-            17,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时24分]"
         },
         {
           "title": "江西上饶通报：望仙谷景区明火已被扑灭，无人员伤亡",
@@ -582,19 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时24分]"
-        },
-        {
-          "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32179485",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时24分]"
         },
         {
           "title": "路透调查：大多数受访经济学家表示，泰国央行将在2026年第一季度将关键政策利率下调至1.00%。",
@@ -890,6 +893,17 @@
           "time_info": "12时39分"
         },
         {
+          "title": "美联储理事米兰：通胀预期（调查）中并没有出现担忧。",
+          "url": "https://wallstreetcn.com/livenews/3021068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "哈萨克斯坦能源部长：卡拉恰甘纳克油田案的仲裁裁决预计将于年底前出炉。",
           "url": "https://flash.jin10.com/detail/20251215141130478800",
           "source": "金十数据",
@@ -899,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "知情官员透露，乌克兰方面对美方表示，需要进一步讨论，领土问题在周一仍未解决。",
+          "url": "https://flash.jin10.com/detail/20251215230314541800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "韩国特检组发布最终调查结果，对尹锡悦等24人提起诉讼。（新华社）",
@@ -921,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "印度官员：审查加强将导致俄油进口下降",
+          "url": "https://wallstreetcn.com/livenews/3021067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "5 月龄女婴手术后离世，宁波卫健委通报调查进展，多人被处理，如何看待此事？",
@@ -984,9 +1020,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "美乌新一轮柏林会谈结束 美官员称“取得进展”",
+          "url": "https://wallstreetcn.com/livenews/3021065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "5月龄女婴离世问责不是终点",
@@ -1072,7 +1119,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1132,6 +1179,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "商务部国际贸易谈判代表兼副部长李成钢出席金砖国家特殊经济区中国合作中心建设工作推进会",
+          "url": "https://wallstreetcn.com/livenews/3021058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "韩国政府正在研究对策，考虑今后让外国旅客刷信用卡即可乘坐公共交通。",
           "url": "https://flash.jin10.com/detail/20251215134940055800",
           "source": "金十数据",
@@ -1182,7 +1240,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1198,13 +1256,24 @@
           "time_info": "16时31分"
         },
         {
+          "title": "中华人民共和国和约旦哈希姆王国外交部长会谈联合新闻稿",
+          "url": "https://wallstreetcn.com/livenews/3021056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "墨西哥经济部长：关税不会显著提高亚洲汽车的价格。",
           "url": "https://flash.jin10.com/detail/20251215215758175800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1229,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "儿童手表“小天才圈”调查：点赞成每日功课，有商家可解除家长管控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177210",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "路透调查：全部24位分析师均预计俄罗斯央行将下调关键利率。",
@@ -1347,7 +1427,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
