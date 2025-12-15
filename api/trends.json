@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T20:43:53.763782+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2025-12-15T21:40:22.078138+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 106,
+      "match_count": 110,
       "titles": [
         {
           "title": "宁波通报患儿接受心脏手术后离世：多人被处理，主刀医师免职",
@@ -64,6 +64,19 @@
           "time_info": "[00时21分 ~ 09时30分]"
         },
         {
+          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
+          "url": "https://wallstreetcn.com/articles/3761409",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时40分]"
+        },
+        {
           "title": "商务部等三部门：加强商务和金融协同，更大力度提振消费",
           "url": "https://wallstreetcn.com/articles/3761365",
           "source": "华尔街见闻",
@@ -120,6 +133,22 @@
           "time_info": "[00时21分 ~ 16时31分]"
         },
         {
+          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 21时40分]"
+        },
+        {
           "title": "官方辟谣彭州地震致房屋倒塌",
           "url": "https://www.douyin.com/hot/2335709",
           "source": "抖音",
@@ -129,21 +158,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 13时24分]"
-        },
-        {
-          "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177179",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 20时43分]"
         },
         {
           "title": "鸭科夫mod拉黑玩家,官方跪求解封",
@@ -183,19 +197,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时30分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
-          "url": "https://wallstreetcn.com/articles/3761409",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时43分]"
         },
         {
           "title": "亚运会金牌得主举报比赛奖金被索要",
@@ -300,11 +301,12 @@
           "ranks": [
             2,
             1,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时40分]"
         },
         {
           "title": "三部门联合发文：加强商务和金融协同，更大力度提振消费",
@@ -375,6 +377,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时33分 ~ 17时31分]"
+        },
+        {
+          "title": "印度官员：由于检查更加严格，俄罗斯石油进口量将下降。",
+          "url": "https://flash.jin10.com/detail/20251215212143855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "细节披露！菲方人员曾持刀威胁中方执法海警",
+          "url": "https://news.ifeng.com/c/8p6gBfc7mpB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时40分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：政府正考虑出台更严格的枪支法律。",
@@ -457,6 +481,20 @@
           "time_info": "13时24分"
         },
         {
+          "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178791",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时40分]"
+        },
+        {
           "title": "江西上饶通报：望仙谷景区明火已被扑灭，无人员伤亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32173395",
           "source": "澎湃新闻",
@@ -490,17 +528,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时21分]"
-        },
-        {
-          "title": "细节披露！菲方人员曾持刀威胁中方执法海警",
-          "url": "https://news.ifeng.com/c/8p6gBfc7mpB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时43分]"
         },
         {
           "title": "印度外交部：外交部长将访问阿联酋和以色列。",
@@ -575,6 +602,20 @@
           "time_info": "[11时29分 ~ 12时39分]"
         },
         {
+          "title": "菲方人员曾持刀威胁中方执法海警",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E4%BA%BA%E5%91%98%E6%9B%BE%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E4%B8%AD%E6%96%B9%E6%89%A7%E6%B3%95%E6%B5%B7%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时40分]"
+        },
+        {
           "title": "中国沙特高级别联合委员会政治分委会第五次会议在利雅得举行",
           "url": "https://wallstreetcn.com/livenews/3020436",
           "source": "华尔街见闻-快讯",
@@ -599,19 +640,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32178791",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时43分]"
         },
         {
           "title": "云南体育局回应运动员实名举报事件",
@@ -648,17 +676,30 @@
           "time_info": "[00时22分 ~ 03时15分]"
         },
         {
-          "title": "菲方人员曾持刀威胁中方执法海警",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E4%BA%BA%E5%91%98%E6%9B%BE%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E4%B8%AD%E6%96%B9%E6%89%A7%E6%B3%95%E6%B5%B7%E8%AD%A6",
-          "source": "百度热搜",
+          "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32179485",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            18,
-            17
+            19,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时43分]"
+          "time_info": "[19时18分 ~ 21时40分]"
+        },
+        {
+          "title": "「亚运三金王」王莉举报被领导索要 15 万元比赛奖金，怎么回事？暴露出体育行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1983833834140243856",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时40分]"
         },
         {
           "title": "深圳政协原主席戴北方被查",
@@ -707,18 +748,6 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
-          "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32179485",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
           "title": "澳大利亚证券和投资委员会（ASIC）：ASIC和澳洲联储将加强审查，以提升其联合监管模式。将对澳大利亚证券交易所（ASX）等机构征收额外1.5亿澳元资本费用。",
           "url": "https://flash.jin10.com/detail/20251215053148618800",
           "source": "金十数据",
@@ -731,16 +760,40 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
-          "title": "「亚运三金王」王莉举报被领导索要 15 万元比赛奖金，怎么回事？暴露出体育行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1983833834140243856",
-          "source": "知乎",
+          "title": "何立峰会见马来西亚民主行动党高级干部考察团",
+          "url": "https://wallstreetcn.com/livenews/3020986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
+          "time_info": "[20时43分 ~ 21时40分]"
+        },
+        {
+          "title": "商务部副部长盛秋平出席《二手车信息服务合作协议》签字仪式",
+          "url": "https://wallstreetcn.com/livenews/3020985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时40分]"
+        },
+        {
+          "title": "赵乐际主持召开十四届全国人大常委会第五十六次委员长会议 决定十四届全国人大常委会第十九次会议12月22日至27日在京举行",
+          "url": "https://wallstreetcn.com/livenews/3020984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时40分]"
         },
         {
           "title": "河南省委书记暗访嵩山少林",
@@ -855,17 +908,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "何立峰会见马来西亚民主行动党高级干部考察团",
-          "url": "https://wallstreetcn.com/livenews/3020986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "5 月龄女婴手术后离世，宁波卫健委通报调查进展，多人被处理，如何看待此事？",
           "url": "https://www.zhihu.com/question/1983628896994813477",
           "source": "知乎",
@@ -899,17 +941,6 @@
           "time_info": "19时18分"
         },
         {
-          "title": "商务部副部长盛秋平出席《二手车信息服务合作协议》签字仪式",
-          "url": "https://wallstreetcn.com/livenews/3020985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "人民币兑美元中间价报7.0656，下调18点；上一交易日中间价7.0638，上一交易日官方收盘价7.0554，上日夜盘报收7.0546。",
           "url": "https://wallstreetcn.com/livenews/3020530",
           "source": "华尔街见闻-快讯",
@@ -932,15 +963,15 @@
           "time_info": "19时18分"
         },
         {
-          "title": "赵乐际主持召开十四届全国人大常委会第五十六次委员长会议 决定十四届全国人大常委会第十九次会议12月22日至27日在京举行",
-          "url": "https://wallstreetcn.com/livenews/3020984",
-          "source": "华尔街见闻-快讯",
+          "title": "5月龄女婴离世问责不是终点",
+          "url": "https://s.weibo.com/weibo?q=%235%E6%9C%88%E9%BE%84%E5%A5%B3%E5%A9%B4%E7%A6%BB%E4%B8%96%E9%97%AE%E8%B4%A3%E4%B8%8D%E6%98%AF%E7%BB%88%E7%82%B9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "21时40分"
         },
         {
           "title": "印度贸易秘书：11月进口下降，系黄金、石油和煤炭货运量减少所致。",
@@ -1059,7 +1090,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1092,7 +1123,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1139,6 +1170,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "老师鼓励学生互相举报遭家长质疑",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%BC%93%E5%8A%B1%E5%AD%A6%E7%94%9F%E4%BA%92%E7%9B%B8%E4%B8%BE%E6%8A%A5%E9%81%AD%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "路透调查：全部24位分析师均预计俄罗斯央行将下调关键利率。",
+          "url": "https://flash.jin10.com/detail/20251215210059569800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "国家税务总局浙江省税务局原党委书记、副局长龙岳辉接受纪律审查和监察调查",
@@ -1191,7 +1244,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
