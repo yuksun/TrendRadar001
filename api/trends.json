@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T06:20:06.029697+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-12-17T07:18:52.801903+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "中美禁毒部门开展执法合作，查获毒品可卡因430公斤",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "河南辉县一村委会欠债后村支书为逃限高串通让智力缺陷者接任，多人获处分",
@@ -28,11 +28,12 @@
             15,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "学校通报“宿管摔死学生小猫”",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "河北围场警方通报“警车上下来3人未穿警服牵着宠物狗”：涉事辅警被解除劳动关系",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "杭州警方通报万象汇珠宝店抢夺案：嫌犯被路过外卖员当场控制",
@@ -84,11 +85,23 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时18分]"
+        },
+        {
+          "title": "丑闻及争议声持续不断，FBI局长被女友公开“催婚”",
+          "url": "https://news.ifeng.com/c/8p8W1dP7jQQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
@@ -105,15 +118,15 @@
           "time_info": "[00时28分 ~ 04时29分]"
         },
         {
-          "title": "丑闻及争议声持续不断，FBI局长被女友公开“催婚”",
-          "url": "https://news.ifeng.com/c/8p8W1dP7jQQ",
-          "source": "凤凰网",
+          "title": "教育部部长怀进鹏人民日报撰文：办好人民满意的教育",
+          "url": "https://wallstreetcn.com/livenews/3021947",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "欧盟委员会提议修改2035年新车“零排放”目标",
@@ -207,6 +220,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 05时20分]"
+        },
+        {
+          "title": "欧盟委员会计划明年上半年发行约900亿欧元债券",
+          "url": "https://flash.jin10.com/detail/20251217064017772800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "新西兰联储主席Dr Anna Breman：需要（比欧美等其他地区的监管部门实施）更高的资本标准。 更高的资本标准体现出风险（管理）。",
+          "url": "https://wallstreetcn.com/livenews/3021938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
