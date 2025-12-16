@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T13:22:15.229069+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-12-16T14:33:24.605238+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 14时33分]"
         },
         {
           "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时33分]"
         },
         {
           "title": "「亚运三金王」王莉举报被领导索要 15 万元比赛奖金，怎么回事？暴露出体育行业哪些问题？",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时53分 ~ 13时22分]"
+          "appearance_count": 18,
+          "time_info": "[01时53分 ~ 14时33分]"
         },
         {
           "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时33分]"
         },
         {
           "title": "被曝有企业产销“速成工艺陈皮”，广西浦北县成立联合调查组",
@@ -97,11 +97,12 @@
             9,
             28,
             7,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时33分]"
         },
         {
           "title": "儿童手表“小天才圈”调查：点赞成每日功课，有商家可解除家长管控",
@@ -124,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 14时33分]"
         },
         {
           "title": "中美禁毒部门联合侦破走私可卡因案",
@@ -136,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时33分]"
         },
         {
           "title": "警方通报老人坐门口吃橘子被打倒",
@@ -187,6 +188,18 @@
           "time_info": "00时29分"
         },
         {
+          "title": "澎湃漫评｜吃拿卡要是典型的“微腐败”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178387",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时33分]"
+        },
+        {
           "title": "湖南16名执法人员吃拿卡要被撤职",
           "url": "https://www.toutiao.com/trending/7583911339618254875/",
           "source": "今日头条",
@@ -212,6 +225,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "印度证券交易委员会将建议降低农产品保证金，以促进交易",
+          "url": "https://flash.jin10.com/detail/20251216141638814800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "深圳市委金融办：稳妥做好重点企业风险处置，加快推动重点房企涉众理财风险出清",
           "url": "https://wallstreetcn.com/livenews/3021285",
           "source": "华尔街见闻-快讯",
@@ -234,15 +258,17 @@
           "time_info": "07时19分"
         },
         {
-          "title": "澎湃漫评｜吃拿卡要是典型的“微腐败”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32178387",
+          "title": "杭州警方通报万象汇珠宝店抢夺案：嫌犯被路过外卖员当场控制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32185455",
           "source": "澎湃新闻",
           "ranks": [
+            18,
+            15,
             14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时22分]"
+          "time_info": "[12时34分 ~ 14时33分]"
         },
         {
           "title": "警方通报一警车下来3人牵着宠物狗",
@@ -267,18 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
-        },
-        {
-          "title": "杭州警方通报万象汇珠宝店抢夺案：嫌犯被路过外卖员当场控制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32185455",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 13时22分]"
         },
         {
           "title": "美官员：柏林谈判中 美乌在多个关键议题上形成初步共识",
@@ -316,6 +330,17 @@
           "time_info": "[13时21分 ~ 13时22分]"
         },
         {
+          "title": "工信部原副部长王江平：AI科学发现存在“堰塞湖”困境",
+          "url": "https://wallstreetcn.com/livenews/3021453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "美联储威廉姆斯：官方政府数据是“黄金标准”。",
           "url": "https://flash.jin10.com/detail/20251215235851824800",
           "source": "金十数据",
@@ -333,9 +358,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "英特尔(Intc.O)： Robin Colwell已加入英特尔，担任政府事务高级副总裁。",
@@ -347,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "【社论】生娃基本不花钱，为生育“减负”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32179458",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "海南省人民政府发布通告，自2025年12月18日起，海南自由贸易港正式启动全岛封关。",
@@ -371,6 +418,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "智残村民被任命为村支书当了老赖",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%AE%8B%E6%9D%91%E6%B0%91%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E6%9D%91%E6%94%AF%E4%B9%A6%E5%BD%93%E4%BA%86%E8%80%81%E8%B5%96%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰在就前线问题作出任何决定之前，需要对安全保障有明确的理解。停火监督应成为安全保障的一部分。",
           "url": "https://flash.jin10.com/detail/20251216011206623800",
           "source": "金十数据",
@@ -391,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "警方通报致2死潜逃男子被抓",
+          "url": "https://www.toutiao.com/trending/7584287773251620406/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "印度官员：审查加强将导致俄油进口下降",
