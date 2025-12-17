@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T11:19:38.920438+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-12-17T12:32:56.450061+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "中美禁毒部门开展执法合作，查获毒品可卡因430公斤",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时32分]"
         },
         {
           "title": "学校通报“宿管摔死学生小猫”",
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时32分]"
         },
         {
           "title": "河北围场警方通报“警车上下来3人未穿警服牵着宠物狗”：涉事辅警被解除劳动关系",
@@ -137,7 +137,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -164,15 +164,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "河南公布致13死学校火灾调查报告",
-          "url": "https://www.douyin.com/hot/2338837",
-          "source": "抖音",
+          "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
+          "url": "https://flash.jin10.com/detail/20251217120220101800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时32分"
         },
         {
           "title": "美联储理事会终止对高盛的2020年执法行动。",
@@ -223,6 +223,30 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
+          "title": "河南公布致13死学校火灾调查报告",
+          "url": "https://www.douyin.com/hot/2338837",
+          "source": "抖音",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "举报领导的亚运冠军：不敢再待在家中",
+          "url": "https://www.toutiao.com/trending/7583967449155747883/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时32分]"
+        },
+        {
           "title": "校方通报“宿管摔死学生小猫”",
           "url": "https://www.toutiao.com/trending/7584372001520893979/",
           "source": "今日头条",
@@ -232,6 +256,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时23分]"
+        },
+        {
+          "title": "河南通报方城学校火灾事故调查结果",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E6%96%B9%E5%9F%8E%E5%AD%A6%E6%A0%A1%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "“乌克兰国际索赔委员会”在荷兰成立，俄斥欧“法律侵略”",
+          "url": "https://news.ifeng.com/c/8p9SOB4Alpq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
+          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：希望汽油价格继续下跌。",
@@ -246,18 +305,6 @@
           "time_info": "[04时29分 ~ 05时20分]"
         },
         {
-          "title": "举报领导的亚运冠军：不敢再待在家中",
-          "url": "https://www.toutiao.com/trending/7583967449155747883/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 11时19分]"
-        },
-        {
           "title": "社保基金会党组：充分发挥长期资金、耐心资本作用 更好支持科技创新和产业创新深度融合",
           "url": "https://www.cls.cn/detail/2231125",
           "source": "财联社热门",
@@ -269,15 +316,51 @@
           "time_info": "[02时31分 ~ 05时20分]"
         },
         {
-          "title": "河南通报方城学校火灾事故调查结果",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E6%96%B9%E5%9F%8E%E5%AD%A6%E6%A0%A1%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "亚运冠军称举报领导后不敢再呆在家",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "官方通报男子肺炎住院2天突发躁狂离世",
+          "url": "https://www.toutiao.com/trending/7584421794610806847/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时32分]"
+        },
+        {
+          "title": "新加坡金管局调查：经济学家预计货币政策将在1月会议上维持不变，预计第四季度GDP同比增长3.6%。",
+          "url": "https://flash.jin10.com/detail/20251217120144310800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时32分"
         },
         {
           "title": "欧盟委员会计划明年上半年发行约900亿欧元债券",
@@ -291,6 +374,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "新加坡金管局调查：经济学家预测，新加坡2026年GDP增长率为2.3%，2026年核心通胀率为1.3%，2026年整体通胀率为1.5%。",
+          "url": "https://flash.jin10.com/detail/20251217120100352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "外交部副部长马朝旭会见太平洋岛国驻华使节",
           "url": "https://wallstreetcn.com/livenews/3022011",
           "source": "华尔街见闻-快讯",
@@ -302,15 +396,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "“乌克兰国际索赔委员会”在荷兰成立，俄斥欧“法律侵略”",
-          "url": "https://news.ifeng.com/c/8p9SOB4Alpq",
-          "source": "凤凰网",
+          "title": "李家超：2026年是特区政府持续全力拼经济、谋发展、搞建设、惠民生的一年",
+          "url": "https://wallstreetcn.com/livenews/3022120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时32分"
         },
         {
           "title": "新西兰联储主席Dr Anna Breman：需要（比欧美等其他地区的监管部门实施）更高的资本标准。 更高的资本标准体现出风险（管理）。",
@@ -324,6 +418,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "新加坡金管局第四季调查：经济学家预估，在1月的审议中货币政策将维持不变。经济学家预估2025年经济成长率为4.1%，高于第三季调查的2.4%；2026年经济成长率料为2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3022119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -333,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
-          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "哥伦比亚公共信贷局局长：哥伦比亚2025年财政赤字将低于占GDP 7.1%的目标。希望在即将出台的财政目标中将2026年赤字控制在占GDP 6%以下。",
@@ -390,6 +484,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "台军通报福建舰通过台湾海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E9%80%9A%E6%8A%A5%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "云南3名村民擅入封闭矿硐窒息死亡事件调查报告：地方监管缺失，多人被约谈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32186036",
           "source": "澎湃新闻",
@@ -401,15 +506,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时32分"
         },
         {
           "title": "美联储博斯蒂克：多项调查传递了相同的信息，即企业成本上升，企业决心通过提价来维持其利润率。",
@@ -429,20 +534,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
         {
-          "title": "亚运冠军称举报领导后不敢再呆在家",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "调查：马来西亚11月份出口增长可能放缓",
+          "url": "https://flash.jin10.com/detail/20251217111515199800",
+          "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时32分"
+        },
+        {
+          "title": "万宁关闭内地全部门店",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E5%AE%81%E5%85%B3%E9%97%AD%E5%86%85%E5%9C%B0%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "加媒：加拿大国防部就战机竞标项目机密数据泄露事件展开内部调查",
@@ -454,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "官方通报男子肺炎住院2天突发躁狂离世",
-          "url": "https://www.toutiao.com/trending/7584421794610806847/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "“帮乌克兰对抗俄罗斯”？加媒：加拿大反情报官员被控违规向乌泄露特殊行动机密",
@@ -481,8 +586,30 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "回顾山东舰硬核名场面",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E9%A1%BE%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%A1%AC%E6%A0%B8%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "山东舰正式入列6周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%88%B0%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%88%976%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
         {
           "title": "山东东营一对新人用1000元办了婚礼",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%E4%B8%80%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%94%A81000%E5%85%83%E5%8A%9E%E4%BA%86%E5%A9%9A%E7%A4%BC",
@@ -506,6 +633,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 11时19分]"
+        },
+        {
+          "title": "山东舰入列6周年",
+          "url": "https://www.douyin.com/hot/2338783",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "山东舰入列6周年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E4%B8%9C%E8%88%B0%E5%85%A5%E5%88%976%E5%91%A8%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
