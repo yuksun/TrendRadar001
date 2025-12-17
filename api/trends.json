@@ -1,11 +1,14 @@
 {
-  "generated_at": "2025-12-17T17:26:55.874765+08:00",
-  "total_titles_processed": 1593,
-  "failed_sources": [],
+  "generated_at": "2025-12-17T18:25:07.830371+08:00",
+  "total_titles_processed": 1658,
+  "failed_sources": [
+    "wallstreetcn-quick",
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "中美禁毒部门开展执法合作，查获毒品可卡因430公斤",
@@ -33,8 +36,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时25分]"
+        },
+        {
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时32分 ~ 18时25分]"
         },
         {
           "title": "学校通报“宿管摔死学生小猫”",
@@ -54,6 +73,23 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "亚运冠军称举报领导后不敢再呆在家",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            10,
+            7,
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 18时25分]"
+        },
+        {
           "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32187674",
           "source": "澎湃新闻",
@@ -68,6 +104,23 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时27分 ~ 16时29分]"
+        },
+        {
+          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            13,
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 18时25分]"
         },
         {
           "title": "河北围场警方通报“警车上下来3人未穿警服牵着宠物狗”：涉事辅警被解除劳动关系",
@@ -108,54 +161,6 @@
           "time_info": "[00时28分 ~ 09时23分]"
         },
         {
-          "title": "亚运冠军称举报领导后不敢再呆在家",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            10,
-            7,
-            12,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 17时26分]"
-        },
-        {
-          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            13,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 17时26分]"
-        },
-        {
-          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时32分 ~ 17时26分]"
-        },
-        {
           "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
           "url": "https://www.zhihu.com/question/1984233497255236989",
           "source": "知乎",
@@ -168,6 +173,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时29分]"
+        },
+        {
+          "title": "校方通报“宿管人员当学生面摔死小猫”：已辞退涉事人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32189714",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 18时25分]"
         },
         {
           "title": "教育部部长怀进鹏人民日报撰文：办好人民满意的教育",
@@ -239,6 +258,19 @@
           "time_info": "09时23分"
         },
         {
+          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
+          "url": "https://www.zhihu.com/question/1984584537397797386",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时25分]"
+        },
+        {
           "title": "日本央行前副行长、政府小组成员若田部昌澄：“高市经济学”继承了“安倍经济学”的部分要素，但更侧重于强化经济的供给侧。",
           "url": "https://flash.jin10.com/detail/20251217134951962800",
           "source": "金十数据",
@@ -256,7 +288,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -286,18 +318,6 @@
           "time_info": "[12时32分 ~ 13时22分]"
         },
         {
-          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
-          "url": "https://www.zhihu.com/question/1984584537397797386",
-          "source": "知乎",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时26分]"
-        },
-        {
           "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
           "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
           "source": "凤凰网",
@@ -321,19 +341,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 15时22分]"
-        },
-        {
-          "title": "校方通报“宿管人员当学生面摔死小猫”：已辞退涉事人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32189714",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时26分]"
         },
         {
           "title": "缅甸政府回应昂山素季儿子“母亲可能已去世”言论",
@@ -562,6 +569,17 @@
           "time_info": "[02时31分 ~ 05时20分]"
         },
         {
+          "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32195150",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时25分]"
+        },
+        {
           "title": "新加坡金管局调查：经济学家预计货币政策将在1月会议上维持不变，预计第四季度GDP同比增长3.6%。",
           "url": "https://flash.jin10.com/detail/20251217120144310800",
           "source": "金十数据",
@@ -656,7 +674,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -788,9 +806,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "英国政府：与贸易与合作协定默认条款相比，伊拉斯谟+项目提供30%折扣。",
+          "url": "https://flash.jin10.com/detail/20251217173430516800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "云南3名村民擅入封闭矿硐窒息死亡事件调查报告：地方监管缺失，多人被约谈",
@@ -832,7 +861,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -854,7 +883,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -887,7 +916,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -898,7 +927,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -939,7 +968,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "回顾山东舰硬核名场面",
@@ -1008,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "回顾山东舰硬核名场面",
+          "url": "https://www.douyin.com/hot/2339388",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "山东舰入列6周年",
