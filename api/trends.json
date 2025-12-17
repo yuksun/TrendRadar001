@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T16:29:00.740993+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-17T17:26:55.874765+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
         {
           "title": "中美禁毒部门开展执法合作，查获毒品可卡因430公斤",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 16时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 17时26分]"
         },
         {
           "title": "学校通报“宿管摔死学生小猫”",
@@ -117,11 +117,12 @@
             10,
             7,
             12,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 17时26分]"
         },
         {
           "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
@@ -132,11 +133,27 @@
             16,
             13,
             11,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 17时26分]"
+        },
+        {
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时29分]"
+          "time_info": "[12时32分 ~ 17时26分]"
         },
         {
           "title": "陕西铜川一教师疑似微信群发言希望学生「全都甲流」，教育局正调查，如何看待这一言论？",
@@ -153,21 +170,6 @@
           "time_info": "[00时28分 ~ 04时29分]"
         },
         {
-          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时29分]"
-        },
-        {
           "title": "教育部部长怀进鹏人民日报撰文：办好人民满意的教育",
           "url": "https://wallstreetcn.com/livenews/3021947",
           "source": "华尔街见闻-快讯",
@@ -177,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "市场监管总局：民生领域反垄断执法专项行动三年来罚没款29.3亿元",
-          "url": "https://wallstreetcn.com/livenews/3022280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "举报领导的亚运冠军：不敢再待在家中",
@@ -226,17 +217,6 @@
           "time_info": "01时23分"
         },
         {
-          "title": "国家发改委等部门：对新建煤炭开发利用项目和有条件的存量项目，推动清洁高效利用水平应提尽提",
-          "url": "https://wallstreetcn.com/livenews/3022279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "高市政府政策小组委员：日本央行应避免过早加息",
           "url": "https://flash.jin10.com/detail/20251217135954040800",
           "source": "金十数据",
@@ -259,17 +239,6 @@
           "time_info": "09时23分"
         },
         {
-          "title": "国家发改委等部门：对标国内外煤炭最严格污染物排放要求，完善煤炭清洁高效利用标杆水平",
-          "url": "https://wallstreetcn.com/livenews/3022277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "日本央行前副行长、政府小组成员若田部昌澄：“高市经济学”继承了“安倍经济学”的部分要素，但更侧重于强化经济的供给侧。",
           "url": "https://flash.jin10.com/detail/20251217134951962800",
           "source": "金十数据",
@@ -279,6 +248,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "受贿6539万余元 崔保华一审被判十四年",
+          "url": "https://wallstreetcn.com/livenews/3022306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "台当局拟限缩公务员赴大陆探亲范围，国台办回应",
+          "url": "https://www.cls.cn/detail/2231795",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时26分]"
         },
         {
           "title": "台军通报福建舰通过台湾海峡",
@@ -291,6 +284,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 13时22分]"
+        },
+        {
+          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
+          "url": "https://www.zhihu.com/question/1984584537397797386",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
@@ -318,6 +323,19 @@
           "time_info": "[12时32分 ~ 15时22分]"
         },
         {
+          "title": "校方通报“宿管人员当学生面摔死小猫”：已辞退涉事人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32189714",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 17时26分]"
+        },
+        {
           "title": "缅甸政府回应昂山素季儿子“母亲可能已去世”言论",
           "url": "https://news.ifeng.com/c/8p9gGsH9wFx",
           "source": "凤凰网",
@@ -341,6 +359,18 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
+          "title": "市场监管总局：民生领域反垄断执法专项行动三年来罚没款29.3亿元",
+          "url": "https://wallstreetcn.com/livenews/3022280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时26分]"
+        },
+        {
           "title": "欧盟委员会提议设立一类监管更宽松的小型汽车新类别。欧盟委员会根据人均国内生产总值为公司车队设定国家目标。",
           "url": "https://flash.jin10.com/detail/20251217000659739800",
           "source": "金十数据",
@@ -353,17 +383,16 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
-          "title": "台当局拟限缩公务员赴大陆探亲范围，国台办回应",
-          "url": "https://www.cls.cn/detail/2231795",
-          "source": "财联社热门",
+          "title": "国家发改委等部门：对新建煤炭开发利用项目和有条件的存量项目，推动清洁高效利用水平应提尽提",
+          "url": "https://wallstreetcn.com/livenews/3022279",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            6
+            2,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时29分]"
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时26分]"
         },
         {
           "title": "欧盟委员会提议将2035年汽车二氧化碳排放目标从削减100%下调至削减90%，提议将轻型商用车2030年减排目标下调至40%。欧盟委员会提议汽车制造商通过替代燃料和绿色钢铁弥补缺口。",
@@ -390,6 +419,18 @@
           "time_info": "[13时22分 ~ 14时31分]"
         },
         {
+          "title": "国家发改委等部门：对标国内外煤炭最严格污染物排放要求，完善煤炭清洁高效利用标杆水平",
+          "url": "https://wallstreetcn.com/livenews/3022277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时26分]"
+        },
+        {
           "title": "欧盟委员会提议给予汽车制造商2030年至2032年过渡期，以实现汽车二氧化碳排放减少55%的目标。欧盟委员会提议，如果小型汽车在欧盟生产，可获得二氧化碳排放超额积分。",
           "url": "https://flash.jin10.com/detail/20251217000608081800",
           "source": "金十数据",
@@ -400,18 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
-          "url": "https://www.zhihu.com/question/1984584537397797386",
-          "source": "知乎",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时29分]"
         },
         {
           "title": "河南公布致13死学校火灾调查报告",
@@ -436,19 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时22分]"
-        },
-        {
-          "title": "校方通报“宿管人员当学生面摔死小猫”：已辞退涉事人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32189714",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 16时29分]"
         },
         {
           "title": "官方通报男子肺炎住院2天突发躁狂离世",
@@ -607,7 +623,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -632,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "巴西政府批准新版国家气候计划",
+          "url": "https://wallstreetcn.com/livenews/3022300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
@@ -684,7 +711,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -750,9 +777,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0460，较上一交易日官方收盘价跌35点，较上日夜盘收盘跌28点。",
+          "url": "https://wallstreetcn.com/livenews/3022290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "云南3名村民擅入封闭矿硐窒息死亡事件调查报告：地方监管缺失，多人被约谈",
@@ -788,6 +826,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "巴基斯坦继续对印度飞机关闭领空至明年1月23日",
+          "url": "https://wallstreetcn.com/livenews/3022288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "日本政府政策小组成员Nagahama：日本央行的货币政策似乎深受外汇走势影响。",
           "url": "https://wallstreetcn.com/livenews/3022205",
           "source": "华尔街见闻-快讯",
@@ -797,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "12起典型案件罚款超24亿，反垄断执法推动部分药品降价超九成",
+          "url": "https://wallstreetcn.com/livenews/3022283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "调查：马来西亚11月份出口增长可能放缓",
@@ -819,6 +879,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "市场消息：欧盟委员会提出一套系统，以防止规避碳边境税，包括在企业提供不可靠数据时采用默认国家排放值。",
+          "url": "https://flash.jin10.com/detail/20251217163338462800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "市场消息：欧盟委员会提议从2026年至2027年起，将碳边境调节机制收入的25%用于设立一项基金，以支持欧盟产业。",
+          "url": "https://flash.jin10.com/detail/20251217163320776800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "加媒：加拿大国防部就战机竞标项目机密数据泄露事件展开内部调查",
@@ -867,8 +949,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时26分]"
         },
         {
           "title": "山东舰正式入列6周年",
@@ -889,8 +971,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时26分]"
         },
         {
           "title": "山东东营一对新人用1000元办了婚礼",
