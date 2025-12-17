@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:22:14.952007+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2025-12-17T14:31:43.205529+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "中美禁毒部门开展执法合作，查获毒品可卡因430公斤",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 13时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时31分]"
         },
         {
           "title": "学校通报“宿管摔死学生小猫”",
@@ -62,11 +62,12 @@
             12,
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 13时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时31分]"
         },
         {
           "title": "河北围场警方通报“警车上下来3人未穿警服牵着宠物狗”：涉事辅警被解除劳动关系",
@@ -132,6 +133,20 @@
           "time_info": "07时18分"
         },
         {
+          "title": "举报领导的亚运冠军：不敢再待在家中",
+          "url": "https://www.toutiao.com/trending/7583967449155747883/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            11,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
+        },
+        {
           "title": "河南通报方城学校火灾事故调查结果",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E6%96%B9%E5%9F%8E%E5%AD%A6%E6%A0%A1%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -154,6 +169,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "高市政府政策小组委员：日本央行应避免过早加息",
+          "url": "https://flash.jin10.com/detail/20251217135954040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0573，上调29点；上一交易日中间价7.0602，上一交易日官方收盘价7.0425，上日夜盘报收7.0432。",
           "url": "https://wallstreetcn.com/livenews/3022015",
           "source": "华尔街见闻-快讯",
@@ -165,15 +191,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "工业和信息化部副部长熊继军会见摩洛哥工业与贸易大臣梅祖尔",
-          "url": "https://wallstreetcn.com/livenews/3022143",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：“高市经济学”继承了“安倍经济学”的部分要素，但更侧重于强化经济的供给侧。",
+          "url": "https://flash.jin10.com/detail/20251217134951962800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时31分"
         },
         {
           "title": "台军通报福建舰通过台湾海峡",
@@ -188,17 +214,32 @@
           "time_info": "[12时32分 ~ 13时22分]"
         },
         {
-          "title": "举报领导的亚运冠军：不敢再待在家中",
-          "url": "https://www.toutiao.com/trending/7583967449155747883/",
-          "source": "今日头条",
+          "title": "亚运冠军称举报领导后不敢再呆在家",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11,
-            21
+            24,
+            18,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时22分]"
+          "time_info": "[11时19分 ~ 14时31分]"
+        },
+        {
+          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时31分]"
         },
         {
           "title": "美联储理事会终止对高盛的2020年执法行动。",
@@ -237,6 +278,18 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
+          "title": "工业和信息化部副部长熊继军会见摩洛哥工业与贸易大臣梅祖尔",
+          "url": "https://wallstreetcn.com/livenews/3022143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
           "title": "欧盟委员会提议给予汽车制造商2030年至2032年过渡期，以实现汽车二氧化碳排放减少55%的目标。欧盟委员会提议，如果小型汽车在欧盟生产，可获得二氧化碳排放超额积分。",
           "url": "https://flash.jin10.com/detail/20251217000608081800",
           "source": "金十数据",
@@ -273,30 +326,41 @@
           "time_info": "[12时32分 ~ 13时22分]"
         },
         {
-          "title": "亚运冠军称举报领导后不敢再呆在家",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E7%A7%B0%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E5%90%8E%E4%B8%8D%E6%95%A2%E5%86%8D%E5%91%86%E5%9C%A8%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
           "ranks": [
-            24,
-            18,
+            20,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时31分]"
+        },
+        {
+          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
+          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
+          "source": "凤凰网",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时22分]"
+          "time_info": "[11时19分 ~ 14时31分]"
         },
         {
-          "title": "中美关系剧透警告｜昆山杜克大学美方校长奎尔奇：不赞同所谓G2概念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32187196",
-          "source": "澎湃新闻",
+          "title": "万宁关闭内地全部门店",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E5%AE%81%E5%85%B3%E9%97%AD%E5%86%85%E5%9C%B0%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            16,
-            13
+            28,
+            24,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时22分]"
+          "time_info": "[12时32分 ~ 14时31分]"
         },
         {
           "title": "官方通报男子肺炎住院2天突发躁狂离世",
@@ -312,29 +376,6 @@
           "time_info": "[11时19分 ~ 13时22分]"
         },
         {
-          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
-          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时22分]"
-        },
-        {
-          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
-        },
-        {
           "title": "校方通报“宿管摔死学生小猫”",
           "url": "https://www.toutiao.com/trending/7584372001520893979/",
           "source": "今日头条",
@@ -346,16 +387,15 @@
           "time_info": "[00时27分 ~ 01时23分]"
         },
         {
-          "title": "万宁关闭内地全部门店",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E5%AE%81%E5%85%B3%E9%97%AD%E5%86%85%E5%9C%B0%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97",
-          "source": "百度热搜",
+          "title": "缅甸政府回应昂山素季儿子“母亲可能已去世”言论",
+          "url": "https://news.ifeng.com/c/8p9gGsH9wFx",
+          "source": "凤凰网",
           "ranks": [
-            28,
-            24
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
         },
         {
           "title": "河南通报方城学校火灾事故调查结果",
@@ -380,6 +420,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时22分]"
+        },
+        {
+          "title": "台当局拟限缩公务员赴大陆探亲范围，国台办回应",
+          "url": "https://www.cls.cn/detail/2231795",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
         },
         {
           "title": "“乌克兰国际索赔委员会”在荷兰成立，俄斥欧“法律侵略”",
@@ -429,17 +481,6 @@
           "time_info": "[02时31分 ~ 05时20分]"
         },
         {
-          "title": "缅甸政府回应昂山素季儿子“母亲可能已去世”言论",
-          "url": "https://news.ifeng.com/c/8p9gGsH9wFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "新加坡金管局调查：经济学家预计货币政策将在1月会议上维持不变，预计第四季度GDP同比增长3.6%。",
           "url": "https://flash.jin10.com/detail/20251217120144310800",
           "source": "金十数据",
@@ -449,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：若日本中性利率因为财政政策、增长策略而提高，日本央行自然可以就加息。",
+          "url": "https://flash.jin10.com/detail/20251217134809409800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "欧盟委员会计划明年上半年发行约900亿欧元债券",
@@ -484,6 +536,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：鉴于中性利率水平，日本央行应避免过早加息和过度调整货币支持。",
+          "url": "https://flash.jin10.com/detail/20251217134653700800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "新西兰联储主席Dr Anna Breman：需要（比欧美等其他地区的监管部门实施）更高的资本标准。 更高的资本标准体现出风险（管理）。",
           "url": "https://wallstreetcn.com/livenews/3021938",
           "source": "华尔街见闻-快讯",
@@ -493,17 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "台当局拟限缩公务员赴大陆探亲范围，国台办回应",
-          "url": "https://www.cls.cn/detail/2231795",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
@@ -539,6 +591,28 @@
           "time_info": "03时19分"
         },
         {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：若资金需求增加，中性利率将上升。",
+          "url": "https://flash.jin10.com/detail/20251217134513490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：日本必须通过财政政策和增长战略提高中性利率。",
+          "url": "https://flash.jin10.com/detail/20251217134445257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "欧盟委员会和EIB寻求动员100亿欧元生物科技投资。",
           "url": "https://wallstreetcn.com/livenews/3021822",
           "source": "华尔街见闻-快讯",
@@ -548,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "日本央行前副行长、政府小组成员若田部昌澄：日本必须通过财政政策、增长策略提高中性利率。 若日本中性利率因为财政政策、增长策略而提高，日本央行自然可以升息。 鉴于中性利率水平，日本央行应避免过早加息和过度紧缩。 高市经济学带有安倍经济学的成分，但更加着重于强化经济供应面。",
+          "url": "https://wallstreetcn.com/livenews/3022165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "大众汽车：欧盟委员会关于新二氧化碳目标的务实草案提案在整体上具有经济合理性",
@@ -567,9 +652,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "校方通报“宿管人员当学生面摔死小猫”：已辞退涉事人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32189714",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "云南3名村民擅入封闭矿硐窒息死亡事件调查报告：地方监管缺失，多人被约谈",
@@ -651,8 +747,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时31分]"
         },
         {
           "title": "山东舰正式入列6周年",
@@ -662,8 +758,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时31分]"
+        },
+        {
+          "title": "山东舰入列6周年",
+          "url": "https://www.douyin.com/hot/2338783",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时31分]"
         },
         {
           "title": "山东东营一对新人用1000元办了婚礼",
@@ -676,17 +783,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时23分]"
-        },
-        {
-          "title": "山东舰入列6周年",
-          "url": "https://www.douyin.com/hot/2338783",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
         },
         {
           "title": "6周年之际 山东舰战力即将再升级",
