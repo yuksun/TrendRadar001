@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:21:47.288164+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-12-18T14:32:02.722369+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 09时24分]"
+        },
+        {
+          "title": "海南省委书记用英语向全球发邀请",
+          "url": "https://www.toutiao.com/trending/7584590335003770922/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 14时32分]"
         },
         {
           "title": "男子举报逆行被交警怼我管不了那么多",
@@ -97,11 +111,12 @@
             13,
             14,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 13时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 14时32分]"
         },
         {
           "title": "警务人员开警车接送孩子，宁夏吴忠警方通报",
@@ -112,11 +127,12 @@
             17,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 13时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 14时32分]"
         },
         {
           "title": "公司招法务要求会散打 保护领导女儿",
@@ -134,20 +150,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 09时24分]"
-        },
-        {
-          "title": "海南省委书记用英语向全球发邀请",
-          "url": "https://www.toutiao.com/trending/7584590335003770922/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时21分]"
         },
         {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
@@ -174,17 +176,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251218125501281800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "警方通报27岁男子机场打人",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A527%E5%B2%81%E7%94%B7%E5%AD%90%E6%9C%BA%E5%9C%BA%E6%89%93%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -208,6 +199,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "委内瑞拉向中方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 14时32分]"
         },
         {
           "title": "美亿万富翁出任NASA局长",
@@ -248,6 +252,18 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251218125501281800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
           "title": "联合国发言人：联合国秘书长与委内瑞拉总统马杜罗通话。",
           "url": "https://flash.jin10.com/detail/20251218031309640800",
           "source": "金十数据",
@@ -272,6 +288,19 @@
           "time_info": "[11时20分 ~ 12时33分]"
         },
         {
+          "title": "青岛市人大原主任王文华被查",
+          "url": "https://www.toutiao.com/trending/7585027872079744566/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 14时32分]"
+        },
+        {
           "title": "辉县“智力缺陷者接任村支书”后续",
           "url": "https://www.baidu.com/s?wd=%E8%BE%89%E5%8E%BF%E2%80%9C%E6%99%BA%E5%8A%9B%E7%BC%BA%E9%99%B7%E8%80%85%E6%8E%A5%E4%BB%BB%E6%9D%91%E6%94%AF%E4%B9%A6%E2%80%9D%E5%90%8E%E7%BB%AD",
           "source": "百度热搜",
@@ -284,18 +313,6 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "委内瑞拉向中方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时21分]"
-        },
-        {
           "title": "普京：美上届政府“将事情引向武装冲突”，是西方发动了战争",
           "url": "https://news.ifeng.com/c/8pAv5ZyBljp",
           "source": "凤凰网",
@@ -303,8 +320,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时32分]"
+        },
+        {
+          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
         },
         {
           "title": "丝芭喊话鞠婧祎再不收手将实名举报",
@@ -366,16 +395,15 @@
           "time_info": "[00时27分 ~ 01时22分]"
         },
         {
-          "title": "青岛市人大原主任王文华被查",
-          "url": "https://www.toutiao.com/trending/7585027872079744566/",
-          "source": "今日头条",
+          "title": "海南省委书记用英语向全球发邀请",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%90%91%E5%85%A8%E7%90%83%E5%8F%91%E9%82%80%E8%AF%B7%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            30
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时21分]"
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "如何用「一页纸」完成一份让领导过目不忘的年终汇报？",
@@ -421,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "如何让领导知道你干了很多工作？",
