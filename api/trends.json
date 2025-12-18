@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T15:22:10.980424+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-12-18T16:28:43.571130+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "海南省委书记用英语向全球发邀请",
@@ -16,11 +16,12 @@
             2,
             4,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时28分]"
         },
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -130,11 +131,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "公司招法务要求会散打 保护领导女儿",
@@ -174,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时28分]"
         },
         {
           "title": "普京：美上届政府“将事情引向武装冲突”，是西方发动了战争",
@@ -200,6 +202,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时31分 ~ 15时22分]"
+        },
+        {
+          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 16时28分]"
+        },
+        {
+          "title": "欧委会密集对多家中企发起调查，中方强烈反对",
+          "url": "https://news.ifeng.com/c/8pBZsIvrxn6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "日本政府：规模达5500亿美元的对美投资方案咨询委员会于周四举行了会议。",
@@ -227,6 +254,17 @@
           "time_info": "[00时26分 ~ 05时20分]"
         },
         {
+          "title": "乌克兰代理能源部长表示，俄罗斯夜间袭击导致五个地区共有18万用户断电。",
+          "url": "https://flash.jin10.com/detail/20251218162353429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0583，下调10点；上一交易日中间价7.0573，上一交易日官方收盘价7.0460，上日夜盘报收7.0450。",
           "url": "https://wallstreetcn.com/livenews/3022708",
           "source": "华尔街见闻-快讯",
@@ -244,22 +282,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 15时22分]"
         },
         {
           "title": "委内瑞拉向中方通报",
@@ -484,9 +509,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "商务部：关于长和出售海外港口资产事，有关部门此前已多次发表声明，中国政府将依法进行审查监管，保护市场公平竞争，维护社会公共利益，坚决维护国家主权、安全、发展利益。（商务部网站）",
+          "url": "https://wallstreetcn.com/livenews/3022982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "外交部部长助理刘彬赴白俄罗斯举行中白外交部磋商",
+          "url": "https://wallstreetcn.com/livenews/3022980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "如何分辨领导是不是真的培养你？",
@@ -522,13 +569,24 @@
           "time_info": "05时20分"
         },
         {
+          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "国务院安委会办公室对21个市级政府开展安全生产约谈",
           "url": "https://wallstreetcn.com/livenews/3022909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -553,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "商务部回应欧委会密集调查中国企业",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E6%AC%A7%E5%A7%94%E4%BC%9A%E5%AF%86%E9%9B%86%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
