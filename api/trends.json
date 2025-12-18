@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-19T01:22:49.076025+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-19T02:30:42.956184+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "欧委会密集对多家中企发起调查，中方强烈反对",
@@ -37,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时30分]"
         },
         {
           "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
@@ -49,8 +51,76 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "墨西哥反垄断委员会：移动设备制造商现在可以自由生产和分销搭载非安卓操作系统的设备。",
+          "url": "https://flash.jin10.com/detail/20251219020758736800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
+          "url": "https://flash.jin10.com/detail/20251219020622124800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203529",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "驴友野穿老君山死亡？官方辟谣",
+          "url": "https://www.toutiao.com/trending/7583644208565862438/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "警方通报上市公司董事长意外去世",
+          "url": "https://www.toutiao.com/trending/7585195912801029651/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "国盾量子董事长吕品去世 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E7%9B%BE%E9%87%8F%E5%AD%90%E8%91%A3%E4%BA%8B%E9%95%BF%E5%90%95%E5%93%81%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "外交部部长助理刘彬：中方愿同乌方继续落实好元首重要共识，推动双边关系行稳致远",
@@ -77,60 +147,28 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
-          "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203529",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
-        },
-        {
-          "title": "驴友野穿老君山死亡？官方辟谣",
-          "url": "https://www.toutiao.com/trending/7583644208565862438/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
-        },
-        {
-          "title": "警方通报上市公司董事长意外去世",
-          "url": "https://www.toutiao.com/trending/7585195912801029651/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
-        },
-        {
-          "title": "国盾量子董事长吕品去世 警方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E7%9B%BE%E9%87%8F%E5%AD%90%E8%91%A3%E4%BA%8B%E9%95%BF%E5%90%95%E5%93%81%E5%8E%BB%E4%B8%96+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
-        },
-        {
           "title": "合肥警方通报一46岁男子办公室内身亡：已排除案件",
           "url": "https://www.cls.cn/detail/2233965",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时30分]"
+        },
+        {
+          "title": "家长称江苏一小学要求冬天 6 点半前到校，送学稍晚遭班主任批评，怎样看待老师做法？到校时间设定合理吗？",
+          "url": "https://www.zhihu.com/question/1984889435469341223",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "time_info": "[01时22分 ~ 02时30分]"
         },
         {
           "title": "报道：欧洲央行官员们表示，降息周期可能已经结束",
@@ -145,15 +183,26 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
-          "title": "家长称江苏一小学要求冬天 6 点半前到校，送学稍晚遭班主任批评，怎样看待老师做法？到校时间设定合理吗？",
-          "url": "https://www.zhihu.com/question/1984889435469341223",
-          "source": "知乎",
+          "title": "海南省委书记用英语向全球发邀请",
+          "url": "https://www.toutiao.com/trending/7584590335003770922/",
+          "source": "今日头条",
           "ranks": [
-            12
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
+        },
+        {
+          "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
+          "url": "https://flash.jin10.com/detail/20251219013304106800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时30分"
         },
         {
           "title": "央行官员觊觎欧洲央行行长职位，拉加德敦促重新审视欧央行董事会规则",
@@ -165,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "欧洲央行官员预计2026年利率将保持稳定，但未排除降息可能",
+          "url": "https://flash.jin10.com/detail/20251219012121820800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
         },
         {
           "title": "江苏文旅厅回应南京博物院馆藏名画现身拍卖市场，称已成立专班调查，后续可能如何发展？",
@@ -195,7 +255,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         }
