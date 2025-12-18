@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:18:55.151361+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2025-12-18T20:40:31.976428+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -82,6 +82,22 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 20时40分]"
+        },
+        {
           "title": "家长因送孩子晚被班主任批评",
           "url": "https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E5%9B%A0%E9%80%81%E5%AD%A9%E5%AD%90%E6%99%9A%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%89%B9%E8%AF%84&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -124,6 +140,17 @@
           "time_info": "[00时26分 ~ 15时22分]"
         },
         {
+          "title": "欧委会密集对多家中企发起调查，中方强烈反对",
+          "url": "https://news.ifeng.com/c/8pBZsIvrxn6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 20时40分]"
+        },
+        {
           "title": "警务人员开警车接送孩子，宁夏吴忠警方通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32196769",
           "source": "澎湃新闻",
@@ -142,22 +169,6 @@
           "time_info": "[00时26分 ~ 18时22分]"
         },
         {
-          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 19时18分]"
-        },
-        {
           "title": "公司招法务要求会散打 保护领导女儿",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%8B%9B%E6%B3%95%E5%8A%A1%E8%A6%81%E6%B1%82%E4%BC%9A%E6%95%A3%E6%89%93+%E4%BF%9D%E6%8A%A4%E9%A2%86%E5%AF%BC%E5%A5%B3%E5%84%BF",
           "source": "百度热搜",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 09时24分]"
-        },
-        {
-          "title": "欧委会密集对多家中企发起调查，中方强烈反对",
-          "url": "https://news.ifeng.com/c/8pBZsIvrxn6",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
@@ -242,7 +242,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -311,7 +311,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -322,9 +322,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "英国央行：大多数劳动力市场数据并未显示产能缺口正在迅速扩大。 对中性利率估算的不确定性可能使货币政策委员会（MPC）成员在进一步宽松上更难抉择。",
+          "url": "https://wallstreetcn.com/livenews/3023136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "挪威央行：讨论风险前景时，委员会特别关注不可预测的国际合作与贸易环境，正在对国际及挪威的通膨与成长前景造成不确定性。",
@@ -336,6 +347,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 20时40分]"
         },
         {
           "title": "委内瑞拉向中方通报",
@@ -437,6 +463,18 @@
           "time_info": "[18时22分 ~ 19时18分]"
         },
         {
+          "title": "商务部发声！事关稀土出口、欧委会对多家中企发起调查",
+          "url": "https://www.cls.cn/detail/2233392",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时40分]"
+        },
+        {
           "title": "【国家发展改革委：着力扩大有效投资】文章提到，从扩大准入、打通堵点、强化保障等方面着力破解民间投资发展难题，促进民间投资高质量发展。完善民营企业参与重大项目建设长效机制，积极支持民营企业参与具有一定收益的铁路、核电、水电等重点领域项目建设。滚动接续向民间资本推介优质项目，加强对民间投资项目的要素和融资支持。鼓励支持民营企业参与政府和社会资本合作（PPP）新机制项目建设实施。持续推动基础设施领域不动产投资信托基金（REITs）扩围扩容，支持更多符合条件的民间投资项目发行上市。加大中央预算内投资等对符合条件的民间投资项目支持力度，更好发挥政府投资基金对民间投资的引导带动作用。",
           "url": "https://wallstreetcn.com/livenews/3022799",
           "source": "华尔街见闻-快讯",
@@ -447,20 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 12时33分]"
-        },
-        {
-          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "青岛市人大原主任王文华被查",
@@ -486,18 +510,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "商务部发声！事关稀土出口、欧委会对多家中企发起调查",
-          "url": "https://www.cls.cn/detail/2233392",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "商务部回应欧委会密集调查中国企业",
@@ -569,6 +581,17 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "驴友野穿老君山死亡？官方辟谣",
+          "url": "https://www.toutiao.com/trending/7583644208565862438/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时40分]"
+        },
+        {
           "title": "康卡斯特在华纳兄弟探索公司（WBD）交易中对旗下媒体部门估值810亿美元。",
           "url": "https://wallstreetcn.com/livenews/3022587",
           "source": "华尔街见闻-快讯",
@@ -602,6 +625,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 18时22分]"
+        },
+        {
+          "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203529",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时40分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0419，较上一交易日官方收盘价涨41点，较上日夜盘收盘涨31点。",
@@ -694,17 +729,6 @@
           "time_info": "16时28分"
         },
         {
-          "title": "驴友野穿老君山死亡？官方辟谣",
-          "url": "https://www.toutiao.com/trending/7583644208565862438/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "土耳其外交部长：我们不希望再次诉诸军事手段，但相关各方的耐心正在耗尽。",
           "url": "https://flash.jin10.com/detail/20251218170229661800",
           "source": "金十数据",
@@ -744,7 +768,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -771,15 +795,15 @@
           "time_info": "05时20分"
         },
         {
-          "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203529",
-          "source": "澎湃新闻",
+          "title": "俄罗斯外交部就设立乌克兰国际索赔委员会发表声明称，其裁决对俄罗斯在法律上无效。",
+          "url": "https://flash.jin10.com/detail/20251218202227335800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时40分"
         },
         {
           "title": "国务院安委会办公室对21个市级政府开展安全生产约谈",
@@ -804,13 +828,24 @@
           "time_info": "12时33分"
         },
         {
+          "title": "金十整理：英国央行重要官员发言一览",
+          "url": "https://flash.jin10.com/detail/20251218202011273800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "102岁厦门原鼓浪屿区首任区长逝世",
           "url": "https://www.toutiao.com/trending/7585085922446999571/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -821,7 +856,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -846,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "英国央行：中性利率估计的不确定性可能使货币政策委员会成员在进一步宽松和维持不变之间的概率更接近。",
+          "url": "https://flash.jin10.com/detail/20251218201328293800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
