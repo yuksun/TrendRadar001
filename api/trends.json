@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T07:19:19.402738+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-12-19T09:27:52.156162+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
@@ -26,11 +27,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "欧委会密集对多家中企发起调查，中方强烈反对",
@@ -50,11 +52,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
@@ -67,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "驴友野穿老君山死亡？官方辟谣",
@@ -78,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "警方通报上市公司董事长意外去世",
@@ -113,11 +116,12 @@
             12,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 09时27分]"
         },
         {
           "title": "家长称江苏一小学要求冬天 6 点半前到校，送学稍晚遭班主任批评，怎样看待老师做法？到校时间设定合理吗？",
@@ -130,11 +134,12 @@
             19,
             18,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 09时27分]"
         },
         {
           "title": "海南省委书记用英语向全球发邀请",
@@ -169,9 +174,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "欧盟官员表示，似乎有可能在欧盟预算的可用空间范围内达成一致，为乌克兰提供资金。",
+          "url": "https://flash.jin10.com/detail/20251219091045431800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "合肥警方通报一46岁男子身亡",
@@ -188,6 +204,17 @@
           "time_info": "[00时28分 ~ 07时19分]"
         },
         {
+          "title": "46岁国盾量子董事长吕品办公室内去世，合肥警方通报：经勘查调查，已排除案件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32206506",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
           "url": "https://flash.jin10.com/detail/20251219020622124800",
           "source": "金十数据",
@@ -197,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "12月18日，商务部副部长兼国际贸易谈判副代表凌激会见荷兰恩智浦半导体执行副总裁、中国事业部总经理李晓鹤。",
+          "url": "https://wallstreetcn.com/livenews/3023449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "外交部部长助理刘彬：中方愿同乌方继续落实好元首重要共识，推动双边关系行稳致远",
@@ -247,6 +285,18 @@
           "time_info": "[05时17分 ~ 06时19分]"
         },
         {
+          "title": "为什么领导频繁批评你，但你辞职他却挽留？",
+          "url": "https://www.zhihu.com/question/1977520615855519325",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 09时27分]"
+        },
+        {
           "title": "意大利财政部长Giancarlo Giorgetti：政府并没有影响Banca Monte dei Paschi di Siena SpA.（意大利西雅那银行）收购小型竞争对手Mediobanca SpA.的交易。",
           "url": "https://wallstreetcn.com/livenews/3023293",
           "source": "华尔街见闻-快讯",
@@ -271,6 +321,17 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
+          "title": "编造传播“杀人”谣言 6人被查处",
+          "url": "https://www.toutiao.com/trending/7585366780332232201/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "新西兰证券交易所（NZX）产品运营部门：今日纳斯达克ME市场的调整交易时段将延长至45分钟，适用于NZX主板和债券市场。",
           "url": "https://flash.jin10.com/detail/20251219034832993800",
           "source": "金十数据",
@@ -282,15 +343,15 @@
           "time_info": "04时20分"
         },
         {
-          "title": "为什么领导频繁批评你，但你辞职他却挽留？",
-          "url": "https://www.zhihu.com/question/1977520615855519325",
+          "title": "德转官方公布，孙兴慜得票率超过梅西获德转用户票选美职联赛季最佳球员奖，如何看待这个投票结果？",
+          "url": "https://www.zhihu.com/question/1985000446008505675",
           "source": "知乎",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "09时27分"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
@@ -302,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "影子调查｜一起家校矛盾，冲突到“裂开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137723",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "消息人士：墨西哥国家石油公司勘探与生产部门主管Angel Cid预计将在未来几天辞职。",
@@ -354,7 +426,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
