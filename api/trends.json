@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T12:36:35.828977+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2025-12-21T13:19:48.553138+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时19分]"
         },
         {
           "title": "日本官员叫嚣“拥核” 俄方表态",
@@ -124,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时16分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[01时16分 ~ 13时19分]"
         },
         {
           "title": "国台办回应海警进入金门水域执法",
@@ -142,6 +142,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时16分 ~ 07时18分]"
+        },
+        {
+          "title": "印官员：若台湾有事印度不会学西方",
+          "url": "https://www.toutiao.com/trending/7586118650629738047/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时19分]"
         },
         {
           "title": "枪杀麻省理工教授的嫌犯：曾是物理天才，被流浪汉校友举报",
@@ -166,18 +179,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
-          "title": "印官员：若台湾有事印度不会学西方",
-          "url": "https://www.toutiao.com/trending/7586118650629738047/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时36分]"
         },
         {
           "title": "广东江门通报“陈皮产地造假”问题",
@@ -223,35 +224,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时36分]"
-        },
-        {
-          "title": "中国机器人在格斗机器人大赛中夺冠",
-          "url": "https://flash.jin10.com/detail/20251221102829260800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
-        },
-        {
-          "title": "中国机器人在格斗机器人大赛中夺冠",
-          "url": "https://wallstreetcn.com/livenews/3024363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时19分]"
         },
         {
           "title": "广东新会就“陈皮产地造假”再通报：对6家企业作出处理",
@@ -263,8 +241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时19分]"
         },
         {
           "title": "云南贡山一获奖文旅宣传语被实名举报抄袭，官方取消其获奖资格",
@@ -276,8 +254,34 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时19分]"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://flash.jin10.com/detail/20251221102829260800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时19分]"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://wallstreetcn.com/livenews/3024363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时19分]"
         },
         {
           "title": "【早报】三部门发布《互联网平台价格行为规则》；摩尔线程发布新一代GPU架构花港",
@@ -288,8 +292,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时19分]"
         },
         {
           "title": "网友反映“冷水江锡矿山青丰河水体呈黄色”，官方再次回应",
@@ -300,8 +304,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时19分]"
         },
         {
           "title": "广东江门新会再通报陈皮产地造假：将对6家涉事企业作出处理",
@@ -312,19 +316,31 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时19分]"
         },
         {
           "title": "澳大利亚总理宣布将对联邦执法和情报机构进行审查",
           "url": "https://flash.jin10.com/detail/20251221110011970800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时19分]"
+        },
+        {
+          "title": "四国官员在美会晤，商讨加沙停火第二阶段安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221362",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时19分]"
         },
         {
           "title": "00后村支书把申论写在大地上",
@@ -338,15 +354,26 @@
           "time_info": "09时41分"
         },
         {
-          "title": "四国官员在美会晤，商讨加沙停火第二阶段安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221362",
-          "source": "澎湃新闻",
+          "title": "黄阿火任福耀科技大学党委书记",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%98%BF%E7%81%AB%E4%BB%BB%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0",
+          "source": "百度热搜",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%A0%BC%E6%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B%E4%B8%AD%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "永州市长赛后看望球员直呼特开心",
@@ -374,7 +401,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山楂树下“禁售”山东？记者实探",
@@ -401,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
+          "url": "https://www.zhihu.com/question/1985776930314798510",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
