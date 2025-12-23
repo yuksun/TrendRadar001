@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T11:25:49.652340+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-12-23T12:37:19.353179+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "上海未来五年要这么干！十二届市委八次全会审议通过上海“十五五”规划建议",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 11时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "广西浦北县再通报：对“速成工艺陈皮”方式加工的浦北陈皮予以禁止",
@@ -85,6 +85,22 @@
           "time_info": "[00时24分 ~ 11时25分]"
         },
         {
+          "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
+          "url": "https://www.zhihu.com/question/1986070298194368095",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            4,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时22分 ~ 12时37分]"
+        },
+        {
           "title": "人民日报聚焦为基层减负：给无用之功“瘦身”卸掉不当干预的“包袱”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32226368",
           "source": "澎湃新闻",
@@ -95,6 +111,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "部门例会上，领导狠狠的批评了你，会后领导让你去办公室，对你说，我刚才语气有点过分了，你该怎么回答?",
+          "url": "https://www.zhihu.com/question/820904380",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时22分 ~ 12时37分]"
         },
         {
           "title": "00后村支书晒最接地气年终总结",
@@ -150,11 +182,12 @@
           "ranks": [
             23,
             16,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 11时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "俄军作战训练局局长被炸身亡",
@@ -163,11 +196,12 @@
           "ranks": [
             21,
             20,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 11时25分]"
+          "appearance_count": 11,
+          "time_info": "[03时17分 ~ 12时37分]"
         },
         {
           "title": "神人大合集!勇哥餐饮成下饭神剧",
@@ -181,38 +215,6 @@
           "time_info": "[00时24分 ~ 09时27分]"
         },
         {
-          "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
-          "url": "https://www.zhihu.com/question/1986070298194368095",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            4,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时22分 ~ 11时25分]"
-        },
-        {
-          "title": "部门例会上，领导狠狠的批评了你，会后领导让你去办公室，对你说，我刚才语气有点过分了，你该怎么回答?",
-          "url": "https://www.zhihu.com/question/820904380",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时22分 ~ 11时25分]"
-        },
-        {
           "title": "又一父亲举报宁波妇儿医院，称5岁女儿因发烧就诊后离世",
           "url": "https://v.ifeng.com/c/8pIWE7RAAeG",
           "source": "凤凰网",
@@ -224,16 +226,41 @@
           "time_info": "[00时24分 ~ 09时27分]"
         },
         {
+          "title": "官方通报南京博物院事件",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时37分]"
+        },
+        {
+          "title": "母亲回应儿子公务员遴选成绩第一落选",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E8%90%BD%E9%80%89%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时37分]"
+        },
+        {
           "title": "国安机关提醒！碎纸机也可能泄密",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8F%90%E9%86%92%EF%BC%81%E7%A2%8E%E7%BA%B8%E6%9C%BA%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%B3%84%E5%AF%86",
           "source": "百度热搜",
           "ranks": [
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时37分]"
         },
         {
           "title": "交警执法文书现错别字 当地回应",
@@ -249,26 +276,28 @@
           "time_info": "[04时21分 ~ 06时20分]"
         },
         {
-          "title": "官方通报南京博物院事件",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "母亲回应儿子公务员遴选成绩第一落选",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E8%90%BD%E9%80%89%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "公务员遴选成绩第1却落选 重庆通报",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E6%88%90%E7%BB%A9%E7%AC%AC1%E5%8D%B4%E8%90%BD%E9%80%89+%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "男子参加公务员遴选 成绩第一却落选",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%82%E5%8A%A0%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89+%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E5%8D%B4%E8%90%BD%E9%80%89",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时37分]"
         },
         {
           "title": "以色列向美通报，伊朗或在筹备对以发动袭击",
@@ -282,18 +311,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时20分]"
-        },
-        {
-          "title": "男子参加公务员遴选 成绩第一却落选",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%82%E5%8A%A0%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89+%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E5%8D%B4%E8%90%BD%E9%80%89",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时25分]"
         },
         {
           "title": "据The Information：英伟达(NVDA.O)将把云业务团队与工程及运营部门合并。",
@@ -382,6 +399,18 @@
           "time_info": "[02时29分 ~ 03时17分]"
         },
         {
+          "title": "官方回应公务员遴选第一名却落选",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E7%AC%AC%E4%B8%80%E5%90%8D%E5%8D%B4%E8%90%BD%E9%80%89%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时37分]"
+        },
+        {
           "title": "英伟达重组云团队。云团队与工程和运营部门合并。在重组过程中，重新委派英伟达云部门主管。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3025119",
           "source": "华尔街见闻-快讯",
@@ -418,15 +447,15 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "官方回应公务员遴选第一名却落选",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E7%AC%AC%E4%B8%80%E5%90%8D%E5%8D%B4%E8%90%BD%E9%80%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "成都「较真哥」9 天举报 92 次违停，如何看待这种行为？非机动车道被侵占的顽疾，怎样才能根治？",
+          "url": "https://www.zhihu.com/question/1986493660443926754",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "12时37分"
         },
         {
           "title": "如何评价南京博物院徐湖平被职工实名举报盗窃文物？有哪些信息值得关注？",
@@ -490,7 +519,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -520,18 +549,41 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东：支持国有影视企业改革创新做强主业 打造具有国际竞争力的国有骨干企业",
           "url": "https://wallstreetcn.com/livenews/3025306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时37分]"
+        },
+        {
+          "title": "饮料不往山东发,山楂树下净搞事",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348258&amp;topic_name=%E9%A5%AE%E6%96%99%E4%B8%8D%E5%BE%80%E5%B1%B1%E4%B8%9C%E5%8F%91%2C%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E5%87%80%E6%90%9E%E4%BA%8B",
+          "source": "贴吧",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "山东男篮落后三分选择上篮",
+          "url": "https://www.douyin.com/hot/2344719",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     }
