@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T14:32:37.322429+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-12-23T15:23:30.129954+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "上海未来五年要这么干！十二届市委八次全会审议通过上海“十五五”规划建议",
@@ -54,11 +54,12 @@
             4,
             3,
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时22分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[04时22分 ~ 15时23分]"
         },
         {
           "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
@@ -72,11 +73,12 @@
             2,
             1,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时22分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[04时22分 ~ 15时23分]"
         },
         {
           "title": "网红面馆被立案调查多位明星曾打卡",
@@ -191,8 +193,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时23分]"
         },
         {
           "title": "俄军作战训练局局长被炸身亡",
@@ -203,11 +205,12 @@
             20,
             19,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时17分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[03时17分 ~ 15时23分]"
         },
         {
           "title": "神人大合集!勇哥餐饮成下饭神剧",
@@ -252,11 +255,51 @@
             4,
             10,
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时23分]"
+        },
+        {
+          "title": "成都「较真哥」9 天举报 92 次违停，如何看待这种行为？非机动车道被侵占的顽疾，怎样才能根治？",
+          "url": "https://www.zhihu.com/question/1986493660443926754",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时23分]"
+        },
+        {
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
+          "title": "公务员遴选成绩第1却落选 重庆通报",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E6%88%90%E7%BB%A9%E7%AC%AC1%E5%8D%B4%E8%90%BD%E9%80%89+%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            1,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时23分]"
         },
         {
           "title": "母亲回应儿子公务员遴选成绩第一落选",
@@ -273,43 +316,6 @@
           "time_info": "[11时25分 ~ 14时32分]"
         },
         {
-          "title": "公务员遴选成绩第1却落选 重庆通报",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8A%A1%E5%91%98%E9%81%B4%E9%80%89%E6%88%90%E7%BB%A9%E7%AC%AC1%E5%8D%B4%E8%90%BD%E9%80%89+%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时32分]"
-        },
-        {
-          "title": "江苏成立调查组彻查南博文物管理问题",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "成都「较真哥」9 天举报 92 次违停，如何看待这种行为？非机动车道被侵占的顽疾，怎样才能根治？",
-          "url": "https://www.zhihu.com/question/1986493660443926754",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时32分]"
-        },
-        {
           "title": "交警执法文书现错别字 当地回应",
           "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%89%A7%E6%B3%95%E6%96%87%E4%B9%A6%E7%8E%B0%E9%94%99%E5%88%AB%E5%AD%97+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -323,26 +329,27 @@
           "time_info": "[04时21分 ~ 06时20分]"
         },
         {
-          "title": "江苏成立调查组彻查南博文物管理问题",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
+          "title": "上海网红黄鱼面馆被查 现场实探",
+          "url": "https://www.toutiao.com/trending/7586746209650429481/",
+          "source": "今日头条",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "15时23分"
         },
         {
-          "title": "工信部副部长熊继军会见韩国驻华大使卢载宪",
-          "url": "https://wallstreetcn.com/livenews/3025412",
-          "source": "华尔街见闻-快讯",
+          "title": "江苏成立调查组彻查南博事件",
+          "url": "https://www.douyin.com/hot/2345120",
+          "source": "抖音",
           "ranks": [
-            3
+            15,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
         },
         {
           "title": "江苏省委省政府对南博开展全面调查",
@@ -370,6 +377,19 @@
           "time_info": "[09时27分 ~ 13时23分]"
         },
         {
+          "title": "江苏对南博文物管理问题开展调查",
+          "url": "https://www.toutiao.com/trending/7586913053422128681/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
+        },
+        {
           "title": "以色列向美通报，伊朗或在筹备对以发动袭击",
           "url": "https://wallstreetcn.com/livenews/3025108",
           "source": "华尔街见闻-快讯",
@@ -383,16 +403,28 @@
           "time_info": "[04时22分 ~ 06时20分]"
         },
         {
-          "title": "江苏对南博文物管理问题开展调查",
-          "url": "https://www.toutiao.com/trending/7586913053422128681/",
-          "source": "今日头条",
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            2
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
+          "title": "重庆男子参加公务员遴选，笔试、综合成绩均第一却落选，官方回应称考生与岗位要求较大差距，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1986701625797129555",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
         },
         {
           "title": "据The Information：英伟达(NVDA.O)将把云业务团队与工程及运营部门合并。",
@@ -405,18 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时20分]"
-        },
-        {
-          "title": "江苏成立调查组彻查南博事件",
-          "url": "https://www.douyin.com/hot/2345120",
-          "source": "抖音",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时32分]"
         },
         {
           "title": "以批准设立特别国家调查委员会 调查遭哈马斯袭击事件",
@@ -432,6 +452,18 @@
           "time_info": "[02时29分 ~ 04时22分]"
         },
         {
+          "title": "工信部副部长熊继军会见韩国驻华大使卢载宪",
+          "url": "https://wallstreetcn.com/livenews/3025412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：北极安全仍是欧盟的首要优先事项。欧盟与丹麦和格陵兰岛人民站在一起，将予以全力支持。",
           "url": "https://flash.jin10.com/detail/20251223000249967800",
           "source": "金十数据",
@@ -442,6 +474,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -529,6 +573,29 @@
           "time_info": "[05时18分 ~ 06时20分]"
         },
         {
+          "title": "公务员考生笔试、面试均第一最终落选？重庆市财政局通报",
+          "url": "https://news.ifeng.com/c/8pJelKv3kbE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
+          "title": "官方通报公务员遴选第一名落选",
+          "url": "https://www.toutiao.com/trending/7586858465621737535/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
           "title": "法国政府融资成本创2011年以来新高，投资者担心2026年赤字问题",
           "url": "https://wallstreetcn.com/livenews/3025043",
           "source": "华尔街见闻-快讯",
@@ -552,17 +619,6 @@
           "time_info": "13时23分"
         },
         {
-          "title": "重庆男子参加公务员遴选，笔试、综合成绩均第一却落选，官方回应称考生与岗位要求较大差距，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/1986701625797129555",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "重庆财政局发布情况通报",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E8%B4%A2%E6%94%BF%E5%B1%80%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -572,39 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
-        },
-        {
-          "title": "江苏成立调查组彻查南博文物管理问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "公务员考生笔试、面试均第一最终落选？重庆市财政局通报",
-          "url": "https://news.ifeng.com/c/8pJelKv3kbE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "官方通报公务员遴选第一名落选",
-          "url": "https://www.toutiao.com/trending/7586858465621737535/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "如何评价南京博物院徐湖平被职工实名举报盗窃文物？有哪些信息值得关注？",
@@ -624,9 +647,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "江苏省委省政府成立调查组，对南京博物院文物管理问题开展全面调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235586",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "江苏省委省政府成立调查组全面调查南京博物院文物管理问题，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1986732531446469487",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "日本央行前董事会成员安达诚司：由于市场对日本政府扩张性财政政策的担忧，日本可能面临日元进一步下跌和债券收益率持续上升的局面。",
@@ -684,6 +729,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "官方：因城施策控增量去库存优供给",
+          "url": "https://www.toutiao.com/trending/7586896368049045558/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "日本财务大臣片山皋月：外汇走势与基本面不符。 影响汇率和收益率变动的因素很多。 拒绝就当前汇率和收益率水平发表评论。 **将针对过度的外汇波动采取适宜行动。 在市场干预上，我们有自由行动的权利。** 政府正专注于经济增长。 G7中无一国家对日本财政状况提出质疑。 收益率变动并非立即与国家财政状况挂钩。",
           "url": "https://wallstreetcn.com/livenews/3025279",
           "source": "华尔街见闻-快讯",
@@ -693,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "17万贷款全押 一个村支书的“豪赌”",
+          "url": "https://www.baidu.com/s?wd=17%E4%B8%87%E8%B4%B7%E6%AC%BE%E5%85%A8%E6%8A%BC+%E4%B8%80%E4%B8%AA%E6%9D%91%E6%94%AF%E4%B9%A6%E7%9A%84%E2%80%9C%E8%B1%AA%E8%B5%8C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "俄罗斯央行将12月23日的官方卢布汇率定为1美元兑79.3146卢布（此前汇率为1美元兑80.7220卢布）。",
@@ -720,7 +787,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "饮料不往山东发,山楂树下净搞事",
@@ -728,11 +795,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时23分]"
         },
         {
           "title": "山东男篮落后三分选择上篮",
@@ -758,6 +826,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时37分]"
+        },
+        {
+          "title": "山东5市已出现降雪",
+          "url": "https://www.toutiao.com/trending/7586782279221919750/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
