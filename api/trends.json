@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:21:36.317150+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2025-12-24T19:18:12.760169+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 97,
+      "match_count": 102,
       "titles": [
         {
           "title": "官方正式回应“吸毒记录封存”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 19时18分]"
         },
         {
           "title": "“将首都从莫斯科迁往西伯利亚”？俄总统办公厅副主任回应",
@@ -75,24 +75,12 @@
           "ranks": [
             1,
             6,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时21分]"
-        },
-        {
-          "title": "官方回应吸毒记录封存问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时35分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 19时18分]"
         },
         {
           "title": "冯忠华任广州市委书记",
@@ -121,6 +109,49 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "官方回应吸毒记录封存问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 19时18分]"
+        },
+        {
+          "title": "女副部王峻被查",
+          "url": "https://www.toutiao.com/trending/7587323420616949803/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时18分]"
+        },
+        {
+          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            13,
+            14,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 19时18分]"
         },
         {
           "title": "江苏省委省政府成立调查组，对南京博物院文物管理问题开展全面调查",
@@ -166,8 +197,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "男子公务员遴选成绩第一却落选？重庆市财政局回应",
@@ -183,23 +214,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 12时35分]"
-        },
-        {
-          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            13,
-            14,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时21分]"
         },
         {
           "title": "媒体不应披露日官员拥核言论？野田佳彦发声",
@@ -239,17 +253,6 @@
           "time_info": "[00时26分 ~ 09时26分]"
         },
         {
-          "title": "女副部王峻被查",
-          "url": "https://www.toutiao.com/trending/7587323420616949803/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时21分]"
-        },
-        {
           "title": "人过五十岁，单位领导班子年轻化，自己逐步被边缘化，如何渡过漫长的职场尾声？",
           "url": "https://www.zhihu.com/question/1975857029030622987",
           "source": "知乎",
@@ -266,6 +269,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 09时26分]"
+        },
+        {
+          "title": "合肥卫健委通报新生儿住院治疗黄疸时死亡：涉事人员已停职接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243815",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 19时18分]"
         },
         {
           "title": "重庆男子参加公务员遴选，笔试、综合成绩均第一却落选，官方回应称考生与岗位要求较大差距，具体是怎么回事？",
@@ -307,17 +325,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时35分 ~ 16时28分]"
-        },
-        {
-          "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
-          "url": "https://news.ifeng.com/c/8pLSg94hcdN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时28分]"
         },
         {
           "title": "冯忠华任广州市委书记",
@@ -366,18 +373,26 @@
           "time_info": "07时19分"
         },
         {
-          "title": "合肥卫健委通报新生儿住院治疗黄疸时死亡：涉事人员已停职接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243815",
-          "source": "澎湃新闻",
+          "title": "西藏人大副主任王峻被查",
+          "url": "https://www.douyin.com/hot/2346282",
+          "source": "抖音",
           "ranks": [
-            19,
-            14,
-            11,
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时21分]"
+          "time_info": "[16时28分 ~ 19时18分]"
+        },
+        {
+          "title": "【中国人民银行货币政策委员会召开2025年第四季度例会】会议研究了下阶段货币政策主要思路，建议发挥增量政策和存量政策集成效应，综合运用多种工具，加强货币政策调控，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配，促进社会综合融资成本低位运行。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。从宏观审慎的角度观察、评估债市运行情况，关注长期收益率的变化。畅通货币政策传导机制，提高资金使用效率。增强外汇市场韧性，稳定市场预期，防范汇率超调风险，保持人民币汇率在合理均衡水平上的基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3026187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "据当地居民和地区官员称，俄罗斯图拉地区的一家合成橡胶厂于12月24日夜间遭袭并起火。",
@@ -402,26 +417,52 @@
           "time_info": "17时24分"
         },
         {
-          "title": "市场监管总局等部门：督促网络交易平台建立产品质量管理制度 及时排查价格明显低于合理区间产品",
-          "url": "https://wallstreetcn.com/livenews/3026149",
-          "source": "华尔街见闻-快讯",
+          "title": "法国总统马克龙：法国将继续与欧盟委员会和欧洲伙伴合作，捍卫我们的自主监管和数字主权。",
+          "url": "https://flash.jin10.com/detail/20251224185731333800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时18分"
         },
         {
-          "title": "市场监管总局等部门：积极推动工业产品相关行政许可、强制性产品认证等公共数据开放",
-          "url": "https://wallstreetcn.com/livenews/3026148",
-          "source": "华尔街见闻-快讯",
+          "title": "学生说“想杀猪” 校长老师凑钱安排",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%AF%B4%E2%80%9C%E6%83%B3%E6%9D%80%E7%8C%AA%E2%80%9D+%E6%A0%A1%E9%95%BF%E8%80%81%E5%B8%88%E5%87%91%E9%92%B1%E5%AE%89%E6%8E%92",
+          "source": "百度热搜",
           "ranks": [
-            5
+            23,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
+          "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
+          "url": "https://news.ifeng.com/c/8pLSg94hcdN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 19时18分]"
+        },
+        {
+          "title": "辽宁省委书记：坚决杜绝“带病选拔”",
+          "url": "https://www.toutiao.com/trending/7587310507644895270/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时18分]"
         },
         {
           "title": "河南火灾班主任",
@@ -434,6 +475,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时23分 ~ 15时23分]"
+        },
+        {
+          "title": "西藏自治区人大常委会党组副书记、副主任王峻被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32244873",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时18分]"
         },
         {
           "title": "据韩联社24日报道，“金建希特检组”以涉嫌受贿起诉韩国前总统尹锡悦。（新华社）",
@@ -474,6 +528,18 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "市场监管总局等部门：督促网络交易平台建立产品质量管理制度 及时排查价格明显低于合理区间产品",
+          "url": "https://wallstreetcn.com/livenews/3026149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
@@ -486,27 +552,28 @@
           "time_info": "[13时23分 ~ 14时32分]"
         },
         {
-          "title": "西藏人大副主任王峻被查",
-          "url": "https://www.douyin.com/hot/2346282",
-          "source": "抖音",
+          "title": "市场监管总局等部门：积极推动工业产品相关行政许可、强制性产品认证等公共数据开放",
+          "url": "https://wallstreetcn.com/livenews/3026148",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时21分]"
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
-          "title": "辽宁省委书记：坚决杜绝“带病选拔”",
-          "url": "https://www.toutiao.com/trending/7587310507644895270/",
-          "source": "今日头条",
+          "title": "英国政府宣布禁止活煮龙虾、螃蟹，餐饮行业怒了",
+          "url": "https://news.ifeng.com/c/8pLUnp0zEe0",
+          "source": "凤凰网",
           "ranks": [
-            25,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时21分]"
+          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "冯忠华任广州市委书记",
@@ -535,16 +602,16 @@
           "time_info": "[12时35分 ~ 14时32分]"
         },
         {
-          "title": "西藏自治区人大常委会党组副书记、副主任王峻被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32244873",
-          "source": "澎湃新闻",
+          "title": "王峻任上被查 本月还曾主持会议",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B3%BB%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5+%E6%9C%AC%E6%9C%88%E8%BF%98%E6%9B%BE%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            16
+            21,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时21分]"
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "广东一原副区长被双开",
@@ -558,16 +625,15 @@
           "time_info": "[01时19分 ~ 02时29分]"
         },
         {
-          "title": "英国政府宣布禁止活煮龙虾、螃蟹，餐饮行业怒了",
-          "url": "https://news.ifeng.com/c/8pLUnp0zEe0",
-          "source": "凤凰网",
+          "title": "男子月薪3850给领导发5000红包",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA3850%E7%BB%99%E9%A2%86%E5%AF%BC%E5%8F%915000%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时21分]"
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "匈牙利官员：欧盟对乌提供的“战争贷款”将永远无法收回",
@@ -725,6 +791,18 @@
           "time_info": "[16时28分 ~ 17时24分]"
         },
         {
+          "title": "官方确认：俞敏洪敲定东方甄选接班人",
+          "url": "https://wallstreetcn.com/livenews/3026130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：贵金属价格“飙升”是有充分理由的。",
           "url": "https://flash.jin10.com/detail/20251224052256070800",
           "source": "金十数据",
@@ -873,6 +951,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "官方通报女子擅闯在建地铁隧道拍照：两单位被追责",
+          "url": "https://news.ifeng.com/c/8pLfp64JTUb",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "土耳其通讯部门负责人表示，一架载有利比亚陆军参谋长的私人飞机在安卡拉附近坠毁前不久，曾报告发生电气故障并请求紧急降落。",
           "url": "https://flash.jin10.com/detail/20251224134926511800",
           "source": "金十数据",
@@ -912,7 +1001,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -937,17 +1026,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "官方确认：俞敏洪敲定东方甄选接班人",
-          "url": "https://wallstreetcn.com/livenews/3026130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "央行等八部门：在有条件地区开展高低版本的跨国公司本外币一体化资金池业务试点",
@@ -1016,6 +1094,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "当地官员：乌克兰哈尔科夫郊区遭导弹袭击，造成一人死亡，十一人受伤。",
+          "url": "https://flash.jin10.com/detail/20251224182432618800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0161，较上一交易日官方收盘价涨126点，较上日夜盘收盘涨119点。",
           "url": "https://wallstreetcn.com/livenews/3026102",
           "source": "华尔街见闻-快讯",
@@ -1060,17 +1149,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "王峻任上被查 本月还曾主持会议",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B3%BB%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5+%E6%9C%AC%E6%9C%88%E8%BF%98%E6%9B%BE%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "韩国财政部官员：市场很快将看到政府对韩元的坚定承诺。",
           "url": "https://flash.jin10.com/detail/20251224080951898800",
           "source": "金十数据",
@@ -1080,17 +1158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "学生说“想杀猪” 校长老师凑钱安排",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E8%AF%B4%E2%80%9C%E6%83%B3%E6%9D%80%E7%8C%AA%E2%80%9D+%E6%A0%A1%E9%95%BF%E8%80%81%E5%B8%88%E5%87%91%E9%92%B1%E5%AE%89%E6%8E%92",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "印度商务秘书：印度正努力在2030年前实现2万亿美元出口目标。",
