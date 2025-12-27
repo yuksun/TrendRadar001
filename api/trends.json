@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T13:20:56.089261+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-12-27T14:29:33.483395+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "拜登之子称乌克兰腐败“令人震惊”",
@@ -27,11 +27,12 @@
             19,
             13,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时28分 ~ 13时20分]"
+          "appearance_count": 15,
+          "time_info": "[02时28分 ~ 14时29分]"
         },
         {
           "title": "影子调查这一年：一路匆忙，也听到激人奋发的澎湃回声",
@@ -42,11 +43,12 @@
             12,
             10,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时17分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "江苏纪委书记：让躺平者无处可躺",
@@ -72,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 14时29分]"
         },
         {
           "title": "燕云服装被骂,官方滑跪得罪两头",
@@ -86,8 +88,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 14时29分]"
         },
         {
           "title": "食堂承包商举报校领导拿走三百余万",
@@ -101,6 +103,30 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 09时26分]"
+        },
+        {
+          "title": "领导鼓励我「不懂就问」，但当我真正提问时他却显得不耐烦，我该如何处理这种矛盾？",
+          "url": "https://www.zhihu.com/question/660814129",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 14时29分]"
+        },
+        {
+          "title": "6名大学生坠落事故调查结果",
+          "url": "https://search.bilibili.com/all?keyword=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "画面曝光！菲律宾官方扯谎被打脸",
@@ -117,30 +143,6 @@
           "time_info": "[02时28分 ~ 07时18分]"
         },
         {
-          "title": "领导鼓励我「不懂就问」，但当我真正提问时他却显得不耐烦，我该如何处理这种矛盾？",
-          "url": "https://www.zhihu.com/question/660814129",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时20分]"
-        },
-        {
-          "title": "6名大学生坠落事故调查结果",
-          "url": "https://search.bilibili.com/all?keyword=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
-        },
-        {
           "title": "6名大学生坠落事故调查结果",
           "url": "https://www.douyin.com/hot/2348815",
           "source": "抖音",
@@ -148,8 +150,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "食堂承包商举报校领导拿走三百余万",
@@ -161,6 +163,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时15分 ~ 06时18分]"
+        },
+        {
+          "title": "乌克兰官员：大量投票点遭损毁 选举筹备面临挑战",
+          "url": "https://wallstreetcn.com/livenews/3027531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
+        },
+        {
+          "title": "6名大学生参观矿企坠亡调查报告公布",
+          "url": "https://www.toutiao.com/trending/7588352922468106276/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "日本广岛市长称日政府应坚持“无核三原则”",
@@ -175,27 +201,41 @@
           "time_info": "[09时26分 ~ 11时22分]"
         },
         {
-          "title": "乌克兰官员：大量投票点遭损毁 选举筹备面临挑战",
-          "url": "https://wallstreetcn.com/livenews/3027531",
+          "title": "工信部人形机器人与具身智能标准化技术委员会成立",
+          "url": "https://wallstreetcn.com/livenews/3027534",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时29分"
         },
         {
-          "title": "6名大学生参观矿企坠亡调查报告公布",
-          "url": "https://www.toutiao.com/trending/7588352922468106276/",
-          "source": "今日头条",
+          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1988190257821213964",
+          "source": "知乎",
           "ranks": [
-            4,
+            3,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "time_info": "[12时32分 ~ 14时29分]"
+        },
+        {
+          "title": "泰柬两国国防部长举行会见",
+          "url": "https://wallstreetcn.com/livenews/3027525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "十四届全国人大常委会第十九次会议12月27日表决通过《中华人民共和国危险化学品安全法》，自2026年5月1日起施行。",
@@ -220,6 +260,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "沙特领导的联军表示，任何违背缓和局势努力的也门哈德拉毛军事行动都将受到应对，以保护平民安全。",
+          "url": "https://flash.jin10.com/detail/20251227133946546800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "阿维塔南极极寒测试遭网友打假，官方回应将进行 16 个月极地测试，能平息争议吗？极地测试有必要吗？",
           "url": "https://www.zhihu.com/question/1987503409587320378",
           "source": "知乎",
@@ -233,19 +284,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时18分]"
-        },
-        {
-          "title": "泰柬两国国防部长举行会见",
-          "url": "https://wallstreetcn.com/livenews/3027525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
         },
         {
           "title": "生态环境法典草案将提请十四届全国人大四次会议审议",
@@ -274,18 +312,6 @@
           "time_info": "[09时25分 ~ 13时20分]"
         },
         {
-          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1988190257821213964",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时20分]"
-        },
-        {
           "title": "6名大学生坠落事故调查结果",
           "url": "https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -296,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
+          "title": "6名大学生参观矿企坠亡调查报告公布",
+          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%82%E8%A7%82%E7%9F%BF%E4%BC%81%E5%9D%A0%E4%BA%A1%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
@@ -312,15 +350,43 @@
           "time_info": "[01时17分 ~ 04时21分]"
         },
         {
-          "title": "6名大学生参观矿企坠亡调查报告公布",
-          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%82%E8%A7%82%E7%9F%BF%E4%BC%81%E5%9D%A0%E4%BA%A1%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
+          "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
+          "url": "https://wallstreetcn.com/livenews/3027516",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10,
+            15,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
+        },
+        {
+          "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
+          "url": "https://wallstreetcn.com/livenews/3027513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
+        },
+        {
+          "title": "中南大学副校长郭学益被查",
+          "url": "https://www.douyin.com/hot/2348836",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "国家发展规划法草案将提请十四届全国人大四次会议审议",
@@ -349,41 +415,16 @@
           "time_info": "[01时17分 ~ 03时16分]"
         },
         {
-          "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
-          "url": "https://wallstreetcn.com/livenews/3027516",
-          "source": "华尔街见闻-快讯",
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
             15,
-            17
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
-        },
-        {
-          "title": "柬埔寨称与泰国就柬泰边界总委员会会议联合声明草案达成共识",
-          "url": "https://wallstreetcn.com/livenews/3027513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
-        },
-        {
-          "title": "中南大学副校长郭学益被查",
-          "url": "https://www.douyin.com/hot/2348836",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "time_info": "[12时32分 ~ 14时29分]"
         },
         {
           "title": "广东汽车坠江致5死事件情况通报",
@@ -433,15 +474,16 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
+          "title": "蹭饭书记董桂林说离开范庄很不舍",
+          "url": "https://www.douyin.com/hot/2347904",
+          "source": "抖音",
           "ranks": [
-            15
+            29,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 14时29分]"
         },
         {
           "title": "军报：军中绝不能有腐败分子藏身之地",
@@ -527,7 +569,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -541,17 +583,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "蹭饭书记董桂林说离开范庄很不舍",
-          "url": "https://www.douyin.com/hot/2347904",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "“蹭饭书记”董桂林的告别",
@@ -590,11 +621,12 @@
             10,
             2,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时29分]"
         },
         {
           "title": "王曼昱率山东鲁能晋级乒超女团决赛",
