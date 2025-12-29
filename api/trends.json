@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-29T07:18:57.076959+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-29T09:45:07.589500+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
           "url": "https://www.cls.cn/detail/2242083",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时45分]"
         },
         {
           "title": "吧头像变失传媒体,吧友调查寻根",
@@ -24,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 09时45分]"
         },
         {
           "title": "湖北天门通报一起车辆落水事件",
@@ -37,11 +39,25 @@
           "ranks": [
             10,
             18,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32269477",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "同事天天摸鱼迟到早退，领导不管还让我帮他干活，我却连迟到 1 分钟都被批，该咋办？",
@@ -59,28 +75,17 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32269477",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
           "title": "不团结搞内耗、工作不在状态，16名干部被甘肃省委调整",
           "url": "https://m.thepaper.cn/newsDetail_forward_32268198",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
@@ -88,11 +93,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "湖北女子驾车落水身亡 警方通报",
@@ -109,6 +115,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "辽宁辽阳三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32270381",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 09时45分]"
         },
         {
           "title": "全国人大常委会任免名单",
@@ -138,18 +157,6 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
-          "title": "辽宁辽阳三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32270381",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 07时18分]"
-        },
-        {
           "title": "湖北严肃问责185人",
           "url": "https://www.douyin.com/hot/2349647",
           "source": "抖音",
@@ -160,6 +167,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 06时19分]"
+        },
+        {
+          "title": "【早报】官方明确：明年继续“国补”；商业火箭企业科创板IPO细则发布",
+          "url": "https://www.cls.cn/detail/2242263",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "辽阳火灾40名公职人员被问责",
@@ -185,13 +203,46 @@
           "time_info": "[00时24分 ~ 02时28分]"
         },
         {
+          "title": "男子举报自己无证驾驶：进去待两天",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BE%E6%8A%A5%E8%87%AA%E5%B7%B1%E6%97%A0%E8%AF%81%E9%A9%BE%E9%A9%B6%EF%BC%9A%E8%BF%9B%E5%8E%BB%E5%BE%85%E4%B8%A4%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "李在明今日入驻青瓦台，韩总统办公室官方名称恢复",
+          "url": "https://news.ifeng.com/c/8pT82xvZEN1",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0331，上调27点；上一交易日中间价7.0358，上一交易日官方收盘价7.0085，上日夜盘报收7.0063。",
+          "url": "https://wallstreetcn.com/livenews/3027779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "国务院国资委主任张玉卓在学习时报刊发题为“坚定不移做强做优做大国有企业和国有资本”的文章。",
           "url": "https://flash.jin10.com/detail/20251229063640312800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -202,7 +253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -213,15 +264,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "湖人官方称里夫斯左小腿腓肠肌二级拉伤约 4 周后复查，这对于里夫斯跟湖人有什么影响？",
+          "url": "https://www.zhihu.com/question/1988191380086994505",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "无悬念!王楚钦率山东魏桥卫冕",
@@ -230,11 +292,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "京台高速山东段6道改12道完成改造",
@@ -249,6 +312,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 07时18分]"
+        },
+        {
+          "title": "山东魏桥夺乒超男团冠军",
+          "url": "https://www.douyin.com/hot/2350330",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     }
