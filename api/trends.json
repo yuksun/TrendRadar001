@@ -1,37 +1,12 @@
 {
-  "generated_at": "2025-12-31T18:21:29.208257+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-12-31T19:18:32.942965+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
-        {
-          "title": "两部门：个人将购买2年以上（含2年）的住房对外销售的 免征增值税",
-          "url": "https://www.cls.cn/detail/2244412",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "领导酒局催婚,女员工集体发飙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 18时21分]"
-        },
         {
           "title": "中国海警局发布台岛及其附属岛屿执法巡查主题海报《扼喉》，哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/1989273497621516945",
@@ -44,8 +19,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 19时18分]"
+        },
+        {
+          "title": "两部门：个人将购买2年以上（含2年）的住房对外销售的 免征增值税",
+          "url": "https://www.cls.cn/detail/2244412",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时26分 ~ 18时21分]"
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "全国总工会原副主席张世平被查",
@@ -62,6 +48,20 @@
           "time_info": "[00时26分 ~ 14时32分]"
         },
         {
+          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
+          "url": "https://wallstreetcn.com/articles/3762338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 19时18分]"
+        },
+        {
           "title": "白俄外交部：支持中国政府为实现国家统一所作一切努力",
           "url": "https://news.ifeng.com/c/8pVuoU4AFRB",
           "source": "凤凰网",
@@ -73,18 +73,19 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
-          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
-          "url": "https://wallstreetcn.com/articles/3762338",
-          "source": "华尔街见闻",
+          "title": "领导酒局催婚,女员工集体发飙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
+          "source": "贴吧",
           "ranks": [
-            6,
+            1,
+            2,
             7,
-            5,
-            4
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时26分 ~ 19时18分]"
         },
         {
           "title": "马上评｜家长们对“护学岗”的减负诉求，值得倾听",
@@ -97,11 +98,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时29分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时29分 ~ 19时18分]"
         },
         {
           "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
@@ -167,6 +169,20 @@
           "time_info": "[11时26分 ~ 15时23分]"
         },
         {
+          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
+          "url": "https://www.cls.cn/detail/2245146",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 19时18分]"
+        },
+        {
           "title": "四部门：到2027年整车标杆企业智能制造能力成熟度等级提升一档",
           "url": "https://www.cls.cn/detail/2244230",
           "source": "财联社热门",
@@ -219,20 +235,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时38分 ~ 16时28分]"
-        },
-        {
-          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
-          "url": "https://www.cls.cn/detail/2245146",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 18时21分]"
         },
         {
           "title": "台军后备干部狂赞解放军被踢出群聊",
@@ -290,7 +292,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -445,6 +447,18 @@
           "time_info": "[12时38分 ~ 14时32分]"
         },
         {
+          "title": "重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2",
+          "url": "https://wallstreetcn.com/articles/3762356",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时18分]"
+        },
+        {
           "title": "国务院任免国家工作人员，任命林泽昌为财政部副部长； 任命李兴湖为交通运输部副部长； 任命张勇为中央人民政府驻香港特别行政区联络办公室副主任。",
           "url": "https://wallstreetcn.com/livenews/3029078",
           "source": "华尔街见闻-快讯",
@@ -456,6 +470,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 14时32分]"
+        },
+        {
+          "title": "台当局限缩公务员赴大陆探亲范围，被批：能不能干点有用的？",
+          "url": "https://news.ifeng.com/c/8pX7qZTBDf2",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "美联储部分官员对明年初进一步降息持谨慎态度",
@@ -494,18 +520,6 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
-          "title": "重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2",
-          "url": "https://wallstreetcn.com/articles/3762356",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时21分]"
-        },
-        {
           "title": "也门由沙特主导的联军表示，进入也门港口的船只未经也门政府或联军授权。",
           "url": "https://flash.jin10.com/detail/20251231033546855800",
           "source": "金十数据",
@@ -528,18 +542,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 12时38分]"
-        },
-        {
-          "title": "台当局限缩公务员赴大陆探亲范围，被批：能不能干点有用的？",
-          "url": "https://news.ifeng.com/c/8pX7qZTBDf2",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时21分]"
         },
         {
           "title": "也门总统领导委员会成员反对其主席“单方面非法”宣布紧急状态等决定",
@@ -659,15 +661,37 @@
           "time_info": "09时29分"
         },
         {
+          "title": "印度政府：印度4月至11月的净税收为13939.46亿印度卢比，财政赤字为9766.71亿印度卢比。",
+          "url": "https://flash.jin10.com/detail/20251231183439424800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "证监会：对上市公司出现违法违规但董事会秘书未勤勉尽责的，严格采取监管措施或者实施处罚",
           "url": "https://wallstreetcn.com/livenews/3029244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "【中国证监会发布《证券期货市场监督管理措施实施办法》】《实施办法》共二十五条，主要包括以下内容：一是明确监管措施的种类。列出责令改正、监管谈话、出具警示函、责令定期报告等十四类比较常用的措施，并将“法律、行政法规、中国证监会规章规定的其他监督管理措施”作为兜底规定。二是明确监管措施的实施原则。实施监管措施，应当遵循依法、效率、公正原则，应当符合法律、行政法规、中国证监会规章规定的程序，应当及时矫正违法行为，防范风险蔓延与危害后果扩散，坚持风险防控与教育相结合，应当以事实为依据，与行为的性质、情节、危害程度以及风险大小相当。三是明确实施监管措施的程序要求。包括监管措施的取证、决定、送达、现场执法、回避、法制审核等一般程序要求，事先告知等特别程序要求，以及紧急情况下的快速处置机制。四是明确监管措施决定的作出及执行要求。包括监管措施决定书应当载明的事项、公开要求、送达程序等。",
+          "url": "https://wallstreetcn.com/livenews/3029282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
@@ -681,6 +705,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "三部门发布《中华人民共和国实行水效标识的产品目录（2025年版）》及相关实施规则",
+          "url": "https://wallstreetcn.com/livenews/3029281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美联储会议纪要：多数官员支持进一步降息 但政策路径分歧显著",
           "url": "https://www.cls.cn/detail/2244722",
           "source": "财联社热门",
@@ -692,6 +727,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "中国人民银行行长潘功胜看望慰问年终决算干部职工",
+          "url": "https://wallstreetcn.com/livenews/3029279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "被领导的自动回复笑死了",
           "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%9A%84%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -701,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "中国银行浙江省分行党委书记、行长程军涉嫌严重违纪违法被查",
+          "url": "https://wallstreetcn.com/livenews/3029273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
@@ -734,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "中国建设银行河南省分行原党委书记、行长石永拴涉嫌严重违纪违法被查",
+          "url": "https://wallstreetcn.com/livenews/3029267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "阿盟秘书长就也门局势发表声明 呼吁立即停止一切升级行为",
