@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T15:23:00.271999+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-31T16:28:36.147993+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "领导酒局催婚,女员工集体发飙",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 15时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 16时28分]"
         },
         {
           "title": "两部门：个人将购买2年以上（含2年）的住房对外销售的 免征增值税",
@@ -56,6 +57,21 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "中国海警局发布台岛及其附属岛屿执法巡查主题海报《扼喉》，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/1989273497621516945",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 16时28分]"
+        },
+        {
           "title": "马上评｜家长们对“护学岗”的减负诉求，值得倾听",
           "url": "https://m.thepaper.cn/newsDetail_forward_32284501",
           "source": "澎湃新闻",
@@ -64,11 +80,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 16时28分]"
         },
         {
           "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
@@ -95,20 +112,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 13时24分]"
-        },
-        {
-          "title": "中国海警局发布台岛及其附属岛屿执法巡查主题海报《扼喉》，哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/1989273497621516945",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 15时23分]"
         },
         {
           "title": "政府下令修复、民众反对拆除，直击巴拿马华人纪念碑拆毁现场(图)",
@@ -146,6 +149,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时26分 ~ 15时23分]"
+        },
+        {
+          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
+          "url": "https://wallstreetcn.com/articles/3762338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时28分]"
         },
         {
           "title": "四部门：到2027年整车标杆企业智能制造能力成熟度等级提升一档",
@@ -188,17 +204,18 @@
           "time_info": "[03时16分 ~ 09时29分]"
         },
         {
-          "title": "美联储会议纪要：“大多数”官员预计12月后适合继续降息，部分主张“一段时间”按兵不动",
-          "url": "https://wallstreetcn.com/articles/3762338",
-          "source": "华尔街见闻",
+          "title": "12月官方制造业PMI为50.1% 升至扩张区间",
+          "url": "https://www.cls.cn/detail/2244886",
+          "source": "财联社热门",
           "ranks": [
             6,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 16时28分]"
         },
         {
           "title": "台军后备干部狂赞解放军被踢出群聊",
@@ -239,19 +256,6 @@
           "time_info": "[12时37分 ~ 14时32分]"
         },
         {
-          "title": "12月官方制造业PMI为50.1% 升至扩张区间",
-          "url": "https://www.cls.cn/detail/2244886",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 15时23分]"
-        },
-        {
           "title": "提醒：北京时间09:30将发布中国12月官方制造业、非制造业、综合PMI。",
           "url": "https://wallstreetcn.com/livenews/3028997",
           "source": "华尔街见闻-快讯",
@@ -261,6 +265,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "中超联赛有限责任公司原副总经理杨扬接受监察调查",
+          "url": "https://wallstreetcn.com/livenews/3029194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "多部门：到2030年 废钢铁、废纸年回收利用量分别超过3亿吨、8000万吨",
+          "url": "https://wallstreetcn.com/livenews/3029191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "也门由沙特领导的联合部队表示，尽管已得到通知，但阿联酋还是自行决定将一批货物运往一个供阿联酋军队及参与也门“升级行为”的部队使用的基地。阿联酋已被告知，此类“升级行为”是不可接受的。部队已掌握情报，获悉此类货物将被运送并分发至哈德拉毛的多个地点。",
@@ -274,6 +300,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时19分]"
+        },
+        {
+          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
+          "url": "https://www.cls.cn/detail/2245146",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -402,18 +441,6 @@
           "time_info": "[12时38分 ~ 14时32分]"
         },
         {
-          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
-          "url": "https://www.cls.cn/detail/2245146",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时23分]"
-        },
-        {
           "title": "美联储部分官员对明年初进一步降息持谨慎态度",
           "url": "https://flash.jin10.com/detail/20251231034515935800",
           "source": "金十数据",
@@ -424,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《学习好贯彻好党的二十届四中全会精神》",
+          "url": "https://wallstreetcn.com/livenews/3029155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时28分]"
         },
         {
           "title": "也门由沙特领导的联军表示，装载武器和弹药的集装箱仍停留在也门的一个基地。",
@@ -531,17 +570,6 @@
           "time_info": "09时29分"
         },
         {
-          "title": "《求是》杂志发表习近平总书记重要文章《学习好贯彻好党的二十届四中全会精神》",
-          "url": "https://wallstreetcn.com/livenews/3029155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
           "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
           "url": "https://wallstreetcn.com/livenews/3029088",
           "source": "华尔街见闻-快讯",
@@ -562,6 +590,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "两部门：支持建设分布式独立储能和电网替代型储能",
+          "url": "https://wallstreetcn.com/livenews/3029178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "两部门：到2030年“西电东送”规模超过4.2亿千瓦 支撑新能源发电量占比达到30%左右",
+          "url": "https://wallstreetcn.com/livenews/3029175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "被领导的自动回复笑死了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%9A%84%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E7%AC%91%E6%AD%BB%E4%BA%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "两部门：适度超前、不过度超前开展电网投资建设",
+          "url": "https://wallstreetcn.com/livenews/3029173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
