@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T06:20:09.916622+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-01T07:19:13.915135+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "哪吒电影官方发文：不负期许",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "领导酒局催婚,女员工集体发飙",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "法治日报调查职场违规背调乱象：有人因涉民事诉讼记录，入职背调未通过",
@@ -37,11 +37,12 @@
           "ranks": [
             18,
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "三部门：开展有奖发票试点工作",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "马英九“三中案”二审仍无罪！萧旭岑批：民进党政治追杀近十年",
@@ -87,8 +88,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "也门政府说阿联酋开始撤军",
+          "url": "https://flash.jin10.com/detail/20260101065839886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "也门政府说阿联酋开始撤军",
@@ -171,11 +183,12 @@
           "url": "https://flash.jin10.com/detail/20260101054931489800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         }
       ]
     },
