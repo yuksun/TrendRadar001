@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-01-02T01:19:36.392663+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-01-02T02:28:52.277490+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
-          "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
-          "url": "https://flash.jin10.com/detail/20260102005627776800",
+          "title": "克里姆林宫：普京与赫尔松州州长通了电话。他听取了有​​关乌克兰武装部队袭击事件情况和调查进展的报告。",
+          "url": "https://flash.jin10.com/detail/20260102015147513800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "瑞士警方称，不能排除爆炸事件中有外国公民涉案的可能性。另外，瑞士总检察长表示，现在下任何结论都为时尚早。",
-          "url": "https://flash.jin10.com/detail/20260102005109308800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时28分"
         },
         {
           "title": "乌克兰首席和平谈判代表表示，他已会见了土耳其外交部长。",
@@ -35,11 +24,36 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
+          "url": "https://flash.jin10.com/detail/20260102005627776800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "瑞士警方称，不能排除爆炸事件中有外国公民涉案的可能性。另外，瑞士总检察长表示，现在下任何结论都为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260102005109308800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
         },
         {
           "title": "朋友说，有同事暗示他，离职的时候请领导同事吃个散伙饭，他有点纠结怎么办？",
@@ -50,8 +64,55 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "领导酒局催婚,女员工集体发飙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "路透调查：10位经济学家中有9位预计以色列央行下周一将维持基准利率在4.25%不变；1位预计下调25个基点。",
+          "url": "https://flash.jin10.com/detail/20260102004307969800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "秘鲁北部一名市长表示，针对非法矿工的袭击已造成至少3人死亡、7人失踪。",
+          "url": "https://flash.jin10.com/detail/20260102003024948800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
+          "url": "https://flash.jin10.com/detail/20260102000506128800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
         },
         {
           "title": "据土耳其阿纳多卢通讯社：土耳其外交部长费丹在安卡拉会见乌克兰安全委员会秘书乌梅罗夫。",
@@ -76,50 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时19分]"
-        },
-        {
-          "title": "领导酒局催婚,女员工集体发飙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
-        },
-        {
-          "title": "路透调查：10位经济学家中有9位预计以色列央行下周一将维持基准利率在4.25%不变；1位预计下调25个基点。",
-          "url": "https://flash.jin10.com/detail/20260102004307969800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "秘鲁北部一名市长表示，针对非法矿工的袭击已造成至少3人死亡、7人失踪。",
-          "url": "https://flash.jin10.com/detail/20260102003024948800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
-          "url": "https://flash.jin10.com/detail/20260102000506128800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
