@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-02T17:23:50.657089+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-02T18:20:56.164250+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "领导酒局催婚,女员工集体发飙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 14时32分]"
-        },
         {
           "title": "东莞一企业疑偷排污水被举报：环保部门检查后，企业连夜封堵下水管口",
           "url": "https://m.thepaper.cn/newsDetail_forward_32290290",
@@ -32,8 +19,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时29分 ~ 18时20分]"
+        },
+        {
+          "title": "领导酒局催婚,女员工集体发飙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 14时32分]"
         },
         {
           "title": "朋友说，有同事暗示他，离职的时候请领导同事吃个散伙饭，他有点纠结怎么办？",
@@ -63,6 +63,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时28分 ~ 07时19分]"
+        },
+        {
+          "title": "纽约迎来90后市长",
+          "url": "https://www.douyin.com/hot/2355027",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 18时20分]"
+        },
+        {
+          "title": "大学生开启提前实习模式，有人大一就完成 4 段实习，如何看待这一现象？职场「早鸟票」有必要抢吗？",
+          "url": "https://www.zhihu.com/question/1964338011257954895",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 18时20分]"
         },
         {
           "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
@@ -97,6 +121,17 @@
           "time_info": "[01时19分 ~ 06时19分]"
         },
         {
+          "title": "调查显示亚洲高级投资银行家招聘量激增60%",
+          "url": "https://wallstreetcn.com/livenews/3029810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "路透调查：10位经济学家中有9位预计以色列央行下周一将维持基准利率在4.25%不变；1位预计下调25个基点。",
           "url": "https://flash.jin10.com/detail/20260102004307969800",
           "source": "金十数据",
@@ -129,49 +164,15 @@
           "time_info": "[01时19分 ~ 06时19分]"
         },
         {
-          "title": "纽约迎来90后市长",
-          "url": "https://www.douyin.com/hot/2355027",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 17时23分]"
-        },
-        {
-          "title": "大学生开启提前实习模式，有人大一就完成 4 段实习，如何看待这一现象？职场「早鸟票」有必要抢吗？",
-          "url": "https://www.zhihu.com/question/1964338011257954895",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 16时28分]"
-        },
-        {
-          "title": "也门南方过渡委员会：将“严厉回击”也门政府发动的军事行动",
-          "url": "https://flash.jin10.com/detail/20260102170850527800",
+          "title": "波兰央行调查：波兰通胀预计将在2026年降至2.6%。",
+          "url": "https://flash.jin10.com/detail/20260102175416435800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "也门政府对南方过渡委员会发起军事行动",
-          "url": "https://wallstreetcn.com/livenews/3029792",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时20分"
         },
         {
           "title": "乌克兰首席和平谈判代表表示，他已会见了土耳其外交部长。",
@@ -213,6 +214,18 @@
           "time_info": "[13时24分 ~ 14时32分]"
         },
         {
+          "title": "也门南方过渡委员会：将“严厉回击”也门政府发动的军事行动",
+          "url": "https://flash.jin10.com/detail/20260102170850527800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时20分]"
+        },
+        {
           "title": "外交部副部长苗得雨会见非盟驻华代表巴赫",
           "url": "https://wallstreetcn.com/livenews/3029774",
           "source": "华尔街见闻-快讯",
@@ -223,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "也门政府对南方过渡委员会发起军事行动",
+          "url": "https://wallstreetcn.com/livenews/3029792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时20分]"
         },
         {
           "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
@@ -252,6 +277,18 @@
           "time_info": "[14时32分 ~ 17时23分]"
         },
         {
+          "title": "婴儿体内有安眠药成分 育儿嫂被调查",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%9C%89%E5%AE%89%E7%9C%A0%E8%8D%AF%E6%88%90%E5%88%86+%E8%82%B2%E5%84%BF%E5%AB%82%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时20分]"
+        },
+        {
           "title": "淡水河谷印尼公司暂停镍矿开采 因2026年生产计划未获政府批准",
           "url": "https://wallstreetcn.com/livenews/3029721",
           "source": "华尔街见闻-快讯",
@@ -278,17 +315,6 @@
           "time_info": "[12时40分 ~ 14时32分]"
         },
         {
-          "title": "婴儿体内有安眠药成分 育儿嫂被调查",
-          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%9C%89%E5%AE%89%E7%9C%A0%E8%8D%AF%E6%88%90%E5%88%86+%E8%82%B2%E5%84%BF%E5%AB%82%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
           "title": "也门哈德拉毛省省长萨利姆·汉巴希1月2日宣布对哈德拉毛地区的南方过渡委员会发起军事行动。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3029767",
           "source": "华尔街见闻-快讯",
@@ -299,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "沙特谴责也门南方过渡委员会，称其加剧紧张局势",
+          "url": "https://wallstreetcn.com/livenews/3029789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时20分]"
         },
         {
           "title": "据土耳其阿纳多卢通讯社：土耳其外交部长费丹在安卡拉会见乌克兰安全委员会秘书乌梅罗夫。",
@@ -337,24 +375,13 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
-          "title": "沙特谴责也门南方过渡委员会，称其加剧紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3029789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "也门政府对南方过渡委员会发起军事行动",
           "url": "https://flash.jin10.com/detail/20260102165908157800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -365,7 +392,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -376,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
