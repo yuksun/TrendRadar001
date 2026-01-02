@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-02T07:19:53.560146+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-02T09:30:28.821953+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
       "match_count": 14,
       "titles": [
+        {
+          "title": "领导酒局催婚,女员工集体发飙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时30分]"
+        },
         {
           "title": "朋友说，有同事暗示他，离职的时候请领导同事吃个散伙饭，他有点纠结怎么办？",
           "url": "https://www.zhihu.com/question/1923012799698797644",
@@ -15,17 +26,6 @@
             8,
             7,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
-          "title": "领导酒局催婚,女员工集体发飙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348576&amp;topic_name=%E9%A2%86%E5%AF%BC%E9%85%92%E5%B1%80%E5%82%AC%E5%A9%9A%2C%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9B%86%E4%BD%93%E5%8F%91%E9%A3%99",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -131,11 +131,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时30分]"
         },
         {
           "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
@@ -197,6 +198,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院消防考核组检查山东",
+          "url": "https://www.toutiao.com/trending/7590469801563340842/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
         }
       ]
     }
