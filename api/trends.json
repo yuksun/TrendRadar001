@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:23:12.562545+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-02T16:28:13.934634+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "领导酒局催婚,女员工集体发飙",
@@ -32,6 +32,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "东莞一企业疑偷排污水被举报：环保部门检查后，企业连夜封堵下水管口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32290290",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 16时28分]"
         },
         {
           "title": "克里姆林宫：普京与赫尔松州州长通了电话。他听取了有​​关乌克兰武装部队袭击事件情况和调查进展的报告。",
@@ -114,18 +129,26 @@
           "time_info": "[01时19分 ~ 06时19分]"
         },
         {
-          "title": "东莞一企业疑偷排污水被举报：环保部门检查后，企业连夜封堵下水管口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32290290",
-          "source": "澎湃新闻",
+          "title": "大学生开启提前实习模式，有人大一就完成 4 段实习，如何看待这一现象？职场「早鸟票」有必要抢吗？",
+          "url": "https://www.zhihu.com/question/1964338011257954895",
+          "source": "知乎",
           "ranks": [
-            18,
-            13,
-            10,
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时29分 ~ 15时23分]"
+          "time_info": "[11时29分 ~ 16时28分]"
+        },
+        {
+          "title": "外交部副部长苗得雨会见非盟驻华代表巴赫",
+          "url": "https://wallstreetcn.com/livenews/3029774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "乌克兰首席和平谈判代表表示，他已会见了土耳其外交部长。",
@@ -142,15 +165,15 @@
           "time_info": "[00时25分 ~ 03时16分]"
         },
         {
-          "title": "大学生开启提前实习模式，有人大一就完成 4 段实习，如何看待这一现象？职场「早鸟票」有必要抢吗？",
-          "url": "https://www.zhihu.com/question/1964338011257954895",
-          "source": "知乎",
+          "title": "纽约迎来90后市长",
+          "url": "https://www.douyin.com/hot/2355027",
+          "source": "抖音",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时29分 ~ 15时23分]"
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "也门政府宣布对亚丁国际机场实施管制措施",
@@ -230,17 +253,6 @@
           "time_info": "[14时32分 ~ 15时23分]"
         },
         {
-          "title": "纽约迎来90后市长",
-          "url": "https://www.douyin.com/hot/2355027",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 15时23分]"
-        },
-        {
           "title": "据土耳其阿纳多卢通讯社：土耳其外交部长费丹在安卡拉会见乌克兰安全委员会秘书乌梅罗夫。",
           "url": "https://flash.jin10.com/detail/20260101222347164800",
           "source": "金十数据",
@@ -277,6 +289,39 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
+          "title": "婴儿体内有安眠药成分 育儿嫂被调查",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%9C%89%E5%AE%89%E7%9C%A0%E8%8D%AF%E6%88%90%E5%88%86+%E8%82%B2%E5%84%BF%E5%AB%82%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "也门哈德拉毛省省长萨利姆·汉巴希1月2日宣布对哈德拉毛地区的南方过渡委员会发起军事行动。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3029767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "加蓬总统宣布组建新政府",
+          "url": "https://wallstreetcn.com/livenews/3029763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "鹅鸭杀官宣主理人大司马",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B9%85%E9%B8%AD%E6%9D%80%E5%AE%98%E5%AE%A3%E4%B8%BB%E7%90%86%E4%BA%BA%E5%A4%A7%E5%8F%B8%E9%A9%AC%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -286,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "加蓬总统宣布组建新政府",
+          "url": "https://flash.jin10.com/detail/20260102152625545800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
