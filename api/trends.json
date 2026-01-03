@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T00:23:34.307445+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-04T01:17:18.370876+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "云南德宏州州长卫岗主动投案，接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32306707",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "有人说领导骂你时立刻提肛，能激活大脑的物理防御，将领导的话转换成白噪音，是这样吗？有什么依据？",
@@ -37,8 +38,55 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "也门航空官员：也门阿登机场自周四关闭后将于周日恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260104005809497800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美司法部长：马杜罗夫妇已在美被起诉",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%EF%BC%9A%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%B7%B2%E5%9C%A8%E7%BE%8E%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "联合国秘书长对委局势升级深感震惊",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%AF%B9%E5%A7%94%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E6%B7%B1%E6%84%9F%E9%9C%87%E6%83%8A",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "委前内政部长在美军事行动中身亡",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%89%8D%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E5%9C%A8%E7%BE%8E%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E4%B8%AD%E8%BA%AB%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "以色列外交部长：以色列欢迎委内瑞拉马杜罗被罢免，其领导了一个“毒品与恐怖网络”。",
@@ -46,17 +94,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美司法部长：马杜罗夫妇已在美被起诉",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%EF%BC%9A%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%B7%B2%E5%9C%A8%E7%BE%8E%E8%A2%AB%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -79,28 +116,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "委前内政部长在美军事行动中身亡",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%89%8D%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E5%9C%A8%E7%BE%8E%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E4%B8%AD%E8%BA%AB%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "联合国秘书长对委局势升级深感震惊",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%AF%B9%E5%A7%94%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7%E6%B7%B1%E6%84%9F%E9%9C%87%E6%83%8A",
-          "source": "百度热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
