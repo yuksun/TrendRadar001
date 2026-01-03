@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T14:29:49.479325+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-01-03T15:19:12.075025+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "澎湃回声｜东莞回应“企业被举报偷排”：已破开企业连夜封堵的下水管口，一经查实将顶格查处",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时21分 ~ 14时29分]"
+          "appearance_count": 14,
+          "time_info": "[04时21分 ~ 15时19分]"
+        },
+        {
+          "title": "1月1日起 你的房贷“减负礼包”到账",
+          "url": "https://www.baidu.com/s?wd=1%E6%9C%881%E6%97%A5%E8%B5%B7+%E4%BD%A0%E7%9A%84%E6%88%BF%E8%B4%B7%E2%80%9C%E5%87%8F%E8%B4%9F%E7%A4%BC%E5%8C%85%E2%80%9D%E5%88%B0%E8%B4%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "“最快女护士”张水华宣布辞职：特别感谢领导信任和同事包容",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 09时25分]"
-        },
-        {
-          "title": "1月1日起 你的房贷“减负礼包”到账",
-          "url": "https://www.baidu.com/s?wd=1%E6%9C%881%E6%97%A5%E8%B5%B7+%E4%BD%A0%E7%9A%84%E6%88%BF%E8%B4%B7%E2%80%9C%E5%87%8F%E8%B4%9F%E7%A4%BC%E5%8C%85%E2%80%9D%E5%88%B0%E8%B4%A6",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "西安多个政务大厅搬进商场",
@@ -170,6 +170,23 @@
           "time_info": "[01时18分 ~ 07时19分]"
         },
         {
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            9,
+            10,
+            11,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 15时19分]"
+        },
+        {
           "title": "相关文件显示，巴西反垄断机构CADE对微软(MSFT.O)展开调查。",
           "url": "https://flash.jin10.com/detail/20260103004035197800",
           "source": "金十数据",
@@ -198,20 +215,17 @@
           "time_info": "[01时18分 ~ 07时19分]"
         },
         {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
+          "title": "女子未经允许在游客手腕绑戴红绳并索要费用？三亚通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302594",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            6,
-            9,
-            10,
-            11,
-            13
+            18,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "西安多个政务大厅搬进商场",
@@ -226,6 +240,17 @@
           "time_info": "[00时23分 ~ 02时29分]"
         },
         {
+          "title": "也门哈德拉毛省赛文国际机场负责人表示，也门政府军3日从南方过渡委员会手中收复该机场。​​​（新华社）",
+          "url": "https://flash.jin10.com/detail/20260103150406152800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "也门南方过渡委员会宣布启动两年过渡期，拟就南部问题举行公投",
           "url": "https://wallstreetcn.com/livenews/3029896",
           "source": "华尔街见闻-快讯",
@@ -238,19 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 04时21分]"
-        },
-        {
-          "title": "女子未经允许在游客手腕绑戴红绳并索要费用？三亚通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302594",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "由沙特支持的也门总统委员会负责人向沙特提交申请，请求沙特主办一场解决南方问题的论坛。沙特欢迎这一请求。",
