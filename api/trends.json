@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T16:26:48.935444+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-01-04T17:19:27.827306+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
@@ -40,11 +40,12 @@
             19,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时50分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 17时19分]"
         },
         {
           "title": "委前内政部长在美军事行动中身亡",
@@ -59,11 +60,12 @@
             25,
             23,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时19分]"
         },
         {
           "title": "美司法部长：马杜罗夫妇已在美被起诉",
@@ -139,6 +141,17 @@
           "time_info": "[12时47分 ~ 14时31分]"
         },
         {
+          "title": "搞权色交易 武汉原市长周先旺被双开",
+          "url": "https://www.toutiao.com/trending/7591413550879493678/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时19分]"
+        },
+        {
           "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
           "url": "https://flash.jin10.com/detail/20260104043833561800",
           "source": "金十数据",
@@ -191,6 +204,18 @@
           "time_info": "[12时48分 ~ 16时26分]"
         },
         {
+          "title": "如何看待崔凤祥老人举报国家博物馆，称 2006 年捐了一尊明代地藏佛像去向成谜，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/1990357675205161664",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 17时19分]"
+        },
+        {
           "title": "也门航空官员：也门阿登机场自周四关闭后将于周日恢复运营。",
           "url": "https://flash.jin10.com/detail/20260104005809497800",
           "source": "金十数据",
@@ -213,15 +238,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "搞权色交易 武汉原市长周先旺被双开",
-          "url": "https://www.toutiao.com/trending/7591413550879493678/",
-          "source": "今日头条",
+          "title": "有网友称收到苹果AI国行版升级通知，官方回应",
+          "url": "https://flash.jin10.com/detail/20260104162200603800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时19分"
         },
         {
           "title": "飞天茅台官方直销 1499 元秒光，市场批发价却再次破发，你如何看待这件事？官方会进一步调价吗？",
@@ -230,7 +255,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -247,18 +272,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时18分]"
-        },
-        {
-          "title": "如何看待崔凤祥老人举报国家博物馆，称 2006 年捐了一尊明代地藏佛像去向成谜，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/1990357675205161664",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 16时26分]"
         },
         {
           "title": "四川蓬安一菜地出现明火 镇政府回应",
@@ -311,6 +324,19 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
+          "title": "上海：加强对垄断和不正当竞争行为的监管执法 深化整治“内卷式”竞争",
+          "url": "https://flash.jin10.com/detail/20260104142400163800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时19分]"
+        },
+        {
           "title": "委前内政部长在美军事行动中身亡",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%89%8D%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E5%9C%A8%E7%BE%8E%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E4%B8%AD%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -323,16 +349,38 @@
           "time_info": "[04时21分 ~ 06时18分]"
         },
         {
-          "title": "上海：加强对垄断和不正当竞争行为的监管执法 深化整治“内卷式”竞争",
-          "url": "https://flash.jin10.com/detail/20260104142400163800",
-          "source": "金十数据",
+          "title": "党员进庙烧炷香是否违纪",
+          "url": "https://www.toutiao.com/trending/7590721996133597226/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 17时19分]"
+        },
+        {
+          "title": "武汉原市长周先旺被双开",
+          "url": "https://www.douyin.com/hot/2357051",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时19分]"
+        },
+        {
+          "title": "湖北省政协原副主席周先旺被双开",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%91%A8%E5%85%88%E6%97%BA%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时19分]"
         },
         {
           "title": "联合国秘书长对委局势升级深感震惊",
@@ -397,29 +445,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "党员进庙烧炷香是否违纪",
-          "url": "https://www.toutiao.com/trending/7590721996133597226/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "武汉原市长周先旺被双开",
-          "url": "https://www.douyin.com/hot/2357051",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -433,17 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "湖北省政协原副主席周先旺被双开",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%91%A8%E5%85%88%E6%97%BA%E8%A2%AB%E5%8F%8C%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "巴西国防部长：边境仍然开放。",
@@ -477,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "纽约市长：美对委实施打击构成战争罪",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB%E6%9E%84%E6%88%90%E6%88%98%E4%BA%89%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "德国总理默茨：必须确保向委内瑞拉民选政府的有序过渡。",
