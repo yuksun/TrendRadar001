@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-05T16:32:04.417629+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-01-05T17:31:56.159646+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "湖北省政协原副主席周先旺被“双开”：公器私用，擅权妄为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32311175",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
-        },
         {
           "title": "国安部：新入职公职人员易被境外间谍盯上，以卑劣手段拉拢策反",
           "url": "https://m.thepaper.cn/newsDetail_forward_32309187",
@@ -31,6 +19,19 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "湖北省政协原副主席周先旺被“双开”：公器私用，擅权妄为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32311175",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
+        },
+        {
           "title": "一中国女子受“高薪工作”诱惑到柬埔寨后流落街头，中使馆通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32312380",
           "source": "澎湃新闻",
@@ -40,11 +41,12 @@
             8,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时31分]"
         },
         {
           "title": "外媒：也门政府军收复迈赫拉省",
@@ -162,6 +164,20 @@
           "time_info": "[00时23分 ~ 03时15分]"
         },
         {
+          "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
+          "url": "https://www.cls.cn/detail/2247462",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 17时31分]"
+        },
+        {
           "title": "据埃菲社报道，委内瑞拉代理总统罗德里格斯4日成立一个委员会，负责处理马杜罗释放相关事宜。",
           "url": "https://flash.jin10.com/detail/20260105111736248800",
           "source": "金十数据",
@@ -171,6 +187,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "英政府拟强制中资桥接芯片巨头 FTDI 出售 80% 股权，多家 A 股企业或涉事其中，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1991434489499497199",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 17时31分]"
         },
         {
           "title": "委内瑞拉国防部长：马杜罗安保团队的大部分成员在美方行动中被击毙。",
@@ -187,31 +218,15 @@
           "time_info": "[00时23分 ~ 03时15分]"
         },
         {
-          "title": "英政府拟强制中资桥接芯片巨头 FTDI 出售 80% 股权，多家 A 股企业或涉事其中，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1991434489499497199",
-          "source": "知乎",
+          "title": "清越科技：公司将积极配合中国证监会调查",
+          "url": "https://wallstreetcn.com/livenews/3030753",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            15,
-            13,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 16时32分]"
-        },
-        {
-          "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
-          "url": "https://www.cls.cn/detail/2247462",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "俄罗斯莫斯科市长：已被击落的飞往莫斯科的无人机数量增至32架。",
@@ -251,6 +266,17 @@
           "time_info": "[12时56分 ~ 13时35分]"
         },
         {
+          "title": "2026年首虎 副部级田学斌被查",
+          "url": "https://www.douyin.com/hot/2357981",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时31分]"
+        },
+        {
           "title": "俄罗斯莫斯科市长：已击落25架飞往莫斯科的无人机。",
           "url": "https://flash.jin10.com/detail/20260104232905700800",
           "source": "金十数据",
@@ -263,6 +289,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "水利部原副部长田学斌被查",
+          "url": "https://www.toutiao.com/trending/7591768727084400694/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时31分]"
+        },
+        {
+          "title": "水利部原副部长田学斌被查",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%88%A9%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E7%94%B0%E5%AD%A6%E6%96%8C%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时31分]"
         },
         {
           "title": "武汉原市长周先旺被双开",
@@ -279,17 +331,6 @@
           "time_info": "[00时23分 ~ 11时54分]"
         },
         {
-          "title": "2026年首虎 副部级田学斌被查",
-          "url": "https://www.douyin.com/hot/2357981",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时32分]"
-        },
-        {
           "title": "波罗的海电信光缆受损 拉脱维亚警方已登船调查",
           "url": "https://flash.jin10.com/detail/20260105032906520800",
           "source": "金十数据",
@@ -301,30 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时19分]"
-        },
-        {
-          "title": "水利部原副部长田学斌被查",
-          "url": "https://www.toutiao.com/trending/7591768727084400694/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时32分]"
-        },
-        {
-          "title": "水利部原副部长田学斌被查",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%88%A9%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E7%94%B0%E5%AD%A6%E6%96%8C%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时32分]"
         },
         {
           "title": "白宫官员家属涉格陵兰岛不当表态 丹麦予以批驳",
@@ -372,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
+        },
+        {
+          "title": "委代理总统成立马杜罗释放事宜委员会，如何看待这个动作？马杜罗被释放的可能性有多少？",
+          "url": "https://www.zhihu.com/question/1991477011324105141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
         },
         {
           "title": "委内政部长：马杜罗是唯一总统",
@@ -463,17 +492,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "委代理总统成立马杜罗释放事宜委员会，如何看待这个动作？马杜罗被释放的可能性有多少？",
-          "url": "https://www.zhihu.com/question/1991477011324105141",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "联合国秘书长就委内瑞拉局势升级表示严重关切",
@@ -581,7 +599,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -610,11 +628,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时31分]"
         },
         {
           "title": "山东发行7年期保障房专项地方债，规模46.5800亿元，发行利率1.8500%，边际倍数1.24倍，倍数预期1.84； 山东发行30年期其他专项地方债，规模226.9800亿元，发行利率2.4900%，边际倍数2.72倍，倍数预期2.44； 山东发行15年期其他专项地方债，规模118.3500亿元，发行利率2.3800%，边际倍数2.20倍，倍数预期2.34； 山东发行10年期其他专项地方债，规模46.4400亿元，发行利率2.0000%，边际倍数1.21倍，倍数预期2.07； 山东发行10年期其他专项地方债，规模29.3700亿元，发行利率2.0000%，边际倍数1.05倍，倍数预期2.07； 山东发行10年期普通专项地方债，规模16.9400亿元，发行利率2.0600%，边际倍数5.42倍，倍数预期2.07； 山东发行15年期普通专项地方债，规模120.3000亿元，发行利率2.3800%，边际倍数15.33倍，倍数预期2.34； 山东发行30年期普通专项地方债，规模118.8500亿元，发行利率2.4900%，边际倍数7.98倍，倍数预期2.45。",
