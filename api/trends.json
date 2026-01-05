@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:24:12.027331+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-01-05T23:23:05.388604+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "国安部：新入职公职人员易被境外间谍盯上，以卑劣手段拉拢策反",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时56分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时56分 ~ 23时23分]"
         },
         {
           "title": "2026年首虎 副部级田学斌被查",
@@ -87,8 +87,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时28分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时28分 ~ 23时23分]"
         },
         {
           "title": "村支书发现河水异常迅速转移579人",
@@ -118,6 +118,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "委代理总统成立马杜罗释放事宜委员会，如何看待这个动作？马杜罗被释放的可能性有多少？",
+          "url": "https://www.zhihu.com/question/1991477011324105141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 23时23分]"
+        },
+        {
+          "title": "水利部原党组成员、副部长田学斌被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317889",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时23分]"
         },
         {
           "title": "女滑雪队耍横骂人,官方护短撒谎",
@@ -156,20 +184,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
-          "title": "委代理总统成立马杜罗释放事宜委员会，如何看待这个动作？马杜罗被释放的可能性有多少？",
-          "url": "https://www.zhihu.com/question/1991477011324105141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 22时24分]"
         },
         {
           "title": "水利部原副部长田学斌被查",
@@ -260,17 +274,15 @@
           "time_info": "20时43分"
         },
         {
-          "title": "水利部原党组成员、副部长田学斌被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317889",
-          "source": "澎湃新闻",
+          "title": "乌克兰总统泽连斯基：新任国防部长应专注于技术和创新。",
+          "url": "https://flash.jin10.com/detail/20260105231826310800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "克里姆林宫：普京指示内阁部长会议和中央银行在2026年恢复经济增长速度，同时将通货膨胀率保持在4-5%的水平。",
@@ -282,6 +294,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：呼吁所有委内瑞拉事件的相关方参与包容性、民主性对话。",
+          "url": "https://flash.jin10.com/detail/20260105231414129800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "官方通报新生儿被剪断手指",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时23分]"
         },
         {
           "title": "委内瑞拉国防部长：马杜罗安保团队的大部分成员在美方行动中被击毙。",
@@ -296,6 +332,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：准备支持一切旨在帮助委内瑞拉人民找到和平出路的努力。",
+          "url": "https://flash.jin10.com/detail/20260105231346425800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "新生儿剪脐带被剪断手指 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时23分]"
         },
         {
           "title": "俄罗斯莫斯科市长：已被击落的飞往莫斯科的无人机数量增至32架。",
@@ -389,16 +447,16 @@
           "time_info": "[00时23分 ~ 11时54分]"
         },
         {
-          "title": "官方通报新生儿被剪断手指",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23&t=31&band_rank=9&Refer=top",
+          "title": "张凌赫跨年表演在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            9,
-            6
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时23分]"
         },
         {
           "title": "波罗的海电信光缆受损 拉脱维亚警方已登船调查",
@@ -412,17 +470,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时19分]"
-        },
-        {
-          "title": "新生儿剪脐带被剪断手指 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时24分]"
         },
         {
           "title": "白宫官员家属涉格陵兰岛不当表态 丹麦予以批驳",
@@ -532,17 +579,6 @@
           "time_info": "[04时22分 ~ 05时18分]"
         },
         {
-          "title": "张凌赫跨年表演在外网爆火",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
           "title": "马杜罗戴着手铐走出联邦调查局的车辆，被转移到汽车上。",
           "url": "https://flash.jin10.com/detail/20260105201749638800",
           "source": "金十数据",
@@ -576,6 +612,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "联合国秘书长古特雷斯：对委内瑞拉局势可能加剧不稳定深表关切。",
+          "url": "https://flash.jin10.com/detail/20260105231042641800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "叶夫根尼·赫马拉将担任乌克兰国家安全局代理局长",
           "url": "https://wallstreetcn.com/livenews/3030896",
           "source": "华尔街见闻-快讯",
@@ -585,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "莫斯科市长表示，另一架飞向莫斯科的无人机袭击已被击退。紧急救援人员正在碎片坠落现场进行作业。",
+          "url": "https://flash.jin10.com/detail/20260105230838302800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美联储官员登台在即 通胀与就业的平衡论调成债市波动新诱因",
@@ -703,7 +761,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -802,7 +860,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -835,7 +893,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
