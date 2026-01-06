@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:20:00.494156+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-06T09:29:48.168689+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "水利部原党组成员、副部长田学斌被查",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时29分]"
         },
         {
           "title": "官方通报“新生儿被剪断手指”：助产士操作严重失误，已被停职",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时29分]"
         },
         {
           "title": "张凌赫跨年表演在外网爆火",
@@ -71,11 +71,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时29分]"
         },
         {
           "title": "委代理总统成立马杜罗释放事宜委员会，如何看待这个动作？马杜罗被释放的可能性有多少？",
@@ -90,6 +91,32 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "浙江一医院急诊主任谴责夜晚换药「占用资源」，怎样看待此事？你认为算是占用急诊资源吗？",
+          "url": "https://www.zhihu.com/question/1991065660160237955",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时20分 ~ 09时29分]"
+        },
+        {
+          "title": "广东惠州召开五千人干部警示教育大会后，5天内9名干部主动投案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32320697",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "捷克新政府通过施政纲领 与欧盟存在诸多分歧",
           "url": "https://flash.jin10.com/detail/20260106005820493800",
           "source": "金十数据",
@@ -101,18 +128,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "浙江一医院急诊主任谴责夜晚换药「占用资源」，怎样看待此事？你认为算是占用急诊资源吗？",
-          "url": "https://www.zhihu.com/question/1991065660160237955",
-          "source": "知乎",
+          "title": "人民币兑美元中间价报7.0173，上调57点；上一交易日中间价7.0230，上一交易日官方收盘价6.9806，上日夜盘报收6.9866。",
+          "url": "https://wallstreetcn.com/livenews/3031231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            20,
-            9,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "英国政府围绕扩大短期国债发行占比咨询市场意见",
@@ -176,6 +200,30 @@
           "time_info": "[03时20分 ~ 05时19分]"
         },
         {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时29分]"
+        },
+        {
+          "title": "已经跟领导暗示自己摆烂了，还没被边缘化，怎么办？",
+          "url": "https://www.zhihu.com/question/1943880809539953209",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时29分]"
+        },
+        {
           "title": "官方通报新生儿被剪断手指",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%84%BF%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -188,15 +236,15 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
+          "title": "12个部门罕见同框！2026首场证监会会议定调财务造假整治",
+          "url": "https://www.cls.cn/detail/2248717",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时29分"
         },
         {
           "title": "印度政府高调宣布稻米产量超越中国，媒体提醒“水危机可能加剧”",
@@ -232,17 +280,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "已经跟领导暗示自己摆烂了，还没被边缘化，怎么办？",
-          "url": "https://www.zhihu.com/question/1943880809539953209",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "委内瑞拉领事官员预计将探访马杜罗。",
           "url": "https://flash.jin10.com/detail/20260106013441765800",
           "source": "金十数据",
@@ -260,9 +297,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "全国宣传部长会议在京召开，蔡奇出席并讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32320104",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们还讨论了外交使团的轮换安排——外交部长将很快提交合适的候选人。鉴于乌克兰外交部需要持续高效地开展工作，我们将遴选一位新的外交部第一副部长。我期待收到最终人选。",
@@ -282,7 +330,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
