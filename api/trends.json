@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:37:24.897128+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-06T22:21:42.143601+08:00",
+  "total_titles_processed": 2031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "广东惠州召开五千人干部警示教育大会后，5天内9名干部主动投案",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时29分 ~ 21时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时29分 ~ 22时21分]"
         },
         {
           "title": "水利部原党组成员、副部长田学斌被查",
@@ -132,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时32分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[14时32分 ~ 22时21分]"
         },
         {
           "title": "新生儿剪脐带被剪断手指 当地通报",
@@ -312,6 +312,18 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
+          "title": "霸王茶姬通报店员「手打」奶茶，为跟风网络热梗博流量摆拍，予以辞退，该门店无限期停业整顿，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1991880000601875588",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时21分]"
+        },
+        {
           "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
           "url": "https://flash.jin10.com/detail/20260106024236433800",
           "source": "金十数据",
@@ -360,28 +372,17 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
-          "title": "霸王茶姬通报店员「手打」奶茶，为跟风网络热梗博流量摆拍，予以辞退，该门店无限期停业整顿，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1991880000601875588",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时37分]"
-        },
-        {
           "title": "山西临猗通报养牛场用工有残障人士：涉事相关责任人已被控制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32326645",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
@@ -392,8 +393,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
@@ -409,6 +410,30 @@
           "time_info": "[03时20分 ~ 05时19分]"
         },
         {
+          "title": "获刑十五年！甘肃省原副省长赵金云受贿、内幕交易案一审宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32326812",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
+          "title": "广州海珠通报一拆迁被指“扬尘逼迁”：立即停工，成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
           "title": "获刑十五年 甘肃省原副省长赵金云受贿、内幕交易案一审宣判",
           "url": "https://wallstreetcn.com/livenews/3031556",
           "source": "华尔街见闻-快讯",
@@ -421,15 +446,16 @@
           "time_info": "[17时26分 ~ 18时22分]"
         },
         {
-          "title": "获刑十五年！甘肃省原副省长赵金云受贿、内幕交易案一审宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32326812",
-          "source": "澎湃新闻",
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3031699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时37分]"
+          "time_info": "[21时37分 ~ 22时21分]"
         },
         {
           "title": "谱尼测试：公司预计2025年全年亏损，具体数据财务部门正在测算中。",
@@ -454,17 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "广州海珠通报一拆迁被指“扬尘逼迁”：立即停工，成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时37分]"
         },
         {
           "title": "官方回应矿泉水标签印20元人民币",
@@ -511,15 +526,26 @@
           "time_info": "20时42分"
         },
         {
-          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
-          "url": "https://wallstreetcn.com/livenews/3031699",
+          "title": "以色列外交部长：索马里总统已接受以色列总理内塔尼亚胡的邀请，将对以色列进行正式访问。",
+          "url": "https://flash.jin10.com/detail/20260106215515208800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "郭西已任审计署党组成员、总审计师",
+          "url": "https://wallstreetcn.com/livenews/3031719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时21分"
         },
         {
           "title": "以色列财政部官员：随着通胀缓解，以色列财政状况稳健，利差收窄，利率下降。",
@@ -550,7 +576,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -797,6 +823,17 @@
           "time_info": "17时26分"
         },
         {
+          "title": "干部任前公示电子版模糊 当地回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E4%BB%BB%E5%89%8D%E5%85%AC%E7%A4%BA%E7%94%B5%E5%AD%90%E7%89%88%E6%A8%A1%E7%B3%8A+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "乌国家安全局局长马柳克宣布辞职",
           "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E5%B1%80%E9%95%BF%E9%A9%AC%E6%9F%B3%E5%85%8B%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
           "source": "百度热搜",
@@ -844,7 +881,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一位山东青年在澳大利亚考公上岸",
@@ -857,6 +894,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时32分 ~ 15时25分]"
+        },
+        {
+          "title": "中国工商银行山东淄博分行原党委书记、行长王世明被查",
+          "url": "https://wallstreetcn.com/livenews/3031712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     }
