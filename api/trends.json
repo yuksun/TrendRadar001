@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T01:22:45.253350+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-07T02:31:41.640652+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 28,
       "titles": [
         {
           "title": "霸王茶姬通报店员「手打」奶茶，为跟风网络热梗博流量摆拍，予以辞退，该门店无限期停业整顿，如何看待此事？",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
-        },
-        {
-          "title": "德国检察官以“恐怖主义”和“破坏”罪名就柏林停电事件展开调查。",
-          "url": "https://flash.jin10.com/detail/20260107005743410800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "言短意长｜全国人大没有“王皓民”",
@@ -38,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "山西临猗通报养牛场用工有残障人士：涉事相关责任人已被控制",
@@ -47,11 +36,47 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "德国检察官以“恐怖主义”和“破坏”罪名就柏林停电事件展开调查。",
+          "url": "https://flash.jin10.com/detail/20260107005743410800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317367",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "巴西政府：巴西12月原油出口量为930万吨，高于2024年同期的478万吨。",
+          "url": "https://flash.jin10.com/detail/20260107020321207800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "计划投放KOL遭粉丝抵制 小米通报",
@@ -61,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "霸王茶姬通报“手打奶茶”：辞退店员",
@@ -72,31 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
-        },
-        {
-          "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
-          "url": "https://news.ifeng.com/c/8phLoUFMc69",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
-        },
-        {
-          "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317367",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "获刑十五年！甘肃省原副省长赵金云受贿、内幕交易案一审宣判",
@@ -106,8 +108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "广州海珠通报一拆迁被指“扬尘逼迁”：立即停工，成立联合调查组",
@@ -118,8 +120,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "水利部：坚决拥护党中央调查田学斌",
@@ -127,11 +129,79 @@
           "source": "今日头条",
           "ranks": [
             30,
-            24
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
+          "url": "https://news.ifeng.com/c/8phLoUFMc69",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "12个部门联手整治股市",
+          "url": "https://www.toutiao.com/trending/7592234699129359918/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时31分]"
+        },
+        {
+          "title": "人民日报刊文批一些党员干部习惯于坐在办公室“拍脑袋”决策，对群众诉求漠不关心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32324275",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时31分]"
+        },
+        {
+          "title": "蒋超良易会满等被中纪委机关报点名",
+          "url": "https://www.toutiao.com/trending/7592134757757485065/",
+          "source": "今日头条",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时22分]"
+          "time_info": "[02时30分 ~ 02时31分]"
+        },
+        {
+          "title": "当地通报养牛场用工有残障人士",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%85%BB%E7%89%9B%E5%9C%BA%E7%94%A8%E5%B7%A5%E6%9C%89%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
+        },
+        {
+          "title": "巴西政府：12月玉米出口量为6,127,590吨，高于2024年同期的4,265,867吨。巴西12月铁矿石出口量为4024万吨，高于2024年同期的3057万吨。",
+          "url": "https://flash.jin10.com/detail/20260107020210836800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "壳牌签署协议，从雪佛龙旗下部门手中收购安哥拉近海两个石油区块的35%股权。",
@@ -140,7 +210,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -156,26 +226,26 @@
           "time_info": "00时27分"
         },
         {
-          "title": "12个部门联手整治股市",
-          "url": "https://www.toutiao.com/trending/7592234699129359918/",
-          "source": "今日头条",
+          "title": "委内瑞拉总检察长强调：马杜罗享有绝对豁免权",
+          "url": "https://wallstreetcn.com/livenews/3031830",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时31分"
         },
         {
-          "title": "人民日报刊文批一些党员干部习惯于坐在办公室“拍脑袋”决策，对群众诉求漠不关心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32324275",
-          "source": "澎湃新闻",
+          "title": "当地居民说，国际社会承认的也门政府所在地亚丁市6日晚传出激烈枪声。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3031820",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时31分"
         },
         {
           "title": "意大利总理：对欧盟委员会关于农民资金的决定表示满意。",
@@ -200,6 +270,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "北欧外交部长谈格陵兰岛：我们均已采取措施，加强该地区的威慑与防御。",
+          "url": "https://flash.jin10.com/detail/20260107013707159800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "北欧外交部长：我们共同致力于维护北极地区的安全、稳定与合作。",
+          "url": "https://flash.jin10.com/detail/20260107013647858800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "伊朗非政府人权组织称，镇压伊朗抗议活动至少造成27人死亡。",
           "url": "https://flash.jin10.com/detail/20260106235011438800",
           "source": "金十数据",
@@ -209,6 +301,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "北欧外交部长：我们支持北约在该地区加强存在和警戒。",
+          "url": "https://flash.jin10.com/detail/20260107013641716800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "北欧外交部长：集体重申，涉及丹麦和格陵兰岛的事务应由丹麦和格陵兰岛自行决定。",
+          "url": "https://flash.jin10.com/detail/20260107013635760800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     }
