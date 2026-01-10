@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T09:27:59.996338+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-01-10T11:23:49.062077+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "16倍大牛股被证监会立案调查，多家机构曾现身十大流通股东",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -37,11 +37,25 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时23分]"
+        },
+        {
+          "title": "天普股份被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2253455",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "美能源部长：将允许美石油公司进入委内瑞拉开展业务",
@@ -55,29 +69,17 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "天普股份被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2253455",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时27分]"
-        },
-        {
           "title": "领导奖金30万员工1万公司称已报警",
           "url": "https://www.baidu.com/s?wd=%E9%A2%86%E5%AF%BC%E5%A5%96%E9%87%9130%E4%B8%87%E5%91%98%E5%B7%A51%E4%B8%87%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6",
           "source": "百度热搜",
           "ranks": [
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "对外卖平台市场竞争状况调查评估",
@@ -86,11 +88,12 @@
           "ranks": [
             7,
             8,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "官方调查外卖平台市场竞争状况",
@@ -184,11 +187,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "暴力执法!美ICE当街射杀公民",
@@ -197,11 +201,12 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
@@ -222,9 +227,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
         },
         {
           "title": "美团、淘宝闪购回应“对外卖市场竞争调查评估”：坚决拥护，积极配合",
@@ -232,11 +237,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时23分 ~ 09时27分]"
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 11时23分]"
+        },
+        {
+          "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2253721",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
+        },
+        {
+          "title": "韩国防部长官：朝鲜公开照片中的无人机非韩国军方持有机型",
+          "url": "https://flash.jin10.com/detail/20260110104644488800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "美联储巴尔金：美联储体系的一大优势在于拥有身处华盛顿特区“泡沫”之外的地区官员。",
@@ -261,17 +290,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2253721",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "班主任被学生喊到教室拍火烧云",
           "url": "https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%96%8A%E5%88%B0%E6%95%99%E5%AE%A4%E6%8B%8D%E7%81%AB%E7%83%A7%E4%BA%91",
           "source": "百度热搜",
@@ -285,6 +303,17 @@
           "time_info": "[00时26分 ~ 02时31分]"
         },
         {
+          "title": "如何看待 3 人实名举报上海移动为创收逼员工上门断网，此消息是否为真，运营商压力已经这么大了吗？",
+          "url": "https://www.zhihu.com/question/1992709417834132513",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
+        },
+        {
           "title": "消息人士称，如果力拓集团推进收购，将寻求保留嘉能可的贸易部门。",
           "url": "https://flash.jin10.com/detail/20260110000320303800",
           "source": "金十数据",
@@ -295,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时22分]"
+        },
+        {
+          "title": "在妻子孕期出轨博士后未给女子道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A6%BB%E5%AD%90%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%9C%AA%E7%BB%99%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时23分]"
         },
         {
           "title": "据荷兰NOS新闻：荷兰组阁谈判将致力于组建少数派政府。",
@@ -332,15 +373,15 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
-          "title": "如何看待 3 人实名举报上海移动为创收逼员工上门断网，此消息是否为真，运营商压力已经这么大了吗？",
-          "url": "https://www.zhihu.com/question/1992709417834132513",
-          "source": "知乎",
+          "title": "荷兰将组建少数派联合政府",
+          "url": "https://flash.jin10.com/detail/20260110100714966800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时23分"
         },
         {
           "title": "乌防长及数字转型部长已向最高拉达提交辞职申请",
@@ -354,15 +395,37 @@
           "time_info": "01时22分"
         },
         {
-          "title": "在妻子孕期出轨博士后未给女子道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A6%BB%E5%AD%90%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%9C%AA%E7%BB%99%E5%A5%B3%E5%AD%90%E9%81%93%E6%AD%89%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3034478",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时23分"
+        },
+        {
+          "title": "荷兰将组建少数派联合政府",
+          "url": "https://wallstreetcn.com/livenews/3034476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "王莉举报训练基地主任猥亵女队员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E8%AE%AD%E7%BB%83%E5%9F%BA%E5%9C%B0%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E9%98%9F%E5%91%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "乌官员：袭击乌方设施的俄“榛树”导弹未携带弹头",
@@ -431,6 +494,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "官方通报小学校服有薄膜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E6%9C%89%E8%96%84%E8%86%9C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "美联储理事会宣布2026年地区联邦储备银行委员会主席和副主席。",
           "url": "https://flash.jin10.com/detail/20260110020040705800",
           "source": "金十数据",
@@ -448,7 +522,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
