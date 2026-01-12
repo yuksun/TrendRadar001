@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:44:23.008010+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-01-12T21:41:44.428708+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 95,
+      "match_count": 104,
       "titles": [
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -32,21 +32,6 @@
           "time_info": "[00时23分 ~ 09时44分]"
         },
         {
-          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
-          "url": "https://www.zhihu.com/question/1993965084217713724",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 20时44分]"
-        },
-        {
           "title": "10名干部违规吃喝致1死 9人被处理",
           "url": "https://www.toutiao.com/trending/7594079383007084580/",
           "source": "今日头条",
@@ -57,6 +42,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 14时35分]"
+        },
+        {
+          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
+          "url": "https://www.zhihu.com/question/1993965084217713724",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            4,
+            10,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 21时41分]"
         },
         {
           "title": "拆违引发“冒名执法”争议：湖北黄石一区城管局被判违法后称系街道所为",
@@ -158,8 +159,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时18分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 21时41分]"
         },
         {
           "title": "卫健局将调查疑小澈住院记录曝光",
@@ -236,6 +237,21 @@
           "time_info": "[09时44分 ~ 18时24分]"
         },
         {
+          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 21时41分]"
+        },
+        {
           "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
           "url": "https://www.zhihu.com/question/1993063954730223495",
           "source": "知乎",
@@ -289,20 +305,6 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 20时44分]"
-        },
-        {
           "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
           "url": "https://wallstreetcn.com/livenews/3034741",
           "source": "华尔街见闻-快讯",
@@ -341,6 +343,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 14时35分]"
+        },
+        {
+          "title": "官方确认歼10CE战果",
+          "url": "https://www.douyin.com/hot/2365317",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
         },
         {
           "title": "央视播出养老金贪污案细节",
@@ -482,7 +496,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -531,15 +545,15 @@
           "time_info": "19时20分"
         },
         {
-          "title": "官方确认歼10CE战果",
-          "url": "https://www.douyin.com/hot/2365317",
-          "source": "抖音",
+          "title": "德国财政部长克林贝尔：我们需要在经济上变得更有弹性。",
+          "url": "https://flash.jin10.com/detail/20260112213100491800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时44分"
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -570,6 +584,20 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
+          "title": "重庆网友“呆呆”吆喝杀年猪，网友跨省组队来帮忙！村委会：来了上千人，多部门维持秩序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367248",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时41分]"
+        },
+        {
           "title": "民警被撞牺牲 执法记录仪画面公开",
           "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E8%A2%AB%E6%92%9E%E7%89%BA%E7%89%B2+%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80",
           "source": "百度热搜",
@@ -582,6 +610,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 12时49分]"
+        },
+        {
+          "title": "商务部关于中欧电动汽车案磋商进展的通报",
+          "url": "https://www.cls.cn/detail/2254919",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时41分]"
         },
         {
           "title": "新加坡部长：淡马锡的业绩与其他风险偏好更高的主权财富基金相当。",
@@ -634,19 +675,6 @@
           "time_info": "[15时26分 ~ 18时24分]"
         },
         {
-          "title": "重庆网友“呆呆”吆喝杀年猪，网友跨省组队来帮忙！村委会：来了上千人，多部门维持秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367248",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时44分]"
-        },
-        {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
           "url": "https://flash.jin10.com/detail/20260111212521502800",
           "source": "金十数据",
@@ -694,18 +722,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 06时19分]"
-        },
-        {
-          "title": "商务部关于中欧电动汽车案磋商进展的通报",
-          "url": "https://www.cls.cn/detail/2254919",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
         },
         {
           "title": "俄罗斯和乌克兰通报最新战况",
@@ -849,15 +865,37 @@
           "time_info": "18时24分"
         },
         {
+          "title": "德国财政部长克林贝尔：稀土价格下限是我们将在G7+会议上讨论的一个选项。",
+          "url": "https://flash.jin10.com/detail/20260112212853901800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "英国通信管理局对X平台展开调查",
           "url": "https://wallstreetcn.com/livenews/3035329",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "13岁女孩冰窟救男童被通报表扬",
+          "url": "https://www.toutiao.com/trending/7594461849664392754/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "欧洲央行管委Muller：欧洲央行的利率在一段时间内一直处于合适的位置。 近期没有理由进一步降息。 近期欧元银行同业拆借利率（Euribor）将会相当稳定。 欧洲央行加息的问题不会在接下来的几个月或几个季度出现。 也许要到几年之后，欧洲央行利率才可能更高。",
@@ -899,7 +937,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -921,7 +959,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1042,7 +1080,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1113,6 +1151,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "北约秘书长吕特：北约对乌克兰加入的承诺依然有效。",
+          "url": "https://flash.jin10.com/detail/20260112210905054800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "四创电子：军委机关事务管理总局供应局自2026年1月11日起暂停公司参加全军物资工程服务采购活动资格，预计该事项短期内将对公司后勤保障领域的物资工程服务业务产生一定影响。",
           "url": "https://wallstreetcn.com/livenews/3035227",
           "source": "华尔街见闻-快讯",
@@ -1124,15 +1173,37 @@
           "time_info": "19时20分"
         },
         {
+          "title": "丹麦及格陵兰岛外交官员近期将赴美与美官员会面",
+          "url": "https://wallstreetcn.com/livenews/3035356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "英国科技大臣肯德尔欢迎英国通信监管局对社交媒体平台“X”展开调查。",
           "url": "https://flash.jin10.com/detail/20260112200253020800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "哈塞特否认参与对鲍威尔的调查",
+          "url": "https://flash.jin10.com/detail/20260112210450781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "全美多地抗议联邦执法人员暴力执法",
@@ -1146,6 +1217,28 @@
           "time_info": "13时29分"
         },
         {
+          "title": "北约秘书长吕特：北约盟友正在讨论确保北极安全的下一步措施。",
+          "url": "https://flash.jin10.com/detail/20260112210322271800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "北约秘书长吕特：所有盟国都认同北极的重要性。",
+          "url": "https://flash.jin10.com/detail/20260112210242145800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "伊朗外长：政府已与抗议者展开对话 局势目前完全得到控制",
           "url": "https://wallstreetcn.com/livenews/3035076",
           "source": "华尔街见闻-快讯",
@@ -1155,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "罗保铭曾多次乘原海航公务机旅游",
+          "url": "https://www.toutiao.com/trending/7594453188938321435/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
@@ -1195,6 +1299,17 @@
           "time_info": "[00时23分 ~ 09时44分]"
         },
         {
+          "title": "山东网友：我们有自己的“宁古塔”",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E5%AE%81%E5%8F%A4%E5%A1%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时41分]"
+        },
+        {
           "title": "山东：积极争取更多突破关键核心“卡脖子”技术的科技型企业纳入国家上市融资、并购重组绿色通道",
           "url": "https://wallstreetcn.com/livenews/3035248",
           "source": "华尔街见闻-快讯",
@@ -1215,17 +1330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "山东网友：我们有自己的“宁古塔”",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E5%AE%81%E5%8F%A4%E5%A1%94%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "山东威海下了“倾盆大瓢雪”",
