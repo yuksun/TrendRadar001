@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T18:24:45.613289+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-12T19:20:41.456867+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 81,
+      "match_count": 88,
       "titles": [
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 19时20分]"
         },
         {
           "title": "10名干部违规吃喝致1死 9人被处理",
@@ -83,6 +84,48 @@
           "time_info": "[09时44分 ~ 15时26分]"
         },
         {
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
+          "ranks": [
+            14,
+            1,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 19时20分]"
+        },
+        {
+          "title": "视频丨唐仁健大搞“面子工程” ，上马8个项目7个停摆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364039",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 19时20分]"
+        },
+        {
+          "title": "官方确认歼10CE击落多架战机战果",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%AD%BC10CE%E5%87%BB%E8%90%BD%E5%A4%9A%E6%9E%B6%E6%88%98%E6%9C%BA%E6%88%98%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            13,
+            16,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 19时20分]"
+        },
+        {
           "title": "主播出轨榜一,男友怒撕渣女",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348957&amp;topic_name=%E4%B8%BB%E6%92%AD%E5%87%BA%E8%BD%A8%E6%A6%9C%E4%B8%80%2C%E7%94%B7%E5%8F%8B%E6%80%92%E6%92%95%E6%B8%A3%E5%A5%B3",
           "source": "贴吧",
@@ -93,11 +136,12 @@
             21,
             25,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 18时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 19时20分]"
         },
         {
           "title": "海南省委原书记罗保铭1月12日晚将在中纪委专题片出镜忏悔",
@@ -152,20 +196,6 @@
           "time_info": "[12时49分 ~ 18时24分]"
         },
         {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.douyin.com/hot/2364900",
-          "source": "抖音",
-          "ranks": [
-            14,
-            1,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 18时24分]"
-        },
-        {
           "title": "韩总统府：无意挑衅或刺激朝鲜，将启动军警联合调查",
           "url": "https://news.ifeng.com/c/8ppBa3tBe61",
           "source": "凤凰网",
@@ -175,20 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时44分]"
-        },
-        {
-          "title": "官方确认歼10CE击落多架战机战果",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%AD%BC10CE%E5%87%BB%E8%90%BD%E5%A4%9A%E6%9E%B6%E6%88%98%E6%9C%BA%E6%88%98%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 18时24分]"
         },
         {
           "title": "河南10名干部违规吃喝1人死亡",
@@ -204,19 +220,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "视频丨唐仁健大搞“面子工程” ，上马8个项目7个停摆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364039",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 18时24分]"
         },
         {
           "title": "官方辟谣小学生50元买茅台",
@@ -264,11 +267,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时20分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼3天",
@@ -354,7 +358,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -373,6 +377,20 @@
           "time_info": "[09时44分 ~ 14时35分]"
         },
         {
+          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时20分]"
+        },
+        {
           "title": "伊朗政府宣布全国哀悼三天",
           "url": "https://www.cls.cn/detail/2254259",
           "source": "财联社热门",
@@ -385,6 +403,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时48分 ~ 16时31分]"
+        },
+        {
+          "title": "闫学晶儿子道歉：娘的错，儿子担！感谢大家的监督批评！我们错了",
+          "url": "https://news.ifeng.com/c/8pqxPPl9C4x",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 19时20分]"
         },
         {
           "title": "蔡依林方回应演唱会被举报",
@@ -416,7 +446,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -471,9 +501,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "以色列联合政府推进法案，旨在废除以色列总理内塔尼亚胡目前受审的刑事指控。",
+          "url": "https://flash.jin10.com/detail/20260112190001129800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -502,32 +543,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时19分]"
-        },
-        {
-          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时24分]"
-        },
-        {
-          "title": "闫学晶儿子道歉：娘的错，儿子担！感谢大家的监督批评！我们错了",
-          "url": "https://news.ifeng.com/c/8pqxPPl9C4x",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "民警被撞牺牲 执法记录仪画面公开",
@@ -618,6 +633,18 @@
           "time_info": "[09时44分 ~ 12时49分]"
         },
         {
+          "title": "重庆网友“呆呆”吆喝杀年猪，网友跨省组队来帮忙！村委会：来了上千人，多部门维持秩序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367248",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时20分]"
+        },
+        {
           "title": "医生受贿3.5万开药 让销售赚近百万",
           "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8F%97%E8%B4%BF3.5%E4%B8%87%E5%BC%80%E8%8D%AF+%E8%AE%A9%E9%94%80%E5%94%AE%E8%B5%9A%E8%BF%91%E7%99%BE%E4%B8%87",
           "source": "百度热搜",
@@ -691,16 +718,15 @@
           "time_info": "[11时48分 ~ 12时49分]"
         },
         {
-          "title": "重庆网友“呆呆”吆喝杀年猪，网友跨省组队来帮忙！村委会：来了上千人，多部门维持秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367248",
-          "source": "澎湃新闻",
+          "title": "蔡依林演唱会含宗教元素被举报，舞台设计被部分网友指控太诡异，如何评价其创意？这场争议究竟会如何收场？",
+          "url": "https://www.zhihu.com/question/1993969956631573132",
+          "source": "知乎",
           "ranks": [
-            15,
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "新加坡部长：政府将根据长期表现而非短期波动来评估淡马锡和新加坡政府投资公司。过去20年，新加坡政府投资公司的回报率达到了3.8%，始终保持着高于全球通货膨胀率的收益水平。淡马锡和新加坡政府投资公司的回报合理且符合预期。",
@@ -780,7 +806,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -791,7 +817,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -802,9 +828,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "哈马斯官员称已向埃及提交技术官员委员会候选名单",
+          "url": "https://flash.jin10.com/detail/20260112185813021800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "欧洲央行管委穆勒：欧洲央行利率已处于合理水平一段时间了。",
@@ -813,9 +850,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "商务部关于中欧电动汽车案磋商进展的通报",
+          "url": "https://www.cls.cn/detail/2254919",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "欧洲央行管委穆勒：欧洲央行加息并非未来几个月或几个季度的事。",
@@ -824,7 +872,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -912,18 +960,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "蔡依林演唱会含宗教元素被举报，舞台设计被部分网友指控太诡异，如何评价其创意？这场争议究竟会如何收场？",
-          "url": "https://www.zhihu.com/question/1993969956631573132",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -950,6 +987,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "航天晨光：副总经理孙建航、董事会秘书邓泽刚拟减持不超过2.62万股。",
+          "url": "https://wallstreetcn.com/livenews/3035235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "领导让我安排同级同事的工作，但同事不愿意听我的，怎么办？",
           "url": "https://www.zhihu.com/question/656140293",
           "source": "知乎",
@@ -967,9 +1015,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "德国政府发言人：目前北约内部正在就进一步加强北极地区安全展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260112184512148800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "市场消息：伊朗外交部长阿拉格奇表示，伊朗全国互联网即将恢复。",
+          "url": "https://flash.jin10.com/detail/20260112184447763800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "四创电子：军委机关事务管理总局供应局自2026年1月11日起暂停公司参加全军物资工程服务采购活动资格，预计该事项短期内将对公司后勤保障领域的物资工程服务业务产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3035227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "全美多地抗议联邦执法人员暴力执法",
@@ -997,7 +1078,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "山东威海下了倾盆大瓢雪",
@@ -1030,6 +1111,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时44分]"
+        },
+        {
+          "title": "山东：积极争取更多突破关键核心“卡脖子”技术的科技型企业纳入国家上市融资、并购重组绿色通道",
+          "url": "https://wallstreetcn.com/livenews/3035248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "山东：力争到2027年年末，投资山东的创业投资金额年均增长10%以上",
+          "url": "https://wallstreetcn.com/livenews/3035242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "山东威海下了“倾盆大瓢雪”",
