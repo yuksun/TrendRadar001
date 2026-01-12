@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T16:31:36.258452+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-12T17:31:58.722221+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -44,6 +44,18 @@
           "time_info": "[00时23分 ~ 14时35分]"
         },
         {
+          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
+          "url": "https://www.zhihu.com/question/1993965084217713724",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时31分]"
+        },
+        {
           "title": "拆违引发“冒名执法”争议：湖北黄石一区城管局被判违法后称系街道所为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32326808",
           "source": "澎湃新闻",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时44分]"
-        },
-        {
-          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
-          "url": "https://www.zhihu.com/question/1993965084217713724",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时31分]"
         },
         {
           "title": "【早报】证监会提高“吹哨人”奖励标准；天普股份股价异常波动公告涉嫌重大遗漏被立案调查",
@@ -90,11 +90,27 @@
             12,
             20,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 17时31分]"
+        },
+        {
+          "title": "海南省委原书记罗保铭1月12日晚将在中纪委专题片出镜忏悔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            16,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 17时31分]"
         },
         {
           "title": "卫健局将调查疑小澈住院记录曝光",
@@ -148,45 +164,6 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "海南省委原书记罗保铭1月12日晚将在中纪委专题片出镜忏悔",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364180",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            16,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 16时31分]"
-        },
-        {
-          "title": "官方确认歼10CE击落多架战机战果",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%AD%BC10CE%E5%87%BB%E8%90%BD%E5%A4%9A%E6%9E%B6%E6%88%98%E6%9C%BA%E6%88%98%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时31分]"
-        },
-        {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.douyin.com/hot/2364900",
-          "source": "抖音",
-          "ranks": [
-            14,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时31分]"
-        },
-        {
           "title": "美联储主席回应遭刑事调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -194,8 +171,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时31分]"
+        },
+        {
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
+          "ranks": [
+            14,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时31分]"
+        },
+        {
+          "title": "官方确认歼10CE击落多架战机战果",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E6%AD%BC10CE%E5%87%BB%E8%90%BD%E5%A4%9A%E6%9E%B6%E6%88%98%E6%9C%BA%E6%88%98%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时31分]"
         },
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -206,8 +209,60 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时31分]"
+        },
+        {
+          "title": "视频丨唐仁健大搞“面子工程” ，上马8个项目7个停摆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364039",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 17时31分]"
+        },
+        {
+          "title": "官方辟谣小学生50元买茅台",
+          "url": "https://www.toutiao.com/trending/7593338071703306283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 17时31分]"
+        },
+        {
+          "title": "河南罗山县10名干部违规吃喝致1人酒后死亡，专题片揭示背后风腐交织问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364166",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 17时31分]"
+        },
+        {
+          "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
+          "url": "https://www.zhihu.com/question/1993063954730223495",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时31分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼3天",
@@ -219,29 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "视频丨唐仁健大搞“面子工程” ，上马8个项目7个停摆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364039",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 16时31分]"
-        },
-        {
-          "title": "官方辟谣小学生50元买茅台",
-          "url": "https://www.toutiao.com/trending/7593338071703306283/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 16时31分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
@@ -258,17 +290,17 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
-          "title": "河南罗山县10名干部违规吃喝致1人酒后死亡，专题片揭示背后风腐交织问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364166",
-          "source": "澎湃新闻",
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            16,
+            12,
             18,
-            19
+            24
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时18分 ~ 16时31分]"
+          "time_info": "[11时48分 ~ 17时31分]"
         },
         {
           "title": "走到哪吃到哪，被留置的前一天晚上还喝酒到半夜！唐仁健腐败细节披露",
@@ -295,21 +327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时29分]"
-        },
-        {
-          "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
-          "url": "https://www.zhihu.com/question/1993063954730223495",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时31分]"
         },
         {
           "title": "伊朗政府多举措应对局势，强化安全与供应",
@@ -347,18 +364,6 @@
             12,
             11,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时31分]"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            18
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -420,6 +425,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "商务部通报中欧电动汽车案磋商进展：有必要向中国出口商提供关于价格承诺的通用指导",
+          "url": "https://wallstreetcn.com/livenews/3035149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗政府宣布全国哀悼三天",
           "url": "https://flash.jin10.com/detail/20260112040746049800",
           "source": "金十数据",
@@ -462,6 +478,18 @@
           "time_info": "[04时21分 ~ 12时49分]"
         },
         {
+          "title": "蔡依林方回应演唱会被举报",
+          "url": "https://www.douyin.com/hot/2364963",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 17时31分]"
+        },
+        {
           "title": "新加坡部长：淡马锡的业绩与其他风险偏好更高的主权财富基金相当。",
           "url": "https://flash.jin10.com/detail/20260112131254441800",
           "source": "金十数据",
@@ -486,6 +514,30 @@
           "time_info": "[12时49分 ~ 13时29分]"
         },
         {
+          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时31分]"
+        },
+        {
+          "title": "闫学晶儿子道歉：娘的错，儿子担！感谢大家的监督批评！我们错了",
+          "url": "https://news.ifeng.com/c/8pqxPPl9C4x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 17时31分]"
+        },
+        {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
           "url": "https://flash.jin10.com/detail/20260111212521502800",
           "source": "金十数据",
@@ -497,16 +549,17 @@
           "time_info": "[00时23分 ~ 03时15分]"
         },
         {
-          "title": "蔡依林方回应演唱会被举报",
-          "url": "https://www.douyin.com/hot/2364963",
-          "source": "抖音",
+          "title": "受贿过亿的原中央委员罗保铭出镜忏悔",
+          "url": "https://www.toutiao.com/trending/7594301546922688575/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            27
+            8,
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时31分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -520,29 +573,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 12时49分]"
-        },
-        {
-          "title": "闫学晶儿子道歉：娘的错，儿子担！感谢大家的监督批评！我们错了",
-          "url": "https://news.ifeng.com/c/8pqxPPl9C4x",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
-          "title": "国家卫健委等六部门：严禁医疗机构开展殡仪服务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366771",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "医生受贿3.5万开药 让销售赚近百万",
@@ -594,18 +624,6 @@
           "time_info": "[12时49分 ~ 13时29分]"
         },
         {
-          "title": "受贿过亿的原中央委员罗保铭出镜忏悔",
-          "url": "https://www.toutiao.com/trending/7594301546922688575/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时31分]"
-        },
-        {
           "title": "委官员：绑架委内瑞拉总统是“战争罪”",
           "url": "https://wallstreetcn.com/livenews/3034775",
           "source": "华尔街见闻-快讯",
@@ -640,6 +658,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时35分]"
+        },
+        {
+          "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
+          "url": "https://wallstreetcn.com/livenews/3035101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时31分]"
         },
         {
           "title": "工信部部长李乐成：2026年将着重抓好“稳”“扩”“创”“增”四方面工作",
@@ -717,9 +747,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "重磅！美联储主席鲍威尔遭刑事调查 罕见视频回应",
+          "url": "https://www.cls.cn/detail/2254384",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "在政府施压下 英国竞争监管机构2025年并购审查“零否决”",
@@ -733,6 +774,28 @@
           "time_info": "14时35分"
         },
         {
+          "title": "美民众说美强制移民执法是恐怖主义",
+          "url": "https://flash.jin10.com/detail/20260112163926646800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9742，较上一交易日官方收盘价涨79点，较上日夜盘收盘涨43点。",
+          "url": "https://wallstreetcn.com/livenews/3035128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "干部组酒局致喝死人找商人借钱私了",
           "url": "https://www.toutiao.com/trending/7594060801015693331/",
           "source": "今日头条",
@@ -744,15 +807,15 @@
           "time_info": "09时44分"
         },
         {
-          "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
-          "url": "https://wallstreetcn.com/livenews/3035101",
-          "source": "华尔街见闻-快讯",
+          "title": "重庆网友“呆呆”吆喝杀年猪，网友跨省组队来帮忙！村委会：来了上千人，多部门维持秩序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367248",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时31分"
         },
         {
           "title": "经济学家：美联储独立性受损或影响其他国家政府的偿债能力",
@@ -794,7 +857,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
