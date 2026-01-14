@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:24:56.271080+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-01-14T16:29:29.261435+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 77,
+      "match_count": 88,
       "titles": [
         {
           "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 16时29分]"
         },
         {
           "title": "官方通报贵州省博29件套文物丢失或被盗：成立调查组",
@@ -48,6 +48,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时19分]"
+        },
+        {
+          "title": "江西省人大常委会原副主任洪礼和谈与乘客对骂：我被查处是必然",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376740",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 16时29分]"
         },
         {
           "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
@@ -80,18 +92,6 @@
           "time_info": "[00时30分 ~ 12时45分]"
         },
         {
-          "title": "江西省人大常委会原副主任洪礼和谈与乘客对骂：我被查处是必然",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376740",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时24分]"
-        },
-        {
           "title": "领导狂揽30w,员工质疑反遭打",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349050&amp;topic_name=%E9%A2%86%E5%AF%BC%E7%8B%82%E6%8F%BD30w%2C%E5%91%98%E5%B7%A5%E8%B4%A8%E7%96%91%E5%8F%8D%E9%81%AD%E6%89%93",
           "source": "贴吧",
@@ -101,11 +101,12 @@
             16,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 16时29分]"
         },
         {
           "title": "懂王出手狠辣,鲍威尔惨遭调查",
@@ -117,11 +118,12 @@
             19,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 16时29分]"
         },
         {
           "title": "中使馆：中方坚决拒绝菲国家海事委员会无视事实且误导性的声明",
@@ -151,6 +153,41 @@
           "time_info": "[00时30分 ~ 07时19分]"
         },
         {
+          "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32375981",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 16时29分]"
+        },
+        {
+          "title": "警犬因「上班死气沉沉，下班魅力四射」被通报批评，它可能会面临哪些「惩罚」？为何警犬上下班差异会这么大？",
+          "url": "https://www.zhihu.com/question/1994426887582217759",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时29分]"
+        },
+        {
+          "title": "宝能集团董事长姚振华实名举报",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "官方回应贺娇龙被传去世",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B4%BA%E5%A8%87%E9%BE%99%E8%A2%AB%E4%BC%A0%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -168,7 +205,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -188,19 +225,6 @@
           "time_info": "[09时43分 ~ 14时32分]"
         },
         {
-          "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32375981",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时24分]"
-        },
-        {
           "title": "“网红干部”贺娇龙意外坠马离世",
           "url": "https://www.toutiao.com/trending/7594858520488067081/",
           "source": "今日头条",
@@ -212,6 +236,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.toutiao.com/trending/7595045710718930468/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "据越南官方媒体报道，越南有望签署向菲律宾出口250万吨大米的协议。",
           "url": "https://flash.jin10.com/detail/20260114140535320800",
           "source": "金十数据",
@@ -221,6 +256,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -240,18 +297,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "警犬因「上班死气沉沉，下班魅力四射」被通报批评，它可能会面临哪些「惩罚」？为何警犬上下班差异会这么大？",
-          "url": "https://www.zhihu.com/question/1994426887582217759",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -381,6 +427,18 @@
           "time_info": "[04时24分 ~ 05时20分]"
         },
         {
+          "title": "宝能董事长姚振华实名举报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%83%BD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时29分]"
+        },
+        {
           "title": "克林顿夫妇拒绝在美众议院对爱泼斯坦案调查中作证",
           "url": "https://wallstreetcn.com/livenews/3036355",
           "source": "华尔街见闻-快讯",
@@ -414,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时23分]"
+        },
+        {
+          "title": "宝能董事长实名举报常熟相关部门",
+          "url": "https://www.douyin.com/hot/2367465",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时29分]"
         },
         {
           "title": "官方回应贺娇龙被传去世",
@@ -477,7 +546,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -499,7 +568,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -543,9 +612,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "税务部门曝光两起网络主播偷税案 一涉案主播粉丝量超3000万",
+          "url": "https://wallstreetcn.com/livenews/3036803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "商务部通报中欧电动汽车案磋商进展，「有必要向中国出口商提供关于价格承诺的通用指导」，哪些信息值得关注？",
@@ -565,7 +645,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -579,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "宝能董事长姚振华实名举报",
+          "url": "https://www.toutiao.com/trending/7595106179412397587/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "加拿大贸易部长：我们将于下个月正式启动与印度的自由贸易协定谈判。",
@@ -620,9 +711,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "市场监管总局依法对携程集团有限公司立案调查",
+          "url": "https://wallstreetcn.com/livenews/3036800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "官方通报4名专家身体不适拒评标",
@@ -634,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.douyin.com/hot/2367563",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "印尼能源部副部长：政府已决定今年将生物柴油计划维持在B40水平。",
@@ -702,6 +815,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "欧洲央行管委维勒鲁瓦：法国预算方面的政治不确定性至少使GDP增速下降0.2%。",
+          "url": "https://flash.jin10.com/detail/20260114154111479800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "赛默飞CEO：公司今年将在学术和政府终端市场保持谨慎。",
           "url": "https://flash.jin10.com/detail/20260114005108960800",
           "source": "金十数据",
@@ -730,7 +854,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -790,15 +914,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "宝能董事长姚振华实名举报",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%83%BD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "中国共产党第二十届中央纪律检查委员会第五次全体会议公报",
+          "url": "https://wallstreetcn.com/livenews/3036786",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "16时29分"
         },
         {
           "title": "黎巴嫩真主党就伊朗局势发表声明 支持伊朗政府",
@@ -823,17 +947,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "宝能董事长实名举报常熟相关部门",
-          "url": "https://www.douyin.com/hot/2367465",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "委内瑞拉最高立法官员罗德里格斯：已有400多人获释出狱。",
           "url": "https://flash.jin10.com/detail/20260114043315210800",
           "source": "金十数据",
@@ -851,7 +964,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -873,7 +986,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -909,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
