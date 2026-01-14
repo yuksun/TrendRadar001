@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:21:03.478937+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-01-14T20:43:09.827577+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 127,
+      "match_count": 132,
       "titles": [
         {
           "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
@@ -28,11 +28,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 20时43分]"
         },
         {
           "title": "官方通报贵州省博29件套文物丢失或被盗：成立调查组",
@@ -94,6 +95,19 @@
           "time_info": "[00时30分 ~ 12时45分]"
         },
         {
+          "title": "警犬因「上班死气沉沉，下班魅力四射」被通报批评，它可能会面临哪些「惩罚」？为何警犬上下班差异会这么大？",
+          "url": "https://www.zhihu.com/question/1994426887582217759",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 20时43分]"
+        },
+        {
           "title": "领导狂揽30w,员工质疑反遭打",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349050&amp;topic_name=%E9%A2%86%E5%AF%BC%E7%8B%82%E6%8F%BD30w%2C%E5%91%98%E5%B7%A5%E8%B4%A8%E7%96%91%E5%8F%8D%E9%81%AD%E6%89%93",
           "source": "贴吧",
@@ -106,11 +120,12 @@
             19,
             21,
             22,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "懂王出手狠辣,鲍威尔惨遭调查",
@@ -125,11 +140,12 @@
             22,
             24,
             25,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "中使馆：中方坚决拒绝菲国家海事委员会无视事实且误导性的声明",
@@ -173,17 +189,18 @@
           "time_info": "[09时43分 ~ 19时21分]"
         },
         {
-          "title": "警犬因「上班死气沉沉，下班魅力四射」被通报批评，它可能会面临哪些「惩罚」？为何警犬上下班差异会这么大？",
-          "url": "https://www.zhihu.com/question/1994426887582217759",
-          "source": "知乎",
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.douyin.com/hot/2367563",
+          "source": "抖音",
           "ranks": [
-            5,
-            4,
-            1
+            13,
+            10,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "市场监管总局对携程立案调查",
@@ -193,11 +210,12 @@
             5,
             6,
             21,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "市场监管总局对携程立案调查",
@@ -214,6 +232,19 @@
           "time_info": "[16时29分 ~ 19时21分]"
         },
         {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时43分]"
+        },
+        {
           "title": "市场监管总局对携程立案调查，携程表示将配合调查，具体情况如何？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/1994801921710646359",
           "source": "知乎",
@@ -224,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时21分]"
+        },
+        {
+          "title": "携程涉嫌垄断被立案调查",
+          "url": "https://search.bilibili.com/all?keyword=%E6%90%BA%E7%A8%8B%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "市场监管总局对携程立案调查",
@@ -248,32 +290,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
-          "title": "市场监管总局对携程立案调查",
-          "url": "https://www.douyin.com/hot/2367563",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 19时21分]"
-        },
-        {
-          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
-          "url": "https://www.cls.cn/detail/2257429",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "宝能集团董事长姚振华实名举报",
@@ -326,7 +342,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -346,6 +362,57 @@
           "time_info": "[09时43分 ~ 14时32分]"
         },
         {
+          "title": "市场监管总局依法对携程集团有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
+          "title": "福建一水电站被指偷工减料 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
+          "title": "保剑锋被曝婚前出轨",
+          "url": "https://www.toutiao.com/trending/7595051144385855542/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
+          "title": "携程：将积极配合监管部门调查",
+          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%EF%BC%9A%E5%B0%86%E7%A7%AF%E6%9E%81%E9%85%8D%E5%90%88%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
           "title": "伊朗官员：伊美“直接沟通”已停止",
           "url": "https://news.ifeng.com/c/8puVxXLmGag",
           "source": "凤凰网",
@@ -355,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "德国政府发言人：德国愿意深化与叙利亚政府的关系，并开启新的起点。",
+          "url": "https://flash.jin10.com/detail/20260114201730488800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "“网红干部”贺娇龙意外坠马离世",
@@ -499,30 +577,6 @@
           "time_info": "[18时23分 ~ 19时21分]"
         },
         {
-          "title": "市场监管总局依法对携程集团有限公司立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
-          "title": "福建一水电站被指偷工减料 官方通报",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E6%B0%B4%E7%94%B5%E7%AB%99%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
           "title": "官方通报贵州省博文物丢失或被盗",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%8D%9A%E6%96%87%E7%89%A9%E4%B8%A2%E5%A4%B1%E6%88%96%E8%A2%AB%E7%9B%97",
           "source": "百度热搜",
@@ -534,30 +588,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 06时21分]"
-        },
-        {
-          "title": "保剑锋被曝婚前出轨",
-          "url": "https://www.toutiao.com/trending/7595051144385855542/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
-          "title": "携程：将积极配合监管部门调查",
-          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%EF%BC%9A%E5%B0%86%E7%A7%AF%E6%9E%81%E9%85%8D%E5%90%88%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时21分]"
         },
         {
           "title": "蒋超良三兄弟深陷腐败泥沼",
@@ -582,6 +612,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时28分 ~ 18时24分]"
+        },
+        {
+          "title": "三部门：延续实施支持居民换购住房有关个人所得税政策",
+          "url": "https://www.cls.cn/detail/2257554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时43分]"
         },
         {
           "title": "警惕政府招标堕入“塔西佗陷阱”",
@@ -658,18 +701,6 @@
           "time_info": "[17时28分 ~ 18时24分]"
         },
         {
-          "title": "三部门：延续实施支持居民换购住房有关个人所得税政策",
-          "url": "https://www.cls.cn/detail/2257554",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时21分]"
-        },
-        {
           "title": "宝能董事长姚振华实名举报",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%83%BD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A7%9A%E6%8C%AF%E5%8D%8E%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -714,6 +745,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "官方通报福建一水库大坝偷工减料调查结果：数十人被追责问责、罚款超2000万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32383278",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "三部门：延续实施支持居民换购住房有关个人所得税政策",
@@ -779,7 +821,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -878,7 +920,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -922,9 +964,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "李强主持召开国务院党组会议，学习贯彻习近平总书记在二十届中央纪委五次全会上的重要讲话和全会精神，丁薛祥出席。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3037031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "三部门出手！换房退个税政策延至2027年底",
+          "url": "https://www.cls.cn/detail/2257806",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉宣布任命威灵顿·塞萨尔·利马·伊·席尔瓦为司法部长。",
@@ -966,7 +1030,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1010,7 +1074,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1087,7 +1151,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1131,7 +1195,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1450,7 +1514,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1497,6 +1561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东女正厅袭燕被双开",
+          "url": "https://www.toutiao.com/trending/7595127818624827402/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         }
       ]
     }
