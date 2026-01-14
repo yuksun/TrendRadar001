@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:43:36.206290+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-14T11:46:44.312311+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "内蒙古再通报一小学校服有薄膜：系TPU，可应用于制衣等",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时46分]"
         },
         {
           "title": "官方通报贵州省博29件套文物丢失或被盗：成立调查组",
@@ -50,42 +50,6 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
-          "title": "领导狂揽30w,员工质疑反遭打",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349050&amp;topic_name=%E9%A2%86%E5%AF%BC%E7%8B%82%E6%8F%BD30w%2C%E5%91%98%E5%B7%A5%E8%B4%A8%E7%96%91%E5%8F%8D%E9%81%AD%E6%89%93",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时43分]"
-        },
-        {
-          "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374485",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时43分]"
-        },
-        {
-          "title": "懂王出手狠辣,鲍威尔惨遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时43分]"
-        },
-        {
           "title": "小学校服内发现薄膜 当地通报",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%86%85%E5%8F%91%E7%8E%B0%E8%96%84%E8%86%9C+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -94,11 +58,51 @@
             22,
             21,
             10,
-            28
+            28,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 11时46分]"
+        },
+        {
+          "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374485",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时46分]"
+        },
+        {
+          "title": "领导狂揽30w,员工质疑反遭打",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349050&amp;topic_name=%E9%A2%86%E5%AF%BC%E7%8B%82%E6%8F%BD30w%2C%E5%91%98%E5%B7%A5%E8%B4%A8%E7%96%91%E5%8F%8D%E9%81%AD%E6%89%93",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时46分]"
+        },
+        {
+          "title": "懂王出手狠辣,鲍威尔惨遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时46分]"
         },
         {
           "title": "中使馆：中方坚决拒绝菲国家海事委员会无视事实且误导性的声明",
@@ -110,8 +114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 11时46分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -128,24 +132,36 @@
           "time_info": "[00时30分 ~ 07时19分]"
         },
         {
+          "title": "江西省人大常委会原副主任洪礼和谈与乘客对骂：我被查处是必然",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376740",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 11时46分]"
+        },
+        {
+          "title": "官方回应贺娇龙被传去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B4%BA%E5%A8%87%E9%BE%99%E8%A2%AB%E4%BC%A0%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "“网红干部”贺娇龙意外坠马离世",
           "url": "https://www.toutiao.com/trending/7594858520488067081/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "江西省人大常委会原副主任洪礼和谈与乘客对骂：我被查处是必然",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376740",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -183,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "内蒙古通报 13 岁学生被多人殴打，4 名未成年人被拘留并罚款，怎样从法律角度解读？",
+          "url": "https://www.zhihu.com/question/1994486724139642912",
+          "source": "知乎",
+          "ranks": [
+            16,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 11时46分]"
         },
         {
           "title": "央视曝光退休高官腐败细节",
@@ -271,13 +299,35 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
+          "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32375981",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 11时46分]"
+        },
+        {
+          "title": "官方回应贺娇龙被传去世",
+          "url": "https://www.toutiao.com/trending/7594467007056334377/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "工信部部长李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议",
           "url": "https://wallstreetcn.com/livenews/3036544",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -299,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -403,15 +453,15 @@
           "time_info": "05时20分"
         },
         {
-          "title": "内蒙古通报 13 岁学生被多人殴打，4 名未成年人被拘留并罚款，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/1994486724139642912",
+          "title": "贺娇龙被传因意外坠马逝世，官方称正在核实，你对她有哪些记忆？当地的文旅推广给你留下了哪些印象？",
+          "url": "https://www.zhihu.com/question/1994706052369834189",
           "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "11时46分"
         },
         {
           "title": "意大利外交部长：我已召见伊朗大使。",
@@ -442,7 +492,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -453,18 +503,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32375981",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -508,7 +547,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
