@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-16T01:31:32.023353+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-01-16T02:35:31.530108+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "天津大学原校长金东寒已从中国工程院院士名单中撤下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392750",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
         {
           "title": "影子调查｜查无此人！“国家级非遗传承人”罗大友多重身份被打假",
           "url": "https://m.thepaper.cn/newsDetail_forward_32390334",
@@ -16,20 +29,56 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
-          "title": "天津大学原校长金东寒已从中国工程院院士名单中撤下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392750",
+          "title": "据Semafor：派拉蒙高管本周早些时候会见了法国总统马克龙及其他政府官员。派拉蒙高管试图游说法国总统马克龙及相关官员，采取行动抵制Netflix与华纳的潜在交易。",
+          "url": "https://flash.jin10.com/detail/20260116015735113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "扫描“主播”｜“与辉同行”带货“皖西麻黄鸡”引争议，安徽两地市监部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32389867",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            5
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "村干部回应举办刨猪宴蹭热度质疑",
+          "url": "https://www.toutiao.com/trending/7594991187241648174/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "宰客又坑商,携程被查水太深",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349159&amp;topic_name=%E5%AE%B0%E5%AE%A2%E5%8F%88%E5%9D%91%E5%95%86%2C%E6%90%BA%E7%A8%8B%E8%A2%AB%E6%9F%A5%E6%B0%B4%E5%A4%AA%E6%B7%B1",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "“十五五”新开局，我国将如何进一步激活消费主引擎？商务部部长王文涛发声",
@@ -40,19 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "扫描“主播”｜“与辉同行”带货“皖西麻黄鸡”引争议，安徽两地市监部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32389867",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "洞庭湖大型反光艺术装置被指威胁候鸟安全，官方：已拆除",
@@ -62,8 +100,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "美联储巴尔：司法部调查是对美联储独立性的攻击。",
+          "url": "https://flash.jin10.com/detail/20260116005429101800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时35分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：正努力设法完成印度贸易磋商。",
@@ -102,39 +152,26 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
-          "title": "村干部回应举办刨猪宴蹭热度质疑",
-          "url": "https://www.toutiao.com/trending/7594991187241648174/",
-          "source": "今日头条",
+          "title": "河南周口多次异响 应急部门回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E5%A4%9A%E6%AC%A1%E5%BC%82%E5%93%8D+%E5%BA%94%E6%80%A5%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            22,
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "time_info": "[02时34分 ~ 02时35分]"
         },
         {
-          "title": "宰客又坑商,携程被查水太深",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349159&amp;topic_name=%E5%AE%B0%E5%AE%A2%E5%8F%88%E5%9D%91%E5%95%86%2C%E6%90%BA%E7%A8%8B%E8%A2%AB%E6%9F%A5%E6%B0%B4%E5%A4%AA%E6%B7%B1",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "美联储巴尔：司法部调查是对美联储独立性的攻击。",
-          "url": "https://flash.jin10.com/detail/20260116005429101800",
+          "title": "警告还是预演？美官员称古巴若不改变必将被追究责任",
+          "url": "https://flash.jin10.com/detail/20260116014203730800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时35分"
         },
         {
           "title": "白宫官员：白宫期待其医保计划获得两党一致通过。",
@@ -143,9 +180,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "常熟官方回应姚振华举报",
+          "url": "https://www.cls.cn/detail/2259203",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "北约秘书长：就俄罗斯的袭击和乌克兰的能源状况与乌克兰总统泽连斯基通话。",
+          "url": "https://flash.jin10.com/detail/20260116013458021800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "德国经济部：已就发电厂战略与欧盟委员会达成协议，将于2026年就总装机容量为12吉瓦的新发电厂进行招标，其中大部分为燃气发电厂。",
@@ -154,7 +213,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -165,7 +224,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
