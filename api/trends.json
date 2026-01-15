@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T19:19:33.773416+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-01-15T20:43:10.007623+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 106,
+      "match_count": 110,
       "titles": [
         {
           "title": "三部门出手！换房退个税政策延至2027年底",
@@ -48,6 +48,23 @@
           "time_info": "[00时29分 ~ 09时28分]"
         },
         {
+          "title": "中海油原总经理李勇坦白受贿细节：外国代理商开车来，拿个箱子给钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32384669",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时21分 ~ 20时43分]"
+        },
+        {
           "title": "携程涉嫌垄断被立案调查",
           "url": "https://search.bilibili.com/all?keyword=%E6%90%BA%E7%A8%8B%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -60,22 +77,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时17分]"
-        },
-        {
-          "title": "中海油原总经理李勇坦白受贿细节：外国代理商开车来，拿个箱子给钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32384669",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时21分 ~ 19时19分]"
         },
         {
           "title": "官方确认“网红干部”贺娇龙坠马离世",
@@ -203,11 +204,12 @@
             21,
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 19时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 20时43分]"
         },
         {
           "title": "副市长参加洽谈会排队等候民营企业家，“像毕业大学生投简历”",
@@ -247,6 +249,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 09时28分]"
+        },
+        {
+          "title": "老师称家长“多余”可退群 学校通报",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E7%A7%B0%E5%AE%B6%E9%95%BF%E2%80%9C%E5%A4%9A%E4%BD%99%E2%80%9D%E5%8F%AF%E9%80%80%E7%BE%A4+%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            16,
+            21,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 20时43分]"
         },
         {
           "title": "女子被判向出轨丈夫道歉15天",
@@ -332,6 +348,21 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
+          "title": "产检正常娃出生却先天畸形 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 20时43分]"
+        },
+        {
           "title": "保剑锋被曝婚前出轨",
           "url": "https://www.toutiao.com/trending/7595051144385855542/",
           "source": "今日头条",
@@ -381,19 +412,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时25分 ~ 16时31分]"
-        },
-        {
-          "title": "老师称家长“多余”可退群 学校通报",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E7%A7%B0%E5%AE%B6%E9%95%BF%E2%80%9C%E5%A4%9A%E4%BD%99%E2%80%9D%E5%8F%AF%E9%80%80%E7%BE%A4+%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 19时19分]"
         },
         {
           "title": "日本反对党立宪民主党领袖：立宪民主党已同意与在野党公明党组建新政党。",
@@ -463,18 +481,30 @@
           "time_info": "[12时39分 ~ 14时32分]"
         },
         {
-          "title": "产检正常娃出生却先天畸形 官方通报",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "title": "官方辟谣“贺娇龙坠马原视频曝光”",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8E%9F%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            24,
-            22,
-            13,
-            10
+            14,
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时30分 ~ 19时19分]"
+          "time_info": "[17时27分 ~ 20时43分]"
+        },
+        {
+          "title": "影子调查｜查无此人！“国家级非遗传承人”罗大友多重身份被打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390334",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时43分]"
         },
         {
           "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
@@ -562,19 +592,6 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "官方辟谣“贺娇龙坠马原视频曝光”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8E%9F%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时19分]"
-        },
-        {
           "title": "法国政府在议会不信任投票中过关",
           "url": "https://wallstreetcn.com/livenews/3037238",
           "source": "华尔街见闻-快讯",
@@ -613,16 +630,16 @@
           "time_info": "[13时25分 ~ 14时32分]"
         },
         {
-          "title": "影子调查｜查无此人！“国家级非遗传承人”罗大友多重身份被打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390334",
+          "title": "扫描“主播”｜“与辉同行”带货“皖西麻黄鸡”引争议，安徽两地市监部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32389867",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时19分]"
+          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "西安华清池贵妃出浴雕像引争议，官方回应已上报争议，公共景观能否有「裸露」元素？如何正确看待艺术表达？",
@@ -743,6 +760,17 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
+          "title": "洞庭湖大型反光艺术装置被指威胁候鸟安全，官方：已拆除",
+          "url": "https://news.ifeng.com/c/8pwDF5CeqYO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时43分]"
+        },
+        {
           "title": "官方辟谣“贺娇龙坠马原视频”",
           "url": "https://www.douyin.com/hot/2368661",
           "source": "抖音",
@@ -752,6 +780,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
+          "title": "轧戏王光明出轨",
+          "url": "https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F%E7%8E%8B%E5%85%89%E6%98%8E%E5%87%BA%E8%BD%A8&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "中国棋院原院长王汝南追忆聂卫平",
@@ -831,6 +870,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "“十五五”新开局，我国将如何进一步激活消费主引擎？商务部部长王文涛发声",
+          "url": "https://www.cls.cn/detail/2259176",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "丹麦国防部长：北约成员国不太可能攻击另一个北约国家。",
           "url": "https://flash.jin10.com/detail/20260115004031253800",
           "source": "金十数据",
@@ -873,28 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "洞庭湖大型反光艺术装置被指威胁候鸟安全，官方：已拆除",
-          "url": "https://news.ifeng.com/c/8pwDF5CeqYO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "扫描“主播”｜“与辉同行”带货“皖西麻黄鸡”引争议，安徽两地市监部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32389867",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "“史上规模最大缉毒行动”，缅甸军政府捣毁3处冰毒制毒窝点",
@@ -947,9 +975,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "印尼高等教育部副部长：印尼与中国科技合作水平“卓越”",
+          "url": "https://wallstreetcn.com/livenews/3037991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "丹麦国防部长：今后我们将在格陵兰岛拥有更持久的驻军。",
@@ -991,7 +1030,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1035,7 +1074,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1068,7 +1107,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1189,7 +1228,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1277,16 +1316,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "哈马斯官员称已准备好将加沙行政管理权移交技术官僚委员会",
+          "url": "https://wallstreetcn.com/livenews/3037969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "正直播CBA：山东vs宁波",
+          "url": "https://www.toutiao.com/trending/7595203430948572715/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
         {
           "title": "山东省考成绩",
           "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=8&Refer=top",
