@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T12:40:01.143484+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-01-15T13:25:50.710176+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "三部门出手！换房退个税政策延至2027年底",
@@ -28,11 +28,12 @@
             6,
             4,
             2,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "官方通报福建一水库大坝偷工减料调查结果：数十人被追责问责、罚款超2000万元",
@@ -101,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "市场监管总局依法对携程集团有限公司立案调查",
@@ -115,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "涉嫌垄断行为被立案调查，携程：积极配合监管部门，全面落实监管要求",
@@ -130,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "携程回应被立案调查",
@@ -156,11 +157,12 @@
           "ranks": [
             12,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时25分]"
         },
         {
           "title": "副市长参加洽谈会排队等候民营企业家，“像毕业大学生投简历”",
@@ -202,6 +204,20 @@
           "time_info": "[00时29分 ~ 09时28分]"
         },
         {
+          "title": "中海油原总经理李勇坦白受贿细节：外国代理商开车来，拿个箱子给钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32384669",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时21分 ~ 13时25分]"
+        },
+        {
           "title": "浙江证监局：对向日葵重组预案涉嫌误导性陈述立案调查",
           "url": "https://www.cls.cn/detail/2257766",
           "source": "财联社热门",
@@ -228,20 +244,6 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "中海油原总经理李勇坦白受贿细节：外国代理商开车来，拿个箱子给钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32384669",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 12时40分]"
-        },
-        {
           "title": "保剑锋被曝婚前出轨",
           "url": "https://www.toutiao.com/trending/7595051144385855542/",
           "source": "今日头条",
@@ -255,37 +257,17 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
-          "url": "https://flash.jin10.com/detail/20260115121352822800",
-          "source": "金十数据",
+          "title": "向日葵被立案调查重组终止 兮璞材料收购“沉睡工厂”竹篮打水",
+          "url": "https://www.cls.cn/detail/2258256",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "路透调查：预估中值显示日本央行利率峰值将为1.50%，高于2025年2月调查预估的1.00%。",
-          "url": "https://flash.jin10.com/detail/20260115121342367800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "路透调查：60%经济学家预计日本央行2026年加息一次，31%预计加息两次。",
-          "url": "https://flash.jin10.com/detail/20260115121334430800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时25分]"
         },
         {
           "title": "美联储卡什卡利：我坚信美联储官员将继续做出他们所能做出的最佳决策。",
@@ -299,15 +281,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "路透调查：97%的经济学家（67位中有65位）预计日本央行3月前将维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260115121323026800",
+          "title": "消息人士称，IMF总裁格奥尔基耶娃抵达基辅，将与乌克兰官员和企业高管会面。",
+          "url": "https://flash.jin10.com/detail/20260115124648391800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "13时25分"
         },
         {
           "title": "路透调查：约三分之二日本企业认为日本央行最近一次加息是合适的。",
@@ -321,17 +303,28 @@
           "time_info": "07时17分"
         },
         {
-          "title": "向日葵被立案调查重组终止 兮璞材料收购“沉睡工厂”竹篮打水",
-          "url": "https://www.cls.cn/detail/2258256",
-          "source": "财联社热门",
+          "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
+          "url": "https://flash.jin10.com/detail/20260115121352822800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            5,
-            6
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时40分]"
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "路透调查：预估中值显示日本央行利率峰值将为1.50%，高于2025年2月调查预估的1.00%。",
+          "url": "https://flash.jin10.com/detail/20260115121342367800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "格陵兰岛自治政府副总理：“未来几天”将有更多北约部队进驻。",
@@ -344,6 +337,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "路透调查：60%经济学家预计日本央行2026年加息一次，31%预计加息两次。",
+          "url": "https://flash.jin10.com/detail/20260115121334430800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "路透调查：97%的经济学家（67位中有65位）预计日本央行3月前将维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260115121323026800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "1月15日投资避雷针：上交所通报国晟科技异常交易情况 对相关投资者采取暂停交易措施",
+          "url": "https://www.cls.cn/detail/2258229",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时25分]"
+        },
+        {
+          "title": "伊朗外长：政府已完全掌控局面",
+          "url": "https://www.toutiao.com/trending/7595402470608621094/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 13时25分]"
+        },
+        {
+          "title": "女子被判向出轨丈夫道歉15天",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A4%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%8915%E5%A4%A9&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 13时25分]"
         },
         {
           "title": "海外项目大额受贿 李勇被代理商拿捏",
@@ -359,16 +413,16 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "伊朗外长：政府已完全掌控局面",
-          "url": "https://www.toutiao.com/trending/7595402470608621094/",
+          "title": "美总统就联邦执法者射杀女子事件表态",
+          "url": "https://www.toutiao.com/trending/7595225581113868331/",
           "source": "今日头条",
           "ranks": [
-            27,
+            10,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时40分]"
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "法国政府在议会不信任投票中过关",
@@ -384,19 +438,6 @@
           "time_info": "[02时32分 ~ 04时20分]"
         },
         {
-          "title": "1月15日投资避雷针：上交所通报国晟科技异常交易情况 对相关投资者采取暂停交易措施",
-          "url": "https://www.cls.cn/detail/2258229",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时40分]"
-        },
-        {
           "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
           "url": "https://wallstreetcn.com/livenews/3037235",
           "source": "华尔街见闻-快讯",
@@ -410,15 +451,15 @@
           "time_info": "[02时32分 ~ 04时20分]"
         },
         {
-          "title": "女子被判向出轨丈夫道歉15天",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A4%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%8915%E5%A4%A9&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1994787682136642370",
+          "source": "知乎",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时40分]"
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "美联储理事米兰：央行官员参与其他国家的货币政策问题并不合适。",
@@ -431,6 +472,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时26分]"
+        },
+        {
+          "title": "菲律宾外交部长：日本是至关重要的战略伙伴，双方关系将继续以对民主和法治的共同价值观为纽带。",
+          "url": "https://flash.jin10.com/detail/20260115115350411800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "“深圳有望推行12年义务教育，高中免费”？官方回应",
@@ -469,15 +522,16 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
-          "title": "美总统就联邦执法者射杀女子事件表态",
-          "url": "https://www.toutiao.com/trending/7595225581113868331/",
-          "source": "今日头条",
+          "title": "韩联社援引一位高级官员的话报道，韩国国家养老金基金正在考虑调整外汇套期保值和本地股票投资比例。",
+          "url": "https://wallstreetcn.com/livenews/3037523",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "欧盟委员会通过今明两年支持乌克兰财政立法提案",
@@ -502,17 +556,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1994787682136642370",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "花旗：携程反垄断调查或短期影响情绪 但不太可能改变公司行业地位",
           "url": "https://wallstreetcn.com/livenews/3037405",
           "source": "华尔街见闻-快讯",
@@ -524,15 +567,15 @@
           "time_info": "09时28分"
         },
         {
-          "title": "菲律宾外交部长：日本是至关重要的战略伙伴，双方关系将继续以对民主和法治的共同价值观为纽带。",
-          "url": "https://flash.jin10.com/detail/20260115115350411800",
-          "source": "金十数据",
+          "title": "贺娇龙从服务员到全国网红干部",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E4%BB%8E%E6%9C%8D%E5%8A%A1%E5%91%98%E5%88%B0%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%83%A8%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "13时25分"
         },
         {
           "title": "丹麦国防部长：北约成员国不太可能攻击另一个北约国家。",
@@ -557,15 +600,26 @@
           "time_info": "05时21分"
         },
         {
-          "title": "韩联社援引一位高级官员的话报道，韩国国家养老金基金正在考虑调整外汇套期保值和本地股票投资比例。",
-          "url": "https://wallstreetcn.com/livenews/3037523",
-          "source": "华尔街见闻-快讯",
+          "title": "贺娇龙留下人们对有担当干部的期盼",
+          "url": "https://www.toutiao.com/trending/7595433404615626259/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "深度解读鲍威尔遭刑事调查",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "柬埔寨：泰国要求推迟联合边界委员会特别会议",
@@ -665,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "香港文体旅局局长发文感谢周深",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%96%87%E4%BD%93%E6%97%85%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%91%A8%E6%B7%B1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "携程回应误发全员离职信为二级部门 HR 点错，这属于什么级别的事故？你在职场中遇到过哪些离谱的乌龙事件？",
