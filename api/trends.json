@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T11:49:39.624182+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-01-19T12:51:44.164549+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "中央有关领导对聂卫平逝世表示哀悼",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时51分]"
         },
         {
           "title": "网友举报有黑水排放至湖南耒水，官方：煤矿废水处理后排放",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时51分]"
         },
         {
           "title": "你遇到过类外卖被偷的情况吗？广西一大学生因偷外卖被拘并在外卖架边通报，你如何看这种处理方式？",
@@ -147,6 +147,19 @@
           "time_info": "[02时27分 ~ 06时19分]"
         },
         {
+          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
+          "url": "https://www.cls.cn/detail/2261560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时51分]"
+        },
+        {
           "title": "日本自民党干事长西田实仁：日本可通过有效运用政府资金降低食品消费税率。",
           "url": "https://flash.jin10.com/detail/20260119092937389800",
           "source": "金十数据",
@@ -169,6 +182,28 @@
           "time_info": "09时45分"
         },
         {
+          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
+          "url": "https://wallstreetcn.com/livenews/3039525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "日本央行12月季度调查：日本家庭中，86.0%预计一年后物价将上涨，上一次调查为88.0%。83.0%的日本家庭预计五年后物价将上涨，高于上一次调查的84.8%。日本家庭预计从现在起一年后通胀率平均将上升11.6%，中位数为10.0%。日本家庭预计五年后通胀率平均将上升9.8%，中位数为5.0%。",
+          "url": "https://flash.jin10.com/detail/20260119123459727800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "美伞兵或被部署至明州，明尼阿波利斯市市长：威胁性恐吓",
           "url": "https://wallstreetcn.com/livenews/3039299",
           "source": "华尔街见闻-快讯",
@@ -180,6 +215,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时15分 ~ 07时19分]"
+        },
+        {
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 12时51分]"
         },
         {
           "title": "法国总统马克龙：周日与叙利亚总统沙拉通话，就政府对叙利亚民主力量的攻势表达关切。",
@@ -217,18 +265,6 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
-          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2261560",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时49分]"
-        },
-        {
           "title": "叙政府与\"叙利亚民主力量\"达成协议：全面停火、移交油田",
           "url": "https://flash.jin10.com/detail/20260119043927675800",
           "source": "金十数据",
@@ -242,27 +278,16 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 11时49分]"
-        },
-        {
           "title": "内蒙古党委书记：彻查包钢事故原因",
           "url": "https://www.toutiao.com/trending/7596845868913790514/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时51分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：我们将始终保护我们的战略经济和安全利益。",
@@ -275,6 +300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "去年城镇调查失业率平均值为5.2%",
+          "url": "https://www.douyin.com/hot/2372549",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时51分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：坚定致力于维护格陵兰岛和丹麦王国的主权。",
@@ -299,6 +336,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
+          "url": "https://www.zhihu.com/question/1996292458506638666",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时51分]"
         },
         {
           "title": "叙利亚高级官员：叙利亚政府将与已拥有相关油气田权益的公司协调，启动这些油气田的开发计划。",
@@ -337,6 +386,18 @@
           "time_info": "[09时45分 ~ 11时49分]"
         },
         {
+          "title": "天津市委原书记高德占逝世",
+          "url": "https://www.toutiao.com/trending/7596849132658638867/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时51分]"
+        },
+        {
           "title": "美邀60国加入加沙和平委员会",
           "url": "https://flash.jin10.com/detail/20260119040626355800",
           "source": "金十数据",
@@ -367,7 +428,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -378,18 +439,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "去年城镇调查失业率平均值为5.2%",
-          "url": "https://www.douyin.com/hot/2372549",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -400,9 +450,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "被妻子道歉出轨丈夫现状曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E7%8E%B0%E7%8A%B6%E6%9B%9D%E5%85%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "路透调查：预计2026年棕榈油价格平均为每吨4,125林吉特，同比下降2.55%。预计马来西亚2026年棕榈油产量为1,975万吨，同比下降2.61%。预计印尼2026年棕榈油产量将达到创纪录的5,120万吨，同比上升0.39%。",
+          "url": "https://flash.jin10.com/detail/20260119122646390800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
@@ -411,18 +483,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
-          "url": "https://www.zhihu.com/question/1996292458506638666",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -433,7 +494,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -444,7 +505,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -455,9 +516,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "自然资源部部长关志鸥会见蒙古工业和矿产资源部部长",
+          "url": "https://wallstreetcn.com/livenews/3039507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "女子向出轨丈夫道歉新进展",
@@ -471,15 +543,15 @@
           "time_info": "09时45分"
         },
         {
-          "title": "天津市委原书记高德占逝世",
-          "url": "https://www.toutiao.com/trending/7596849132658638867/",
-          "source": "今日头条",
+          "title": "2025年城镇调查失业率平均值为5.2%",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%9F%8E%E9%95%87%E8%B0%83%E6%9F%A5%E5%A4%B1%E4%B8%9A%E7%8E%87%E5%B9%B3%E5%9D%87%E5%80%BC%E4%B8%BA5.2%25",
+          "source": "百度热搜",
           "ranks": [
-            22
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "12时51分"
         },
         {
           "title": "美公布和平委员会成员 以巴均不满",
@@ -488,7 +560,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -499,7 +571,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
