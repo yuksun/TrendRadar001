@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T13:31:46.712586+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-01-19T14:37:29.325331+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 59,
       "titles": [
         {
           "title": "中央有关领导对聂卫平逝世表示哀悼",
@@ -97,6 +97,19 @@
           "time_info": "[00时23分 ~ 05时17分]"
         },
         {
+          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
+          "url": "https://www.cls.cn/detail/2261560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时37分]"
+        },
+        {
           "title": "中天主播遭羁押，台民众党团主任声援：一个记者能掌握什么机密？",
           "url": "https://news.ifeng.com/c/8q0LtRR2wbf",
           "source": "凤凰网",
@@ -134,17 +147,17 @@
           "time_info": "[01时17分 ~ 06时19分]"
         },
         {
-          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2261560",
-          "source": "财联社热门",
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            4,
-            3
+            19,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时37分]"
         },
         {
           "title": "智利总统Gabriel Boric在南部两个地区宣布“灾害状态”，政府将向遭受影响的地区提供紧急救助，“可以动用所有资源”。 目前，野火已经造成至少15人丧生，迫使成千上万人撤离。",
@@ -171,19 +184,6 @@
           "time_info": "09时45分"
         },
         {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时31分]"
-        },
-        {
           "title": "内蒙古就爆炸事故成立调查组",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%B1%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -201,9 +201,45 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "内蒙古党委书记：彻查包钢事故原因",
+          "url": "https://www.toutiao.com/trending/7596845868913790514/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时37分]"
+        },
+        {
+          "title": "“劫富济贫”的口号正在西方各国政府中兴起",
+          "url": "https://flash.jin10.com/detail/20260119142440175800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "行贿新维度:代孕子成执法难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349326&amp;topic_name=%E8%A1%8C%E8%B4%BF%E6%96%B0%E7%BB%B4%E5%BA%A6%3A%E4%BB%A3%E5%AD%95%E5%AD%90%E6%88%90%E6%89%A7%E6%B3%95%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美伞兵或被部署至明州，明尼阿波利斯市市长：威胁性恐吓",
@@ -254,17 +290,17 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
-          "title": "内蒙古党委书记：彻查包钢事故原因",
-          "url": "https://www.toutiao.com/trending/7596845868913790514/",
-          "source": "今日头条",
+          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
+          "url": "https://wallstreetcn.com/livenews/3039525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            15
+            3,
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 14时37分]"
         },
         {
           "title": "叙政府与\"叙利亚民主力量\"达成协议：全面停火、移交油田",
@@ -280,16 +316,29 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
-          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
-          "url": "https://wallstreetcn.com/livenews/3039525",
-          "source": "华尔街见闻-快讯",
+          "title": "去年城镇调查失业率平均值为5.2%",
+          "url": "https://www.douyin.com/hot/2372549",
+          "source": "抖音",
           "ranks": [
-            3,
-            13
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 14时37分]"
+        },
+        {
+          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
+          "url": "https://www.zhihu.com/question/1996292458506638666",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 14时37分]"
         },
         {
           "title": "日本央行12月季度调查：日本家庭中，86.0%预计一年后物价将上涨，上一次调查为88.0%。83.0%的日本家庭预计五年后物价将上涨，高于上一次调查的84.8%。日本家庭预计从现在起一年后通胀率平均将上升11.6%，中位数为10.0%。日本家庭预计五年后通胀率平均将上升9.8%，中位数为5.0%。",
@@ -302,31 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时31分]"
-        },
-        {
-          "title": "去年城镇调查失业率平均值为5.2%",
-          "url": "https://www.douyin.com/hot/2372549",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 13时31分]"
-        },
-        {
-          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
-          "url": "https://www.zhihu.com/question/1996292458506638666",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 13时31分]"
         },
         {
           "title": "天津市委原书记高德占逝世",
@@ -352,6 +376,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "韩国财政部长：在当前通胀与外汇形势下，稳定消费者通胀是政策优先事项。",
+          "url": "https://wallstreetcn.com/livenews/3039533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时37分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：坚定致力于维护格陵兰岛和丹麦王国的主权。",
@@ -473,6 +509,18 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "美邀60国加入和平委员会 1国明确接受",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%82%8060%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A+1%E5%9B%BD%E6%98%8E%E7%A1%AE%E6%8E%A5%E5%8F%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时37分]"
+        },
+        {
           "title": "联合国官员呼吁苏丹冲突各方保护平民和民用设施",
           "url": "https://flash.jin10.com/detail/20260119111715641800",
           "source": "金十数据",
@@ -482,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "国家反垄断局政务微信公众号、微博和抖音号今日上线开通",
+          "url": "https://wallstreetcn.com/livenews/3039563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "叙过渡政府总统因国内局势推迟访德",
@@ -495,15 +554,37 @@
           "time_info": "11时49分"
         },
         {
-          "title": "韩国财政部长：在当前通胀与外汇形势下，稳定消费者通胀是政策优先事项。",
-          "url": "https://wallstreetcn.com/livenews/3039533",
-          "source": "华尔街见闻-快讯",
+          "title": "日本在野党联盟中道改革联合官员Okamoto：确保资金来源以实施食品减税至关重要。",
+          "url": "https://flash.jin10.com/detail/20260119142129113800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合官员Okamoto：日本央行正密切关注消费者通胀并适当加息，希望仔细审视事态发展。",
+          "url": "https://flash.jin10.com/detail/20260119141804567800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "印度收到加入加沙和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596915738099810358/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "国家统计局局长康义说，2026年，我国支撑消费继续增长的积极因素仍然较多，消费有望平稳增长。",
@@ -515,6 +596,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合官员Okamoto：必须解决推动日元贬值的结构性因素。",
+          "url": "https://flash.jin10.com/detail/20260119141649146800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合官员Okamoto：日本必须向市场更清晰地阐明其财政政策立场，作为应对日元疲软举措的一部分。",
+          "url": "https://flash.jin10.com/detail/20260119141549739800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
@@ -572,6 +675,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "媒体人：郑丽君参选台北市长将成话题",
+          "url": "https://www.toutiao.com/trending/7596747446317350950/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "2025年城镇调查失业率平均值为5.2%",
           "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%9F%8E%E9%95%87%E8%B0%83%E6%9F%A5%E5%A4%B1%E4%B8%9A%E7%8E%87%E5%B9%B3%E5%9D%87%E5%80%BC%E4%B8%BA5.2%25",
           "source": "百度热搜",
@@ -592,17 +706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
-        {
-          "title": "美邀60国加入和平委员会 1国明确接受",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%82%8060%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A+1%E5%9B%BD%E6%98%8E%E7%A1%AE%E6%8E%A5%E5%8F%97",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "政府背书的惠民保为啥卖不动了",
