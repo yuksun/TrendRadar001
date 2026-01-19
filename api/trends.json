@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:28:41.447739+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-01-19T16:32:03.461156+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "中央有关领导对聂卫平逝世表示哀悼",
@@ -55,6 +55,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时23分 ~ 13时31分]"
+        },
+        {
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时32分]"
         },
         {
           "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
@@ -122,20 +136,6 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 15时28分]"
-        },
-        {
           "title": "美邀60国加入加沙“和平委员会”，目前只有1人明确接受",
           "url": "https://news.ifeng.com/c/8q1elENLOoO",
           "source": "凤凰网",
@@ -162,6 +162,19 @@
           "time_info": "[01时17分 ~ 06时19分]"
         },
         {
+          "title": "去年城镇调查失业率平均值为5.2%",
+          "url": "https://www.douyin.com/hot/2372549",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 16时32分]"
+        },
+        {
           "title": "智利总统Gabriel Boric在南部两个地区宣布“灾害状态”，政府将向遭受影响的地区提供紧急救助，“可以动用所有资源”。 目前，野火已经造成至少15人丧生，迫使成千上万人撤离。",
           "url": "https://wallstreetcn.com/livenews/3039292",
           "source": "华尔街见闻-快讯",
@@ -173,6 +186,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时19分]"
+        },
+        {
+          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
+          "url": "https://www.zhihu.com/question/1996292458506638666",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 16时32分]"
         },
         {
           "title": "日本自民党干事长西田实仁：日本可通过有效运用政府资金降低食品消费税率。",
@@ -214,9 +241,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "行贿新维度:代孕子成执法难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349326&amp;topic_name=%E8%A1%8C%E8%B4%BF%E6%96%B0%E7%BB%B4%E5%BA%A6%3A%E4%BB%A3%E5%AD%95%E5%AD%90%E6%88%90%E6%89%A7%E6%B3%95%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时32分]"
         },
         {
           "title": "内蒙古党委书记：彻查包钢事故原因",
@@ -246,31 +286,18 @@
           "time_info": "[03时15分 ~ 07时19分]"
         },
         {
-          "title": "为什么部分年轻人开始拒绝升职，是因为钱没给够吗？除了当领导，现在年轻人更看重工作中哪些东西？",
-          "url": "https://www.zhihu.com/question/1996292458506638666",
-          "source": "知乎",
+          "title": "美邀60国加入和平委员会 1国明确接受",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%82%8060%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A+1%E5%9B%BD%E6%98%8E%E7%A1%AE%E6%8E%A5%E5%8F%97",
+          "source": "百度热搜",
           "ranks": [
+            29,
+            30,
             13,
-            9,
-            7,
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时49分 ~ 15时28分]"
-        },
-        {
-          "title": "去年城镇调查失业率平均值为5.2%",
-          "url": "https://www.douyin.com/hot/2372549",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 15时28分]"
+          "time_info": "[13时31分 ~ 16时32分]"
         },
         {
           "title": "法国总统马克龙：周日与叙利亚总统沙拉通话，就政府对叙利亚民主力量的攻势表达关切。",
@@ -334,18 +361,6 @@
           "time_info": "[05时17分 ~ 07时19分]"
         },
         {
-          "title": "行贿新维度:代孕子成执法难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349326&amp;topic_name=%E8%A1%8C%E8%B4%BF%E6%96%B0%E7%BB%B4%E5%BA%A6%3A%E4%BB%A3%E5%AD%95%E5%AD%90%E6%88%90%E6%89%A7%E6%B3%95%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时28分]"
-        },
-        {
           "title": "印度收到加入加沙和平委员会邀请",
           "url": "https://www.toutiao.com/trending/7596915738099810358/",
           "source": "今日头条",
@@ -382,17 +397,17 @@
           "time_info": "[14时37分 ~ 15时28分]"
         },
         {
-          "title": "美邀60国加入和平委员会 1国明确接受",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%82%8060%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A+1%E5%9B%BD%E6%98%8E%E7%A1%AE%E6%8E%A5%E5%8F%97",
-          "source": "百度热搜",
+          "title": "媒体人：郑丽君参选台北市长将成话题",
+          "url": "https://www.toutiao.com/trending/7596747446317350950/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            30,
-            13
+            26,
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时32分]"
         },
         {
           "title": "天津市委原书记高德占逝世",
@@ -456,18 +471,6 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "媒体人：郑丽君参选台北市长将成话题",
-          "url": "https://www.toutiao.com/trending/7596747446317350950/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时28分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：已与法国总统马克龙、北约秘书长吕特、德国总理默茨、意大利总理梅洛尼、英国首相斯塔默通话。",
           "url": "https://flash.jin10.com/detail/20260119050148481800",
           "source": "金十数据",
@@ -478,6 +481,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "名嘴：大陆正用执法手段“法统”台湾",
+          "url": "https://www.toutiao.com/trending/7595960110608236580/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "叙利亚高级官员：叙利亚政府将与已拥有相关油气田权益的公司协调，启动这些油气田的开发计划。",
@@ -551,6 +565,17 @@
           "time_info": "[05时17分 ~ 06时19分]"
         },
         {
+          "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413826",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "自然资源部部长关志鸥会见蒙古工业和矿产资源部部长",
           "url": "https://wallstreetcn.com/livenews/3039507",
           "source": "华尔街见闻-快讯",
@@ -575,6 +600,17 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "年轻干部挪用127万公款打赏主播",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E5%B9%B2%E9%83%A8%E6%8C%AA%E7%94%A8127%E4%B8%87%E5%85%AC%E6%AC%BE%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "联合国官员呼吁苏丹冲突各方保护平民和民用设施",
           "url": "https://flash.jin10.com/detail/20260119111715641800",
           "source": "金十数据",
@@ -595,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "中国农业发展银行专家委员会原研究员黄小卫接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3039630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "日本在野党联盟中道改革联合官员Okamoto：确保资金来源以实施食品减税至关重要。",
@@ -669,7 +716,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -691,7 +738,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -705,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "财政部等三部门将居民换购住房个税退税政策延续至 2027 年底，这一政策对当前房地产市场将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1994873446686008372",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "国家统计局局长康义在国新办新闻发布会上介绍，2025年最终消费支出对经济增长贡献率超过五成。",
@@ -724,7 +782,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -746,7 +804,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
