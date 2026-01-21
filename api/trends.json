@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-01-21T21:44:47.605103+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-01-21T22:30:57.942056+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 103,
+      "match_count": 106,
       "titles": [
         {
           "title": "外交部回应是否加入和平委员会",
           "url": "https://www.douyin.com/hot/2375188",
           "source": "抖音",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时30分]"
+        },
+        {
+          "title": "税务部门处罚拼多多",
+          "url": "https://www.douyin.com/hot/2375178",
+          "source": "抖音",
+          "ranks": [
+            9,
+            4,
+            2,
+            6,
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时44分]"
-        },
-        {
-          "title": "美部长自爆斩杀线,拜登惨背锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349441&amp;topic_name=%E7%BE%8E%E9%83%A8%E9%95%BF%E8%87%AA%E7%88%86%E6%96%A9%E6%9D%80%E7%BA%BF%2C%E6%8B%9C%E7%99%BB%E6%83%A8%E8%83%8C%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 21时44分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 22时30分]"
         },
         {
           "title": "菲律宾1架公务机非法闯入中国黄岩岛领空，南部战区回应",
@@ -49,23 +49,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[04时12分 ~ 21时44分]"
+          "appearance_count": 22,
+          "time_info": "[04时12分 ~ 22时30分]"
+        },
+        {
+          "title": "美部长自爆斩杀线,拜登惨背锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349441&amp;topic_name=%E7%BE%8E%E9%83%A8%E9%95%BF%E8%87%AA%E7%88%86%E6%96%A9%E6%9D%80%E7%BA%BF%2C%E6%8B%9C%E7%99%BB%E6%83%A8%E8%83%8C%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[14时34分 ~ 22时30分]"
         },
         {
           "title": "税务部门处罚拼多多",
-          "url": "https://www.douyin.com/hot/2375178",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E6%8B%BC%E5%A4%9A%E5%A4%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            4,
+            3,
             2,
-            6,
-            5
+            15,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时30分]"
         },
         {
           "title": "重庆马拉松通报离世选手情况，为何悲剧常发生在跑马终点前后",
@@ -83,6 +101,20 @@
           "time_info": "[00时34分 ~ 15时27分]"
         },
         {
+          "title": "税务部门处罚拼多多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32433116",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时30分]"
+        },
+        {
           "title": "中方回应是否加入“和平委员会”",
           "url": "https://www.toutiao.com/trending/7597378122333929522/",
           "source": "今日头条",
@@ -96,18 +128,17 @@
           "time_info": "[16时31分 ~ 20时47分]"
         },
         {
-          "title": "税务部门处罚拼多多",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A%E6%8B%BC%E5%A4%9A%E5%A4%9A",
-          "source": "bilibili 热搜",
+          "title": "代孕单亲妈妈分娩时大出血子宫被切除，河南平顶山涉事医院被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32431042",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2,
-            15,
-            13
+            16,
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时30分]"
         },
         {
           "title": "胖东来因虚构商品成本被罚？官方辟谣",
@@ -147,20 +178,6 @@
           "time_info": "[00时34分 ~ 06时22分]"
         },
         {
-          "title": "税务部门处罚拼多多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32433116",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时44分]"
-        },
-        {
           "title": "拼多多被税务部门处罚",
           "url": "https://www.baidu.com/s?wd=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%A4%84%E7%BD%9A",
           "source": "百度热搜",
@@ -189,6 +206,18 @@
           "time_info": "[16时31分 ~ 21时44分]"
         },
         {
+          "title": "多地叫停「刨猪宴」，地方政府处于两难境地，这是为什么？此类活动涉及哪些安全合规问题？",
+          "url": "https://www.zhihu.com/question/1995666566495360087",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 22时30分]"
+        },
+        {
           "title": "原中央防范和处理邪教问题领导小组办公室副主任高以忱被开除党籍",
           "url": "https://m.thepaper.cn/newsDetail_forward_32423098",
           "source": "澎湃新闻",
@@ -215,29 +244,18 @@
           "time_info": "[14时35分 ~ 17时32分]"
         },
         {
-          "title": "代孕单亲妈妈分娩时大出血子宫被切除，河南平顶山涉事医院被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32431042",
-          "source": "澎湃新闻",
+          "title": "整治政府采购领域“内卷式”竞争 财政部推动解决政府采购异常低价问题",
+          "url": "https://www.cls.cn/detail/2265194",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            13,
-            10
+            11,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时44分]"
-        },
-        {
-          "title": "多地叫停「刨猪宴」，地方政府处于两难境地，这是为什么？此类活动涉及哪些安全合规问题？",
-          "url": "https://www.zhihu.com/question/1995666566495360087",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时30分]"
         },
         {
           "title": "官方通报食堂承包商举报校领导贪污",
@@ -280,18 +298,28 @@
           "time_info": "[16时31分 ~ 19时23分]"
         },
         {
-          "title": "整治政府采购领域“内卷式”竞争 财政部推动解决政府采购异常低价问题",
-          "url": "https://www.cls.cn/detail/2265194",
-          "source": "财联社热门",
+          "title": "铁路部门推出便民新服务",
+          "url": "https://www.douyin.com/hot/2375568",
+          "source": "抖音",
           "ranks": [
-            11,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时44分]"
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "上海税务部门依法处罚拼多多：罚款10万元",
+          "url": "https://wallstreetcn.com/articles/3763807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 22时30分]"
         },
         {
           "title": "外交部：美方邀请中方加入和平委员会",
@@ -303,6 +331,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "14名央企领导职务调整",
+          "url": "https://www.baidu.com/s?wd=14%E5%90%8D%E5%A4%AE%E4%BC%81%E9%A2%86%E5%AF%BC%E8%81%8C%E5%8A%A1%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 22时30分]"
+        },
+        {
+          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
+          "url": "https://www.cls.cn/detail/2265380",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 22时30分]"
         },
         {
           "title": "波兰财政部长Domanski：在关税问题上，缓和升级将是更可取的路径，但欧洲的回应必须坚定而团结。",
@@ -393,19 +445,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "上海税务部门依法处罚拼多多：罚款10万元",
-          "url": "https://wallstreetcn.com/articles/3763807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 21时44分]"
-        },
-        {
           "title": "中方回应是否加入所谓和平委员会",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8A%A0%E5%85%A5%E6%89%80%E8%B0%93%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -416,6 +455,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时27分 ~ 19时23分]"
+        },
+        {
+          "title": "拼多多因未按规定报送涉税信息受到税务部门处罚，如何评价？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1997339727515313721",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时30分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：我们现在生活在一个由强权定义的世界中。",
@@ -515,18 +567,6 @@
           "time_info": "[17时32分 ~ 18时28分]"
         },
         {
-          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
-          "url": "https://www.cls.cn/detail/2265380",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时44分]"
-        },
-        {
           "title": "乌总统办公室主任：对和平计划感到谨慎的乐观",
           "url": "https://wallstreetcn.com/livenews/3040699",
           "source": "华尔街见闻-快讯",
@@ -610,6 +650,19 @@
           "time_info": "[07时21分 ~ 17时32分]"
         },
         {
+          "title": "上海市税务部门依法对“拼多多”作出处罚",
+          "url": "https://www.cls.cn/detail/2264997",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时30分]"
+        },
+        {
           "title": "菲1架公务机非法闯入中国黄岩岛领空",
           "url": "https://www.baidu.com/s?wd=%E8%8F%B21%E6%9E%B6%E5%85%AC%E5%8A%A1%E6%9C%BA%E9%9D%9E%E6%B3%95%E9%97%AF%E5%85%A5%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B%E9%A2%86%E7%A9%BA",
           "source": "百度热搜",
@@ -634,31 +687,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
-          "title": "上海市税务部门依法对“拼多多”作出处罚",
-          "url": "https://www.cls.cn/detail/2264997",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时44分]"
-        },
-        {
-          "title": "拼多多因未按规定报送涉税信息受到税务部门处罚，如何评价？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1997339727515313721",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时44分]"
         },
         {
           "title": "从西电东送到基层配网，4万亿电网投资或重塑能源及电气产业链 多家上市公司表示或将受益",
@@ -698,6 +726,17 @@
           "time_info": "[04时12分 ~ 06时22分]"
         },
         {
+          "title": "河南周口通报一中学食堂承包商举报校领导：基本属实，14人被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32431351",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时30分]"
+        },
+        {
           "title": "警方通报鄱阳湖湿地野生动物被毒害",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%84%B1%E9%98%B3%E6%B9%96%E6%B9%BF%E5%9C%B0%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E8%A2%AB%E6%AF%92%E5%AE%B3",
           "source": "百度热搜",
@@ -709,6 +748,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 12时43分]"
+        },
+        {
+          "title": "台湾一男子被指为大陆向陆委会官员刺探秘密，国台办答澎湃：赖清德当局一再渲染“大陆威胁”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32431575",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时30分]"
         },
         {
           "title": "白俄罗斯确认加入“和平委员会”",
@@ -882,6 +932,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "官方通报14岁男孩疑遭虐待离世：生父继母已被警方控制",
+          "url": "https://news.ifeng.com/c/8q6SLcPA0D9",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
+        },
+        {
           "title": "俄罗斯外交部长拉夫罗夫20日在莫斯科举行的年度记者会上说，俄方将继续寻求通过外交途径解决乌克兰问题的方案。",
           "url": "https://flash.jin10.com/detail/20260120235634592800",
           "source": "金十数据",
@@ -1014,17 +1075,6 @@
           "time_info": "14时35分"
         },
         {
-          "title": "河南周口通报一中学食堂承包商举报校领导：基本属实，14人被问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32431351",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：正制定对伊朗的新制裁。",
           "url": "https://flash.jin10.com/detail/20260120234833661800",
           "source": "金十数据",
@@ -1078,17 +1128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        },
-        {
-          "title": "台湾一男子被指为大陆向陆委会官员刺探秘密，国台办答澎湃：赖清德当局一再渲染“大陆威胁”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32431575",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们（欧元区）接近实现价格稳定性目标。 指明何时实现整固财政将是至关重要的。",
@@ -1229,7 +1268,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
