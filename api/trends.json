@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T16:31:42.124146+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-01-22T17:31:51.255249+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 80,
+      "match_count": 90,
       "titles": [
         {
           "title": "税务部门处罚拼多多",
@@ -55,6 +55,20 @@
           "time_info": "[00时46分 ~ 15时27分]"
         },
         {
+          "title": "央视调查未成年人饭圈乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%A5%AD%E5%9C%88%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 17时31分]"
+        },
+        {
           "title": "“徐州为何没有官宣GDP过万亿？”市委书记回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32434511",
           "source": "澎湃新闻",
@@ -64,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 17时31分]"
         },
         {
           "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
@@ -77,20 +91,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时24分]"
-        },
-        {
-          "title": "央视调查未成年人饭圈乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%A5%AD%E5%9C%88%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 16时31分]"
         },
         {
           "title": "整治政府采购领域“内卷式”竞争 财政部推动解决政府采购异常低价问题",
@@ -116,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 16时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 17时31分]"
         },
         {
           "title": "打虎！副部级张建龙被查",
@@ -145,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 16时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时44分 ~ 17时31分]"
         },
         {
           "title": "外交部回应是否加入和平委员会",
@@ -210,20 +210,20 @@
           "time_info": "[00时44分 ~ 06时24分]"
         },
         {
-          "title": "美部长自爆斩杀线,拜登惨背锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349441&amp;topic_name=%E7%BE%8E%E9%83%A8%E9%95%BF%E8%87%AA%E7%88%86%E6%96%A9%E6%9D%80%E7%BA%BF%2C%E6%8B%9C%E7%99%BB%E6%83%A8%E8%83%8C%E9%94%85",
-          "source": "贴吧",
+          "title": "国家林草局原局长张建龙被查",
+          "url": "https://www.douyin.com/hot/2375742",
+          "source": "抖音",
           "ranks": [
-            12,
-            8,
-            14,
+            16,
             18,
-            19,
-            22
+            14,
+            9,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 17时31分]"
         },
         {
           "title": "代孕单亲妈妈分娩时大出血子宫被切除，河南平顶山涉事医院被查",
@@ -239,19 +239,21 @@
           "time_info": "[00时44分 ~ 09时42分]"
         },
         {
-          "title": "国家林草局原局长张建龙被查",
-          "url": "https://www.douyin.com/hot/2375742",
-          "source": "抖音",
+          "title": "美部长自爆斩杀线,拜登惨背锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349441&amp;topic_name=%E7%BE%8E%E9%83%A8%E9%95%BF%E8%87%AA%E7%88%86%E6%96%A9%E6%9D%80%E7%BA%BF%2C%E6%8B%9C%E7%99%BB%E6%83%A8%E8%83%8C%E9%94%85",
+          "source": "贴吧",
           "ranks": [
-            16,
-            18,
+            12,
+            8,
             14,
-            9,
-            11
+            18,
+            19,
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 16时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时44分 ~ 17时31分]"
         },
         {
           "title": "官方通报14岁男孩疑遭虐待离世：生父继母已被警方控制",
@@ -308,6 +310,18 @@
           "time_info": "[00时44分 ~ 06时24分]"
         },
         {
+          "title": "普京：收到加入“和平委员会”邀请，将同战略伙伴磋商",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439443",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 17时31分]"
+        },
+        {
           "title": "干部购入30多处房产 称买房钱是借的",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E8%B4%AD%E5%85%A530%E5%A4%9A%E5%A4%84%E6%88%BF%E4%BA%A7+%E7%A7%B0%E4%B9%B0%E6%88%BF%E9%92%B1%E6%98%AF%E5%80%9F%E7%9A%84",
           "source": "百度热搜",
@@ -322,18 +336,6 @@
           "time_info": "[11时46分 ~ 15时27分]"
         },
         {
-          "title": "普京：收到加入“和平委员会”邀请，将同战略伙伴磋商",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439443",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 16时31分]"
-        },
-        {
           "title": "多地叫停「刨猪宴」，地方政府处于两难境地，这是为什么？此类活动涉及哪些安全合规问题？",
           "url": "https://www.zhihu.com/question/1995666566495360087",
           "source": "知乎",
@@ -343,6 +345,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 09时42分]"
+        },
+        {
+          "title": "自然资源部原党组成员、国家林草局原局长张建龙被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 17时31分]"
         },
         {
           "title": "女子牵绳遛狗被围殴 警方通报",
@@ -357,18 +372,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时46分 ~ 15时27分]"
-        },
-        {
-          "title": "自然资源部原党组成员、国家林草局原局长张建龙被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 16时31分]"
         },
         {
           "title": "女子在丈夫瘫痪期间出轨并怀孕",
@@ -395,6 +398,21 @@
           "time_info": "[02时41分 ~ 09时42分]"
         },
         {
+          "title": "乘客携带2枚子弹进入高铁站被查获",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E6%90%BA%E5%B8%A62%E6%9E%9A%E5%AD%90%E5%BC%B9%E8%BF%9B%E5%85%A5%E9%AB%98%E9%93%81%E7%AB%99%E8%A2%AB%E6%9F%A5%E8%8E%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4,
+            9,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 17时31分]"
+        },
+        {
           "title": "英国政府谈中国“超级大使馆”",
           "url": "https://news.ifeng.com/c/8q7LkuJI0fc",
           "source": "凤凰网",
@@ -404,20 +422,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时47分 ~ 16时31分]"
-        },
-        {
-          "title": "乘客携带2枚子弹进入高铁站被查获",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E6%90%BA%E5%B8%A62%E6%9E%9A%E5%AD%90%E5%BC%B9%E8%BF%9B%E5%85%A5%E9%AB%98%E9%93%81%E7%AB%99%E8%A2%AB%E6%9F%A5%E8%8E%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            4,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时31分]"
         },
         {
           "title": "格陵兰岛自治政府建议民众备好五天生活物资",
@@ -477,6 +481,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "九部门：推动药品零售企业监管向服务型监管、预防型监管、数智化治理转变",
+          "url": "https://wallstreetcn.com/livenews/3041941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "哈萨克斯坦能源部：已成立特别委员会调查1月18日腾格里油田事故。",
           "url": "https://flash.jin10.com/detail/20260122130303218800",
           "source": "金十数据",
@@ -497,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "九部门：鼓励药品零售企业依法开展横向并购与重组",
+          "url": "https://wallstreetcn.com/livenews/3041940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "格陵兰岛自治政府建议民众备好五天生活物资",
@@ -536,6 +562,17 @@
           "time_info": "[13时27分 ~ 15时27分]"
         },
         {
+          "title": "男子瘫痪后妻子出轨有孕想离婚",
+          "url": "https://www.toutiao.com/trending/7597978597357371443/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时31分]"
+        },
+        {
           "title": "女干部购30多处房产 称买房钱是借的",
           "url": "https://www.toutiao.com/trending/7597946944245891078/",
           "source": "今日头条",
@@ -547,17 +584,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 16时31分]"
-        },
-        {
-          "title": "男子瘫痪后妻子出轨有孕想离婚",
-          "url": "https://www.toutiao.com/trending/7597978597357371443/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时31分]"
         },
         {
           "title": "白宫新闻秘书莱维特：格陵兰岛的重点是安全，但也包括矿产资源。",
@@ -686,6 +712,17 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
+          "title": "九部门：推动药品零售企业参加药品集中采购",
+          "url": "https://wallstreetcn.com/livenews/3041939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗官方：3117人在近期骚乱事件中死亡",
           "url": "https://flash.jin10.com/detail/20260122035911473800",
           "source": "金十数据",
@@ -697,6 +734,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "打造“健康驿站”！9部门发文促进药品零售行业高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3041937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "高盛：私营部门向黄金多元化配置已开始显现成效。",
           "url": "https://flash.jin10.com/detail/20260122111652414800",
           "source": "金十数据",
@@ -706,6 +754,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "土耳其出口商协会主席：高利率和高成本可能危及土耳其官方设定的2026年出口目标。服装、皮革和家具等劳动密集型行业今年将继续萎缩。土耳其长期实施紧缩经济政策给制造业部门带来了问题。",
+          "url": "https://flash.jin10.com/detail/20260122170008392800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "环卫工戴定位器不动就罚款？官方回应",
+          "url": "https://www.toutiao.com/trending/7597254436458266675/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "英外交大臣：暂不会加入“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q7lxHoKwMH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "据日本《读卖新闻》：日本政府考虑推出新计划，支持从事高增长行业研究的大学。",
@@ -807,6 +888,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "消息人士：阿里巴巴据悉拟让AI芯片制造部门“平头哥”进行IPO",
+          "url": "https://flash.jin10.com/detail/20260122165255705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "委内瑞拉代总统Delcy Rodriguez：已经与古巴官员Diaz-Canel通话。",
           "url": "https://wallstreetcn.com/livenews/3041545",
           "source": "华尔街见闻-快讯",
@@ -835,7 +927,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -939,15 +1031,37 @@
           "time_info": "14时33分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9628，较上一交易日官方收盘价涨22点，较上日夜盘收盘涨12点。",
+          "url": "https://wallstreetcn.com/livenews/3041916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "中国是否加入“和平委员会”？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3041873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "福耀科大校长回应大一学生被企业抢光",
+          "url": "https://www.toutiao.com/trending/7597754053535416361/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "大众汽车股价在汽车部门初步全年净现金流公布后上涨5.2%。",
@@ -956,7 +1070,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
