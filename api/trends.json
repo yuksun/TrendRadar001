@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:26:51.874032+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-01-22T19:22:47.611739+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 94,
+      "match_count": 99,
       "titles": [
         {
           "title": "税务部门处罚拼多多",
@@ -55,20 +55,6 @@
           "time_info": "[00时46分 ~ 15时27分]"
         },
         {
-          "title": "央视调查未成年人饭圈乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%A5%AD%E5%9C%88%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时26分]"
-        },
-        {
           "title": "“徐州为何没有官宣GDP过万亿？”市委书记回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32434511",
           "source": "澎湃新闻",
@@ -78,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时42分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时42分 ~ 19时22分]"
         },
         {
           "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
@@ -91,6 +77,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时24分]"
+        },
+        {
+          "title": "央视调查未成年人饭圈乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%A5%AD%E5%9C%88%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            2,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时22分]"
         },
         {
           "title": "整治政府采购领域“内卷式”竞争 财政部推动解决政府采购异常低价问题",
@@ -116,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 18时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 19时22分]"
         },
         {
           "title": "打虎！副部级张建龙被查",
@@ -142,11 +143,12 @@
             11,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时44分 ~ 18时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 19时22分]"
         },
         {
           "title": "外交部回应是否加入和平委员会",
@@ -162,6 +164,20 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时44分 ~ 15时27分]"
+        },
+        {
+          "title": "自然资源部原党组成员、国家林草局原局长张建龙被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 19时22分]"
         },
         {
           "title": "14名央企领导职务调整",
@@ -319,21 +335,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时26分]"
-        },
-        {
-          "title": "自然资源部原党组成员、国家林草局原局长张建龙被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时22分]"
         },
         {
           "title": "干部购入30多处房产 称买房钱是借的",
@@ -509,11 +512,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时22分]"
         },
         {
           "title": "格陵兰岛自治政府建议民众备好五天生活物资",
@@ -590,6 +594,18 @@
           "time_info": "[14时33分 ~ 16时31分]"
         },
         {
+          "title": "英外交大臣：暂不会加入“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q7lxHoKwMH",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
+        {
           "title": "九部门：推动药品零售企业参加药品集中采购",
           "url": "https://wallstreetcn.com/livenews/3041939",
           "source": "华尔街见闻-快讯",
@@ -650,15 +666,16 @@
           "time_info": "[01时54分 ~ 02时41分]"
         },
         {
-          "title": "英外交大臣：暂不会加入“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q7lxHoKwMH",
-          "source": "凤凰网",
+          "title": "万象冬弈杯选人大会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E8%B1%A1%E5%86%AC%E5%BC%88%E6%9D%AF%E9%80%89%E4%BA%BA%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯主要将和平委员会视为解决中东问题的手段。",
@@ -695,6 +712,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
+          "title": "湖南石门二中学生因课堂抢答被罚抄等琐事，与班主任产生矛盾出现冲突，为何普通纠纷会演变为多方皆输的局面？",
+          "url": "https://www.zhihu.com/question/1996987845261423568",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "女干部被留置时实控20多处房产",
@@ -780,7 +809,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -862,15 +891,15 @@
           "time_info": "13时28分"
         },
         {
-          "title": "万象冬弈杯选人大会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E8%B1%A1%E5%86%AC%E5%BC%88%E6%9D%AF%E9%80%89%E4%BA%BA%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "东鹏饮料：拟与成都温江高新技术产业园区管委会签订《投资协议书》，投资项目为“东鹏饮料成都生产基地项目”，项目总投资11亿元。",
+          "url": "https://wallstreetcn.com/livenews/3041999",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时22分"
         },
         {
           "title": "调查：诺特最有可能接替拉加德执掌欧洲央行",
@@ -882,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "市场消息：欧盟委员会主席冯德莱恩在议会信任投票中过关。",
+          "url": "https://flash.jin10.com/detail/20260122190321355800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美众议院委员会投票推进指控克林顿夫妇藐视国会决议",
@@ -978,7 +1018,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1003,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "北约秘书长：北约将在北极安全上加大投入",
+          "url": "https://wallstreetcn.com/livenews/3041991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "马来西亚副财长：政府担保上限设为GDP的25%旨在控制财政与经济承载力。",
@@ -1071,15 +1122,15 @@
           "time_info": "15时27分"
         },
         {
-          "title": "湖南石门二中学生因课堂抢答被罚抄等琐事，与班主任产生矛盾出现冲突，为何普通纠纷会演变为多方皆输的局面？",
-          "url": "https://www.zhihu.com/question/1996987845261423568",
-          "source": "知乎",
+          "title": "镇雄县信访局局长回应被县公安局原副局长举报：不实，相关部门正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440127",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时22分"
         },
         {
           "title": "由日本在野党立宪民主党与公明党组建的新政党“中道改革联合”22日下午在东京举行建党大会。",
@@ -1113,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "市场消息：迪拜已将4月份官方原油价格对阿曼期货的贴水设定为每桶30美分。",
+          "url": "https://flash.jin10.com/detail/20260122184341616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "大众汽车股价在汽车部门初步全年净现金流公布后上涨5.2%。",
