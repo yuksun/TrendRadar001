@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T07:20:39.043907+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-01-23T09:40:46.371014+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "自然资源部原党组成员、国家林草局原局长张建龙被查",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "和平委员会签字仪式不到20国参加",
@@ -41,11 +41,24 @@
             8,
             18,
             16,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时40分]"
+        },
+        {
+          "title": "镇雄县信访局局长回应被县公安局原副局长举报：不实，相关部门正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440127",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "普京：收到加入“和平委员会”邀请，将同战略伙伴磋商",
@@ -62,16 +75,20 @@
           "time_info": "[00时34分 ~ 07时20分]"
         },
         {
-          "title": "镇雄县信访局局长回应被县公安局原副局长举报：不实，相关部门正调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440127",
-          "source": "澎湃新闻",
+          "title": "小米用户称天冷前轮转向会发出「咯噔」声，官方称是正常现象，车企口中的「阿克曼角」现象到底是怎么回事？",
+          "url": "https://www.zhihu.com/question/1997364733414696491",
+          "source": "知乎",
           "ranks": [
-            13,
-            12
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时20分]"
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 09时40分]"
         },
         {
           "title": "男子瘫痪后妻子出轨有孕想离婚",
@@ -119,21 +136,6 @@
           "time_info": "[00时34分 ~ 05时22分]"
         },
         {
-          "title": "小米用户称天冷前轮转向会发出「咯噔」声，官方称是正常现象，车企口中的「阿克曼角」现象到底是怎么回事？",
-          "url": "https://www.zhihu.com/question/1997364733414696491",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 07时20分]"
-        },
-        {
           "title": "国务院食安办等部门将对预制菜国家标准等公开征求意见",
           "url": "https://m.thepaper.cn/newsDetail_forward_32442186",
           "source": "澎湃新闻",
@@ -145,16 +147,15 @@
           "time_info": "00时34分"
         },
         {
-          "title": "贵州石阡县县长说自己也是百姓",
-          "url": "https://www.toutiao.com/trending/7597832778893426731/",
-          "source": "今日头条",
+          "title": "医药商业股开盘拉升，益丰药房直线涨停，大参林、九州通、药易购、漱玉平民、老百姓等跟涨，消息上，商务部等9部门发布《关于促进药品零售行业高质量发展的意见》。",
+          "url": "https://wallstreetcn.com/livenews/3042454",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            24
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "同事跟我同一岗位，却总是以类似领导命令的语气要求我的工作，我该怎么办？",
@@ -168,8 +169,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 07时20分]"
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 09时40分]"
+        },
+        {
+          "title": "贵州石阡县县长说自己也是百姓",
+          "url": "https://www.toutiao.com/trending/7597832778893426731/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "惠誉：预计法国总理勒科尔努的少数派政府将得以存续。",
@@ -224,11 +237,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32442528",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 09时40分]"
         },
         {
           "title": "欧洲多国对“和平委员会”说“不”",
@@ -287,6 +301,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "甘肃一拆迁工地挖出银元？官方辟谣",
+          "url": "https://www.toutiao.com/trending/7598210015144496681/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "乌克兰国家电力公司通报称，23日，乌克兰所有地区都将实施停电计划。",
           "url": "https://flash.jin10.com/detail/20260123031626798800",
           "source": "金十数据",
@@ -304,7 +329,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -326,7 +351,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -386,6 +411,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "官方回应“违规设置限高架砸死人”",
+          "url": "https://www.toutiao.com/trending/7598073949049618438/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "央视调查未成年人饭圈乱象",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%A5%AD%E5%9C%88%E4%B9%B1%E8%B1%A1",
           "source": "bilibili 热搜",
@@ -408,6 +444,28 @@
           "time_info": "01时28分"
         },
         {
+          "title": "重庆马拉松一跑者在终点不远处倒地去世，通报系个人身体原因所致，可能是什么情况？此类赛事会管理更严吗？",
+          "url": "https://www.zhihu.com/question/1996958201220994260",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "村支书雪天用无人机喊话独居老人",
+          "url": "https://www.toutiao.com/trending/7598130814213341194/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "据塔斯社：俄罗斯就法国拦截油轮一事表示，法国并未向俄方通报此次拦截行动。",
           "url": "https://flash.jin10.com/detail/20260122235210552800",
           "source": "金十数据",
@@ -417,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "欧洲理事会主席：欧盟对“和平委员会”章程若干内容存在严重疑虑",
+          "url": "https://wallstreetcn.com/livenews/3042414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     }
