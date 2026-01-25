@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T17:21:23.123439+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-25T18:21:18.675086+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "李忠军当选南京市市长",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "张又侠、刘振立涉嫌严重违纪违法被立案审查调查",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "张又侠、刘振立被查，解放军报发布社论",
@@ -100,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时53分 ~ 18时21分]"
         },
         {
           "title": "张又侠刘振立被立案调查",
@@ -115,22 +115,24 @@
             19,
             16,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "张又侠刘振立被查 解放军报重磅发声",
           "url": "https://www.toutiao.com/trending/7598945317236510258/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 18时21分]"
         },
         {
           "title": "张又侠、刘振立被立案审查调查",
@@ -187,11 +189,12 @@
             24,
             26,
             27,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 18时21分]"
         },
         {
           "title": "驾校校长组织5677人考驾照作弊",
@@ -220,6 +223,58 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 11时53分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时53分 ~ 18时21分]"
+        },
+        {
+          "title": "北约官员称将加强东翼军事部署以“威慑俄罗斯”",
+          "url": "https://wallstreetcn.com/livenews/3043335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            19,
+            20,
+            21,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 18时21分]"
+        },
+        {
+          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
+          "url": "https://wallstreetcn.com/livenews/3043336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            20,
+            21,
+            22,
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 18时21分]"
         },
         {
           "title": "事业单位出纳6年贪4289万元公款",
@@ -279,22 +334,6 @@
           "time_info": "[09时49分 ~ 17时21分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2,
-            1,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 17时21分]"
-        },
-        {
           "title": "海霞哽咽回应任河南大学学术副校长",
           "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E4%BB%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%89%AF%E6%A0%A1%E9%95%BF",
           "source": "百度热搜",
@@ -306,23 +345,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时49分 ~ 14时31分]"
-        },
-        {
-          "title": "北约官员称将加强东翼军事部署以“威慑俄罗斯”",
-          "url": "https://wallstreetcn.com/livenews/3043335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            19,
-            20,
-            21,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 17时21分]"
         },
         {
           "title": "内塔尼亚胡拒绝白宫请求 阻止以总统出席和平委员会启动仪式",
@@ -337,23 +359,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时53分 ~ 16时27分]"
-        },
-        {
-          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
-          "url": "https://wallstreetcn.com/livenews/3043336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            20,
-            21,
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 17时21分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -406,6 +411,20 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
+          "title": "英国政府：将组建“英国版FBI”警务机构",
+          "url": "https://flash.jin10.com/detail/20260125141422478800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
+        },
+        {
           "title": "日媒吐槽决赛裁判执法不公",
           "url": "https://www.toutiao.com/trending/7598090963754729526/",
           "source": "今日头条",
@@ -415,6 +434,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "沙特政府数据：沙特11月进口额下降0.2%。",
+          "url": "https://flash.jin10.com/detail/20260125135007214800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "美参议院民主党誓言阻挠国土安全部拨款 政府停摆风险再起",
@@ -429,6 +462,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时49分 ~ 14时31分]"
+        },
+        {
+          "title": "沙特政府数据：沙特11月非石油出口增长20.7%。",
+          "url": "https://flash.jin10.com/detail/20260125135001407800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
+        },
+        {
+          "title": "沙特政府数据：沙特11月出口额增长10.0%，其中石油出口额增长5.4%。",
+          "url": "https://flash.jin10.com/detail/20260125134953993800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "美明尼苏达州总检察长：将用法律手段驱逐该州移民执法人员",
@@ -446,43 +507,28 @@
           "time_info": "[09时49分 ~ 15时21分]"
         },
         {
-          "title": "英国政府：将组建“英国版FBI”警务机构",
-          "url": "https://flash.jin10.com/detail/20260125141422478800",
-          "source": "金十数据",
+          "title": "警方通报未牵绳遛狗引发冲突，当事人：对方直接殴打头部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456963",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            6,
-            10
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
-          "title": "沙特政府数据：沙特11月进口额下降0.2%。",
-          "url": "https://flash.jin10.com/detail/20260125135007214800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
-        },
-        {
-          "title": "沙特政府数据：沙特11月非石油出口增长20.7%。",
-          "url": "https://flash.jin10.com/detail/20260125135001407800",
-          "source": "金十数据",
+          "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1998001783453283501",
+          "source": "知乎",
           "ranks": [
             4,
-            9,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时21分]"
         },
         {
           "title": "美一居民遭联邦执法人员枪击身亡 明尼苏达州官员与国土安全部各执一词",
@@ -496,19 +542,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时28分]"
-        },
-        {
-          "title": "沙特政府数据：沙特11月出口额增长10.0%，其中石油出口额增长5.4%。",
-          "url": "https://flash.jin10.com/detail/20260125134953993800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "海霞哽咽回应任河南大学学术副校长",
@@ -536,6 +569,20 @@
           "time_info": "[00时23分 ~ 03时17分]"
         },
         {
+          "title": "市场消息：韩国总统办公室撤回对李惠勋 (Lee Hye-hoon)的预算部长任命。（外媒更正，非“Lee Hae-Hoon”）",
+          "url": "https://flash.jin10.com/detail/20260125131054172800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
+        },
+        {
           "title": "张又侠刘振立被立案调查",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -561,30 +608,6 @@
           "time_info": "[12时51分 ~ 14时31分]"
         },
         {
-          "title": "警方通报未牵绳遛狗引发冲突，当事人：对方直接殴打头部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456963",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时21分]"
-        },
-        {
-          "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1998001783453283501",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
-        },
-        {
           "title": "日本首相高市早苗：政府将采取必要措施应对投机性、异常的市场波动。",
           "url": "https://flash.jin10.com/detail/20260125084817262800",
           "source": "金十数据",
@@ -596,19 +619,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时28分]"
-        },
-        {
-          "title": "市场消息：韩国总统办公室撤回对李惠勋 (Lee Hye-hoon)的预算部长任命。（外媒更正，非“Lee Hae-Hoon”）",
-          "url": "https://flash.jin10.com/detail/20260125131054172800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "国家自然科学基金委通报 20 个学术不端案件，反映出学术界哪些深层次问题？",
@@ -629,11 +639,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "工作人员退款脏衣服骂卖家 单位通报",
@@ -641,11 +652,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战",
@@ -656,8 +668,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "小学强制教师参与年会表演？当地通报",
@@ -752,6 +764,28 @@
           "time_info": "[16时26分 ~ 16时27分]"
         },
         {
+          "title": "挪用千万公款赌博 17人被问责",
+          "url": "https://www.toutiao.com/trending/7598859487680790555/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗官员：已为最坏情况做好准备",
+          "url": "https://www.toutiao.com/trending/7598489537325023268/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "如何看待一些高校领导号召不要发中科院 2 区及以下的论文，说只有 1 区的论文才叫论文？",
           "url": "https://www.zhihu.com/question/1996868820606940794",
           "source": "知乎",
@@ -761,6 +795,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "官方辟谣青岛高中生械斗致4死",
+          "url": "https://www.toutiao.com/trending/7598852047965880339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "上海市政府、江苏省政府、浙江省政府研究，同意全国首个跨省域高新区命名",
+          "url": "https://www.cls.cn/detail/2268791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "福建海警位金门附近海域依法开展常态执法巡查",
