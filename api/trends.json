@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T09:48:58.062107+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-01-26T11:56:48.599115+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "“欧洲应团结回应”，德国足协官员呼吁抵制美加墨世界杯",
@@ -34,6 +34,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨",
+          "url": "https://wallstreetcn.com/articles/3764103",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "张又侠、刘振立涉嫌严重违纪违法被立案审查调查",
@@ -91,11 +105,12 @@
             18,
             19,
             17,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "张又侠刘振立被立案调查",
@@ -130,19 +145,6 @@
           "ranks": [
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨",
-          "url": "https://wallstreetcn.com/articles/3764103",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -246,26 +248,38 @@
           "time_info": "[00时24分 ~ 05时18分]"
         },
         {
-          "title": "推动物价合理回升 多部门明确思路",
-          "url": "https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%89%A9%E4%BB%B7%E5%90%88%E7%90%86%E5%9B%9E%E5%8D%87+%E5%A4%9A%E9%83%A8%E9%97%A8%E6%98%8E%E7%A1%AE%E6%80%9D%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "俄总统新闻秘书：密切关注美欲在格陵兰岛部署“金穹”",
           "url": "https://wallstreetcn.com/livenews/3043554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "推动物价合理回升 多部门明确思路",
+          "url": "https://www.baidu.com/s?wd=%E6%8E%A8%E5%8A%A8%E7%89%A9%E4%BB%B7%E5%90%88%E7%90%86%E5%9B%9E%E5%8D%87+%E5%A4%9A%E9%83%A8%E9%97%A8%E6%98%8E%E7%A1%AE%E6%80%9D%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时56分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco：公司2025年全年EBITDA高于65亿美元（2024年为54.4亿美元）。 对智利政府（财政/税收）的总体贡献超过17亿美元。 我将在5月份任期届满时离职。（报纸La Tercera）",
@@ -317,6 +331,17 @@
           "time_info": "[00时24分 ~ 02时28分]"
         },
         {
+          "title": "韩国政府为何向极右翼“亮剑”？",
+          "url": "https://news.ifeng.com/c/8qDiytmjFNH",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时56分]"
+        },
+        {
           "title": "美被曝邀请以总统出席“和平委员会”启动仪式，多次遭以总理拒绝",
           "url": "https://wallstreetcn.com/livenews/3043423",
           "source": "华尔街见闻-快讯",
@@ -327,6 +352,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "为妈妈手术托关系找主任，仅一面之缘后全程没人管，该怎么办？",
+          "url": "https://www.zhihu.com/question/1997799276575744993",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时56分]"
         },
         {
           "title": "美法官下令：禁止执法人员破坏明尼苏达州枪击案相关证据",
@@ -341,13 +377,24 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "每经调查“陈小群”概念股炒作利益链：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
+          "url": "https://wallstreetcn.com/articles/3764116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "什么样的领导是不值得跟随的？",
           "url": "https://www.zhihu.com/question/1890718643328905551",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -358,31 +405,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
         {
-          "title": "韩国政府为何向极右翼“亮剑”？",
-          "url": "https://news.ifeng.com/c/8qDiytmjFNH",
-          "source": "凤凰网",
+          "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463576",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时56分"
         },
         {
-          "title": "为妈妈手术托关系找主任，仅一面之缘后全程没人管，该怎么办？",
-          "url": "https://www.zhihu.com/question/1997799276575744993",
-          "source": "知乎",
+          "title": "英首相将携最高级别官员访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%B0%86%E6%90%BA%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E5%AE%98%E5%91%98%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时56分"
+        },
+        {
+          "title": "泰国商务部长：今年出口可能会持平或下降约1%。",
+          "url": "https://flash.jin10.com/detail/20260126105758890800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "人民币兑美元中间价报6.9843，上调86点；上一交易日中间价6.9929，上一交易日官方收盘价6.9642，上日夜盘报收6.9630。",
@@ -391,9 +449,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "电影《寒战》里处长曾向荣怎么一直没回来？",
+          "url": "https://www.zhihu.com/question/608007818",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "明朝政府是什么时候丢失发钞权, 无法从发钞大量敛财获取紧急财政的?",
@@ -405,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "“一些干部调研未动、剧本先行”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E4%BA%9B%E5%B9%B2%E9%83%A8%E8%B0%83%E7%A0%94%E6%9C%AA%E5%8A%A8%E3%80%81%E5%89%A7%E6%9C%AC%E5%85%88%E8%A1%8C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
