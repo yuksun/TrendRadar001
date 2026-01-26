@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-27T04:26:21.090305+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-01-27T05:23:09.901542+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时26分]"
-        },
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
           "url": "https://m.thepaper.cn/newsDetail_forward_32463576",
@@ -26,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
+        },
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "每经调查“陈小群”概念股炒作利益链：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
@@ -48,8 +48,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时23分]"
+        },
+        {
+          "title": "北约秘书长称欧洲防务自主纯属做梦",
+          "url": "https://flash.jin10.com/detail/20260127043139450800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
@@ -57,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时23分]"
         },
         {
           "title": "耐克正调查潜在的数据泄露问题。（路透）",
@@ -75,6 +87,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "北京航空航天大学原校长李未院士逝世",
+          "url": "https://www.toutiao.com/trending/7599637416894271018/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 05时23分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯代表团讨论了结束战争及其监督的步骤。",
@@ -125,6 +149,18 @@
           "time_info": "[01时28分 ~ 02时34分]"
         },
         {
+          "title": "坦桑尼亚部长表示，坦桑尼亚预计在6月前签署价值420亿美元的大型液化天然气项目，并预计在八年内实现首次投产。",
+          "url": "https://flash.jin10.com/detail/20260127025312801800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时23分]"
+        },
+        {
           "title": "北约秘书长吕特：因为乌克兰的拦截器数量减少，乌克兰拦截俄罗斯导弹和无人机的比率下降；敦促盟友挖掘库存。",
           "url": "https://flash.jin10.com/detail/20260126235619115800",
           "source": "金十数据",
@@ -145,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "坦桑尼亚部长表示，坦桑尼亚预计在6月前签署价值420亿美元的大型液化天然气项目，并预计在八年内实现首次投产。",
-          "url": "https://flash.jin10.com/detail/20260127025312801800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         },
         {
           "title": "北约秘书长吕特：俄罗斯总统普京会乐见一支独立于北约的欧洲防卫力量。",
@@ -211,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "北京航空航天大学原校长李未院士逝世",
-          "url": "https://www.toutiao.com/trending/7599637416894271018/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
@@ -237,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "山东新设立4所大学",
