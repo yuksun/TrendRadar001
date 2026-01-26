@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T22:28:05.083011+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2026-01-26T23:28:40.319510+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 79,
+      "match_count": 88,
       "titles": [
         {
           "title": "“欧洲应团结回应”，德国足协官员呼吁抵制美加墨世界杯",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 22时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 23时28分]"
         },
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
@@ -46,8 +46,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时56分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 23时28分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 23时28分]"
         },
         {
           "title": "成都通报“小学强制教师参与年会表演”：取消相关环节",
@@ -79,17 +90,6 @@
           "time_info": "[00时24分 ~ 19时20分]"
         },
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 22时28分]"
-        },
-        {
           "title": "张又侠、刘振立涉嫌严重违纪违法被立案审查调查",
           "url": "https://www.cls.cn/detail/2268618",
           "source": "财联社热门",
@@ -100,6 +100,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "“陈小群”概念股炒作利益链调查",
+          "url": "https://www.douyin.com/hot/2379631",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 23时28分]"
         },
         {
           "title": "“陈小群”概念股炒作利益链调查：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
@@ -221,21 +236,6 @@
           "time_info": "[15时27分 ~ 20时44分]"
         },
         {
-          "title": "“陈小群”概念股炒作利益链调查",
-          "url": "https://www.douyin.com/hot/2379631",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时28分]"
-        },
-        {
           "title": "如何看待网友吐槽哈尔滨一停车场停车 11 分钟收费 16 元太贵，市监部门回应「自由定价，有公示不算违规」？",
           "url": "https://www.zhihu.com/question/1998507207034102669",
           "source": "知乎",
@@ -355,6 +355,17 @@
           "time_info": "[11时56分 ~ 13时33分]"
         },
         {
+          "title": "欧盟委员会：Meta公司有四个月时间确保WhatsApp遵守超大型平台的义务。",
+          "url": "https://flash.jin10.com/detail/20260126231939688800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
           "url": "https://flash.jin10.com/detail/20260125213838908800",
           "source": "金十数据",
@@ -459,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "欧盟委员会：WhatsApp的频道功能在欧盟的用户数量已达到至少4500万的门槛，根据《数字服务法》将WhatsApp指定为超大型在线平台。",
+          "url": "https://flash.jin10.com/detail/20260126231753113800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "王毅同伊斯兰合作组织秘书长塔哈会谈",
@@ -589,6 +611,18 @@
           "time_info": "[00时24分 ~ 02时28分]"
         },
         {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时28分]"
+        },
+        {
           "title": "美被曝邀请以总统出席“和平委员会”启动仪式，多次遭以总理拒绝",
           "url": "https://wallstreetcn.com/livenews/3043423",
           "source": "华尔街见闻-快讯",
@@ -635,15 +669,15 @@
           "time_info": "[13时32分 ~ 13时33分]"
         },
         {
-          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
-          "url": "https://wallstreetcn.com/livenews/3044053",
-          "source": "华尔街见闻-快讯",
+          "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
+          "url": "https://www.zhihu.com/question/1999123877784228824",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "23时28分"
         },
         {
           "title": "什么样的领导是不值得跟随的？",
@@ -685,7 +719,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -721,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "路透调查：哥伦比亚央行预计将于1月上调基准利率，这将是自2023年以来的首次加息。",
+          "url": "https://flash.jin10.com/detail/20260126230141559800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "上海静安区国企收购老公房“以旧换新”？房管部门：正在收集房源",
@@ -778,6 +823,17 @@
           "time_info": "17时33分"
         },
         {
+          "title": "路透调查：大多数分析师认为哥伦比亚央行将加息50个基点，其他分析师则对加息幅度意见不一，或预测维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260126230132082800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "卡塔尔官员：卡塔尔将向黎巴嫩提供至少4.2亿美元的赠款。",
           "url": "https://flash.jin10.com/detail/20260126200714686800",
           "source": "金十数据",
@@ -787,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "路透调查：哥伦比亚2027年底利率预计为9.75%，高于上一轮调查的8.25%。",
+          "url": "https://flash.jin10.com/detail/20260126230116065800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "人民币兑美元中间价报6.9843，上调86点；上一交易日中间价6.9929，上一交易日官方收盘价6.9642，上日夜盘报收6.9630。",
@@ -809,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "路透调查：哥伦比亚2026年底利率预计为11.25%，高于上一次调查的9.50%。",
+          "url": "https://flash.jin10.com/detail/20260126230059029800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "日本内阁官房长官木原稔表示，若2026财年预算案无法在 3 月底前通过国会，政府将编制临时预算案。（日本共同社）",
@@ -839,7 +917,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -872,7 +950,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -899,6 +977,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "北约秘书长吕特：在对待“购买欧盟（产品）”的附加条件上不应过于苛刻。",
+          "url": "https://flash.jin10.com/detail/20260126224813827800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "蜜雪冰城再被写入河南省政府工作报告",
           "url": "https://www.toutiao.com/trending/7598529270490808370/",
           "source": "今日头条",
@@ -919,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        },
+        {
+          "title": "北约秘书长吕特鼓励欧盟确保乌克兰对欧盟900亿欧元武器贷款的使用具备灵活性。",
+          "url": "https://flash.jin10.com/detail/20260126224734959800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "商务部：一视同仁支持外企参与提振消费、政府采购、招投标等",
@@ -969,8 +1069,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 22时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 23时28分]"
         },
         {
           "title": "宋军继辞去山东省副省长职务",
