@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T09:46:36.443690+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-01-27T11:47:46.620575+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
@@ -67,15 +67,15 @@
           "time_info": "[04时26分 ~ 07时21分]"
         },
         {
-          "title": "国企董事长殴打他人被拘 当地通报",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时47分"
         },
         {
           "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时23分]"
+        },
+        {
+          "title": "国企董事长殴打他人被拘 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BC%81%E8%91%A3%E4%BA%8B%E9%95%BF%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%8B%98+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
         },
         {
           "title": "北约秘书长称欧洲防务自主纯属做梦",
@@ -114,6 +126,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "香港4名公务员表现欠佳被着令退休",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯代表团讨论了结束战争及其监督的步骤。",
@@ -188,24 +212,13 @@
           "time_info": "[04时26分 ~ 05时23分]"
         },
         {
-          "title": "香港4名公务员表现欠佳被着令退休",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
           "title": "日元、通胀与股市成三重挑战，高市早苗政府面临市场大考",
           "url": "https://flash.jin10.com/detail/20260127091430204800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -227,7 +240,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -243,6 +256,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "国科大星际航行学院正式成立，朱俊强院士任院长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471007",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "北约秘书长吕特：俄罗斯总统普京会乐见一支独立于北约的欧洲防卫力量。",
           "url": "https://flash.jin10.com/detail/20260126234422653800",
           "source": "金十数据",
@@ -254,13 +278,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "市场消息：韩国财长将与委员会主席会晤，商讨美韩贸易协定相关立法事宜。",
+          "url": "https://flash.jin10.com/detail/20260127110424225800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "国务院免去曾国卫香港特别行政区政府政制及内地事务局局长职务",
           "url": "https://wallstreetcn.com/livenews/3044300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -282,7 +317,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -309,6 +344,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "泰国政府公报：年交易额超过100亿泰铢的泰国黄金交易商须向央行报告。",
+          "url": "https://flash.jin10.com/detail/20260127105808012800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "俄罗斯央行对企业进行的调查显示，2026年第一季度投资增速将放缓至低于2025年平均值的水平。",
           "url": "https://flash.jin10.com/detail/20260126233316926800",
           "source": "金十数据",
@@ -326,7 +372,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -334,7 +380,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
@@ -345,8 +391,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 11时47分]"
+        },
+        {
+          "title": "山东：2026年GDP增长预期目标为5%以上",
+          "url": "https://wallstreetcn.com/livenews/3044420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
+          "url": "https://www.zhihu.com/question/642621568",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "山东新设立4所大学",
