@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T20:46:49.974214+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2026-01-27T21:46:15.188531+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 106,
+      "match_count": 114,
       "titles": [
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 21时46分]"
         },
         {
           "title": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再动员再部署",
@@ -89,8 +89,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 21时46分]"
+        },
+        {
+          "title": "日本政府要求渔民避开钓鱼岛",
+          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 21时46分]"
         },
         {
           "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
@@ -105,6 +117,22 @@
           "time_info": "[00时33分 ~ 09时46分]"
         },
         {
+          "title": "香港内地事务局长曾国卫被免职",
+          "url": "https://www.douyin.com/hot/2380710",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            13,
+            4,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 21时46分]"
+        },
+        {
           "title": "工业机器人当“车间主任”还有多远",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
           "source": "百度热搜",
@@ -116,16 +144,30 @@
           "time_info": "[14时33分 ~ 16时32分]"
         },
         {
-          "title": "日本政府要求渔民避开钓鱼岛",
-          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
-          "source": "凤凰网",
+          "title": "学术副校长海霞推动两大学术机构落地河大，一年发表多篇学术文章",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467349",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3
+            20,
+            19,
+            17,
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时46分]"
+          "appearance_count": 8,
+          "time_info": "[15时27分 ~ 21时46分]"
+        },
+        {
+          "title": "董军同俄罗斯国防部长视频通话",
+          "url": "https://news.ifeng.com/c/8qGCmb7P00Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时46分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -142,31 +184,18 @@
           "time_info": "[09时46分 ~ 14时34分]"
         },
         {
-          "title": "香港内地事务局长曾国卫被免职",
-          "url": "https://www.douyin.com/hot/2380710",
-          "source": "抖音",
+          "title": "四川绵阳市委副书记、市长李云被查",
+          "url": "https://www.toutiao.com/trending/7599963759720795675/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            11,
-            13,
-            4,
-            16,
-            12
+            5,
+            8,
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时46分]"
-        },
-        {
-          "title": "董军同俄罗斯国防部长视频通话",
-          "url": "https://news.ifeng.com/c/8qGCmb7P00Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时46分]"
         },
         {
           "title": "加拿大能源部长：我们现在正在修建通往西海岸的管道。",
@@ -189,21 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
-        },
-        {
-          "title": "学术副校长海霞推动两大学术机构落地河大，一年发表多篇学术文章",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467349",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时46分]"
         },
         {
           "title": "北京航空航天大学原校长李未院士逝世",
@@ -242,15 +256,41 @@
           "time_info": "16时32分"
         },
         {
-          "title": "欧洲央行管委Kocher称央行必须在利率问题上保持所有选项开放",
-          "url": "https://wallstreetcn.com/livenews/3044774",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟正式启动各成员国政府卫星通信计划",
+          "url": "https://www.cls.cn/detail/2271419",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时46分]"
+        },
+        {
+          "title": "包惠被查",
+          "url": "https://www.douyin.com/hot/2381315",
+          "source": "抖音",
+          "ranks": [
+            20,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时46分]"
+        },
+        {
+          "title": "三部门：强化殡葬服务收费管理",
+          "url": "https://www.douyin.com/hot/2381285",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时46分]"
         },
         {
           "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
@@ -266,19 +306,6 @@
           "time_info": "[03时23分 ~ 05时23分]"
         },
         {
-          "title": "四川绵阳市委副书记、市长李云被查",
-          "url": "https://www.toutiao.com/trending/7599963759720795675/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时46分]"
-        },
-        {
           "title": "欧洲央行管委科赫尔：目前我们处于良好的位置；通胀前景一直相当稳定。",
           "url": "https://flash.jin10.com/detail/20260127182317715800",
           "source": "金十数据",
@@ -291,6 +318,18 @@
           "time_info": "[18时27分 ~ 19时22分]"
         },
         {
+          "title": "欧洲央行管委Kocher称央行必须在利率问题上保持所有选项开放",
+          "url": "https://wallstreetcn.com/livenews/3044774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时46分]"
+        },
+        {
           "title": "香港4名公务员表现欠佳被着令退休",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF4%E5%90%8D%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%A8%E7%8E%B0%E6%AC%A0%E4%BD%B3%E8%A2%AB%E7%9D%80%E4%BB%A4%E9%80%80%E4%BC%91%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -301,18 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "欧盟正式启动各成员国政府卫星通信计划",
-          "url": "https://www.cls.cn/detail/2271419",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时46分]"
         },
         {
           "title": "欧洲央行管委科赫尔：全球背景不稳定可能影响欧洲。",
@@ -365,6 +392,43 @@
           "time_info": "[05时23分 ~ 06时21分]"
         },
         {
+          "title": "明尼苏达ICE争议执法始末",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BEICE%E4%BA%89%E8%AE%AE%E6%89%A7%E6%B3%95%E5%A7%8B%E6%9C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时46分]"
+        },
+        {
+          "title": "女副部包惠被查",
+          "url": "https://www.toutiao.com/trending/7599978711492526130/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时46分]"
+        },
+        {
+          "title": "董军同俄国防部长视频通话",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A3%E5%86%9B%E5%90%8C%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时46分]"
+        },
+        {
           "title": "香港内地事务局长曾国卫被免职",
           "url": "https://www.toutiao.com/trending/7599539079382827051/",
           "source": "今日头条",
@@ -378,17 +442,15 @@
           "time_info": "[17时32分 ~ 19时22分]"
         },
         {
-          "title": "包惠被查",
-          "url": "https://www.douyin.com/hot/2381315",
-          "source": "抖音",
+          "title": "太原国资委通报“酒厂董事长殴打他人”：停职，开展专项调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32470037",
+          "source": "澎湃新闻",
           "ranks": [
-            20,
-            11,
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 21时46分]"
         },
         {
           "title": "耐克正调查潜在的数据泄露问题。（路透）",
@@ -404,16 +466,16 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
-          "title": "三部门：强化殡葬服务收费管理",
-          "url": "https://www.douyin.com/hot/2381285",
-          "source": "抖音",
+          "title": "北约秘书长吕特唱衰欧洲防务自主：请继续做梦吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471014",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            15
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 21时46分]"
         },
         {
           "title": "女子行李箱藏40万现金出境被查",
@@ -426,6 +488,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时26分 ~ 14时34分]"
+        },
+        {
+          "title": "四川省成都市人大常委会原党组书记、主任包惠接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473994",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "欧洲央行管委科赫尔：汇率很重要，汇率事关贸易、竞争力和价格。过去一年欧元升值幅度相当可观。",
@@ -450,6 +523,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时22分]"
+        },
+        {
+          "title": "SK海力士回应将在美设立人工智能投资部门：正在考虑多种方案",
+          "url": "https://wallstreetcn.com/livenews/3044768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时46分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯代表团讨论了结束战争及其监督的步骤。",
@@ -510,6 +595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时22分]"
+        },
+        {
+          "title": "官方：对树葬等生态安葬给予适当奖补",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%EF%BC%9A%E5%AF%B9%E6%A0%91%E8%91%AC%E7%AD%89%E7%94%9F%E6%80%81%E5%AE%89%E8%91%AC%E7%BB%99%E4%BA%88%E9%80%82%E5%BD%93%E5%A5%96%E8%A1%A5",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "欧洲央行管委科赫尔：不确定性仍然非常高；欧洲央行希望在任何方向上都保持灵活性。",
@@ -584,18 +680,6 @@
           "time_info": "[04时26分 ~ 05时23分]"
         },
         {
-          "title": "明尼苏达ICE争议执法始末",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BEICE%E4%BA%89%E8%AE%AE%E6%89%A7%E6%B3%95%E5%A7%8B%E6%9C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
-        },
-        {
           "title": "商务部部长让芬兰企业畅所直言",
           "url": "https://www.toutiao.com/trending/7599868791392321563/",
           "source": "今日头条",
@@ -606,6 +690,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "刘强东老家村委会喊村民骑三轮拉年货",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E6%9D%91%E5%A7%94%E4%BC%9A%E5%96%8A%E6%9D%91%E6%B0%91%E9%AA%91%E4%B8%89%E8%BD%AE%E6%8B%89%E5%B9%B4%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
+        },
+        {
+          "title": "广州市市长喊话来广州过年",
+          "url": "https://www.toutiao.com/trending/7599643897237356585/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "英国金融行为监管局（FCA）：将根据人工智能审查的反馈制定一系列建议，这些建议将于2026年夏季提交给FCA委员会。",
@@ -630,26 +736,15 @@
           "time_info": "18时27分"
         },
         {
-          "title": "女副部包惠被查",
-          "url": "https://www.toutiao.com/trending/7599978711492526130/",
-          "source": "今日头条",
+          "title": "欧盟政府卫星通信项目已上线 IRIS²星座冲击2029年初步部署",
+          "url": "https://www.cls.cn/detail/2271551",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "SK海力士回应将在美设立人工智能投资部门：正在考虑多种方案",
-          "url": "https://wallstreetcn.com/livenews/3044768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "21时46分"
         },
         {
           "title": "印度贸易部长：希望欧盟贸易协定能在2026年日历年内生效。",
@@ -658,7 +753,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -669,7 +764,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -718,13 +813,24 @@
           "time_info": "15时27分"
         },
         {
+          "title": "ADP周度就业报告：截至2026年1月3日的四周里，私人部门雇主平均每周增加7750个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260127211636458800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "云南省政府与宁德时代签署全面战略合作协议",
           "url": "https://wallstreetcn.com/livenews/3044764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -735,18 +841,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "太原国资委通报“酒厂董事长殴打他人”：停职，开展专项调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32470037",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -771,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "董军同俄国防部长视频通话",
-          "url": "https://search.bilibili.com/all?keyword=%E8%91%A3%E5%86%9B%E5%90%8C%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "欧洲央行管委科赫尔：目前利率方面我们做得不错，不能排除任何利率方面的可能性。",
@@ -872,17 +956,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "北约秘书长吕特唱衰欧洲防务自主：请继续做梦吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471014",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "欧盟委员库比柳斯：上周我们启动了欧盟政府卫星通信项目 (GovSatCom)的运营。",
           "url": "https://flash.jin10.com/detail/20260127165641495800",
           "source": "金十数据",
@@ -892,6 +965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "波兰能源部长：波兰与乌克兰已同意提高天然气进口能力。",
+          "url": "https://flash.jin10.com/detail/20260127210445869800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "高盟新材：公司实际控制人、副董事长熊海涛女士因涉嫌犯罪，被四川省监察委员会立案调查并实施留置。目前尚待四川省监察委员会进一步调查。",
@@ -988,9 +1072,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "乌克兰能源部长：2025年乌克兰通过波兰进口了21亿立方米天然气。",
+          "url": "https://flash.jin10.com/detail/20260127210155002800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "北约秘书长吕特：乌克兰议题与格陵兰岛议题毫无关联，二者完全独立。",
@@ -1043,7 +1138,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1076,7 +1171,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1131,7 +1226,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1164,7 +1259,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1186,7 +1281,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1197,7 +1292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
