@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:32:26.331031+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-27T17:32:21.886806+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 49,
+      "match_count": 58,
       "titles": [
         {
           "title": "跨省份调任：蔡允革任广西壮族自治区党委常委",
@@ -73,11 +73,12 @@
             12,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 17时32分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -94,17 +95,6 @@
           "time_info": "[09时46分 ~ 14时34分]"
         },
         {
-          "title": "加拿大能源部长：我们现在正在修建通往西海岸的管道。",
-          "url": "https://flash.jin10.com/detail/20260127142824173800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "中央纪委国家监委对群众身边不正之风和腐败问题集中整治工作再动员再部署",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466423",
           "source": "澎湃新闻",
@@ -116,8 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时32分]"
         },
         {
           "title": "香港4名公务员表现欠佳被着令退休",
@@ -125,11 +115,23 @@
           "source": "今日头条",
           "ranks": [
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时32分]"
+        },
+        {
+          "title": "加拿大能源部长：我们现在正在修建通往西海岸的管道。",
+          "url": "https://flash.jin10.com/detail/20260127142824173800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "北京航空航天大学原校长李未院士逝世",
@@ -163,9 +165,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "日本政府要求渔民避开钓鱼岛",
+          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
@@ -231,6 +244,19 @@
           "time_info": "[05时23分 ~ 06时21分]"
         },
         {
+          "title": "香港内地事务局长曾国卫被免职",
+          "url": "https://www.douyin.com/hot/2380710",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时32分]"
+        },
+        {
           "title": "耐克正调查潜在的数据泄露问题。（路透）",
           "url": "https://wallstreetcn.com/livenews/3044135",
           "source": "华尔街见闻-快讯",
@@ -256,6 +282,19 @@
           "time_info": "[13时26分 ~ 14时34分]"
         },
         {
+          "title": "学术副校长海霞推动两大学术机构落地河大，一年发表多篇学术文章",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467349",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时32分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯代表团讨论了结束战争及其监督的步骤。",
           "url": "https://flash.jin10.com/detail/20260127010326819800",
           "source": "金十数据",
@@ -278,18 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时34分]"
-        },
-        {
-          "title": "香港内地事务局长曾国卫被免职",
-          "url": "https://www.douyin.com/hot/2380710",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时32分]"
         },
         {
           "title": "北约秘书长：“欧洲防务自主”纯属做梦",
@@ -340,18 +367,6 @@
           "time_info": "[04时26分 ~ 05时23分]"
         },
         {
-          "title": "学术副校长海霞推动两大学术机构落地河大，一年发表多篇学术文章",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467349",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时32分]"
-        },
-        {
           "title": "日元、通胀与股市成三重挑战，高市早苗政府面临市场大考",
           "url": "https://flash.jin10.com/detail/20260127091430204800",
           "source": "金十数据",
@@ -374,6 +389,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "德国经济部长：电网扩容是德国的关键瓶颈，需改善投资条件。",
+          "url": "https://flash.jin10.com/detail/20260127170015302800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "国家疾控局等多部门：持续推进在具备条件的医疗机构部署应用国家传染病智能监测预警前置软件",
           "url": "https://wallstreetcn.com/livenews/3044531",
           "source": "华尔街见闻-快讯",
@@ -383,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "德国经济部长：将推进风电招标，以扩大产能。",
+          "url": "https://flash.jin10.com/detail/20260127165935793800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "网传北交所“未能按时发布相关新股申购公告”？官方辟谣：系假消息",
@@ -451,6 +488,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "欧盟委员库比柳斯：上周我们启动了欧盟政府卫星通信项目 (GovSatCom)的运营。",
+          "url": "https://flash.jin10.com/detail/20260127165641495800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "北约秘书长吕特：俄罗斯总统普京会乐见一支独立于北约的欧洲防卫力量。",
           "url": "https://flash.jin10.com/detail/20260126234422653800",
           "source": "金十数据",
@@ -473,6 +521,28 @@
           "time_info": "11时47分"
         },
         {
+          "title": "商务部部长让芬兰企业畅所直言",
+          "url": "https://www.toutiao.com/trending/7599868791392321563/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "德国经济部长：2026年将分2至3轮招标新增发电厂装机容量。",
+          "url": "https://flash.jin10.com/detail/20260127165425207800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "国务院免去曾国卫香港特别行政区政府政制及内地事务局局长职务",
           "url": "https://wallstreetcn.com/livenews/3044300",
           "source": "华尔街见闻-快讯",
@@ -484,6 +554,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "德国经济部长：德国依赖于可靠且负担得起的能源供应。",
+          "url": "https://flash.jin10.com/detail/20260127165047356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "北约秘书长吕特：乌克兰议题与格陵兰岛议题毫无关联，二者完全独立。",
           "url": "https://flash.jin10.com/detail/20260126233951262800",
           "source": "金十数据",
@@ -493,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "香港内地事务局长曾国卫被免职",
+          "url": "https://www.toutiao.com/trending/7599539079382827051/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "偷税老板被查抱电脑逃跑 员工删文件",
@@ -556,7 +648,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -581,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9576，较上一交易日官方收盘价跌4点，较上日夜盘收盘跌36点。",
+          "url": "https://wallstreetcn.com/livenews/3044598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
