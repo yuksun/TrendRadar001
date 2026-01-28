@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:27:49.927034+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-01-28T14:35:18.372612+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "国科大星际航行学院正式成立，朱俊强院士任院长",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 09时42分]"
+        },
+        {
+          "title": "四川省成都市人大常委会原党组书记、主任包惠接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473994",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时35分]"
         },
         {
           "title": "欧盟政府卫星通信项目已上线 IRIS²星座冲击2029年初步部署",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "四川省成都市人大常委会原党组书记、主任包惠接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473994",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时27分]"
         },
         {
           "title": "董军同俄罗斯国防部长视频通话",
@@ -258,18 +259,6 @@
           "time_info": "[04时22分 ~ 07时21分]"
         },
         {
-          "title": "市长被查前刚就副市长被查主持会议",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E9%95%BF%E8%A2%AB%E6%9F%A5%E5%89%8D%E5%88%9A%E5%B0%B1%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E6%9F%A5%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时27分]"
-        },
-        {
           "title": "美向以通报对伊军事行动准备",
           "url": "https://www.douyin.com/hot/2381578",
           "source": "抖音",
@@ -281,15 +270,66 @@
           "time_info": "[11时44分 ~ 12时43分]"
         },
         {
+          "title": "市长被查前刚就副市长被查主持会议",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E9%95%BF%E8%A2%AB%E6%9F%A5%E5%89%8D%E5%88%9A%E5%B0%B1%E5%89%AF%E5%B8%82%E9%95%BF%E8%A2%AB%E6%9F%A5%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时35分]"
+        },
+        {
+          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时35分]"
+        },
+        {
           "title": "津巴布韦能源部长：与澳大利亚企业的合作已确认1.3万亿吨的天然气储量，这些资源可进行商业开采与利用。",
           "url": "https://flash.jin10.com/detail/20260128130853919800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "举报短剧演员何健麒的女子再发声，要求公开报警处理结果",
+          "url": "https://news.ifeng.com/c/8qH5rTpfTTr",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时35分]"
+        },
+        {
+          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时35分]"
         },
         {
           "title": "美明州州长要求联邦政府结束针对该州的“报复性行动”",
@@ -317,18 +357,6 @@
           "time_info": "[00时31分 ~ 01时27分]"
         },
         {
-          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 13时27分]"
-        },
-        {
           "title": "德州仪器(TXN.O)盘后涨幅扩大至10%，公司第四季度数据中心部门的收入增长了70%。",
           "url": "https://flash.jin10.com/detail/20260128054956354800",
           "source": "金十数据",
@@ -353,6 +381,32 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
+          "url": "https://www.cls.cn/detail/2271992",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时35分]"
+        },
+        {
+          "title": "税务部门将深入推进税制改革",
+          "url": "https://www.douyin.com/hot/2381741",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时35分]"
+        },
+        {
           "title": "包惠被查",
           "url": "https://www.douyin.com/hot/2381315",
           "source": "抖音",
@@ -365,55 +419,6 @@
           "time_info": "[00时30分 ~ 09时42分]"
         },
         {
-          "title": "举报短剧演员何健麒的女子再发声，要求公开报警处理结果",
-          "url": "https://news.ifeng.com/c/8qH5rTpfTTr",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 13时27分]"
-        },
-        {
-          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 13时27分]"
-        },
-        {
-          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
-          "url": "https://www.cls.cn/detail/2271992",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时27分]"
-        },
-        {
-          "title": "税务部门将深入推进税制改革",
-          "url": "https://www.douyin.com/hot/2381741",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时27分]"
-        },
-        {
           "title": "贺娇龙被写入政府工作报告",
           "url": "https://www.douyin.com/hot/2381387",
           "source": "抖音",
@@ -424,6 +429,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时27分]"
+        },
+        {
+          "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
+          "url": "https://www.zhihu.com/question/1999422225762182190",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时35分]"
         },
         {
           "title": "得克萨斯州电力可靠性委员会ERCOT：天气预警将于今日中午解除，电网仍有充足资源满足需求，预计电网运行状况将恢复正常。",
@@ -448,6 +466,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时37分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher称，如果欧元继续走强，欧洲央行将需要采取行动。就目前情况而言，欧洲央行无需调整利率。",
+          "url": "https://wallstreetcn.com/livenews/3045276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时35分]"
         },
         {
           "title": "欧洲央行管委科赫尔：官员​​们必须做好必要时采取行动的准备。",
@@ -498,16 +528,28 @@
           "time_info": "[02时37分 ~ 03时26分]"
         },
         {
-          "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
-          "url": "https://www.zhihu.com/question/1999422225762182190",
-          "source": "知乎",
+          "title": "津巴布韦能源部长：需要建立石油和天然气开采与生产的合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3045272",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17
+            10,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 14时35分]"
+        },
+        {
+          "title": "生命树白菊发飙骂领导",
+          "url": "https://www.douyin.com/hot/2381822",
+          "source": "抖音",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时35分]"
         },
         {
           "title": "日本防卫省表示，日本和韩国国防部长将于周五在日本横须贺举行会晤。",
@@ -530,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "欧洲央行管委Kocher称，如果欧元继续走强，欧洲央行将需要采取行动。就目前情况而言，欧洲央行无需调整利率。",
-          "url": "https://wallstreetcn.com/livenews/3045276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
@@ -571,7 +602,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -587,15 +618,15 @@
           "time_info": "04时24分"
         },
         {
-          "title": "津巴布韦能源部长：需要建立石油和天然气开采与生产的合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3045272",
+          "title": "阿斯麦第四季度净销售额97.2 亿欧元，预期95.7亿欧元。 阿斯麦第四季度订单量131.6亿欧元，预估68.5亿欧元。 阿斯麦预计2026年净销售额为340亿至390亿欧元，市场预估351.5亿欧元。 阿斯麦预计2026年毛利率在51%至53%，市场预估52.9%。 阿斯麦预计第一季度净销售额为82亿至89亿欧元，市场预期81.3亿欧元。 阿斯麦预计第一季度毛利率在51%至53%之间，市场预估52.5%。 阿斯麦宣布将在2028年底前回购至多120亿欧元股票。 阿斯麦将优化技术与信息技术部门的运作流程。 阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时35分"
         },
         {
           "title": "调查：美联储降息空间有限 未来两年或只有两次降息",
@@ -626,7 +657,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -670,7 +701,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -692,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -714,7 +745,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -763,6 +794,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "哈萨克斯坦能源部长：由于腾格里和科罗廖夫油田停产，哈萨克斯坦石油产量减少了约90万吨。",
+          "url": "https://flash.jin10.com/detail/20260128140402606800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
           "url": "https://wallstreetcn.com/livenews/3044883",
           "source": "华尔街见闻-快讯",
@@ -785,15 +827,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "生命树白菊发飙骂领导",
-          "url": "https://www.douyin.com/hot/2381822",
-          "source": "抖音",
+          "title": "欧洲央行管委：如果欧元走强，欧洲央行可能需要再次降息",
+          "url": "https://flash.jin10.com/detail/20260128140228562800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时35分"
         },
         {
           "title": "美媒：美移民执法局人员企图闯入厄瓜多尔领事馆，厄方递交抗议照会",
