@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T14:35:18.372612+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-01-28T15:25:51.518219+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "国科大星际航行学院正式成立，朱俊强院士任院长",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 15时25分]"
         },
         {
           "title": "欧盟政府卫星通信项目已上线 IRIS²星座冲击2029年初步部署",
@@ -259,6 +259,19 @@
           "time_info": "[04时22分 ~ 07时21分]"
         },
         {
+          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 15时25分]"
+        },
+        {
           "title": "美向以通报对伊军事行动准备",
           "url": "https://www.douyin.com/hot/2381578",
           "source": "抖音",
@@ -283,17 +296,29 @@
           "time_info": "[12时43分 ~ 14时35分]"
         },
         {
-          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
-          "source": "澎湃新闻",
+          "title": "举报短剧演员何健麒的女子再发声，要求公开报警处理结果",
+          "url": "https://news.ifeng.com/c/8qH5rTpfTTr",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 15时25分]"
+        },
+        {
+          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 15时25分]"
         },
         {
           "title": "津巴布韦能源部长：与澳大利亚企业的合作已确认1.3万亿吨的天然气储量，这些资源可进行商业开采与利用。",
@@ -307,29 +332,31 @@
           "time_info": "13时27分"
         },
         {
-          "title": "举报短剧演员何健麒的女子再发声，要求公开报警处理结果",
-          "url": "https://news.ifeng.com/c/8qH5rTpfTTr",
-          "source": "凤凰网",
+          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
+          "url": "https://www.cls.cn/detail/2271992",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            10,
+            12,
             11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时35分]"
+          "time_info": "[11时44分 ~ 15时25分]"
         },
         {
-          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
-          "source": "澎湃新闻",
+          "title": "税务部门将深入推进税制改革",
+          "url": "https://www.douyin.com/hot/2381741",
+          "source": "抖音",
           "ranks": [
-            18,
-            17,
-            15,
-            14
+            9,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时35分]"
+          "time_info": "[11时44分 ~ 15时25分]"
         },
         {
           "title": "美明州州长要求联邦政府结束针对该州的“报复性行动”",
@@ -381,32 +408,6 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
-          "url": "https://www.cls.cn/detail/2271992",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时35分]"
-        },
-        {
-          "title": "税务部门将深入推进税制改革",
-          "url": "https://www.douyin.com/hot/2381741",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时35分]"
-        },
-        {
           "title": "包惠被查",
           "url": "https://www.douyin.com/hot/2381315",
           "source": "抖音",
@@ -417,6 +418,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 09时42分]"
+        },
+        {
+          "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
+          "url": "https://www.zhihu.com/question/1999422225762182190",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时25分]"
         },
         {
           "title": "贺娇龙被写入政府工作报告",
@@ -431,17 +446,16 @@
           "time_info": "[11时44分 ~ 13时27分]"
         },
         {
-          "title": "香港 4 名公务员表现欠佳被着令退休，如何看待这种处理方式的合理性？能起到警示作用吗？",
-          "url": "https://www.zhihu.com/question/1999422225762182190",
-          "source": "知乎",
+          "title": "生命树白菊发飙骂领导",
+          "url": "https://www.douyin.com/hot/2381822",
+          "source": "抖音",
           "ranks": [
-            19,
-            17,
-            12
+            25,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时35分]"
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "得克萨斯州电力可靠性委员会ERCOT：天气预警将于今日中午解除，电网仍有充足资源满足需求，预计电网运行状况将恢复正常。",
@@ -540,18 +554,6 @@
           "time_info": "[13时27分 ~ 14时35分]"
         },
         {
-          "title": "生命树白菊发飙骂领导",
-          "url": "https://www.douyin.com/hot/2381822",
-          "source": "抖音",
-          "ranks": [
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时35分]"
-        },
-        {
           "title": "日本防卫省表示，日本和韩国国防部长将于周五在日本横须贺举行会晤。",
           "url": "https://flash.jin10.com/detail/20260128091304725800",
           "source": "金十数据",
@@ -624,7 +626,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -717,6 +719,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "印政府：目前仅确诊两例尼帕病例",
+          "url": "https://www.douyin.com/hot/2382027",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "坦桑尼亚副能源部长：希望在未来几年扭转石油和天然气产量下滑的趋势。",
           "url": "https://flash.jin10.com/detail/20260128125412763800",
           "source": "金十数据",
@@ -772,6 +785,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "江苏22个县级及县以下政务服务APP全部取消",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475032",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "职场中，你能忍受领导的不专业吗？如果遇到，你会怎么破局？",
           "url": "https://www.zhihu.com/question/14165630920",
           "source": "知乎",
@@ -800,7 +824,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -833,9 +857,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "法国财政部长：法国正稳步推进财政整固进程。",
+          "url": "https://flash.jin10.com/detail/20260128144516183800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "法国财政部长：预计法国预算案将在一周内获得最终通过。",
+          "url": "https://flash.jin10.com/detail/20260128144500834800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "美媒：美移民执法局人员企图闯入厄瓜多尔领事馆，厄方递交抗议照会",
