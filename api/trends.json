@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-29T06:25:59.812611+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-01-29T07:25:52.967911+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时25分]"
-        },
         {
           "title": "领导让你买咖啡，你花了 632，领导只转给你 600，并说「 已转，收一下 」，这时你怎么回？",
           "url": "https://www.zhihu.com/question/1997892259379683892",
@@ -27,11 +14,26 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时25分]"
+        },
+        {
+          "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479417",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "深圳小学期末考被称堪比公务员行测",
@@ -42,11 +44,12 @@
             5,
             9,
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "仅有15名员工公司13人集中生育被查",
@@ -57,19 +60,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "【社论】取消县级以下政务App，为指尖减负",
           "url": "https://m.thepaper.cn/newsDetail_forward_32481955",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "20人擅闯大理苍山未开放区域被立案调查，由“黑向导”招揽",
@@ -91,11 +95,12 @@
             20,
             18,
             22,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 07时25分]"
         },
         {
           "title": "政务应用程序管理新规发布",
@@ -117,8 +122,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "官方通报“3元加面纠纷”",
@@ -190,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "和领导产生冲突了，领导大声对你说:「你能干就干，不能干就滚！」 你打算怎么应对？",
+          "url": "https://www.zhihu.com/question/1999356686260003683",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：加拿大央行委员会认为很难为前景风险分配概率。",
