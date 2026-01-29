@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T14:44:47.380159+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-29T15:39:38.374657+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "领导让你买咖啡，你花了 632，领导只转给你 600，并说「 已转，收一下 」，这时你怎么回？",
@@ -16,11 +16,12 @@
             2,
             3,
             5,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 12时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 15时39分]"
         },
         {
           "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
@@ -63,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 14时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "仅有15名员工公司13人集中生育被查",
@@ -77,8 +78,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 14时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "20人擅闯大理苍山未开放区域被立案调查，由“黑向导”招揽",
@@ -91,6 +92,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 09时55分]"
+        },
+        {
+          "title": "乐山餐馆写明免费加面，二次续面却要付三元，民警调解疑言语歧视，官方已发文回应，应该收费吗？分歧点在哪？",
+          "url": "https://www.zhihu.com/question/1999644494782563520",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时39分]"
         },
         {
           "title": "江苏全面取消县级以下政务App",
@@ -109,18 +122,6 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "乐山餐馆写明免费加面，二次续面却要付三元，民警调解疑言语歧视，官方已发文回应，应该收费吗？分歧点在哪？",
-          "url": "https://www.zhihu.com/question/1999644494782563520",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 14时44分]"
-        },
-        {
           "title": "政务应用程序管理新规发布",
           "url": "https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%8A%A1%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%AE%A1%E7%90%86%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -130,6 +131,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "深圳小学期末考被评堪比公务员行测",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            17,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时39分]"
         },
         {
           "title": "生命树白菊发飙骂领导",
@@ -155,18 +171,15 @@
           "time_info": "09时55分"
         },
         {
-          "title": "深圳小学期末考被评堪比公务员行测",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
-          "source": "百度热搜",
+          "title": "中方将继续深化国际执法合作打击电诈网赌",
+          "url": "https://wallstreetcn.com/livenews/3046232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
-            10,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "贺娇龙事迹写入新疆维吾尔自治区政府工作报告，人民日报刊文纪念",
@@ -177,8 +190,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时39分]"
+        },
+        {
+          "title": "两部门：完善临时救助制度，急难事项“小额快救”办理不超3天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488277",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时39分]"
+        },
+        {
+          "title": "重庆一小学二年级用「包饺子」代替笔试，怎样看待这样的期末考试形式？给学生减负效果如何？",
+          "url": "https://www.zhihu.com/question/1999562543916610666",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时39分]"
         },
         {
           "title": "官方通报太原酒厂董事长殴打他人，已对其停职检查，将开展专项调查，具体情况如何？打人者将承担哪些责任？",
@@ -192,30 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 13时42分]"
-        },
-        {
-          "title": "两部门：完善临时救助制度，急难事项“小额快救”办理不超3天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488277",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "重庆一小学二年级用「包饺子」代替笔试，怎样看待这样的期末考试形式？给学生减负效果如何？",
-          "url": "https://www.zhihu.com/question/1999562543916610666",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
         },
         {
           "title": "官方通报“3元加面纠纷”",
@@ -265,6 +278,17 @@
           "time_info": "[04时29分 ~ 05时29分]"
         },
         {
+          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时39分]"
+        },
+        {
           "title": "水贝一黄金预定价平台兑付困难？官方通报",
           "url": "https://www.cls.cn/detail/2272371",
           "source": "财联社热门",
@@ -300,15 +324,49 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
-          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
-          "source": "澎湃新闻",
+          "title": "军事基地附近现气象探测站 国安调查",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91%E7%8E%B0%E6%B0%94%E8%B1%A1%E6%8E%A2%E6%B5%8B%E7%AB%99+%E5%9B%BD%E5%AE%89%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时39分]"
+        },
+        {
+          "title": "世界黄金协会：与购金相比，2025年的全球央行售金规模要小得多：新加坡金融管理局（15吨）、俄罗斯中央银行（6吨）、德意志联邦银行（1吨，用于铸币计划）以及约旦中央银行（1吨）是少数几家净售金的官方机构。",
+          "url": "https://flash.jin10.com/detail/20260129150925847800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "警方称成立调查组调查金晨逃逸案",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E8%B0%83%E6%9F%A5%E9%87%91%E6%99%A8%E9%80%83%E9%80%B8%E6%A1%88",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "15时39分"
+        },
+        {
+          "title": "印度政府：将炼焦煤列为关键和战略矿产。",
+          "url": "https://flash.jin10.com/detail/20260129150526688800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
@@ -377,6 +435,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "世界黄金协会：波兰央行连续第二年成全球最大官方黄金买家",
+          "url": "https://flash.jin10.com/detail/20260129145757382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "柬泰地区边界委员会秘书处会议未达成共识",
           "url": "https://wallstreetcn.com/livenews/3046107",
           "source": "华尔街见闻-快讯",
@@ -394,7 +463,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -419,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "印度经济调查：卢比走弱确实令投资者暂时持观望态度；投资者不愿在印度长期投资的状况值得深入研究。",
+          "url": "https://flash.jin10.com/detail/20260129145559421800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "印尼财政部长：尽管受到市场冲击，但印度尼西亚的经济基本面依然稳固。",
@@ -454,15 +534,15 @@
           "time_info": "13时42分"
         },
         {
-          "title": "军事基地附近现气象探测站 国安调查",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91%E7%8E%B0%E6%B0%94%E8%B1%A1%E6%8E%A2%E6%B5%8B%E7%AB%99+%E5%9B%BD%E5%AE%89%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "印度经济调查：卢比被低估并无害处，因为它能抵消高关税的影响，且对通胀不构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260129145535308800",
+          "source": "金十数据",
           "ranks": [
-            29
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "15时39分"
         }
       ]
     },
@@ -489,9 +569,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时39分]"
         }
       ]
     }
