@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-29T17:41:39.932640+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-01-29T18:36:07.438714+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "乐山餐馆写明免费加面，二次续面却要付三元，民警调解疑言语歧视，官方已发文回应，应该收费吗？分歧点在哪？",
+          "url": "https://www.zhihu.com/question/1999644494782563520",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 18时36分]"
+        },
         {
           "title": "领导让你买咖啡，你花了 632，领导只转给你 600，并说「 已转，收一下 」，这时你怎么回？",
           "url": "https://www.zhihu.com/question/1997892259379683892",
@@ -39,19 +52,6 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
-          "title": "乐山餐馆写明免费加面，二次续面却要付三元，民警调解疑言语歧视，官方已发文回应，应该收费吗？分歧点在哪？",
-          "url": "https://www.zhihu.com/question/1999644494782563520",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 17时41分]"
-        },
-        {
           "title": "深圳小学期末考被称堪比公务员行测",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E7%A7%B0%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -82,6 +82,23 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时35分 ~ 17时41分]"
+        },
+        {
+          "title": "深圳小学期末考被评堪比公务员行测",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            17,
+            10,
+            8,
+            7,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 18时36分]"
         },
         {
           "title": "仅有15名员工公司13人集中生育被查",
@@ -126,20 +143,33 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "深圳小学期末考被评堪比公务员行测",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B0%8F%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A2%AB%E8%AF%84%E5%A0%AA%E6%AF%94%E5%85%AC%E5%8A%A1%E5%91%98%E8%A1%8C%E6%B5%8B",
-          "source": "百度热搜",
+          "title": "贺娇龙事迹写入新疆维吾尔自治区政府工作报告，人民日报刊文纪念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32487431",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            17,
+            11,
             10,
+            9,
             8,
-            7,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时54分 ~ 17时41分]"
+          "time_info": "[12时07分 ~ 18时36分]"
+        },
+        {
+          "title": "两部门：完善临时救助制度，急难事项“小额快救”办理不超3天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488277",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 18时36分]"
         },
         {
           "title": "政务应用程序管理新规发布",
@@ -153,32 +183,51 @@
           "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "贺娇龙事迹写入新疆维吾尔自治区政府工作报告，人民日报刊文纪念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32487431",
+          "title": "内蒙古党委原书记孙绍骋被查",
+          "url": "https://www.toutiao.com/trending/7600721177954320420/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "孙绍骋被查",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E7%BB%8D%E9%AA%8B%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊证实，外交部长将于周五前往土耳其。",
+          "url": "https://flash.jin10.com/detail/20260129181450090800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
           "source": "澎湃新闻",
           "ranks": [
+            12,
             11,
             10,
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时41分]"
-        },
-        {
-          "title": "两部门：完善临时救助制度，急难事项“小额快救”办理不超3天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488277",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时41分]"
+          "time_info": "[14时44分 ~ 18时36分]"
         },
         {
           "title": "重庆一小学二年级用「包饺子」代替笔试，怎样看待这样的期末考试形式？给学生减负效果如何？",
@@ -226,6 +275,19 @@
           "time_info": "16时37分"
         },
         {
+          "title": "警方称成立调查组调查金晨逃逸案",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E8%B0%83%E6%9F%A5%E9%87%91%E6%99%A8%E9%80%83%E9%80%B8%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时36分]"
+        },
+        {
           "title": "中方将继续深化国际执法合作打击电诈网赌",
           "url": "https://wallstreetcn.com/livenews/3046232",
           "source": "华尔街见闻-快讯",
@@ -238,29 +300,15 @@
           "time_info": "[15时39分 ~ 16时37分]"
         },
         {
-          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
-          "source": "澎湃新闻",
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 17时41分]"
-        },
-        {
-          "title": "警方称成立调查组调查金晨逃逸案",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E8%B0%83%E6%9F%A5%E9%87%91%E6%99%A8%E9%80%83%E9%80%B8%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时41分]"
+          "time_info": "[16时37分 ~ 18时36分]"
         },
         {
           "title": "官方通报太原酒厂董事长殴打他人，已对其停职检查，将开展专项调查，具体情况如何？打人者将承担哪些责任？",
@@ -276,6 +324,17 @@
           "time_info": "[09时55分 ~ 13时42分]"
         },
         {
+          "title": "金晨被曝肇事逃逸，警方：已成立调查组",
+          "url": "https://news.ifeng.com/c/8qJDOWuG2k9",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 18时36分]"
+        },
+        {
           "title": "官方通报“3元加面纠纷”",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C3%E5%85%83%E5%8A%A0%E9%9D%A2%E7%BA%A0%E7%BA%B7%E2%80%9D",
           "source": "百度热搜",
@@ -288,15 +347,15 @@
           "time_info": "[05时28分 ~ 06时25分]"
         },
         {
-          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
-          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
-          "source": "凤凰网",
+          "title": "内蒙古党委原书记孙绍骋被查",
+          "url": "https://www.douyin.com/hot/2383362",
+          "source": "抖音",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时41分]"
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "鲍威尔：将建议下一届美联储主席远离政治。 在公职人员中，没有比美联储官员更好的了。",
@@ -346,17 +405,6 @@
           "time_info": "[00时36分 ~ 01时32分]"
         },
         {
-          "title": "金晨被曝肇事逃逸，警方：已成立调查组",
-          "url": "https://news.ifeng.com/c/8qJDOWuG2k9",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时41分]"
-        },
-        {
           "title": "英国及包括法国和加拿大在内的盟友联合声明：我们强烈谴责以色列当局在东耶路撒冷拆毁近东救济工程处总部的行为。我们呼吁作为联合国成员国的以色列政府停止一切拆除行动。",
           "url": "https://flash.jin10.com/detail/20260129000400046800",
           "source": "金十数据",
@@ -392,6 +440,17 @@
           "time_info": "[13时42分 ~ 15时39分]"
         },
         {
+          "title": "孙绍骋被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BB%8D%E9%AA%8B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "世界黄金协会：与购金相比，2025年的全球央行售金规模要小得多：新加坡金融管理局（15吨）、俄罗斯中央银行（6吨）、德意志联邦银行（1吨，用于铸币计划）以及约旦中央银行（1吨）是少数几家净售金的官方机构。",
           "url": "https://flash.jin10.com/detail/20260129150925847800",
           "source": "金十数据",
@@ -409,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
