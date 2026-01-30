@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T18:33:19.799852+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-01-30T19:27:43.717004+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 74,
+      "match_count": 83,
       "titles": [
         {
           "title": "内蒙古自治区党委原书记孙绍骋被查，曾任退役军人事务部部长",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时42分 ~ 17时39分]"
+        },
+        {
+          "title": "监管火速通报某基金公司违规销售，暂停新发，高管遭追责，处罚全文来了",
+          "url": "https://www.cls.cn/detail/2275210",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 19时27分]"
         },
         {
           "title": "深圳多区小学期末卷被称堪比公务员行测，这是在锻炼学生思维还是在增加负担？是否有必要这么难？",
@@ -73,21 +88,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时42分 ~ 17时39分]"
-        },
-        {
-          "title": "监管火速通报某基金公司违规销售，暂停新发，高管遭追责，处罚全文来了",
-          "url": "https://www.cls.cn/detail/2275210",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 18时33分]"
         },
         {
           "title": "今年首个落马正部级 孙绍骋任上被查",
@@ -195,8 +195,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "警方通报“金晨疑似肇事逃逸”",
@@ -205,9 +205,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         },
         {
           "title": "警方通报金晨事件",
@@ -216,9 +216,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         },
         {
           "title": "警方通报「金晨被曝肇事逃逸」，发生单车事故，因受伤急于就诊离开，不存在骗保，哪些信息值得关注？",
@@ -227,9 +227,36 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
+        },
+        {
+          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 19时27分]"
+        },
+        {
+          "title": "警方通报“金晨被曝肇事逃逸”",
+          "url": "https://www.douyin.com/hot/2384392",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
         },
         {
           "title": "内蒙古党委原书记孙绍骋被查",
@@ -246,19 +273,20 @@
           "time_info": "[01时37分 ~ 07时25分]"
         },
         {
-          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
+          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
           "source": "澎湃新闻",
           "ranks": [
             20,
+            19,
+            18,
             17,
-            16,
             14,
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时45分 ~ 18时33分]"
+          "time_info": "[14时46分 ~ 19时27分]"
         },
         {
           "title": "孙绍骋被查",
@@ -277,6 +305,28 @@
           "time_info": "[02时43分 ~ 07时25分]"
         },
         {
+          "title": "印度科技部长：印度将于下月推出人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260130190745136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "印度科技部长：印度将于下月推出人工智能模型。",
+          "url": "https://wallstreetcn.com/livenews/3047328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "中国海警将继续依法开展黄岩岛领海及周边区域执法巡查，严厉打击违法行为，依法管控侵权滋扰船只。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3046870",
           "source": "华尔街见闻-快讯",
@@ -288,41 +338,16 @@
           "time_info": "09时55分"
         },
         {
-          "title": "警方通报“金晨被曝肇事逃逸”",
-          "url": "https://www.douyin.com/hot/2384392",
-          "source": "抖音",
+          "title": "2人被撤销“人民满意的公务员”称号",
+          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E2%80%9C%E4%BA%BA%E6%B0%91%E6%BB%A1%E6%84%8F%E7%9A%84%E5%85%AC%E5%8A%A1%E5%91%98%E2%80%9D%E7%A7%B0%E5%8F%B7",
+          "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "警方通报金晨被曝肇事逃逸事件",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            14
+            14,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时27分]"
         },
         {
           "title": "以色列安全局局长亲属涉嫌向加沙走私货物",
@@ -338,6 +363,30 @@
           "time_info": "[02时43分 ~ 04时29分]"
         },
         {
+          "title": "警方通报女星金晨被曝肇事逃逸",
+          "url": "https://www.toutiao.com/trending/7600648257789922858/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
+        },
+        {
+          "title": "警方通报金晨被曝肇事逃逸事件",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时27分]"
+        },
+        {
           "title": "伊朗外交部声明：以最强烈措辞谴责欧盟对革命卫队作出“非法且毫无根据”的认定。将一国官方军事机构列为“恐怖组织”是危险之举。伊朗人民保留对其采取对等措施以回应欧盟决定的合法权利。",
           "url": "https://flash.jin10.com/detail/20260130040147239800",
           "source": "金十数据",
@@ -348,6 +397,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时26分]"
+        },
+        {
+          "title": "“90后”班主任组织学生教室煮火锅",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C90%E5%90%8E%E2%80%9D%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%84%E7%BB%87%E5%AD%A6%E7%94%9F%E6%95%99%E5%AE%A4%E7%85%AE%E7%81%AB%E9%94%85",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            28,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "江苏县级及以下政务服务APP全部取消",
@@ -373,17 +436,17 @@
           "time_info": "[12时08分 ~ 13时45分]"
         },
         {
-          "title": "“90后”班主任组织学生教室煮火锅",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C90%E5%90%8E%E2%80%9D%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%84%E7%BB%87%E5%AD%A6%E7%94%9F%E6%95%99%E5%AE%A4%E7%85%AE%E7%81%AB%E9%94%85",
-          "source": "百度热搜",
+          "title": "两部门：新能源装机占比高、可靠容量需求大的地区 应加快建立可靠容量补偿机制",
+          "url": "https://www.cls.cn/detail/2275613",
+          "source": "财联社热门",
           "ranks": [
+            12,
             10,
-            28,
-            25
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时33分]"
+          "time_info": "[17时39分 ~ 19时27分]"
         },
         {
           "title": "网红周媛被立案调查",
@@ -422,35 +485,12 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
-          "title": "两部门：新能源装机占比高、可靠容量需求大的地区 应加快建立可靠容量补偿机制",
-          "url": "https://www.cls.cn/detail/2275613",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时33分]"
-        },
-        {
           "title": "浙江要求党政机关严控PPT制作使用",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%A6%81%E6%B1%82%E5%85%9A%E6%94%BF%E6%9C%BA%E5%85%B3%E4%B8%A5%E6%8E%A7PPT%E5%88%B6%E4%BD%9C%E4%BD%BF%E7%94%A8%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时33分]"
-        },
-        {
-          "title": "2人被撤销“人民满意的公务员”称号",
-          "url": "https://www.baidu.com/s?wd=2%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E2%80%9C%E4%BA%BA%E6%B0%91%E6%BB%A1%E6%84%8F%E7%9A%84%E5%85%AC%E5%8A%A1%E5%91%98%E2%80%9D%E7%A7%B0%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -508,7 +548,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -546,6 +586,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "金晨涉嫌交通肇事“顶包”？浙江绍兴柯桥警方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32499256",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "叙利亚库尔德武装表示，已同意将其军事力量分阶段纳入叙利亚政府，作为一项全面协议的一部分。",
           "url": "https://flash.jin10.com/detail/20260130161233585800",
           "source": "金十数据",
@@ -566,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
-        },
-        {
-          "title": "警方通报女星金晨被曝肇事逃逸",
-          "url": "https://www.toutiao.com/trending/7600648257789922858/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟部长们通过了对快速支援部队成员和苏丹武装部队的新制裁。",
@@ -667,6 +707,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "世卫组织官员：印度两名尼帕病毒感染者的190名密切接触者中，无人检测呈阳性或出现相关疾病。",
+          "url": "https://flash.jin10.com/detail/20260130185259189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "印尼首席经济部长：政府向所有投资者确保透明度和良好治理。",
           "url": "https://flash.jin10.com/detail/20260130122710632800",
           "source": "金十数据",
@@ -720,6 +771,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "八部门印发《2026年上海市汽车以旧换新补贴政策实施细则》",
+          "url": "https://wallstreetcn.com/livenews/3047302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "我的领导在大领导面前非常恭敬，在下属面前几乎没有人性，我该怎么办？",
+          "url": "https://www.zhihu.com/question/650627778",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "印尼首席经济部长：重申致力于维护信誉与稳定。",
@@ -799,6 +872,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "卢山任上海市副市长",
+          "url": "https://wallstreetcn.com/livenews/3047295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "河南省委书记：杜绝劳民伤财那一套",
           "url": "https://www.toutiao.com/trending/7601008664732434438/",
           "source": "今日头条",
@@ -865,6 +949,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "张译任黑龙江省政协委员",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%AF%91%E4%BB%BB%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "联合国秘书长敦促通过对话解决伊核问题",
           "url": "https://wallstreetcn.com/livenews/3046917",
           "source": "华尔街见闻-快讯",
@@ -885,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "张译任黑龙江省政协委员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E4%BB%BB%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     },
