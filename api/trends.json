@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T15:28:34.733863+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-01-31T16:29:42.078216+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "警方通报“金晨疑似肇事逃逸”",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 15时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 16时29分]"
         },
         {
           "title": "警方通报「金晨被曝肇事逃逸」，发生单车事故，因受伤急于就诊离开，不存在骗保，哪些信息值得关注？",
@@ -66,6 +66,17 @@
           "time_info": "[00时38分 ~ 09时51分]"
         },
         {
+          "title": "「黑白颠周媛」被立案调查，责令其停止线上线下社会行为，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2000582531976749150",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
           "title": "警方通报金晨被曝肇事逃逸事件",
           "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时24分]"
-        },
-        {
-          "title": "「黑白颠周媛」被立案调查，责令其停止线上线下社会行为，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2000582531976749150",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时28分]"
         },
         {
           "title": "张译任黑龙江省政协委员",
@@ -128,8 +128,82 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时29分]"
+        },
+        {
+          "title": "官方粉碎涉铁路十大谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%B2%89%E7%A2%8E%E6%B6%89%E9%93%81%E8%B7%AF%E5%8D%81%E5%A4%A7%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 16时29分]"
+        },
+        {
+          "title": "临沧市公安局临翔分局原副局长为走私、赌博场等提供庇护，一审获刑六年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32501107",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            15,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 16时29分]"
+        },
+        {
+          "title": "中国1月官方非制造业PMI 49.4，前值 50.2。",
+          "url": "https://wallstreetcn.com/livenews/3047628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            15,
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "中国1月官方制造业PMI 49.3，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3047627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            16,
+            19,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "中国1月官方综合PMI 49.8，前值 50.7。",
+          "url": "https://wallstreetcn.com/livenews/3047626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            17,
+            20,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时29分]"
         },
         {
           "title": "军报：反腐败无禁区全覆盖零容忍",
@@ -145,74 +219,15 @@
           "time_info": "[09时50分 ~ 13时37分]"
         },
         {
-          "title": "官方粉碎涉铁路十大谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E7%B2%89%E7%A2%8E%E6%B6%89%E9%93%81%E8%B7%AF%E5%8D%81%E5%A4%A7%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时28分]"
-        },
-        {
-          "title": "临沧市公安局临翔分局原副局长为走私、赌博场等提供庇护，一审获刑六年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32501107",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时28分]"
-        },
-        {
-          "title": "中国1月官方非制造业PMI 49.4，前值 50.2。",
-          "url": "https://wallstreetcn.com/livenews/3047628",
+          "title": "应急管理部党委书记、部长王祥喜涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3047659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10,
-            15,
-            18,
-            21
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时28分]"
-        },
-        {
-          "title": "中国1月官方制造业PMI 49.3，前值 50.1。",
-          "url": "https://wallstreetcn.com/livenews/3047627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时28分]"
-        },
-        {
-          "title": "中国1月官方综合PMI 49.8，前值 50.7。",
-          "url": "https://wallstreetcn.com/livenews/3047626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "怕输给“星链”？法国政府阻止欧洲通信卫星公司出售天线资产",
@@ -222,11 +237,47 @@
             2,
             7,
             10,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时29分]"
+        },
+        {
+          "title": "世卫组织通报印度尼帕病毒感染情况",
+          "url": "https://news.ifeng.com/c/8qLxlEyiJsP",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时29分]"
+        },
+        {
+          "title": "应急管理部部长王祥喜被查",
+          "url": "https://www.toutiao.com/trending/7601432313274187817/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "应急管理部部长王祥喜被查",
+          "url": "https://www.douyin.com/hot/2385295",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "中国1月官方制造业PMI 49.3，预期50.1，前值50.1。",
@@ -243,6 +294,19 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 16时29分]"
+        },
+        {
           "title": "美商务部长卢特尼克被曝曾前往爱泼斯坦私人岛屿",
           "url": "https://flash.jin10.com/detail/20260131102430757800",
           "source": "金十数据",
@@ -257,17 +321,15 @@
           "time_info": "[12时05分 ~ 15时28分]"
         },
         {
-          "title": "世卫组织通报印度尼帕病毒感染情况",
-          "url": "https://news.ifeng.com/c/8qLxlEyiJsP",
-          "source": "凤凰网",
+          "title": "美联邦政府部分“停摆”",
+          "url": "https://www.douyin.com/hot/2385124",
+          "source": "抖音",
           "ranks": [
-            10,
-            11,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时28分]"
+          "time_info": "[13时37分 ~ 16时29分]"
         },
         {
           "title": "世卫组织通报近期印度尼帕病毒感染情况",
@@ -335,27 +397,17 @@
           "time_info": "[00时39分 ~ 01时33分]"
         },
         {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
+          "title": "学生将粉笔雕成宝剑 校长捧哏式夸赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%B0%86%E7%B2%89%E7%AC%94%E9%9B%95%E6%88%90%E5%AE%9D%E5%89%91+%E6%A0%A1%E9%95%BF%E6%8D%A7%E5%93%8F%E5%BC%8F%E5%A4%B8%E8%B5%9E",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            20,
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时37分 ~ 15时28分]"
-        },
-        {
-          "title": "美联邦政府部分“停摆”",
-          "url": "https://www.douyin.com/hot/2385124",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时37分 ~ 15时28分]"
+          "time_info": "[14时36分 ~ 16时29分]"
         },
         {
           "title": "浙江要求党政机关严控PPT制作使用",
@@ -384,16 +436,16 @@
           "time_info": "[09时51分 ~ 13时37分]"
         },
         {
-          "title": "学生将粉笔雕成宝剑 校长捧哏式夸赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E7%94%9F%E5%B0%86%E7%B2%89%E7%AC%94%E9%9B%95%E6%88%90%E5%AE%9D%E5%89%91+%E6%A0%A1%E9%95%BF%E6%8D%A7%E5%93%8F%E5%BC%8F%E5%A4%B8%E8%B5%9E",
-          "source": "百度热搜",
+          "title": "安徽石台县通报驴友擅自进入牯牛降保护区：罚款5000元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32501194",
+          "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时28分]"
+          "time_info": "[09时50分 ~ 16时29分]"
         },
         {
           "title": "卢山任上海市副市长",
@@ -443,15 +495,16 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "安徽石台县通报驴友擅自进入牯牛降保护区：罚款5000元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32501194",
-          "source": "澎湃新闻",
+          "title": "陈书平当选成都市市长",
+          "url": "https://www.toutiao.com/trending/7600973533846601764/",
+          "source": "今日头条",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "time_info": "[15时28分 ~ 16时29分]"
         },
         {
           "title": "李红军当选江西省人大常委会副主任",
@@ -465,6 +518,17 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
+          "title": "《求是》杂志发表习近平总书记重要文章《走好中国特色金融发展之路，建设金融强国》",
+          "url": "https://wallstreetcn.com/livenews/3047654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "以色列官员向美方提供伊朗导弹计划情报",
           "url": "https://wallstreetcn.com/livenews/3047568",
           "source": "华尔街见闻-快讯",
@@ -476,24 +540,13 @@
           "time_info": "05时27分"
         },
         {
-          "title": "陈书平当选成都市市长",
-          "url": "https://www.toutiao.com/trending/7600973533846601764/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
           "title": "海南省政府原副秘书长国章成被双开",
           "url": "https://www.toutiao.com/trending/7601375204384669737/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
