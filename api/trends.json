@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T06:21:53.848544+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-01T07:21:28.633607+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "应急管理部部长王祥喜任上被查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "以色列官员否认以方与伊朗多地爆炸事件有关",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "应急管理部部长王祥喜被查",
@@ -69,8 +69,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260131214310942800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "印尼金融监管机构官员：将启动股市操纵调查，印尼金融厅致力于资本市场改革。",
+          "url": "https://flash.jin10.com/detail/20260131213640323800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "临沧市公安局临翔分局原副局长为走私、赌博场等提供庇护，一审获刑六年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32501107",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "美联邦政府部分停摆",
@@ -87,51 +121,18 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
-          "url": "https://flash.jin10.com/detail/20260131214310942800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
           "title": "山西一县委原书记搞政绩工程被双开",
           "url": "https://www.toutiao.com/trending/7601101630980866089/",
           "source": "今日头条",
           "ranks": [
             18,
             5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时20分]"
-        },
-        {
-          "title": "印尼金融监管机构官员：将启动股市操纵调查，印尼金融厅致力于资本市场改革。",
-          "url": "https://flash.jin10.com/detail/20260131213640323800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "临沧市公安局临翔分局原副局长为走私、赌博场等提供庇护，一审获刑六年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32501107",
-          "source": "澎湃新闻",
-          "ranks": [
             7,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
@@ -144,8 +145,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "违规穿越秦岭，警方通报：领队被行拘穿越者受处罚",
@@ -155,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "石家庄栾城区政府被诉后无人出席庭审：法院判定缺席审判，继续庭审",
@@ -166,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "王祥喜被查，应急管理部：坚决拥护党中央的决定",
@@ -179,8 +180,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "铁路部门发售春运火车票超5000万张，这些区间客流集中",
@@ -191,8 +192,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
@@ -205,8 +206,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "伊朗当地消防局长：阿巴斯港居民楼爆炸原因正在调查中",
@@ -216,8 +217,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "埃塞俄比亚官员和人道主义工作者称，埃塞俄比亚提格雷地区的无人机袭击造成一人死亡、一人受伤。",
@@ -227,8 +228,22 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "应急管理部部长王祥喜被查",
+          "url": "https://www.douyin.com/hot/2385295",
+          "source": "抖音",
+          "ranks": [
+            7,
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "众议院休会无法审议拨款法案，美联邦政府部分“停摆”",
@@ -244,17 +259,15 @@
           "time_info": "[00时26分 ~ 03时20分]"
         },
         {
-          "title": "应急管理部部长王祥喜被查",
-          "url": "https://www.douyin.com/hot/2385295",
-          "source": "抖音",
+          "title": "为什么领导在工作中倚重你，却不提拔你呢？",
+          "url": "https://www.zhihu.com/question/666358928",
+          "source": "知乎",
           "ranks": [
-            7,
-            18,
-            15
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
