@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:24:55.878781+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-01T19:21:10.337282+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "应急管理部部长王祥喜任上被查",
@@ -87,6 +87,20 @@
           "time_info": "[00时26分 ~ 10时10分]"
         },
         {
+          "title": "人民币现金收付新规今起施行，遇这些情况可投诉举报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509547",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 19时21分]"
+        },
+        {
           "title": "美联邦政府部分停摆",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E9%82%A6%E6%94%BF%E5%BA%9C%E9%83%A8%E5%88%86%E5%81%9C%E6%91%86",
           "source": "bilibili 热搜",
@@ -114,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 19时21分]"
         },
         {
           "title": "铁路部门发售春运火车票超5000万张，这些区间客流集中",
@@ -130,8 +144,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 19时21分]"
         },
         {
           "title": "应急管理部部长王祥喜被查",
@@ -173,6 +187,21 @@
           "time_info": "[00时26分 ~ 10时10分]"
         },
         {
+          "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 19时21分]"
+        },
+        {
           "title": "印尼金融监管机构官员：将启动股市操纵调查，印尼金融厅致力于资本市场改革。",
           "url": "https://flash.jin10.com/detail/20260131213640323800",
           "source": "金十数据",
@@ -197,20 +226,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 10时10分]"
-        },
-        {
-          "title": "人民币现金收付新规今起施行，遇这些情况可投诉举报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509547",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 18时24分]"
         },
         {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
@@ -263,30 +278,40 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
+          "title": "澎湃影子调查队“毒营养土”报道入选《2025年环境新闻报道影响力案例》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508135",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            12,
-            8,
-            6,
-            7
+            20,
+            18,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时59分 ~ 18时24分]"
+          "time_info": "[10时10分 ~ 19时21分]"
         },
         {
-          "title": "印度税务部长：税收收入呈回升态势。计划将财政赤字严格控制在合理区间内。",
-          "url": "https://flash.jin10.com/detail/20260201175722094800",
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：胜利“很快”就会在乌克兰到来，但同样重要的是思考如何预防新的冲突。",
+          "url": "https://flash.jin10.com/detail/20260201190227361800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
+          "url": "https://wallstreetcn.com/livenews/3047811",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时21分"
         },
         {
           "title": "印度预算案：拟振兴传统工业部门，推动基础设施建设，发展城市经济区。",
@@ -298,20 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        },
-        {
-          "title": "澎湃影子调查队“毒营养土”报道入选《2025年环境新闻报道影响力案例》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508135",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 18时24分]"
         },
         {
           "title": "韩国官员：美韩会谈澄清误解 韩方承诺加速投资立法进程",
@@ -331,11 +342,24 @@
           "source": "金十数据",
           "ranks": [
             5,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时21分]"
+        },
+        {
+          "title": "印度税务部长：税收收入呈回升态势。计划将财政赤字严格控制在合理区间内。",
+          "url": "https://flash.jin10.com/detail/20260201175722094800",
+          "source": "金十数据",
+          "ranks": [
+            3,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "应急管理部部长王祥喜被查",
@@ -378,6 +402,19 @@
           "time_info": "[14时03分 ~ 16时31分]"
         },
         {
+          "title": "据法新社：加沙卫生部一位官员表示，拉法过境点开放后，约有200名患者正在等待获准离开巴勒斯坦领土。",
+          "url": "https://flash.jin10.com/detail/20260201164101886800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时21分]"
+        },
+        {
           "title": "中国海警首次披露钓鱼岛执法画面",
           "url": "https://www.toutiao.com/trending/7601050580802342406/",
           "source": "今日头条",
@@ -388,6 +425,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时59分 ~ 14时03分]"
+        },
+        {
+          "title": "开年首月官方连打十虎",
+          "url": "https://www.toutiao.com/trending/7601803728949329983/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "误转69万公款对方答应退款又反悔",
@@ -414,16 +462,16 @@
           "time_info": "[13时00分 ~ 14时03分]"
         },
         {
-          "title": "据法新社：加沙卫生部一位官员表示，拉法过境点开放后，约有200名患者正在等待获准离开巴勒斯坦领土。",
-          "url": "https://flash.jin10.com/detail/20260201164101886800",
+          "title": "印度税务局长：提高对期货与期权的交易税旨在抑制投机交易；提高结算保证金是为了应对衍生品市场的系统性风险。",
+          "url": "https://flash.jin10.com/detail/20260201174445171800",
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "为什么领导在工作中倚重你，却不提拔你呢？",
@@ -450,17 +498,6 @@
           "time_info": "[15时36分 ~ 16时31分]"
         },
         {
-          "title": "印度税务局长：提高对期货与期权的交易税旨在抑制投机交易；提高结算保证金是为了应对衍生品市场的系统性风险。",
-          "url": "https://flash.jin10.com/detail/20260201174445171800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "印度预算案：为保持改革势头，应聚焦稳健的金融体系和新兴技术。联邦政府正与各邦政府合作推进放松监管，以减轻合规负担。",
           "url": "https://flash.jin10.com/detail/20260201133943902800",
           "source": "金十数据",
@@ -472,15 +509,15 @@
           "time_info": "14时03分"
         },
         {
-          "title": "开年首月官方连打十虎",
-          "url": "https://www.toutiao.com/trending/7601803728949329983/",
-          "source": "今日头条",
+          "title": "职场上站在领导视角，什么样的下属不值得栽培和托举?",
+          "url": "https://www.zhihu.com/question/1999121124739539009",
+          "source": "知乎",
           "ranks": [
-            10
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时21分"
         },
         {
           "title": "美联邦政府部分“停摆”",
