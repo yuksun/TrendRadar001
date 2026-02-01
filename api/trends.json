@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T21:42:30.077382+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-01T22:25:36.343679+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "应急管理部部长王祥喜任上被查",
@@ -80,11 +80,12 @@
             11,
             7,
             5,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 21时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时59分 ~ 22时25分]"
         },
         {
           "title": "以色列官员否认以方与伊朗多地爆炸事件有关",
@@ -113,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 21时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时59分 ~ 22时25分]"
         },
         {
           "title": "美联邦政府部分停摆",
@@ -145,8 +146,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 21时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 22时25分]"
         },
         {
           "title": "铁路部门发售春运火车票超5000万张，这些区间客流集中",
@@ -163,6 +164,20 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 19时21分]"
+        },
+        {
+          "title": "澎湃影子调查队“毒营养土”报道入选《2025年环境新闻报道影响力案例》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508135",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 22时25分]"
         },
         {
           "title": "应急管理部部长王祥喜被查",
@@ -230,20 +245,6 @@
           "time_info": "[00时26分 ~ 10时10分]"
         },
         {
-          "title": "澎湃影子调查队“毒营养土”报道入选《2025年环境新闻报道影响力案例》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508135",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 21时42分]"
-        },
-        {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
           "url": "https://wallstreetcn.com/livenews/3047704",
           "source": "华尔街见闻-快讯",
@@ -294,26 +295,29 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
-          "url": "https://flash.jin10.com/detail/20260201210033131800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3047820",
+          "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
+          "url": "https://wallstreetcn.com/livenews/3047824",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "22时25分"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：胜利“很快”就会在乌克兰到来，但同样重要的是思考如何预防新的冲突。",
+          "url": "https://flash.jin10.com/detail/20260201190227361800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "印度预算案：拟振兴传统工业部门，推动基础设施建设，发展城市经济区。",
@@ -325,6 +329,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美媒：美众议院议长称有信心周二前结束部分政府停摆",
+          "url": "https://flash.jin10.com/detail/20260201215446494800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
+          "url": "https://wallstreetcn.com/livenews/3047811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "印度税务部长：税收收入呈回升态势。计划将财政赤字严格控制在合理区间内。",
@@ -339,6 +368,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时24分 ~ 21时42分]"
+        },
+        {
+          "title": "演员宋佳任黑龙江省政协委员",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%AE%8B%E4%BD%B3%E4%BB%BB%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时25分]"
         },
         {
           "title": "巴基斯坦俾路支省首席部长：巴基斯坦西南部的袭击已造成17名执法人员和31名平民死亡。",
@@ -360,24 +401,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时42分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：胜利“很快”就会在乌克兰到来，但同样重要的是思考如何预防新的冲突。",
-          "url": "https://flash.jin10.com/detail/20260201190227361800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
+            6,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时42分]"
+          "time_info": "[20时45分 ~ 22时25分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：欧洲未能在乌克兰击败俄罗斯。",
@@ -385,24 +414,24 @@
           "source": "金十数据",
           "ranks": [
             2,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3047820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时42分]"
-        },
-        {
-          "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
-          "url": "https://wallstreetcn.com/livenews/3047811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时42分]"
+          "time_info": "[21时42分 ~ 22时25分]"
         },
         {
           "title": "韩国官员：美韩会谈澄清误解 韩方承诺加速投资立法进程",
@@ -415,6 +444,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 14时03分]"
+        },
+        {
+          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
+          "url": "https://flash.jin10.com/detail/20260201210033131800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时25分]"
         },
         {
           "title": "据法新社：加沙卫生部一位官员表示，拉法过境点开放后，约有200名患者正在等待获准离开巴勒斯坦领土。",
@@ -443,18 +484,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时24分 ~ 21时42分]"
-        },
-        {
-          "title": "演员宋佳任黑龙江省政协委员",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%AE%8B%E4%BD%B3%E4%BB%BB%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时42分]"
         },
         {
           "title": "应急管理部部长王祥喜被查",
@@ -558,6 +587,17 @@
           "time_info": "[13时00分 ~ 14时03分]"
         },
         {
+          "title": "18岁女生遭6名未成年当街辱骂殴打，警方通报",
+          "url": "https://news.ifeng.com/c/8qOX4iZDQvA",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时25分]"
+        },
+        {
           "title": "为什么领导在工作中倚重你，却不提拔你呢？",
           "url": "https://www.zhihu.com/question/666358928",
           "source": "知乎",
@@ -568,6 +608,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 10时10分]"
+        },
+        {
+          "title": "演员宋佳任黑龙江省政协委员",
+          "url": "https://www.toutiao.com/trending/7601502079291506697/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时25分]"
         },
         {
           "title": "印尼煤炭协会：政府削减产量配额或导致煤矿关停",
@@ -593,26 +644,15 @@
           "time_info": "14时03分"
         },
         {
-          "title": "18岁女生遭6名未成年当街辱骂殴打，警方通报",
-          "url": "https://news.ifeng.com/c/8qOX4iZDQvA",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "演员宋佳任黑龙江省政协委员",
-          "url": "https://www.toutiao.com/trending/7601502079291506697/",
+          "title": "许仕仁去世 曾犯下香港最大贪污案",
+          "url": "https://www.toutiao.com/trending/7601893435674463807/",
           "source": "今日头条",
           "ranks": [
-            14
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "22时25分"
         },
         {
           "title": "美联邦政府部分“停摆”",
