@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T10:01:35.449911+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-02-03T12:22:49.069744+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "受贿1.37亿余元，江西省政协原主席唐一军一审被判无期",
@@ -13,22 +13,38 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 10时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 12时22分]"
         },
         {
-          "title": "卧底调查精神病院 许多病人无异常",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A7%E5%BA%95%E8%B0%83%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2+%E8%AE%B8%E5%A4%9A%E7%97%85%E4%BA%BA%E6%97%A0%E5%BC%82%E5%B8%B8",
-          "source": "百度热搜",
+          "title": "陕西安康一骨科医院院长吃回扣270万，数罪并罚获刑6年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32514610",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 12时22分]"
+        },
+        {
+          "title": "人大代表巴黎遇袭,千万珠宝被偷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350010&amp;topic_name=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E9%81%87%E8%A2%AD%2C%E5%8D%83%E4%B8%87%E7%8F%A0%E5%AE%9D%E8%A2%AB%E5%81%B7",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 12时22分]"
         },
         {
           "title": "CGT工会在一份声明中表示，路威酩轩（LVMH）旗下的香槟部门已与劳方代表达成协议，以补偿损失的奖金。每位工人将至少获得3300欧元的一次性付款。",
@@ -42,30 +58,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "陕西安康一骨科医院院长吃回扣270万，数罪并罚获刑6年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32514610",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 10时01分]"
-        },
-        {
-          "title": "人大代表巴黎遇袭,千万珠宝被偷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350010&amp;topic_name=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%B7%B4%E9%BB%8E%E9%81%87%E8%A2%AD%2C%E5%8D%83%E4%B8%87%E7%8F%A0%E5%AE%9D%E8%A2%AB%E5%81%B7",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 10时01分]"
-        },
-        {
           "title": "老美整活抗议,怒怼政府不作为",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350013&amp;topic_name=%E8%80%81%E7%BE%8E%E6%95%B4%E6%B4%BB%E6%8A%97%E8%AE%AE%2C%E6%80%92%E6%80%BC%E6%94%BF%E5%BA%9C%E4%B8%8D%E4%BD%9C%E4%B8%BA",
           "source": "贴吧",
@@ -76,17 +68,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 10时01分]"
-        },
-        {
-          "title": "宝妈直播团圆,遭全网出轨审判",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350079&amp;topic_name=%E5%AE%9D%E5%A6%88%E7%9B%B4%E6%92%AD%E5%9B%A2%E5%9C%86%2C%E9%81%AD%E5%85%A8%E7%BD%91%E5%87%BA%E8%BD%A8%E5%AE%A1%E5%88%A4",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "基辅官方称，俄罗斯正在用弹道导弹袭击首都。",
@@ -106,20 +87,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
         {
-          "title": "官方：严守北京市常住人口总量上限",
-          "url": "https://www.toutiao.com/trending/7602226804388675594/",
+          "title": "襄阳宜昌全面调查精神病院骗保",
+          "url": "https://www.toutiao.com/trending/7602463782221155886/",
           "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "12时22分"
+        },
+        {
+          "title": "遵义市长黄伟任上被查 16岁考上大学",
+          "url": "https://www.baidu.com/s?wd=%E9%81%B5%E4%B9%89%E5%B8%82%E9%95%BF%E9%BB%84%E4%BC%9F%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5+16%E5%B2%81%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "襄阳通报精神医院骗保",
+          "url": "https://www.douyin.com/hot/2387978",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "受贿1.37亿余元！唐一军被判无期",
@@ -163,6 +166,18 @@
           "time_info": "[00时39分 ~ 07时28分]"
         },
         {
+          "title": "卧底调查精神病院 许多病人无异常",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A7%E5%BA%95%E8%B0%83%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2+%E8%AE%B8%E5%A4%9A%E7%97%85%E4%BA%BA%E6%97%A0%E5%BC%82%E5%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
+        },
+        {
           "title": "阿根廷经济部长Luis Caputo：阿根廷并不考虑在全球债券市场融资。",
           "url": "https://wallstreetcn.com/livenews/3048462",
           "source": "华尔街见闻-快讯",
@@ -175,6 +190,30 @@
           "time_info": "[00时40分 ~ 01时37分]"
         },
         {
+          "title": "宝妈直播团圆,遭全网出轨审判",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350079&amp;topic_name=%E5%AE%9D%E5%A6%88%E7%9B%B4%E6%92%AD%E5%9B%A2%E5%9C%86%2C%E9%81%AD%E5%85%A8%E7%BD%91%E5%87%BA%E8%BD%A8%E5%AE%A1%E5%88%A4",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
+        },
+        {
+          "title": "官方：严守北京市常住人口总量上限",
+          "url": "https://www.toutiao.com/trending/7602226804388675594/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
+        },
+        {
           "title": "庄稼汉已任福建省人大常委会党组书记",
           "url": "https://www.toutiao.com/trending/7602234056055095306/",
           "source": "今日头条",
@@ -185,6 +224,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 07时28分]"
+        },
+        {
+          "title": "院长吃回扣272万买别墅 还犯重婚罪",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E5%90%83%E5%9B%9E%E6%89%A3272%E4%B8%87%E4%B9%B0%E5%88%AB%E5%A2%85+%E8%BF%98%E7%8A%AF%E9%87%8D%E5%A9%9A%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
+        },
+        {
+          "title": "记者卧底调查精神病医院骗保内幕",
+          "url": "https://www.douyin.com/hot/2387812",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
+        },
+        {
+          "title": "贵州遵义市长黄伟被查",
+          "url": "https://www.toutiao.com/trending/7602438083321040425/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时22分]"
         },
         {
           "title": "骨科医院院长吃回扣犯重婚罪 获刑6年",
@@ -210,26 +284,26 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "院长吃回扣272万买别墅 还犯重婚罪",
-          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E9%95%BF%E5%90%83%E5%9B%9E%E6%89%A3272%E4%B8%87%E4%B9%B0%E5%88%AB%E5%A2%85+%E8%BF%98%E7%8A%AF%E9%87%8D%E5%A9%9A%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "克林顿夫妇将配合爱泼斯坦案调查",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%AB%E5%A6%87%E5%B0%86%E9%85%8D%E5%90%88%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "一文速览｜2026年上海市政府工作报告极简版来了",
+          "url": "https://www.cls.cn/detail/2278486",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
@@ -243,26 +317,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "记者卧底调查精神病医院骗保内幕",
-          "url": "https://www.douyin.com/hot/2387812",
-          "source": "抖音",
+          "title": "澳洲联储声明：今日的政策决定获得了全票通过。 委员会将密切关注数据，并根据对前景和风险的不断评估，来指导其决策。 近几个月的广泛数据显示，通胀压力在2025年下半年确实出现了实质性的回升。 通胀上升的部分原因反映了更大的产能压力。 委员会认为，通胀率在未来一段时间内很可能持续高于目标区间。 虽然部分通胀回升被归因于临时性因素，但显而易见的是，私人部门需求的增长速度快于预期，且产能压力比此前评估的更为严峻。 劳动力市场状况略显紧张，并且在最近几个月已趋于稳定。 委员会正专注于履行其维持物价稳定和实现充分就业的职责，并将采取一切其认为必要的措施来实现这一目标。 对于国内经济活动和通胀前景，以及货币政策的限制程度，目前存在诸多不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3048775",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "贵州遵义市长黄伟被查",
-          "url": "https://www.toutiao.com/trending/7602438083321040425/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "12时22分"
         },
         {
           "title": "智利前总统巴切莱特将竞选联合国秘书长",
@@ -274,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "襄阳通报精神病院骗保：起底式排查",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%84%E9%98%B3%E9%80%9A%E6%8A%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%EF%BC%9A%E8%B5%B7%E5%BA%95%E5%BC%8F%E6%8E%92%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美联储博斯蒂克：要让政策朝着你想要的方向发展，就必须在委员会中建立信任，展现智慧和指引。",
@@ -293,7 +367,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
