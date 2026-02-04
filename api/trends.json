@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T20:56:42.621910+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2026-02-04T22:03:47.438705+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 84,
+      "match_count": 89,
       "titles": [
         {
           "title": "国务院港澳办：中国政府绝不会坐视不理",
@@ -68,8 +68,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 22时03分]"
+        },
+        {
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时41分 ~ 20时56分]"
+          "time_info": "[16时39分 ~ 22时03分]"
         },
         {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
@@ -141,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时47分 ~ 20时56分]"
+          "appearance_count": 12,
+          "time_info": "[13时47分 ~ 22时03分]"
         },
         {
           "title": "李微微受贿超1亿被判无期徒刑",
@@ -231,18 +243,6 @@
           "time_info": "[00时52分 ~ 09时56分]"
         },
         {
-          "title": "欧盟宣布调查金风科技 外交部回应",
-          "url": "https://www.cls.cn/detail/2280238",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 20时56分]"
-        },
-        {
           "title": "官员落马导致16亿项目烂尾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -299,6 +299,21 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
+          "title": "校长与女教师恋爱被认定师德不合格",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E6%81%8B%E7%88%B1%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%B8%88%E5%BE%B7%E4%B8%8D%E5%90%88%E6%A0%BC",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            4,
+            6,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 22时03分]"
+        },
+        {
           "title": "日本将调查外国人大规模购地状况",
           "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
           "source": "凤凰网",
@@ -322,20 +337,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时29分]"
-        },
-        {
-          "title": "校长与女教师恋爱被认定师德不合格",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E4%B8%8E%E5%A5%B3%E6%95%99%E5%B8%88%E6%81%8B%E7%88%B1%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%B8%88%E5%BE%B7%E4%B8%8D%E5%90%88%E6%A0%BC",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            4,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 20时56分]"
         },
         {
           "title": "陕西中医药大学附属医院致歉通报",
@@ -378,13 +379,27 @@
           "time_info": "[12时10分 ~ 12时11分]"
         },
         {
+          "title": "校长与离异女教师恋爱被定师德不合格",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E4%B8%8E%E7%A6%BB%E5%BC%82%E5%A5%B3%E6%95%99%E5%B8%88%E6%81%8B%E7%88%B1%E8%A2%AB%E5%AE%9A%E5%B8%88%E5%BE%B7%E4%B8%8D%E5%90%88%E6%A0%BC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时03分]"
+        },
+        {
           "title": "刘海星会见古巴党和政府特使罗德里格斯",
           "url": "https://wallstreetcn.com/livenews/3049893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -395,7 +410,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -428,9 +443,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "派林生物：全资子公司广东双林生物制药有限公司收到国家药品监督管理局核准签发的人凝血因子Ⅸ品注册上市许可《受理通知书》。",
+          "url": "https://wallstreetcn.com/livenews/3049930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "英国1月官方储备变动 74.72亿美元，前值15.15亿美元。",
@@ -450,22 +476,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
-        },
-        {
-          "title": "校长与离异女教师恋爱被定师德不合格",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E4%B8%8E%E7%A6%BB%E5%BC%82%E5%A5%B3%E6%95%99%E5%B8%88%E6%81%8B%E7%88%B1%E8%A2%AB%E5%AE%9A%E5%B8%88%E5%BE%B7%E4%B8%8D%E5%90%88%E6%A0%BC%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时56分]"
         },
         {
           "title": "米兰辞去白宫经济顾问委员会主席职务",
@@ -502,16 +515,31 @@
           "time_info": "[18时36分 ~ 19时32分]"
         },
         {
+          "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时03分]"
+        },
+        {
           "title": "官员落马导致16亿项目烂尾",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE",
           "source": "百度热搜",
           "ranks": [
             1,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时03分]"
         },
         {
           "title": "南亚股市收盘播报｜印度股市收涨超2.5%，卢比涨超1.3%，政府融资成本跌超4个基点",
@@ -550,19 +578,6 @@
           "time_info": "[12时11分 ~ 13时48分]"
         },
         {
-          "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时56分]"
-        },
-        {
           "title": "湖北成立调查组彻查精神病院问题",
           "url": "https://www.toutiao.com/trending/7602842388146523694/",
           "source": "今日头条",
@@ -573,6 +588,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 15时43分]"
+        },
+        {
+          "title": "2026政府工作报告里的上海：站在高处，跃向更高处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32524007",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 22时03分]"
         },
         {
           "title": "襄阳精神病院被指骗保，湖北成立联合调查组，暴露出哪些监管漏洞？如何才能从根本上解决这类问题？",
@@ -599,16 +627,29 @@
           "time_info": "[12时11分 ~ 14时50分]"
         },
         {
-          "title": "2026政府工作报告里的上海：站在高处，跃向更高处",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32524007",
+          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
           "source": "澎湃新闻",
           "ranks": [
+            20,
             18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时03分]"
+        },
+        {
+          "title": "泰州市委书记谈“苏超”夺冠以后：客人明显多了，吃早茶要排队了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32525702",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
             20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时50分 ~ 20时56分]"
+          "time_info": "[14时50分 ~ 22时03分]"
         },
         {
           "title": "中国艺术研究院原院长连辑被查",
@@ -643,29 +684,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时56分]"
-        },
-        {
-          "title": "泰州市委书记谈“苏超”夺冠以后：客人明显多了，吃早茶要排队了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32525702",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 15时43分]"
         },
         {
           "title": "医院通报暴露患者隐私部位",
@@ -719,7 +737,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -785,7 +803,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -807,7 +825,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -867,6 +885,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "河南鲁山县委原书记刘鹏被查",
+          "url": "https://www.toutiao.com/trending/7602824476621930538/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "市场消息：嘉能可加拿大公司被迫暂停霍恩冶炼厂重大投资项目，中长期内CCR炼油厂投资规模也将缩减。霍恩冶炼厂将继续依据现行部长授权运营。",
           "url": "https://flash.jin10.com/detail/20260204011120187800",
           "source": "金十数据",
@@ -887,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "印度商业部长说将从多元渠道进口能源",
+          "url": "https://wallstreetcn.com/livenews/3049910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "白宫新闻秘书：对政府即将重新开放持极其乐观的态度。",
@@ -961,9 +1001,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "老板当着我领导的面说我做的好给我加薪，可是后面问领导，领导不吱声，我该去找老板吗？",
+          "url": "https://www.zhihu.com/question/1994550696058578610",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "印度行业官员：印度糖厂在2025/26年度不太可能出口全部150万吨的糖配额。",
@@ -997,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "商务部新闻发言人就欧委会对中国风电企业启动《外国补贴条例》深入调查答记者问",
+          "url": "https://wallstreetcn.com/livenews/3049904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "元宝回应被微信屏蔽：我们完全理解并尊重平台规则，已第一时间优化活动设计，确保合规体验。感谢大家的监督与支持。",
