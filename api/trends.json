@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T09:56:08.313340+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-02-04T12:11:08.212510+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
         {
           "title": "精神病院违规收治患者、涉嫌骗保？湖北襄阳：开展起底式排查调查",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时11分]"
         },
         {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
@@ -56,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时11分]"
         },
         {
           "title": "网络直播手术暴露患者隐私？医院通报：系内部教学视频，相关负责人被处分",
@@ -66,11 +66,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时11分]"
         },
         {
           "title": "李微微受贿超1亿被判无期徒刑",
@@ -107,6 +108,19 @@
           "time_info": "[00时52分 ~ 07时27分]"
         },
         {
+          "title": "湖北宜昌夷陵区回应“精神病医院骗保”事件：全面调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521609",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时11分]"
+        },
+        {
           "title": "马斯克被法司法部门传唤",
           "url": "https://www.toutiao.com/trending/7602620308612189722/",
           "source": "今日头条",
@@ -116,18 +130,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 07时27分]"
-        },
-        {
-          "title": "湖北宜昌夷陵区回应“精神病医院骗保”事件：全面调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521609",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时56分]"
         },
         {
           "title": "襄阳通报精神医院骗保",
@@ -226,6 +228,29 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
+          "title": "警方通报：网购娃娃菜中毒夫妻涉敲诈勒索罪，已被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32526310",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 12时11分]"
+        },
+        {
+          "title": "国务院港澳办：中国政府绝不会坐视不理",
+          "url": "https://news.ifeng.com/c/8qSkPOAGaNR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 12时11分]"
+        },
+        {
           "title": "陕西中医药大学附属医院致歉通报",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%E9%80%9A%E6%8A%A5%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -241,27 +266,26 @@
           "time_info": "[02时55分 ~ 07时27分]"
         },
         {
-          "title": "国务院港澳办：中国政府绝不会坐视不理",
-          "url": "https://news.ifeng.com/c/8qSkPOAGaNR",
-          "source": "凤凰网",
+          "title": "王毅会见越共中央总书记特使",
+          "url": "https://www.toutiao.com/trending/7602628411995799593/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时11分]"
+        },
+        {
+          "title": "中央农办副主任祝卫东：统筹做好市场化收购和政策性收储，促进粮食等重要农产品价格保持在合理水平",
+          "url": "https://wallstreetcn.com/livenews/3049555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "警方通报：网购娃娃菜中毒夫妻涉敲诈勒索罪，已被采取刑事强制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32526310",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时56分]"
+          "time_info": "12时11分"
         },
         {
           "title": "米兰辞去白宫经济顾问委员会主席职务",
@@ -275,6 +299,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "中央农办副主任祝卫东：严禁农村集体经营性建设用地入市用于建设商品住房",
+          "url": "https://wallstreetcn.com/livenews/3049550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "南亚股市收盘播报｜印度股市收涨超2.5%，卢比涨超1.3%，政府融资成本跌超4个基点",
           "url": "https://wallstreetcn.com/livenews/3049161",
           "source": "华尔街见闻-快讯",
@@ -285,6 +320,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时53分]"
+        },
+        {
+          "title": "中国艺术研究院原院长连辑被查，曾在内蒙古、甘肃任职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523714",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时11分]"
         },
         {
           "title": "中国艺术研究院原院长连辑被查",
@@ -310,15 +357,15 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "中国艺术研究院原院长连辑被查，曾在内蒙古、甘肃任职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32523714",
-          "source": "澎湃新闻",
+          "title": "湖北成立联合调查组彻查精神病院问题",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "time_info": "[12时10分 ~ 12时11分]"
         },
         {
           "title": "医院通报暴露患者隐私部位",
@@ -354,6 +401,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "韩元兑美元抹去了早些时候的跌幅，此前韩国保健福祉部部长表示今年可能发行国民养老金外汇债券。",
+          "url": "https://flash.jin10.com/detail/20260204113138533800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "OpenAI的CEO Altman：Dylan Scandinaro加盟本公司，担任Preparedness（筹备）部门主管。",
           "url": "https://wallstreetcn.com/livenews/3049343",
           "source": "华尔街见闻-快讯",
@@ -371,9 +429,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "官方回应“周生生足金挂坠含铁银”",
+          "url": "https://news.ifeng.com/c/8qSs9SYjjvG",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "Meta Platforms(META.O)与尼日利亚数据保护委员会合作，在尼日利亚启动隐私教育活动。",
@@ -385,6 +454,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "韩国保健福祉部部长：韩国养老金基金的战略外汇对冲政策亟需审查。",
+          "url": "https://flash.jin10.com/detail/20260204112803280800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "韩国保健福祉部部长：韩国养老基金可将其海外资产作为抵押进行借款。",
+          "url": "https://flash.jin10.com/detail/20260204112754735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "韩国保健福祉部部长：韩国养老基金目前正灵活开展外汇对冲操作，有望于今年发行美元债券。",
+          "url": "https://flash.jin10.com/detail/20260204112743672800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "市场消息：嘉能可加拿大公司被迫暂停霍恩冶炼厂重大投资项目，中长期内CCR炼油厂投资规模也将缩减。霍恩冶炼厂将继续依据现行部长授权运营。",
@@ -440,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "元宝回应被微信屏蔽：我们完全理解并尊重平台规则，已第一时间优化活动设计，确保合规体验。感谢大家的监督与支持。",
+          "url": "https://wallstreetcn.com/livenews/3049513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "特斯拉(TSLA.O)将于周三在参议院商务委员会作证，指出国会必须对自动驾驶汽车监管进行现代化改革。",
