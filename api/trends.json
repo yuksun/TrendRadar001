@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T15:51:47.245196+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-02-05T16:41:08.017911+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "欧委会对中国风电企业启动深入调查 商务部发声",
@@ -21,6 +21,17 @@
           "time_info": "[00时45分 ~ 09时57分]"
         },
         {
+          "title": "2026年新春走基层",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 16时41分]"
+        },
+        {
           "title": "四川20天的“超长婚假”复婚夫妻能享受吗？人社部门：不能",
           "url": "https://m.thepaper.cn/newsDetail_forward_32533237",
           "source": "澎湃新闻",
@@ -32,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时27分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[06时27分 ~ 16时41分]"
         },
         {
           "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
@@ -50,15 +61,16 @@
           "time_info": "[00时45分 ~ 14时57分]"
         },
         {
-          "title": "2026年新春走基层",
-          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "一干部任前公示信息与单位公开信息不一致？江西官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534638",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 16时41分]"
         },
         {
           "title": "外交部回应欧盟调查中国风电巨头",
@@ -145,8 +157,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 16时41分]"
         },
         {
           "title": "官员落马导致16亿项目烂尾",
@@ -165,6 +177,19 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
+          "title": "上海政协委员：取消中高考是早晚的事",
+          "url": "https://www.toutiao.com/trending/7603000887740874806/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 16时41分]"
+        },
+        {
           "title": "央视春晚官方“剧透”来了",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%AE%98%E6%96%B9%E2%80%9C%E5%89%A7%E9%80%8F%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -179,30 +204,6 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
-          "title": "一干部任前公示信息与单位公开信息不一致？江西官方通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534638",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时51分]"
-        },
-        {
-          "title": "上海政协委员：取消中高考是早晚的事",
-          "url": "https://www.toutiao.com/trending/7603000887740874806/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时51分]"
-        },
-        {
           "title": "上海政协委员：取消中高考是早晚的事",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%AD%E9%AB%98%E8%80%83%E6%98%AF%E6%97%A9%E6%99%9A%E7%9A%84%E4%BA%8B",
           "source": "百度热搜",
@@ -215,6 +216,18 @@
           "time_info": "[12时16分 ~ 15时51分]"
         },
         {
+          "title": "小洛熙事件最新通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时41分]"
+        },
+        {
           "title": "爱泼斯坦「自缢」后照片首度公开，喉骨断裂与脖颈处勒痕明显，这与官方「自缢」结论是否矛盾？",
           "url": "https://www.zhihu.com/question/2002382391755429589",
           "source": "知乎",
@@ -225,6 +238,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时27分]"
+        },
+        {
+          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
+          "url": "https://www.cls.cn/detail/2281276",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时41分]"
         },
         {
           "title": "校长被认定师德不合格将重启调查",
@@ -240,6 +266,17 @@
           "time_info": "[03时38分 ~ 07时27分]"
         },
         {
+          "title": "宁波通报小洛熙事件调查结果",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "市场消息：乌克兰总统泽连斯基任命了一位临时对外情报局局长。",
           "url": "https://flash.jin10.com/detail/20260205002805099800",
           "source": "金十数据",
@@ -249,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "小洛熙事件调查结果",
-          "url": "https://www.douyin.com/hot/2390541",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "校长与离异女教师恋爱被定师德不合格",
@@ -276,27 +302,49 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
-          "title": "小洛熙事件最新通报",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "小洛熙事件调查结果",
+          "url": "https://www.douyin.com/hot/2390541",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时41分]"
+        },
+        {
+          "title": "国家市场监督管理总局：大力破除地方保护 及时纠正不当干预市场竞争行为",
+          "url": "https://wallstreetcn.com/livenews/3050507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时51分"
+          "time_info": "16时41分"
         },
         {
-          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
-          "url": "https://www.cls.cn/detail/2281276",
-          "source": "财联社热门",
+          "title": "官方通报小洛熙术后离世过程，主刀医师执业证书被吊销，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2002766850774308282",
+          "source": "知乎",
           "ranks": [
-            6,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "马来西亚财政部长：对2026年经济增长前景可能出现积极调整持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260205162924161800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "据知情人士透露，法国总统的首席外交官于周二前往莫斯科，与俄罗斯官员举行了会谈。",
@@ -337,6 +385,29 @@
           "time_info": "[02时47分 ~ 04时33分]"
         },
         {
+          "title": "英超裁判如何执法赛场冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%B6%85%E8%A3%81%E5%88%A4%E5%A6%82%E4%BD%95%E6%89%A7%E6%B3%95%E8%B5%9B%E5%9C%BA%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时41分]"
+        },
+        {
+          "title": "宁波通报小洛熙事件调查结果：一级甲等医疗事故，吊销主刀医师执业证书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540700",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
           "url": "https://wallstreetcn.com/livenews/3050115",
           "source": "华尔街见闻-快讯",
@@ -347,6 +418,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "宁波女婴术后离世调查处置情况",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "“女婴小洛熙离世”调查结果公布",
+          "url": "https://www.toutiao.com/trending/7603279464079949860/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "调查显示：因委内瑞拉局势，上月欧佩克石油产量有所下降",
@@ -385,6 +478,17 @@
           "time_info": "[05时32分 ~ 06时27分]"
         },
         {
+          "title": "干部晋升公示年龄变小4岁？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B2%E9%83%A8%E6%99%8B%E5%8D%87%E5%85%AC%E7%A4%BA%E5%B9%B4%E9%BE%84%E5%8F%98%E5%B0%8F4%E5%B2%81%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "财政部等三部门发布《关于海南自由贸易港岛内居民消费的进境商品“零关税”政策的通知》",
           "url": "https://wallstreetcn.com/livenews/3050334",
           "source": "华尔街见闻-快讯",
@@ -413,7 +517,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -440,17 +544,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "英超裁判如何执法赛场冲突",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%B6%85%E8%A3%81%E5%88%A4%E5%A6%82%E4%BD%95%E6%89%A7%E6%B3%95%E8%B5%9B%E5%9C%BA%E5%86%B2%E7%AA%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
           "title": "印尼能源部官员：印尼计划于2028年对汽油强制实施10%的生物乙醇含量标准。",
           "url": "https://flash.jin10.com/detail/20260205114140386800",
           "source": "金十数据",
@@ -468,7 +561,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -537,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "传小红书禁言部分基金实时估值博主，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3050484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "路透调查：对新加坡元的看涨押注持稳。",
