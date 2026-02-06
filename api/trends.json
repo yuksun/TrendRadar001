@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:39:40.157875+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-02-06T19:33:21.898270+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 100,
+      "match_count": 106,
       "titles": [
         {
           "title": "女婴术后离世,官方通报结果",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 18时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时45分 ~ 19时33分]"
         },
         {
           "title": "官方通报「周生生足金挂坠含铁银钯」，称涉事挂坠送检结果为足金，双方对检测结果无异议，怎样看待这一结果？",
@@ -77,6 +77,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 13时53分]"
+        },
+        {
+          "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
+          "url": "https://www.zhihu.com/question/2002488690631467441",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 19时33分]"
         },
         {
           "title": "官方回应男子从着火电车连救3人",
@@ -114,20 +128,6 @@
           "time_info": "[00时45分 ~ 17时41分]"
         },
         {
-          "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
-          "url": "https://www.zhihu.com/question/2002488690631467441",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 18时39分]"
-        },
-        {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
           "url": "https://www.cls.cn/detail/2282271",
           "source": "财联社热门",
@@ -152,6 +152,23 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时45分 ~ 16时40分]"
+        },
+        {
+          "title": "2026拜年纪官方预告上线",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%8B%9C%E5%B9%B4%E7%BA%AA%E5%AE%98%E6%96%B9%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            16,
+            21,
+            28,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时15分 ~ 19时33分]"
         },
         {
           "title": "警方通报女子在洗浴店休息时被猥亵",
@@ -192,22 +209,6 @@
           "time_info": "[00时45分 ~ 09时57分]"
         },
         {
-          "title": "2026拜年纪官方预告上线",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%8B%9C%E5%B9%B4%E7%BA%AA%E5%AE%98%E6%96%B9%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12,
-            16,
-            21,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 18时39分]"
-        },
-        {
           "title": "家长举报家委会3年收10多万元班费",
           "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E5%AE%B6%E5%A7%94%E4%BC%9A3%E5%B9%B4%E6%94%B610%E5%A4%9A%E4%B8%87%E5%85%83%E7%8F%AD%E8%B4%B9",
           "source": "百度热搜",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时15分 ~ 17时41分]"
+        },
+        {
+          "title": "贪1.5亿！落马医院院长被判死缓",
+          "url": "https://www.toutiao.com/trending/7603680009479261746/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "“演唱会出轨门”女主转型开演讲",
@@ -296,7 +308,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -323,15 +335,15 @@
           "time_info": "15时45分"
         },
         {
-          "title": "贪1.5亿！落马医院院长被判死缓",
-          "url": "https://www.toutiao.com/trending/7603680009479261746/",
-          "source": "今日头条",
+          "title": "乌克兰国防部长表示，加拿大正在移交“先进改进型防空导弹”以加强乌克兰的防空能力。",
+          "url": "https://flash.jin10.com/detail/20260206190813868800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "19时33分"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：我们在通胀方面处于良好状态。 通胀下行风险可能更为显著。 欧洲央行没有汇率目标，但汇率对经济活动很重要。 正密切关注外汇市场。",
@@ -402,6 +414,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "证监会对亚辉龙公告涉嫌误导性陈述立案调查",
+          "url": "https://wallstreetcn.com/livenews/3051355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "上海政协委员：取消中高考是早晚的事",
           "url": "https://www.toutiao.com/trending/7603000887740874806/",
           "source": "今日头条",
@@ -413,6 +436,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 07时22分]"
+        },
+        {
+          "title": "陈小春以政协委员身份参会",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%B0%8F%E6%98%A5%E4%BB%A5%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%BA%AB%E4%BB%BD%E5%8F%82%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时33分]"
         },
         {
           "title": "欧洲军工股多数收跌，德国莱茵金属RHM跌6.46%，从蒂森克虏伯拆分出来的海事部门跌3.63%，凯傲集团则涨3.10%。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.72%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌1.49%。",
@@ -463,17 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 17时41分]"
-        },
-        {
-          "title": "陈小春以政协委员身份参会",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%B0%8F%E6%98%A5%E4%BB%A5%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%BA%AB%E4%BB%BD%E5%8F%82%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时39分]"
         },
         {
           "title": "你看好谁当选联合国秘书长",
@@ -559,6 +583,30 @@
           "time_info": "[16时40分 ~ 17时41分]"
         },
         {
+          "title": "中国银行贵州省分行原党委委员、副行长张文明被开除党籍。（中央纪委国家监委网站）",
+          "url": "https://wallstreetcn.com/livenews/3051322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
+        },
+        {
+          "title": "中国石油江苏销售公司原党委副书记、总经理佟福财接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3051321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
+        },
+        {
           "title": "浙江原人大副主任高兴夫被双开",
           "url": "https://www.douyin.com/hot/2391301",
           "source": "抖音",
@@ -614,6 +662,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "欧洲央行管委科赫尔：奥地利央行无意出售储备黄金或增加黄金储备。",
+          "url": "https://flash.jin10.com/detail/20260206190442457800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "欧洲央行管委Stournaras：1月的通胀只是一个数据点。 会考虑市场的反馈。 目前无需采取任何行动。 逐次会议决策是一种良好做法。",
           "url": "https://wallstreetcn.com/livenews/3051172",
           "source": "华尔街见闻-快讯",
@@ -631,7 +690,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -656,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚，罚款 1.191 亿元，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2003152677979313471",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "中央农办主任韩文秀：推进农产品进口多元化，支持扩大优势特色农产品出口",
@@ -724,6 +794,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "欧洲央行管委科赫尔：当前美元疲软可能源于政治意愿，而非欧元走强。",
+          "url": "https://flash.jin10.com/detail/20260206190122481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "欧洲央行管委雷恩：未来如有必要，不排除对关键利率进行任何调整。",
           "url": "https://flash.jin10.com/detail/20260206161624124800",
           "source": "金十数据",
@@ -733,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：欧元汇率并非欧洲央行决策的很好锚定。",
+          "url": "https://flash.jin10.com/detail/20260206190029625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "欧洲央行管委雷恩：我们都必须做好准备，地缘政治发展仍可能带来新的意外，我们必须随时准备作出反应。",
@@ -834,17 +926,6 @@
           "time_info": "17时41分"
         },
         {
-          "title": "中国银行贵州省分行原党委委员、副行长张文明被开除党籍。（中央纪委国家监委网站）",
-          "url": "https://wallstreetcn.com/livenews/3051322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "欧洲央行管委穆勒：12月展望仍是决策的良好基础。",
           "url": "https://flash.jin10.com/detail/20260206165257149800",
           "source": "金十数据",
@@ -865,17 +946,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        },
-        {
-          "title": "中国石油江苏销售公司原党委副书记、总经理佟福财接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/3051321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "大众施压南非政府升级激励政策 新型皮卡项目面临投产抉择",
@@ -961,7 +1031,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1005,7 +1075,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1060,7 +1130,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1126,7 +1196,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1192,8 +1262,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 19时33分]"
         },
         {
           "title": "宝宝到山东探亲一个月身高猛涨4cm",
@@ -1214,11 +1284,12 @@
           "url": "https://www.toutiao.com/trending/7603191390999281707/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "2岁宝宝山东探亲1个月长高4厘米",
