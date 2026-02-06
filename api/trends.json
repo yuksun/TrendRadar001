@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T22:03:02.176752+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-02-06T23:39:18.541211+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 129,
+      "match_count": 132,
       "titles": [
         {
           "title": "女婴术后离世,官方通报结果",
@@ -141,11 +141,12 @@
             25,
             22,
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 22时03分]"
+          "appearance_count": 13,
+          "time_info": "[12时15分 ~ 23时39分]"
         },
         {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
@@ -172,6 +173,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时45分 ~ 16时40分]"
+        },
+        {
+          "title": "上海人大代表建议取消不必要的黄实线",
+          "url": "https://www.toutiao.com/trending/7603538144210698259/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 23时39分]"
         },
         {
           "title": "警方通报女子在洗浴店休息时被猥亵",
@@ -212,15 +224,15 @@
           "time_info": "[00时45分 ~ 09时57分]"
         },
         {
-          "title": "上海人大代表建议取消不必要的黄实线",
-          "url": "https://www.toutiao.com/trending/7603538144210698259/",
-          "source": "今日头条",
+          "title": "法国前文化部长卷入爱泼斯坦案被传唤",
+          "url": "https://news.ifeng.com/c/8qWjs1O0wPT",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时03分]"
+          "time_info": "[20时56分 ~ 23时39分]"
         },
         {
           "title": "贪1.5亿！落马医院院长被判死缓",
@@ -228,11 +240,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 22时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时39分]"
         },
         {
           "title": "家长举报家委会3年收10多万元班费",
@@ -246,17 +259,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时15分 ~ 17时41分]"
-        },
-        {
-          "title": "法国前文化部长卷入爱泼斯坦案被传唤",
-          "url": "https://news.ifeng.com/c/8qWjs1O0wPT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 22时03分]"
         },
         {
           "title": "“演唱会出轨门”女主转型开演讲",
@@ -525,6 +527,42 @@
           "time_info": "[02时45分 ~ 04时33分]"
         },
         {
+          "title": "虚拟货币监管再升级！央行等八部门重申境内禁止性政策 未经同意境内主体不得在境外发行虚拟货币",
+          "url": "https://www.cls.cn/detail/2283399",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时39分]"
+        },
+        {
+          "title": "陈小春以惠州政协委员身份参会",
+          "url": "https://www.toutiao.com/trending/7603431641863798826/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 23时39分]"
+        },
+        {
+          "title": "老领导临离职前就暗示公司想干掉我，让我自己小心，结果新领导一上任就开始针对我，该怎么办？",
+          "url": "https://www.zhihu.com/question/2002658044635522631",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时39分]"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9401，较上一交易日官方收盘价涨7点，较上日夜盘收盘跌38点。",
           "url": "https://wallstreetcn.com/livenews/3051268",
           "source": "华尔街见闻-快讯",
@@ -537,15 +575,15 @@
           "time_info": "[16时40分 ~ 17时41分]"
         },
         {
-          "title": "陈小春以惠州政协委员身份参会",
-          "url": "https://www.toutiao.com/trending/7603431641863798826/",
-          "source": "今日头条",
+          "title": "冬奥这个项目为了赢无所不用其极，世界反兴奋剂组织介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32548914",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 23时39分]"
         },
         {
           "title": "你看好谁当选联合国秘书长",
@@ -584,15 +622,16 @@
           "time_info": "[06时26分 ~ 09时57分]"
         },
         {
-          "title": "冬奥这个项目为了赢无所不用其极，世界反兴奋剂组织介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32548914",
-          "source": "澎湃新闻",
+          "title": "八部门：整治虚拟货币“挖矿”活动",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AB%E9%83%A8%E9%97%A8%EF%BC%9A%E6%95%B4%E6%B2%BB%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E2%80%9C%E6%8C%96%E7%9F%BF%E2%80%9D%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
           "ranks": [
-            16
+            15,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时56分 ~ 22时03分]"
+          "time_info": "[22时02分 ~ 23时39分]"
         },
         {
           "title": "美特使与阿曼外交官员开始会谈",
@@ -619,6 +658,18 @@
           "time_info": "[16时40分 ~ 17时41分]"
         },
         {
+          "title": "五部门：警惕不法“代理维权”短视频及直播陷阱",
+          "url": "https://www.cls.cn/detail/2283275",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时39分]"
+        },
+        {
           "title": "网信部门对快手平台依法作出处罚",
           "url": "https://www.douyin.com/hot/2391852",
           "source": "抖音",
@@ -628,6 +679,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 18时39分]"
+        },
+        {
+          "title": "网信部门对快手平台依法作出处罚",
+          "url": "https://www.cls.cn/detail/2282993",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时39分]"
         },
         {
           "title": "推广餐饮环节自主明示 三部门公开征求意见",
@@ -652,17 +714,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时39分 ~ 19时33分]"
-        },
-        {
-          "title": "八部门：整治虚拟货币“挖矿”活动",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AB%E9%83%A8%E9%97%A8%EF%BC%9A%E6%95%B4%E6%B2%BB%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E2%80%9C%E6%8C%96%E7%9F%BF%E2%80%9D%E6%B4%BB%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "中国石油江苏销售公司原党委副书记、总经理佟福财接受纪律审查和监察调查",
@@ -809,17 +860,6 @@
           "time_info": "19时33分"
         },
         {
-          "title": "虚拟货币监管再升级！央行等八部门重申境内禁止性政策 未经同意境内主体不得在境外发行虚拟货币",
-          "url": "https://www.cls.cn/detail/2283399",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
           "title": "中央农办主任韩文秀：推进农产品进口多元化，支持扩大优势特色农产品出口",
           "url": "https://flash.jin10.com/detail/20260206063946768800",
           "source": "金十数据",
@@ -862,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "五部门联合治理不法“代理维权”，短视频、直播等自媒体被盯防",
+          "url": "https://www.cls.cn/detail/2283454",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "澳洲联储主席布洛克：委员会将密切关注所观察到的通胀走强是持久还是暂时的。",
@@ -952,15 +1003,15 @@
           "time_info": "17时41分"
         },
         {
-          "title": "网信部门对快手平台依法作出处罚",
-          "url": "https://www.cls.cn/detail/2282993",
-          "source": "财联社热门",
+          "title": "一班级家委会在家长群两年多收班费逾18万，重庆渝中官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550936",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时03分"
+          "time_info": "23时39分"
         },
         {
           "title": "欧洲央行管委雷恩：在我们三月份的下次会议上，我们将获得新数据和欧洲央行预测的最新更新，这将使我们能够完善对欧元区增长势头和通胀动态的评估。",
@@ -1005,28 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
-        },
-        {
-          "title": "老领导临离职前就暗示公司想干掉我，让我自己小心，结果新领导一上任就开始针对我，该怎么办？",
-          "url": "https://www.zhihu.com/question/2002658044635522631",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "五部门：警惕不法“代理维权”短视频及直播陷阱",
-          "url": "https://www.cls.cn/detail/2283275",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
         },
         {
           "title": "欧洲央行调查：预计2026年通胀率为1.8%，2027年为2.0%，长期通胀率为2.0%。",
@@ -1082,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "央行等八部门：虚拟货币不具有与法定货币等同的法律地位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551580",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "欧洲央行管委穆勒：12月展望仍是决策的良好基础。",
@@ -1178,7 +1218,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1200,7 +1240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1222,7 +1262,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1277,7 +1317,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1517,11 +1557,12 @@
             6,
             14,
             18,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时52分 ~ 22时03分]"
+          "appearance_count": 12,
+          "time_info": "[13时52分 ~ 23时39分]"
         },
         {
           "title": "宝宝到山东探亲一个月身高猛涨4cm",
