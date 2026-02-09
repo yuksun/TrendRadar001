@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T10:04:40.231119+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-09T12:59:37.649757+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -102,6 +102,17 @@
           "time_info": "[00时29分 ~ 06时25分]"
         },
         {
+          "title": "央行等八部门联合发文，首次明确 RWA 定义，并采取了「原则禁止 + 特定豁免」的监管模式，如何解读？",
+          "url": "https://www.zhihu.com/question/2003758409221104085",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 12时59分]"
+        },
+        {
           "title": "泰国人民党领袖：从选举结果来看，我们似乎不会成为第一大党。我们不会组建竞争性联盟。若自豪泰党组建政府，我们愿意成为反对派。",
           "url": "https://flash.jin10.com/detail/20260208224821853800",
           "source": "金十数据",
@@ -142,17 +153,6 @@
           "time_info": "[05时26分 ~ 07时30分]"
         },
         {
-          "title": "央行等八部门联合发文，首次明确 RWA 定义，并采取了「原则禁止 + 特定豁免」的监管模式，如何解读？",
-          "url": "https://www.zhihu.com/question/2003758409221104085",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
           "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3051817",
           "source": "华尔街见闻-快讯",
@@ -185,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -196,9 +196,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "外媒：伊朗外长称，伊朗已向中俄通报伊美谈判有关情况",
+          "url": "https://wallstreetcn.com/livenews/3052067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "2026央视新春走基层",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%A4%AE%E8%A7%86%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "哈马斯高级官员：只要以方持续占领，巴方就不会停止抵抗",
@@ -237,6 +259,17 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
+          "title": "男子祭祖途中误触非法捕猎装置不幸身亡，警方通报",
+          "url": "https://news.ifeng.com/c/8qb7wrrAiyl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 12时59分]"
+        },
+        {
           "title": "中国财政部部长蓝佛安：中方呼吁新兴市场经济体和发展中国家以科技创新驱动发展",
           "url": "https://wallstreetcn.com/livenews/3051862",
           "source": "华尔街见闻-快讯",
@@ -272,15 +305,59 @@
           "time_info": "07时30分"
         },
         {
-          "title": "男子祭祖途中误触非法捕猎装置不幸身亡，警方通报",
-          "url": "https://news.ifeng.com/c/8qb7wrrAiyl",
-          "source": "凤凰网",
+          "title": "警方通报男子祭祖误触捕猎装置身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%A5%AD%E7%A5%96%E8%AF%AF%E8%A7%A6%E6%8D%95%E7%8C%8E%E8%A3%85%E7%BD%AE%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "新疆维吾尔自治区党委追授贺娇龙同志“自治区优秀共产党员”称号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565133",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "12时59分"
+        },
+        {
+          "title": "男子祭祖误触捕猎装置身亡 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A5%AD%E7%A5%96%E8%AF%AF%E8%A7%A6%E6%8D%95%E7%8C%8E%E8%A3%85%E7%BD%AE%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
+          "url": "https://www.cls.cn/detail/2284330",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "泰国总理阿努廷：希望组建一个拥有稳固多数的政府，正等待最终选举结果出炉。",
+          "url": "https://flash.jin10.com/detail/20260209112459676800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "人民币兑美元中间价报6.9523，上调67点；上一交易日中间价6.9590，上一交易日官方收盘价6.9401，上日夜盘报收6.9354。",
@@ -289,9 +366,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "爱泼斯坦案受害者质问：后续调查在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32563906",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "法国前文化部长牵涉爱泼斯坦案",
@@ -300,7 +388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -311,9 +399,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "2026年已有11名中管干部被查",
+          "url": "https://www.toutiao.com/trending/7604410963764396082/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "太原多部门约谈MCN机构，重点整治针对小米、理想等车企的恶意贬损乱象",
+          "url": "https://wallstreetcn.com/livenews/3052023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "日本放送协会NHK：日本首相高市早苗领导的执政联盟势将赢得众议院至少三分之二的席位。",
