@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:57:21.669992+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-02-09T16:55:19.077611+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -65,11 +65,12 @@
           "url": "https://www.zhihu.com/question/2003758409221104085",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 16时55分]"
         },
         {
           "title": "川大博导王竹卿被学生集体举报后，校方启动调查，若查实，其将面临什么？此事暴露了高校的哪些系统性困境？",
@@ -111,6 +112,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "逼学生造假,川大博导遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时55分]"
+        },
+        {
+          "title": "解放军报：腐败存量尚未彻底清除",
+          "url": "https://www.toutiao.com/trending/7604278923496833033/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时55分]"
         },
         {
           "title": "泰国人民党领袖：从选举结果来看，我们似乎不会成为第一大党。我们不会组建竞争性联盟。若自豪泰党组建政府，我们愿意成为反对派。",
@@ -164,26 +188,15 @@
           "time_info": "[05时26分 ~ 07时30分]"
         },
         {
-          "title": "解放军报：腐败存量尚未彻底清除",
-          "url": "https://www.toutiao.com/trending/7604278923496833033/",
-          "source": "今日头条",
+          "title": "欧洲央行管委西姆库斯：下一次是加息还是降息的概率五五开。",
+          "url": "https://flash.jin10.com/detail/20260209163448283800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "逼学生造假,川大博导遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "16时55分"
         },
         {
           "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
@@ -234,6 +247,53 @@
           "time_info": "10时04分"
         },
         {
+          "title": "欧洲央行管委Simkus：欧洲央行下次行动加息或降息的可能性相同。 我们必须为任何情形做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3052212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "新春走基层一线vlog",
+          "url": "https://www.douyin.com/hot/2394973",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
+          "url": "https://www.cls.cn/detail/2284330",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时55分]"
+        },
+        {
+          "title": "男子祭祖途中误触非法捕猎装置不幸身亡，警方通报",
+          "url": "https://news.ifeng.com/c/8qb7wrrAiyl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 16时55分]"
+        },
+        {
           "title": "哈马斯高级官员：只要以方持续占领，巴方就不会停止抵抗",
           "url": "https://wallstreetcn.com/livenews/3051806",
           "source": "华尔街见闻-快讯",
@@ -257,15 +317,40 @@
           "time_info": "[12时59分 ~ 14时10分]"
         },
         {
-          "title": "男子祭祖途中误触非法捕猎装置不幸身亡，警方通报",
-          "url": "https://news.ifeng.com/c/8qb7wrrAiyl",
-          "source": "凤凰网",
+          "title": "匿名举报同事后，整个部门被扣奖金并集体孤立我，我做错了吗？",
+          "url": "https://www.zhihu.com/question/2000212311164601828",
+          "source": "知乎",
           "ranks": [
-            12
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时55分]"
+        },
+        {
+          "title": "新疆维吾尔自治区党委追授贺娇龙同志“自治区优秀共产党员”称号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565133",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时04分 ~ 15时57分]"
+          "time_info": "[12时59分 ~ 16时55分]"
+        },
+        {
+          "title": "爱泼斯坦案受害者质问：后续调查在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32563906",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时55分]"
         },
         {
           "title": "和平委员会首会在即 多国态度谨慎",
@@ -293,19 +378,6 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
-          "title": "财联社C50风向指数调查：2月资金面或维持平稳宽松，市场对降准降息窗口存在分歧",
-          "url": "https://www.cls.cn/detail/2284330",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时57分]"
-        },
-        {
           "title": "男子祭祖误触捕猎装置身亡 警方通报",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A5%AD%E7%A5%96%E8%AF%AF%E8%A7%A6%E6%8D%95%E7%8C%8E%E8%A3%85%E7%BD%AE%E8%BA%AB%E4%BA%A1+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -313,30 +385,6 @@
             13,
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时57分]"
-        },
-        {
-          "title": "新疆维吾尔自治区党委追授贺娇龙同志“自治区优秀共产党员”称号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565133",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时57分]"
-        },
-        {
-          "title": "爱泼斯坦案受害者质问：后续调查在哪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32563906",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -353,6 +401,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 14时10分]"
+        },
+        {
+          "title": "国家体育总局局长：优化体育产业发展结构，扩大体育消费规模",
+          "url": "https://www.cls.cn/detail/2284075",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时55分]"
         },
         {
           "title": "中国财政部部长蓝佛安：中方呼吁新兴市场经济体和发展中国家以科技创新驱动发展",
@@ -379,6 +439,28 @@
           "time_info": "[06时25分 ~ 07时30分]"
         },
         {
+          "title": "川大博导王竹卿被举报的套取经费、数据造假、延毕威胁等行为，在高校普遍吗？你遇到过类似的情况吗？",
+          "url": "https://www.zhihu.com/question/2003862707359672009",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时55分]"
+        },
+        {
+          "title": "三博脑科：收到内蒙古自治区监察委员会签发的《解除责令候查通知书》，相关部门已解除对张阳先生的责令候查措施。",
+          "url": "https://wallstreetcn.com/livenews/3052202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "国家体育总局局长：构建现代化体育产业体系，培育经济发展新增长点",
           "url": "https://wallstreetcn.com/livenews/3051891",
           "source": "华尔街见闻-快讯",
@@ -388,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9284，较上一交易日官方收盘价涨117点，较上日夜盘收盘涨70点。",
+          "url": "https://wallstreetcn.com/livenews/3052201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "警方通报男子祭祖误触捕猎装置身亡",
@@ -407,7 +500,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -418,9 +511,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "解放军报：腐败存量尚未彻底清除",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%EF%BC%9A%E8%85%90%E8%B4%A5%E5%AD%98%E9%87%8F%E5%B0%9A%E6%9C%AA%E5%BD%BB%E5%BA%95%E6%B8%85%E9%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "印度钢铁秘书：在欧洲碳税和关税配额的背景下，出口问题依然存在，我们必须采取行动。",
@@ -429,7 +533,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -451,18 +555,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "国家体育总局局长：优化体育产业发展结构，扩大体育消费规模",
-          "url": "https://www.cls.cn/detail/2284075",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -473,18 +566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "匿名举报同事后，整个部门被扣奖金并集体孤立我，我做错了吗？",
-          "url": "https://www.zhihu.com/question/2000212311164601828",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -533,24 +615,13 @@
           "time_info": "10时04分"
         },
         {
-          "title": "川大博导王竹卿被举报的套取经费、数据造假、延毕威胁等行为，在高校普遍吗？你遇到过类似的情况吗？",
-          "url": "https://www.zhihu.com/question/2003862707359672009",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
           "title": "伊朗称已向中俄通报伊美谈判情况",
           "url": "https://www.toutiao.com/trending/7604403113240952895/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -572,7 +643,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
