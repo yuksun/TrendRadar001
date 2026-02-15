@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:25:22.248746+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-15T19:21:58.769739+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "四川大学通报王竹卿事件调查结果：停止其研究生招生资格",
@@ -21,19 +21,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时27分 ~ 16时32分]"
-        },
-        {
-          "title": "三部门：支持白酒、黄酒等中式酒品与中式美食“酒餐融合协同出海”",
-          "url": "https://www.cls.cn/detail/2290333",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "法国外交部长巴罗：俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被致命神经毒剂毒害，表明俄罗斯总统普京已准备好再次对自己的人民使用化学武器，以维持其对权力的掌控。",
@@ -56,6 +43,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "三部门：支持白酒、黄酒等中式酒品与中式美食“酒餐融合协同出海”",
+          "url": "https://www.cls.cn/detail/2290333",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 19时21分]"
         },
         {
           "title": "成都官方通报蒲江县有关项目招引建设问题调查情况",
@@ -99,11 +100,12 @@
             17,
             14,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 19时21分]"
         },
         {
           "title": "这个最繁忙的站台，一天接发列车超过90趟是什么概念？｜新春走基层",
@@ -198,6 +200,23 @@
           "time_info": "[00时28分 ~ 10时06分]"
         },
         {
+          "title": "新春走基层·山乡新貌｜一个95后新农人拍视频“巡村”：卖货，也展示家乡的美好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611709",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            16,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 19时21分]"
+        },
+        {
           "title": "被83页PDF举报 川大教师被处分",
           "url": "https://www.toutiao.com/trending/7606692952705879603/",
           "source": "今日头条",
@@ -210,6 +229,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时23分]"
+        },
+        {
+          "title": "世卫组织通报发现猴痘病毒重组毒株病例",
+          "url": "https://wallstreetcn.com/livenews/3055592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            6,
+            8,
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 19时21分]"
         },
         {
           "title": "北约秘书长吕特：北约如此强大，“俄罗斯不会试图发动攻击”。",
@@ -281,38 +317,6 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
-          "title": "新春走基层·山乡新貌｜一个95后新农人拍视频“巡村”：卖货，也展示家乡的美好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611709",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 18时25分]"
-        },
-        {
-          "title": "世卫组织通报发现猴痘病毒重组毒株病例",
-          "url": "https://wallstreetcn.com/livenews/3055592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            6,
-            8,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时25分]"
-        },
-        {
           "title": "【《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》】文章强调，2026年经济工作头绪多，要抓住关键、纲举目张。坚持内需主导，建设强大国内市场。统筹促消费和扩投资，用好我国超大规模市场优势。深入实施提振消费专项行动，制定实施城乡居民增收计划，扩大优质商品和服务供给，优化“两新”政策实施，清理消费领域不合理限制措施，释放文旅等服务消费潜力。着眼惠民生增后劲，推动投资止跌回稳，适当增加中央预算内投资规模，优化实施“两重”项目，优化地方政府专项债券用途管理，继续发挥新型政策性金融工具作用，高质量推进城市更新，有效激发民间投资活力。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3055599",
           "source": "华尔街见闻-快讯",
@@ -320,33 +324,54 @@
             2,
             4,
             6,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 19时21分]"
         },
         {
           "title": "伊朗官员证实第二轮美伊谈判将于周二举行",
           "url": "https://flash.jin10.com/detail/20260215172142272800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
-          "title": "以色列总检察长：尚未审查内塔尼亚胡赦免请求",
-          "url": "https://wallstreetcn.com/livenews/3055612",
-          "source": "华尔街见闻-快讯",
+          "title": "芬兰政府：芬兰外长将于2月15日至16日访问以色列和巴勒斯坦地区。",
+          "url": "https://flash.jin10.com/detail/20260215150310832800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3,
+            10,
+            14,
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 19时21分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》。",
+          "url": "https://flash.jin10.com/detail/20260215150235065800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11,
+            15,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 19时21分]"
         },
         {
           "title": "湘潭钢铁集团起火事故通报：现场明火已扑灭，事故未造成人员伤亡",
@@ -388,34 +413,6 @@
           "time_info": "[13时55分 ~ 16时32分]"
         },
         {
-          "title": "芬兰政府：芬兰外长将于2月15日至16日访问以色列和巴勒斯坦地区。",
-          "url": "https://flash.jin10.com/detail/20260215150310832800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 18时25分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》。",
-          "url": "https://flash.jin10.com/detail/20260215150235065800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 18时25分]"
-        },
-        {
           "title": "今年1月全国受理网络违法和不良信息举报2214.6万件",
           "url": "https://flash.jin10.com/detail/20260215135242372800",
           "source": "金十数据",
@@ -429,6 +426,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时51分 ~ 18时25分]"
+        },
+        {
+          "title": "以色列总检察长：尚未审查内塔尼亚胡赦免请求",
+          "url": "https://wallstreetcn.com/livenews/3055612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
+          "url": "https://wallstreetcn.com/articles/3765758",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
           "title": "四川大学通报王竹卿事件",
@@ -481,6 +503,18 @@
           "time_info": "[14时51分 ~ 17时31分]"
         },
         {
+          "title": "新春走基层 ·见喜｜在5A景区领证结婚的年轻人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610727",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 19时21分]"
+        },
+        {
           "title": "联合国秘书长重申与非盟合作共同应对挑战",
           "url": "https://flash.jin10.com/detail/20260215113153752800",
           "source": "金十数据",
@@ -520,29 +554,6 @@
           "time_info": "[14时51分 ~ 16时32分]"
         },
         {
-          "title": "新春走基层 ·见喜｜在5A景区领证结婚的年轻人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610727",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时25分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
-          "url": "https://wallstreetcn.com/articles/3765758",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
           "title": "Seedance2.0爆火日本官员急了",
           "url": "https://s.weibo.com/weibo?q=%23Seedance2.0%E7%88%86%E7%81%AB%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E6%80%A5%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -566,6 +577,17 @@
           "time_info": "[12时53分 ~ 13时55分]"
         },
         {
+          "title": "新春走基层·山乡新貌｜“城里的许多食材更便宜！”老妈在长沙买年货回乡过年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610413",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "如何看待中国摩托车商会致函湖南人大常委会「建议优化摩托车高速通行政策」？",
           "url": "https://www.zhihu.com/question/2004480106098361290",
           "source": "知乎",
@@ -575,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "返乡游子感谢“2元送饭书记”",
+          "url": "https://www.toutiao.com/trending/7606515014400409646/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
