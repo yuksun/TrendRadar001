@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-15T10:06:04.831232+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-02-15T12:53:16.814469+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "三部门：支持白酒、黄酒等中式酒品与中式美食“酒餐融合协同出海”",
+          "url": "https://www.cls.cn/detail/2290333",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 12时53分]"
+        },
         {
           "title": "四川大学通报王竹卿事件调查结果：停止其研究生招生资格",
           "url": "https://m.thepaper.cn/newsDetail_forward_32611052",
@@ -19,20 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 10时06分]"
-        },
-        {
-          "title": "三部门：支持白酒、黄酒等中式酒品与中式美食“酒餐融合协同出海”",
-          "url": "https://www.cls.cn/detail/2290333",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时53分]"
         },
         {
           "title": "法国外交部长巴罗：俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被致命神经毒剂毒害，表明俄罗斯总统普京已准备好再次对自己的人民使用化学武器，以维持其对权力的掌控。",
@@ -69,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时53分]"
         },
         {
           "title": "四川大学通报王竹卿事件调查结果",
@@ -94,11 +94,12 @@
           "ranks": [
             16,
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时53分]"
         },
         {
           "title": "暗区长夜将军火上河南春晚",
@@ -267,9 +268,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "饶毅卸任首都医科大学校长一年后，正式加盟复旦大学上海医学院，如何看待他的这次学术转向？",
+          "url": "https://www.zhihu.com/question/2004305937561777556",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "四川大学通报王竹卿事件",
@@ -291,8 +303,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时53分]"
         },
         {
           "title": "Seedance2.0爆火日本官员急了",
@@ -306,15 +318,48 @@
           "time_info": "[10时05分 ~ 10时06分]"
         },
         {
+          "title": "联合国秘书长重申与非盟合作共同应对挑战",
+          "url": "https://flash.jin10.com/detail/20260215113153752800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "乡镇公务员相亲称现实有时远超感情",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E7%9B%B8%E4%BA%B2%E7%A7%B0%E7%8E%B0%E5%AE%9E%E6%9C%89%E6%97%B6%E8%BF%9C%E8%B6%85%E6%84%9F%E6%83%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "如何看待中国摩托车商会致函湖南人大常委会「建议优化摩托车高速通行政策」？",
           "url": "https://www.zhihu.com/question/2004480106098361290",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "日本政府已开始讨论修订“防卫装备转移三原则”",
+          "url": "https://flash.jin10.com/detail/20260215102723696800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
