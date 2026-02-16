@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T16:44:56.331243+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-16T17:53:33.913685+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
@@ -32,6 +32,17 @@
           "time_info": "[00时29分 ~ 14时08分]"
         },
         {
+          "title": "乌克兰前能源部长试图离境被拘捕",
+          "url": "https://news.ifeng.com/c/8qlzNMUACol",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 17时53分]"
+        },
+        {
           "title": "新春走基层丨马年春运，有个05后在车厢里“暴走”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32575666",
           "source": "澎湃新闻",
@@ -42,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 16时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 17时53分]"
         },
         {
           "title": "春运绿皮车严重超员？铁路部门回应",
@@ -100,17 +111,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "乌克兰前能源部长试图离境被拘捕",
-          "url": "https://news.ifeng.com/c/8qlzNMUACol",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 16时44分]"
         },
         {
           "title": "新春走基层·山乡新貌｜“城里的许多食材更便宜！”老妈在长沙买年货回乡过年",
@@ -213,6 +213,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
+          "url": "https://news.ifeng.com/c/8qnEVl9tHXs",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "欧洲5国指俄毒杀反对派领袖，鲁比奥：调查结果令人担忧",
           "url": "https://news.ifeng.com/c/8qmJavvB8a3",
           "source": "凤凰网",
@@ -222,6 +233,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "大疆前销售副总裁涉嫌非国家工作人员受贿罪被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616651",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 17时53分]"
         },
         {
           "title": "伊朗官员证实第二轮美伊谈判将于周二举行",
@@ -235,6 +258,19 @@
           "time_info": "[00时29分 ~ 04时25分]"
         },
         {
+          "title": "马来西亚国王警告：反贪机构部门在其“雷达”监视范围内。",
+          "url": "https://wallstreetcn.com/livenews/3055691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时53分]"
+        },
+        {
           "title": "美官员称超千名移民执法人员已撤出明州双城地区",
           "url": "https://flash.jin10.com/detail/20260216043043055800",
           "source": "金十数据",
@@ -246,18 +282,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时25分]"
-        },
-        {
-          "title": "马来西亚国王警告：反贪机构部门在其“雷达”监视范围内。",
-          "url": "https://wallstreetcn.com/livenews/3055691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时44分]"
         },
         {
           "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
@@ -297,16 +321,28 @@
           "time_info": "[10时01分 ~ 15时53分]"
         },
         {
-          "title": "大疆前销售副总裁涉嫌非国家工作人员受贿罪被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616651",
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            14
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时53分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时53分]"
         },
         {
           "title": "联合国秘书长呼吁发达国家效仿中国",
@@ -318,6 +354,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时25分 ~ 12时58分]"
+        },
+        {
+          "title": "新春走基层｜非遗焕新，上海年味绽放文化光彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609787",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时53分]"
+        },
+        {
+          "title": "调查显示韩国成年人过年最怕发压岁钱",
+          "url": "https://www.toutiao.com/trending/7607336286869733419/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时53分]"
         },
         {
           "title": "泰国财长：第四季度经济的增长高于预期得益于政府的措施。",
@@ -356,17 +416,6 @@
           "time_info": "[12时58分 ~ 14时08分]"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时44分]"
-        },
-        {
           "title": "新春走基层·见喜｜开门“接”喜",
           "url": "https://m.thepaper.cn/newsDetail_forward_32614948",
           "source": "澎湃新闻",
@@ -378,28 +427,6 @@
           "time_info": "[12时58分 ~ 14时08分]"
         },
         {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时44分]"
-        },
-        {
-          "title": "新春走基层｜非遗焕新，上海年味绽放文化光彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609787",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时44分]"
-        },
-        {
           "title": "英国首相斯塔默：将前往议会寻求获得新的政府权力，可能包括为社交媒体设定最低年龄限制以及限制儿童使用VPN。",
           "url": "https://flash.jin10.com/detail/20260216062908227800",
           "source": "金十数据",
@@ -409,17 +436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "调查显示韩国成年人过年最怕发压岁钱",
-          "url": "https://www.toutiao.com/trending/7607336286869733419/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
         },
         {
           "title": "数据提供商Origo：通胀预期调查显示，未来一年CPIF通胀率预计为1.4%，而1月预期为1.5%；未来两年CPIF通胀预计为1.9%，而1月份预期为2.1%；未来五年CPIF通胀预计为2.1%，与1月份持平。",
@@ -442,6 +458,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "医院通报尿毒症患者被借款15万",
+          "url": "https://www.toutiao.com/trending/7606695671299801129/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "新春走基层｜印象故乡②黄河边耿山口村：十年之变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601175",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "机关单位开放房源 初一至初四已订满",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%85%B3%E5%8D%95%E4%BD%8D%E5%BC%80%E6%94%BE%E6%88%BF%E6%BA%90+%E5%88%9D%E4%B8%80%E8%87%B3%E5%88%9D%E5%9B%9B%E5%B7%B2%E8%AE%A2%E6%BB%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "日本经济大臣：在负责任、积极的财政政策下，政府将推进大胆而具战略性的增长投资，实现强劲的经济。",
