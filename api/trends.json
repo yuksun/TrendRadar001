@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T06:27:46.333844+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-02-17T07:28:51.036110+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
@@ -15,20 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时27分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -37,7 +25,20 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -256,26 +257,28 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "加拿大贸易部长：随着加拿大和墨西哥努力实现贸易关系多元化以及加强贸易关系，现在正是建立新伙伴关系的最佳时机。很高兴与墨西哥经济部长和墨西哥竞争力研究所总干事瓦莱里亚·莫伊讨论如何为加拿大和墨西哥的企业和工人创造新机会。",
-          "url": "https://flash.jin10.com/detail/20260217052700574800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
           "title": "新春走基层｜他们除夕不返乡，在“司机之家”吃出最暖的团圆",
           "url": "https://m.thepaper.cn/newsDetail_forward_32621651",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时28分]"
+        },
+        {
+          "title": "加拿大贸易部长：随着加拿大和墨西哥努力实现贸易关系多元化以及加强贸易关系，现在正是建立新伙伴关系的最佳时机。很高兴与墨西哥经济部长和墨西哥竞争力研究所总干事瓦莱里亚·莫伊讨论如何为加拿大和墨西哥的企业和工人创造新机会。",
+          "url": "https://flash.jin10.com/detail/20260217052700574800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时28分]"
         },
         {
           "title": "哥伦比亚政府表示，该国经济在2025年增长了2.7%，而市场预期为2.9%。",
@@ -287,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "新春走基层·见喜｜陪96岁爷爷在养老院里过新年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "英国政府放弃推迟地方选举的计划 右翼反对党获得法律胜利",
