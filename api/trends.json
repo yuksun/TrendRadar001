@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T21:01:18.702259+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-02-17T22:11:10.187524+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
+          "title": "俄总统新闻秘书：俄美乌日内瓦会谈将讨论领土问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622454",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            15,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 22时11分]"
         },
         {
           "title": "新春走基层·见喜｜陪96岁爷爷在养老院里过新年",
@@ -48,22 +65,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[06时27分 ~ 18时44分]"
-        },
-        {
-          "title": "俄总统新闻秘书：俄美乌日内瓦会谈将讨论领土问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622454",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 21时01分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -149,15 +150,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "美银调查显示AI泡沫成首要尾部风险 资本支出过热担忧创纪录",
-          "url": "https://wallstreetcn.com/livenews/3055981",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部长：这并不意味着我们很快就能达成协议，但通往协议的道路已经开启。",
+          "url": "https://flash.jin10.com/detail/20260217215500020800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "22时11分"
         },
         {
           "title": "欧洲央行管委Nagel围绕支付问题兜售欧元主导的稳定币",
@@ -200,6 +201,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时37分 ~ 05时27分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜1935年出生的奶奶，解锁触屏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620559",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时38分 ~ 22时11分]"
         },
         {
           "title": "36岁为什么还来主持人大赛 为今天",
@@ -291,6 +305,30 @@
           "time_info": "[18时44分 ~ 19时39分]"
         },
         {
+          "title": "美银调查显示AI泡沫成首要尾部风险 资本支出过热担忧创纪录",
+          "url": "https://wallstreetcn.com/livenews/3055981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时11分]"
+        },
+        {
+          "title": "涉贩卖性侵未成年女性，美调查爱泼斯坦佐罗牧场",
+          "url": "https://news.ifeng.com/c/8qoybr5PROJ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时11分]"
+        },
+        {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
           "url": "https://flash.jin10.com/detail/20260217014005882800",
           "source": "金十数据",
@@ -330,16 +368,16 @@
           "time_info": "[03时32分 ~ 05时27分]"
         },
         {
-          "title": "新春走基层 ·见喜｜1935年出生的奶奶，解锁触屏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620559",
+          "title": "新春走基层｜印象故乡③海风伴驾，福建乡村春日里的巡游",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583465",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时01分]"
+          "time_info": "[21时01分 ~ 22时11分]"
         },
         {
           "title": "加拿大负责对美贸易的部长LeBlanc与墨西哥经济部长埃布拉德签署贸易谅解备忘录。",
@@ -388,18 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时44分 ~ 19时39分]"
-        },
-        {
-          "title": "涉贩卖性侵未成年女性，美调查爱泼斯坦佐罗牧场",
-          "url": "https://news.ifeng.com/c/8qoybr5PROJ",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 21时01分]"
         },
         {
           "title": "加拿大负责对美贸易的部长LeBlanc：庞巴迪、Bimbo等企业将参与会谈。",
@@ -467,9 +493,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        },
+        {
+          "title": "伊朗外交部长：双方仍有待解决的议题。",
+          "url": "https://flash.jin10.com/detail/20260217215239134800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
@@ -494,6 +531,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "伊朗外交部长：双方将就潜在协议文件开展工作并相互交换。",
+          "url": "https://flash.jin10.com/detail/20260217215223412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
           "url": "https://www.cls.cn/detail/2290743",
           "source": "财联社热门",
@@ -503,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "WTI原油短线下挫0.8美元。伊朗外交部长称，与上一轮谈判相比，局势出现了良好进展。",
+          "url": "https://flash.jin10.com/detail/20260217215201338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "当地政府表示，俄罗斯克拉斯诺达尔地区一处储油设施在遭无人机袭击后起火。",
@@ -533,7 +592,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -588,7 +647,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -599,7 +658,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -621,18 +680,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "新春走基层｜印象故乡③海风伴驾，福建乡村春日里的巡游",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583465",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -654,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -679,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "乌克兰国家安全委员会秘书：日内瓦会谈将讨论安全和人道问题。",
+          "url": "https://wallstreetcn.com/livenews/3055987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "亚盘交易时段，金银价格出现V型走势，现已收复早间大部分跌幅；日本前央行官员放风，加息窗口或锁定在4月，当前，金银油多头占比均达80%及以上，日内，留意俄乌及美伊谈判将相继在日内瓦举行，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -709,7 +768,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -731,7 +790,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -798,7 +857,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
