@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T06:31:39.493280+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-19T07:29:22.373233+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "4个省级党委领导班子调整",
@@ -15,11 +15,12 @@
             24,
             18,
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "新春走基层·见喜｜活过100岁，爷爷又学会了自拍短视频",
@@ -31,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "新春走基层｜两场电影“怒省80”：消费更理性，幸福不降级",
@@ -44,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "韩方：尹锡悦政府11次向平壤放飞无人机，诱导军事冲突",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "新春走基层｜印象故乡④冻土层下，北国春韵",
@@ -68,8 +69,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "新春走基层｜把上海书城当作新春出游第一站",
@@ -81,8 +82,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "新春走基层 | 武汉“00后”民警春节群像：在岗守团圆",
@@ -94,8 +95,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时29分]"
         },
         {
           "title": "美联储会议纪要：几位官员支持双向利率决策描述，为通胀高企时加息留出空间",
@@ -146,6 +147,18 @@
           "time_info": "[04时37分 ~ 05时34分]"
         },
         {
+          "title": "德国部长：计划到2027年建立天然气储备“危机工具”",
+          "url": "https://wallstreetcn.com/livenews/3056507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "据华尔街日报：Meta公司加大在得州和伊利诺伊州的竞选活动，增加对人工智能政治行动委员会的支出。",
           "url": "https://flash.jin10.com/detail/20260219050647385800",
           "source": "金十数据",
@@ -156,6 +169,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
+        },
+        {
+          "title": "美官员称美军应在3月中旬前完成中东军事部署",
+          "url": "https://wallstreetcn.com/livenews/3056503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -170,15 +195,15 @@
           "time_info": "[03时48分 ~ 04时37分]"
         },
         {
-          "title": "德国部长：计划到2027年建立天然气储备“危机工具”",
-          "url": "https://wallstreetcn.com/livenews/3056507",
-          "source": "华尔街见闻-快讯",
+          "title": "路透调查：三分之二的日本企业对日本首相高市早苗的财政纪律表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260219070102769800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时29分"
         },
         {
           "title": "据日经新闻：日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
@@ -203,15 +228,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美官员称美军应在3月中旬前完成中东军事部署",
-          "url": "https://wallstreetcn.com/livenews/3056503",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会主席冯德莱恩计划三月访问格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260219063722171800",
+          "source": "金十数据",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时29分"
         },
         {
           "title": "新西兰联储主席布雷曼：如果通胀前景发生变化，委员会将调整政策立场，以确保通胀回归目标。",
@@ -225,6 +250,28 @@
           "time_info": "04时37分"
         },
         {
+          "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：墨西哥经济部长表达了与加拿大合作并确保对《美墨加协定》的审查最终达成三方贸易安排的意愿，这令我感到安心。",
+          "url": "https://flash.jin10.com/detail/20260219063335057800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "市场消息：欧盟委员会主席冯德莱恩计划访问格陵兰岛，并提供一揽子援助计划。",
+          "url": "https://flash.jin10.com/detail/20260219062855138800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰和俄罗斯“接近”就如何监督停火形成文件。",
           "url": "https://flash.jin10.com/detail/20260219043914943800",
           "source": "金十数据",
@@ -234,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：来自加拿大各省的加拿大企业已在墨西哥签署了15项商业伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260219062832776800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
