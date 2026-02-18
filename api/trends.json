@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:28:20.518531+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-02-18T10:03:40.919951+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "2026新春走基层",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时03分]"
         },
         {
           "title": "澎湖县长陈光复撞头昏迷",
@@ -42,8 +42,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时03分]"
+        },
+        {
+          "title": "新春走基层｜印象故乡③海风伴驾，福建乡村春日里的巡游",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583465",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时03分]"
         },
         {
           "title": "马斯克机器人涉色情被爱尔兰调查",
@@ -59,27 +72,37 @@
           "time_info": "[01时55分 ~ 07时28分]"
         },
         {
-          "title": "新春走基层｜印象故乡③海风伴驾，福建乡村春日里的巡游",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583465",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时35分]"
-        },
-        {
           "title": "加拿大第三大省British Columbia将裁掉1.5万名公职人员，提高所得税，并推迟投资。",
           "url": "https://wallstreetcn.com/livenews/3056168",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "新西兰联储：如果经济按预期发展，货币政策可能会在一段时间内保持宽松。 委员会将继续密切评估数据。 随着经济复苏势头增强，通胀率持续迈向目标区间中点水平，货币政策将逐步正常化。",
+          "url": "https://wallstreetcn.com/livenews/3056194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "新西兰官方现金利率 2.25%，前值 2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3056186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "乌官员：为准备及组织大选，乌克兰需至少60日全面停火",
@@ -152,6 +175,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "哈马斯：所谓“和平委员会”应制止以色列违反停火协议",
+          "url": "https://flash.jin10.com/detail/20260218093929273800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "乌官员：为准备及组织大选 乌克兰需至少60日全面停火",
           "url": "https://flash.jin10.com/detail/20260218024743849800",
           "source": "金十数据",
@@ -161,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "4个省级党委领导班子调整",
+          "url": "https://www.toutiao.com/trending/7607948871947403274/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "欧盟委员会将津巴布韦武器禁运延长一年。",
@@ -185,6 +230,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "加拿大第三大省拟裁减1.5万个公务员岗位，开支与债务仍将双双攀升",
+          "url": "https://wallstreetcn.com/livenews/3056168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "乌克兰基辅市长：2月12日敌军袭击基础设施后，2600栋建筑的供暖已全部恢复。",
           "url": "https://flash.jin10.com/detail/20260217231246795800",
           "source": "金十数据",
@@ -196,6 +252,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "新西兰联储会议纪要：一名委员支持目前将官方现金利率维持在当前水平，但指出，如果经济活动如预期般复苏，在不损害经济复苏的前提下，货币刺激措施可能会在稍早些时候开始退出。",
+          "url": "https://flash.jin10.com/detail/20260218090859558800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "圭亚那总统表示，政府正在与苏里南进行一体化天然气项目的谈判。",
           "url": "https://flash.jin10.com/detail/20260217231146659800",
           "source": "金十数据",
@@ -205,12 +272,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "新西兰联储：委员会还考虑了政策持续宽松时间过长所带来的风险。",
+          "url": "https://flash.jin10.com/detail/20260218090556131800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "山东一村600多人集体磕头拜年",
@@ -219,7 +297,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -235,6 +313,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时46分 ~ 07时28分]"
+        },
+        {
+          "title": "山东一村600多人集体磕头拜年",
+          "url": "https://www.toutiao.com/trending/7607823331506094126/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "山东一村600多人集体磕头拜年",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%9D%91600%E5%A4%9A%E4%BA%BA%E9%9B%86%E4%BD%93%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     }
