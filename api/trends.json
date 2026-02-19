@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:58:22.206261+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-02-19T15:05:29.051943+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "新春走基层·见喜｜活过100岁，爷爷又学会了自拍短视频",
@@ -75,6 +75,30 @@
           "time_info": "[01时02分 ~ 07时29分]"
         },
         {
+          "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
+          "url": "https://wallstreetcn.com/articles/3765847",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时05分]"
+        },
+        {
+          "title": "新春走基层·见喜｜一条新路，慰乡愁​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629619",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时05分]"
+        },
+        {
           "title": "新春走基层｜两场电影“怒省80”：消费更理性，幸福不降级",
           "url": "https://m.thepaper.cn/newsDetail_forward_32627339",
           "source": "澎湃新闻",
@@ -101,17 +125,6 @@
           "time_info": "[01时02分 ~ 07时29分]"
         },
         {
-          "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
-          "url": "https://wallstreetcn.com/articles/3765847",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
-        },
-        {
           "title": "新西兰联储助理主席Silk：我们需要将官方现金利率（OCR）维持在当前水平，以确保产出缺口得以弥合。",
           "url": "https://flash.jin10.com/detail/20260219095410098800",
           "source": "金十数据",
@@ -123,27 +136,15 @@
           "time_info": "10时02分"
         },
         {
-          "title": "新春走基层·见喜｜一条新路，慰乡愁​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629619",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时58分]"
-        },
-        {
-          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
-          "url": "https://wallstreetcn.com/livenews/3056574",
-          "source": "华尔街见闻-快讯",
+          "title": "当地政府表示，俄罗斯伊尔斯基炼油厂的火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260219144535442800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时05分"
         },
         {
           "title": "欧委会决定派代表出席所谓“和平委员会”会议 欧盟多国强烈不满",
@@ -152,11 +153,12 @@
           "ranks": [
             3,
             14,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时05分]"
         },
         {
           "title": "美联储会议纪要：几位官员支持双向利率决策描述，为通胀高企时加息留出空间",
@@ -205,6 +207,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时34分]"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
+          "title": "湖北宜城通报烟花爆竹爆燃事故",
+          "url": "https://www.douyin.com/hot/2405657",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时05分]"
         },
         {
           "title": "德国部长：计划到2027年建立天然气储备“危机工具”",
@@ -268,14 +293,14 @@
         },
         {
           "title": "湖北宜城通报烟花爆竹爆燃事故",
-          "url": "https://www.douyin.com/hot/2405657",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8C%97%E5%AE%9C%E5%9F%8E%E9%80%9A%E6%8A%A5%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时05分]"
         },
         {
           "title": "路透调查：三分之二的日本企业对日本首相高市早苗的财政纪律表示担忧。",
@@ -298,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "韩国法院：前国防部长在戒严令案件中参与了叛乱。",
+          "url": "https://flash.jin10.com/detail/20260219144516170800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "据路透调查：58%的经济学家预计日本央行将在6月底前将关键利率上调至1%，1月调查中的比例为36%。",
@@ -353,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "印度矿业部长：印度有望在年底前生产自己的永磁体。",
+          "url": "https://flash.jin10.com/detail/20260219143928437800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩计划三月访问格陵兰岛",
@@ -432,15 +479,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "湖北宜城通报烟花爆竹爆燃事故",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8C%97%E5%AE%9C%E5%9F%8E%E9%80%9A%E6%8A%A5%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85",
-          "source": "bilibili 热搜",
+          "title": "两部门：加强烟花爆竹“产储运销”和燃放全链条安全管控",
+          "url": "https://flash.jin10.com/detail/20260219142257677800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时05分"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
@@ -454,13 +501,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "敦煌机关食堂20元18道菜随便吃",
+          "url": "https://www.baidu.com/s?wd=%E6%95%A6%E7%85%8C%E6%9C%BA%E5%85%B3%E9%A3%9F%E5%A0%8220%E5%85%8318%E9%81%93%E8%8F%9C%E9%9A%8F%E4%BE%BF%E5%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
           "url": "https://flash.jin10.com/detail/20260219125851748800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -485,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "瑞典政府：计划向世界银行提供担保，为乌克兰提供25亿瑞典克朗贷款。",
+          "url": "https://flash.jin10.com/detail/20260219140426703800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美联储会议纪要揭示巨大分歧，几位官员支持在利率指引中采用“双向”表述，为通胀高企时加息留出空间；美伊谈判明面上取得一定进展，但媒体爆料双方爆发大规模冲突的概率上升，最早可能就在本周末，俄美乌日内瓦会谈亦无果而终，地缘局势再陷僵局，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -515,9 +584,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "电报应用（Telegram Messenger）表示，俄罗斯政府关于我方加密技术遭破解的指控纯属蓄意捏造，意在为取缔电报应用制造借口。",
+          "url": "https://flash.jin10.com/detail/20260219140229877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯女婿给山东丈母娘磕头拜年",
+          "url": "https://www.toutiao.com/trending/7607999666974179334/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     }
