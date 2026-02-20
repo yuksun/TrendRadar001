@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T14:57:44.625863+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-20T15:48:02.107360+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "春节假期多地机关食堂对外营业收获好评，游客会吃到哪些菜品",
@@ -21,8 +21,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时49分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[01时49分 ~ 15时48分]"
         },
         {
           "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
@@ -36,8 +36,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 15时48分]"
         },
         {
           "title": "小学班主任谈苏翊鸣：他身上最动人的光芒，远不止于赛场",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 15时48分]"
         },
         {
           "title": "萌娃拜年发现是班主任家当场崩溃",
@@ -101,6 +101,17 @@
           "time_info": "[00时51分 ~ 06时30分]"
         },
         {
+          "title": "美前官员：中美或在元首会前达成中小协议",
+          "url": "https://news.ifeng.com/c/8qtSpxnL9y7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时48分]"
+        },
+        {
           "title": "为什么很多领导干部都喜欢大骂下属？通过这样他们可以获得什么？",
           "url": "https://www.zhihu.com/question/484610448",
           "source": "知乎",
@@ -117,15 +128,18 @@
           "time_info": "[00时52分 ~ 07时36分]"
         },
         {
-          "title": "美前官员：中美或在元首会前达成中小协议",
-          "url": "https://news.ifeng.com/c/8qtSpxnL9y7",
-          "source": "凤凰网",
+          "title": "新春走基层·见喜｜除夕夜，57岁的大战场村民登上央视春晚舞台",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632319",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            18,
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时57分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 15时48分]"
         },
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -144,11 +158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时48分]"
         },
         {
           "title": "据知情人士透露，强生探索按超过200亿美元出售骨科（Orthopedics）部门。（彭博）",
@@ -162,19 +177,6 @@
           "time_info": "03时38分"
         },
         {
-          "title": "新春走基层·见喜｜除夕夜，57岁的大战场村民登上央视春晚舞台",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632319",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 14时57分]"
-        },
-        {
           "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。",
           "url": "https://flash.jin10.com/detail/20260220131630918800",
           "source": "金十数据",
@@ -186,28 +188,44 @@
           "time_info": "13时53分"
         },
         {
-          "title": "据官方公报：匈牙利政府将在“友谊”输油管道停输后，从其战略石油储备中释放25万吨原油。",
-          "url": "https://flash.jin10.com/detail/20260220144130648800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管，坚决遏制事故多发势头。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3056856",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             11,
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时48分]"
+        },
+        {
+          "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32635340",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 15时48分]"
+        },
+        {
+          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
+          "url": "https://wallstreetcn.com/livenews/3056864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时57分]"
+          "time_info": "[13时53分 ~ 15时48分]"
         },
         {
           "title": "巴西政府声明：法国总统马克龙邀请巴西总统卢拉出席6月的G7峰会。",
@@ -236,16 +254,16 @@
           "time_info": "[01时49分 ~ 03时38分]"
         },
         {
-          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://wallstreetcn.com/livenews/3056864",
-          "source": "华尔街见闻-快讯",
+          "title": "据官方公报：匈牙利政府将在“友谊”输油管道停输后，从其战略石油储备中释放25万吨原油。",
+          "url": "https://flash.jin10.com/detail/20260220144130648800",
+          "source": "金十数据",
           "ranks": [
             4,
-            8
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时57分]"
+          "time_info": "[14时57分 ~ 15时48分]"
         },
         {
           "title": "法国说欧委会派员参加“和平委员会”会议“未获授权”",
@@ -272,18 +290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 03时38分]"
-        },
-        {
-          "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32635340",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时57分]"
         },
         {
           "title": "英国政府：人工智能安全研究所的对齐项目得到包括亚马逊云服务、Anthropic等在内的国际联盟支持。",
@@ -351,6 +357,18 @@
           "time_info": "[01时49分 ~ 03时38分]"
         },
         {
+          "title": "多地党政一把手暗访烟花爆竹零售点",
+          "url": "https://www.toutiao.com/trending/7608519403319656454/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时48分]"
+        },
+        {
           "title": "强生(JNJ.N)考虑以逾200亿美元的价格出售其骨科业务部门Depuy Synthes。",
           "url": "https://flash.jin10.com/detail/20260220032344877800",
           "source": "金十数据",
@@ -385,6 +403,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时49分]"
+        },
+        {
+          "title": "多地机关食堂春节对外营业，新华时评：大门敞开，暖意自来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632673",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
           "title": "美高校欺凌事件执法记录仪曝光",
@@ -453,6 +482,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "英国1月公共部门净借款 -303.66亿英镑，预期-238亿英镑，前值116亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260220150100631800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "摩洛哥外交部长：摩洛哥已准备好向加沙地区派遣警官。",
           "url": "https://flash.jin10.com/detail/20260220002316359800",
           "source": "金十数据",
@@ -462,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "英国1月政府收支短差 -593.06亿英镑，前值由169亿英镑修正为168.4亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260220150046967800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "卢旺达国家银行货币政策委员会实施将近三年来最大幅度的加息——从6.75%提高至7.25%，希望能在短期内抑制通胀。",
@@ -486,6 +537,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "英国1月政府收支短差 -593.06亿英镑，前值 169亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3056874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "克里姆林宫：俄罗斯总统普京与白俄罗斯总统卢卡申科在通话中讨论了与即将举行的两国最高国务委员会会议筹备相关的问题，该会议将于下周在莫斯科举行。",
           "url": "https://flash.jin10.com/detail/20260220031016646800",
           "source": "金十数据",
@@ -495,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "英国1月公共部门净借款 -303.66亿英镑，前值 116亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3056873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "农民合唱团春晚归来，中卫市委书记刘国强接机",
@@ -519,13 +592,24 @@
           "time_info": "07时36分"
         },
         {
+          "title": "德国1月PPI月率、英国1月公共部门净借款、季调后零售销售月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260220145000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "湖北宜城通报烟花爆竹爆燃事故",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8C%97%E5%AE%9C%E5%9F%8E%E9%80%9A%E6%8A%A5%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85",
           "source": "bilibili 热搜",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -558,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -591,18 +675,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "多地党政一把手暗访烟花爆竹零售点",
-          "url": "https://www.toutiao.com/trending/7608519403319656454/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -613,7 +686,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -679,7 +752,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         }
