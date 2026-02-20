@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-02-20T07:36:54.484675+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-02-20T09:58:12.367478+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "春节假期多地机关食堂对外营业收获好评，游客会吃到哪些菜品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633121",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时58分]"
+        },
+        {
+          "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632938",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时58分]"
+        },
         {
           "title": "萌娃拜年发现是班主任家当场崩溃",
           "url": "https://www.toutiao.com/trending/7607994639550955574/",
@@ -33,23 +61,12 @@
             22,
             27,
             19,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时36分]"
-        },
-        {
-          "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632938",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时58分]"
         },
         {
           "title": "小学班主任谈苏翊鸣：他身上最动人的光芒，远不止于赛场",
@@ -58,11 +75,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时58分]"
         },
         {
           "title": "广东鹤山设烟花爆竹举报奖 最高30万",
@@ -74,20 +92,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 06时30分]"
-        },
-        {
-          "title": "春节假期多地机关食堂对外营业收获好评，游客会吃到哪些菜品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633121",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 07时36分]"
         },
         {
           "title": "为什么很多领导干部都喜欢大骂下属？通过这样他们可以获得什么？",
@@ -242,6 +246,39 @@
           "time_info": "[01时49分 ~ 02时49分]"
         },
         {
+          "title": "新春走基层·见喜｜除夕夜，57岁的大战场村民登上央视春晚舞台",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632319",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "美高校欺凌事件执法记录仪曝光",
+          "url": "https://www.toutiao.com/trending/7608478371950542902/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "TOP登陆少年官方后援会道歉",
+          "url": "https://s.weibo.com/weibo?q=%23TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%AE%98%E6%96%B9%E5%90%8E%E6%8F%B4%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
           "title": "土耳其外交部长：土耳其将向加沙国际安全部队派遣部队。",
           "url": "https://flash.jin10.com/detail/20260220002651013800",
           "source": "金十数据",
@@ -251,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "高盛：若以看涨期权结构来衡量，若私营部门进一步实现多元化，那么黄金价格的预测将面临显著的上涨风险。",
+          "url": "https://flash.jin10.com/detail/20260220093805016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "摩洛哥外交部长：摩洛哥将向国际安全部队派遣军官。",
@@ -314,9 +362,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "印尼部长：印尼贸易协议自签署之日起90天生效。",
+          "url": "https://flash.jin10.com/detail/20260220092534625800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美联储戴利：除商品部门外，通胀持续下降。",
@@ -325,9 +384,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "印尼部长：贸易协议尊重两国的主权。",
+          "url": "https://flash.jin10.com/detail/20260220092019719800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "市场消息：伊朗在致联合国秘书长和安理会成员的信中表示，“如果遭到攻击，敌对势力在该地区的所有基地、设施和资产都将构成伊朗防御性反应框架内的合法目标。”",
@@ -336,9 +406,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "俄总统新闻秘书：无法确定下一轮三方会谈的时间与地点",
+          "url": "https://flash.jin10.com/detail/20260220091821891800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "“和平委员会”高级官员：已有2000名巴勒斯坦人申请加入一支新的过渡性巴勒斯坦警察部队。",
