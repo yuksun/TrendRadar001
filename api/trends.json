@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-02-22T10:01:44.740414+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-22T12:48:24.252860+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 13,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "新春走基层 ·见喜｜我给不了父亲想要的，智能音箱给了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639455",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            15,
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 12时48分]"
+        },
         {
           "title": "“和平委员会”首次开会，48名代表身份藏玄机",
           "url": "https://news.ifeng.com/c/8qvTLaWprko",
@@ -46,22 +63,6 @@
             14,
             16,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 10时01分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜我给不了父亲想要的，智能音箱给了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639455",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            15,
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -120,16 +121,86 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "撞破妻子出轨,丈夫报警告性侵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350840&amp;topic_name=%E6%92%9E%E7%A0%B4%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%2C%E4%B8%88%E5%A4%AB%E6%8A%A5%E8%AD%A6%E5%91%8A%E6%80%A7%E4%BE%B5",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "苏丹官员：冲突给该国矿业造成约70亿美元损失",
+          "url": "https://wallstreetcn.com/livenews/3057238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "苏丹官员：冲突给该国矿业造成约70亿美元损失",
+          "url": "https://flash.jin10.com/detail/20260222111342314800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "泰国官方通报清迈72只老虎死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B8%85%E8%BF%8872%E5%8F%AA%E8%80%81%E8%99%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "今年大年初一给我的直属领导发了一条祝福微信，但是领导一直没有回我，这是为什么？",
           "url": "https://www.zhihu.com/question/2007378989140952602",
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 12时48分]"
+        },
+        {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 12时48分]"
+        },
+        {
+          "title": "美劳工部长办公室遭搜查：被举报搞婚外情，丈夫也涉嫌性骚扰",
+          "url": "https://news.ifeng.com/c/8qvxyDh6jyH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时23分 ~ 10时01分]"
+          "time_info": "[10时01分 ~ 12时48分]"
         },
         {
           "title": "云南3名党员公职人员涉嫌酒驾被查",
@@ -144,38 +215,114 @@
           "time_info": "[03时23分 ~ 05时22分]"
         },
         {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时25分]"
-        },
-        {
-          "title": "美劳工部长办公室遭搜查：被举报搞婚外情，丈夫也涉嫌性骚扰",
-          "url": "https://news.ifeng.com/c/8qvxyDh6jyH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "官方辟谣大湾区相关虚假机构",
           "url": "https://www.toutiao.com/trending/7609212008827338778/",
           "source": "今日头条",
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时48分]"
+        },
+        {
+          "title": "新春走基层·见喜｜重新学会跟长辈相处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639761",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "12时48分"
+        },
+        {
+          "title": "澳大利亚政府消息人士：澳大利亚海军“图文巴”号舰艇正在印太地区执行任务，以加强地区存在。",
+          "url": "https://flash.jin10.com/detail/20260222103739385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "官方辟谣大湾区相关虚假机构",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9B%B8%E5%85%B3%E8%99%9A%E5%81%87%E6%9C%BA%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "公务员参加王婆说媒炫富？官方回应",
+          "url": "https://www.toutiao.com/trending/7609520580303261203/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "官方辟谣大湾区相关虚假机构",
+          "url": "https://www.douyin.com/hot/2408356",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "河南矿山客户排队交钱：大厅挤满人",
+          "url": "https://www.toutiao.com/trending/7608838132696563731/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "阿富汗政府发言人22日说，巴基斯坦日前对阿富汗的空袭已造成数十人伤亡。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3057223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "河南省委书记和省长连续2年“请客”",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%92%8C%E7%9C%81%E9%95%BF%E8%BF%9E%E7%BB%AD2%E5%B9%B4%E2%80%9C%E8%AF%B7%E5%AE%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "清迈72只老虎死亡 泰国通报原因",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E8%BF%8872%E5%8F%AA%E8%80%81%E8%99%8E%E6%AD%BB%E4%BA%A1+%E6%B3%B0%E5%9B%BD%E9%80%9A%E6%8A%A5%E5%8E%9F%E5%9B%A0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
