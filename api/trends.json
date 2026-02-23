@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T06:40:23.843633+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-02-24T07:35:24.328239+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "误转69万公款对方拒绝退款",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "在全党开展树立和践行正确政绩观学习教育",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "金正恩当选朝鲜劳动党总书记",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "媒体：公职身份从来不是炫富资本",
@@ -50,11 +50,12 @@
             20,
             27,
             28,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -64,8 +65,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "穷人出身的领导和富人出身的领导真的有很大差别吗？",
@@ -76,11 +77,12 @@
             13,
             12,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -143,6 +145,17 @@
           "time_info": "[04时17分 ~ 04时53分]"
         },
         {
+          "title": "官方回应京昆高速一货车起火",
+          "url": "https://www.douyin.com/hot/2409646",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时35分]"
+        },
+        {
           "title": "加拿大政府官员：加拿大正制定一系列措施，以保护民众免受网络危害。",
           "url": "https://flash.jin10.com/detail/20260224030754950800",
           "source": "金十数据",
@@ -190,15 +203,26 @@
           "time_info": "02时02分"
         },
         {
-          "title": "官方回应京昆高速一货车起火",
-          "url": "https://www.douyin.com/hot/2409646",
-          "source": "抖音",
+          "title": "哈利斯科州政府：墨西哥当局向哈利斯科州增派2000名军人，加强该州的安全部署。",
+          "url": "https://flash.jin10.com/detail/20260224065926029800",
+          "source": "金十数据",
           "ranks": [
-            15
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时35分"
+        },
+        {
+          "title": "我在一家银行基层网点工作，网点存放的米面等食物经常被老鼠糟蹋，我们捕鼠却遭到老鼠的报复，怎么办？",
+          "url": "https://www.zhihu.com/question/1981301596433437942",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "法国外交部：将限制美大使直接接触法政府成员",
@@ -218,7 +242,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -251,8 +275,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 07时35分]"
         }
       ]
     }
