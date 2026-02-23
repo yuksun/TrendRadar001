@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:50:49.900802+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-02-23T19:39:50.128210+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 61,
       "titles": [
         {
           "title": "新春走基层·见喜｜重新学会跟长辈相处",
@@ -49,6 +49,20 @@
           "time_info": "[00时29分 ~ 10时02分]"
         },
         {
+          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 19时39分]"
+        },
+        {
           "title": "撞破妻子出轨,丈夫报警告性侵",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350840&amp;topic_name=%E6%92%9E%E7%A0%B4%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%2C%E4%B8%88%E5%A4%AB%E6%8A%A5%E8%AD%A6%E5%91%8A%E6%80%A7%E4%BE%B5",
           "source": "贴吧",
@@ -62,8 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 18时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 19时39分]"
         },
         {
           "title": "新春走基层丨崇湖湿地公园里的护鸟队员：春节轮班巡湖，鸟越来越多了",
@@ -168,19 +182,6 @@
           "time_info": "[01时24分 ~ 07时25分]"
         },
         {
-          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 18时50分]"
-        },
-        {
           "title": "春节放假，几乎从不主动给公司任何人发祝福信息，但是这样会不会被领导认为不主动，态度不积极，不会表现？",
           "url": "https://www.zhihu.com/question/2007550783579772734",
           "source": "知乎",
@@ -194,6 +195,24 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时25分]"
+        },
+        {
+          "title": "北京市委市政府祝贺谷爱凌夺金",
+          "url": "https://www.douyin.com/hot/2408980",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15,
+            20,
+            22,
+            24,
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 19时39分]"
         },
         {
           "title": "美官员：若伊朗尽快提交核协议草案 美伊会谈或将于27日举行",
@@ -212,23 +231,6 @@
           "time_info": "[00时29分 ~ 07时25分]"
         },
         {
-          "title": "北京市委市政府祝贺谷爱凌夺金",
-          "url": "https://www.douyin.com/hot/2408980",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15,
-            20,
-            22,
-            24,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 18时50分]"
-        },
-        {
           "title": "12天72只老虎集中死亡，泰国官方通报",
           "url": "https://v.ifeng.com/c/8qx23a92Pwn",
           "source": "凤凰网",
@@ -238,6 +240,45 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时25分]"
+        },
+        {
+          "title": "加拿大政府：加拿大总理卡尼将于2月26日至3月7日访问印度、澳大利亚和日本。",
+          "url": "https://flash.jin10.com/detail/20260223193643804800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645103",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时39分]"
+        },
+        {
+          "title": "金正恩当选朝鲜劳动党总书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644551",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时39分]"
         },
         {
           "title": "新春走基层·见喜｜边角地变身口袋公园，城市有了呼吸感",
@@ -264,25 +305,36 @@
         },
         {
           "title": "欧盟官员：目前不太可能就新一轮对俄制裁达成一致",
-          "url": "https://wallstreetcn.com/livenews/3057441",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20260223182554037800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
         {
-          "title": "欧盟官员：目前不太可能就新一轮对俄制裁达成一致",
-          "url": "https://flash.jin10.com/detail/20260223182554037800",
+          "title": "欧盟委员会发言人：欧盟委员会副主席谢夫乔维奇随后将与欧盟特使和欧盟议员会面。",
+          "url": "https://flash.jin10.com/detail/20260223193423721800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "19时39分"
+        },
+        {
+          "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3057452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "2026新春走基层",
@@ -307,6 +359,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "法国极右翼政党对政府提起不信任动议",
+          "url": "https://wallstreetcn.com/livenews/3057451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "路透调查：27位经济学家中有21位表示，泰国央行将于2月25日维持其基准利率在1.25%不变。",
           "url": "https://flash.jin10.com/detail/20260223090623154800",
           "source": "金十数据",
@@ -316,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "乍得政府宣布关闭与苏丹之间的跨境通道",
+          "url": "https://wallstreetcn.com/livenews/3057450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "金正恩当选朝鲜劳动党总书记",
@@ -337,32 +411,6 @@
           "ranks": [
             20,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时50分]"
-        },
-        {
-          "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645103",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时50分]"
-        },
-        {
-          "title": "金正恩当选朝鲜劳动党总书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644551",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -407,6 +455,31 @@
           "time_info": "[15时54分 ~ 16时49分]"
         },
         {
+          "title": "欧盟官员：目前不太可能就新一轮对俄制裁达成一致",
+          "url": "https://wallstreetcn.com/livenews/3057441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时39分]"
+        },
+        {
+          "title": "伊拉克库区安全部门证实美军正前往该地",
+          "url": "https://wallstreetcn.com/livenews/3057425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
+        },
+        {
           "title": "印度政府：持有至少10%资本的税率降至5%，其他情况的税率维持在15%。",
           "url": "https://flash.jin10.com/detail/20260223154220935800",
           "source": "金十数据",
@@ -431,16 +504,17 @@
           "time_info": "[15时54分 ~ 16时49分]"
         },
         {
-          "title": "伊拉克库区安全部门证实美军正前往该地",
-          "url": "https://wallstreetcn.com/livenews/3057425",
-          "source": "华尔街见闻-快讯",
+          "title": "媒体：公职身份从来不是炫富资本",
+          "url": "https://www.toutiao.com/trending/7609515600783736882/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            16
+            29,
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时39分]"
         },
         {
           "title": "金正恩当选朝鲜劳动党总书记",
@@ -452,18 +526,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 15时54分]"
-        },
-        {
-          "title": "媒体：公职身份从来不是炫富资本",
-          "url": "https://www.toutiao.com/trending/7609515600783736882/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时50分]"
         },
         {
           "title": "金正恩当选朝鲜劳动党总书记",
@@ -490,6 +552,17 @@
           "time_info": "[00时29分 ~ 01时25分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会副主席谢夫乔维奇将于周一下午会见七国集团贸易部长，讨论关税问题。",
+          "url": "https://flash.jin10.com/detail/20260223193250027800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "金正恩当选朝鲜劳动党总书记",
           "url": "https://www.toutiao.com/trending/7609828671989222918/",
           "source": "今日头条",
@@ -512,6 +585,17 @@
           "time_info": "16时49分"
         },
         {
+          "title": "英国央行货币政策委员会（MPC）成员Taylor：将可持续地接近CPI目标。 就产出缺口和失业率而言，预测较为疲软。 近几个月服务业CPI略微令人担忧。 就业预测趋向悲观展望。 目前看到通胀低于目标的风险。 央行将对下行冲击作出回应。 我们正接近中性（利率）水平，但尚未达到。 在（利率）达到中性水平之前，还需再进行两到三次降息。",
+          "url": "https://wallstreetcn.com/livenews/3057448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "联合国秘书长：是时候结束乌克兰的流血冲突了。",
           "url": "https://flash.jin10.com/detail/20260223161951284800",
           "source": "金十数据",
@@ -529,7 +613,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -578,6 +662,17 @@
           "time_info": "16时49分"
         },
         {
+          "title": "欧盟委员会发言人：我们期望匈牙利总理欧尔班遵守其关于向乌克兰贷款的政治承诺。",
+          "url": "https://flash.jin10.com/detail/20260223192420733800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "伊朗官员称伊美就解除制裁核心议题仍存分歧",
           "url": "https://wallstreetcn.com/livenews/3057318",
           "source": "华尔街见闻-快讯",
@@ -598,6 +693,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "官方回应京昆高速一货车起火",
+          "url": "https://www.douyin.com/hot/2409646",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "习近平致电祝贺金正恩被推举为朝鲜劳动党总书记。",
+          "url": "https://flash.jin10.com/detail/20260223191520766800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "法国极右翼政党对政府提起不信任动议",
+          "url": "https://flash.jin10.com/detail/20260223191502297800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
@@ -636,7 +764,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东蓬莱“宰客”酒楼招牌被强拆",
@@ -661,6 +789,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 18时50分]"
+        },
+        {
+          "title": "山东蓬莱“宰客”酒楼招牌被强拆",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%AC%E8%8E%B1%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%E9%85%92%E6%A5%BC%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%BC%BA%E6%8B%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     }
