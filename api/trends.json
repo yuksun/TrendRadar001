@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:02:52.096127+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-24T22:51:52.777422+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 71,
+      "match_count": 79,
       "titles": [
         {
           "title": "在全党开展树立和践行正确政绩观学习教育",
@@ -32,6 +32,22 @@
           "time_info": "[01时07分 ~ 09时59分]"
         },
         {
+          "title": "重庆通报“36斤活羊烤完重6.9斤”：商家曾非正常持续喂羊增重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648713",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 22时51分]"
+        },
+        {
           "title": "36斤羊烤完仅剩6.9斤 重庆通报",
           "url": "https://www.baidu.com/s?wd=36%E6%96%A4%E7%BE%8A%E7%83%A4%E5%AE%8C%E4%BB%85%E5%89%A96.9%E6%96%A4+%E9%87%8D%E5%BA%86%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -46,21 +62,6 @@
           "time_info": "[12时46分 ~ 19时52分]"
         },
         {
-          "title": "重庆通报“36斤活羊烤完重6.9斤”：商家曾非正常持续喂羊增重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648713",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时58分 ~ 21时02分]"
-        },
-        {
           "title": "撞破妻子出轨,丈夫报警告性侵",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350840&amp;topic_name=%E6%92%9E%E7%A0%B4%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%2C%E4%B8%88%E5%A4%AB%E6%8A%A5%E8%AD%A6%E5%91%8A%E6%80%A7%E4%BE%B5",
           "source": "贴吧",
@@ -71,11 +72,12 @@
             24,
             27,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时07分 ~ 21时02分]"
+          "appearance_count": 22,
+          "time_info": "[01时07分 ~ 22时51分]"
         },
         {
           "title": "为人民出政绩 以实干出政绩",
@@ -233,11 +235,12 @@
           "ranks": [
             13,
             7,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 22时51分]"
         },
         {
           "title": "重庆通报“36斤活羊烤完剩6.9斤”",
@@ -277,24 +280,24 @@
           "time_info": "19时52分"
         },
         {
+          "title": "2026年新春走基层",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "俄情报部门称“英法准备向基辅提供核炸弹” 克宫表态",
           "url": "https://wallstreetcn.com/livenews/3058132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "节后上班第一天 4个厅官被查",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9+4%E4%B8%AA%E5%8E%85%E5%AE%98%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -308,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "美银调查：“人工智能泡沫”首次成为信贷投资者最大忧虑",
+          "url": "https://wallstreetcn.com/livenews/3058203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "误转69万公款对方拒绝退款",
@@ -337,6 +351,18 @@
           "time_info": "[06时40分 ~ 12时47分]"
         },
         {
+          "title": "节后上班第一天 4个厅官被查处",
+          "url": "https://www.toutiao.com/trending/7610376294585008171/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时51分]"
+        },
+        {
           "title": "长和：反对巴拿马政府强行接管巴拿马港口公司之资产、员工与营运",
           "url": "https://wallstreetcn.com/livenews/3057869",
           "source": "华尔街见闻-快讯",
@@ -359,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 15时06分]"
+        },
+        {
+          "title": "节后上班第一天 4个厅官被查",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9+4%E4%B8%AA%E5%8E%85%E5%AE%98%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时51分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -394,8 +432,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 22时51分]"
+        },
+        {
+          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
+          "url": "https://www.zhihu.com/question/2006473884694778852",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时47分 ~ 21时02分]"
+          "time_info": "[19时52分 ~ 22时51分]"
         },
         {
           "title": "电视台通报游客采访口音质疑",
@@ -434,18 +484,6 @@
           "time_info": "[18时47分 ~ 19时52分]"
         },
         {
-          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
-          "url": "https://www.zhihu.com/question/2006473884694778852",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时02分]"
-        },
-        {
           "title": "法国外交部表示将限制美大使直接接触法政府成员",
           "url": "https://flash.jin10.com/detail/20260224045139010800",
           "source": "金十数据",
@@ -468,6 +506,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时58分]"
+        },
+        {
+          "title": "马上评｜树立正确政绩观，坚持民生为大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648200",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时51分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -530,17 +580,6 @@
           "time_info": "[18时47分 ~ 19时52分]"
         },
         {
-          "title": "节后上班第一天 4个厅官被查处",
-          "url": "https://www.toutiao.com/trending/7610376294585008171/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：终有一天，乌克兰会安全，乌克兰会自由，乌克兰会成为我们欧洲大家庭的一员。",
           "url": "https://flash.jin10.com/detail/20260224013324236800",
           "source": "金十数据",
@@ -574,6 +613,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "俄情报部门称“英法准备向基辅提供核炸弹”，克宫表态",
+          "url": "https://news.ifeng.com/c/8r0nPnyL1x2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "36 斤活羊烤制完成后重 6.9 斤，官方通报商家非正常持续投喂给活羊增重，这操作在业内是普遍现象吗？",
           "url": "https://www.zhihu.com/question/2009597622181197531",
           "source": "知乎",
@@ -583,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "英国央行官员Greene：央行放慢降息步伐是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3058200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "英国政府：在俄罗斯制裁制度下新增297项指定对象。",
@@ -662,6 +723,17 @@
           "time_info": "19时52分"
         },
         {
+          "title": "记者从深圳创投圈方面获悉，原深圳市创业投资同业公会副会长兼秘书长王守仁因病医治无效，在深圳逝世，享年84岁。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3058192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "法国外交部长巴罗：毫无疑问，匈牙利对900亿欧元乌克兰贷款的阻挠将得到解决。",
           "url": "https://flash.jin10.com/detail/20260224155635167800",
           "source": "金十数据",
@@ -695,17 +767,6 @@
           "time_info": "12时47分"
         },
         {
-          "title": "马上评｜树立正确政绩观，坚持民生为大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648200",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "印度信息部长：印度内阁批准了部分的电力行业改革措施。",
           "url": "https://flash.jin10.com/detail/20260224174639842800",
           "source": "金十数据",
@@ -726,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "半小时举报20多辆占用应急车道车辆",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%B8%BE%E6%8A%A520%E5%A4%9A%E8%BE%86%E5%8D%A0%E7%94%A8%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E8%BD%A6%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "欧盟委员会：欧盟将继续为乌克兰及其人民提供全面的政治、财政、经济、人道主义、军事和外交支持。",
@@ -759,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "外交部回应巴拿马政府接管两座港口",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%94%BF%E5%BA%9C%E6%8E%A5%E7%AE%A1%E4%B8%A4%E5%BA%A7%E6%B8%AF%E5%8F%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "缩水80%被通报 烤全羊如何能吃个明白",
@@ -811,7 +894,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -822,7 +905,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -833,7 +916,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -855,9 +938,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "哥伦比亚政府对厄瓜多尔商品征收30%的关税。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
