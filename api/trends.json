@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T09:58:09.583329+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-02-26T12:17:49.848622+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "铁路部门回应“半夜候补成功1700元车票作废”：乘客另购车票却未取消此前的候补订单",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 09时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 12时17分]"
         },
         {
           "title": "美方称将继续推进对华301调查，中方回应",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 09时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 12时17分]"
         },
         {
           "title": "三亚某民办学校一教师报考其他单位被解聘，官方通报",
@@ -126,7 +126,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -165,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时34分]"
+        },
+        {
+          "title": "女子怀疑丈夫出轨闺蜜花9千雇人跟踪",
+          "url": "https://www.toutiao.com/trending/7610808964065820691/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时17分]"
         },
         {
           "title": "计票结果显示，法国政府挺过议会第二次不信任投票。",
@@ -215,26 +226,26 @@
           "time_info": "[04时34分 ~ 05时34分]"
         },
         {
-          "title": "女子怀疑丈夫出轨闺蜜花9千雇人跟踪",
-          "url": "https://www.toutiao.com/trending/7610808964065820691/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时58分]"
-        },
-        {
           "title": "日本央行审议委员高田创：在特殊情况下，日本央行可能需要考虑灵活的应对措施，包括购买日本政府债券。",
           "url": "https://flash.jin10.com/detail/20260226094415900800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "法国国民议会否决两项针对政府能源规划的不信任动议",
+          "url": "https://wallstreetcn.com/livenews/3059250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "塞尔维亚副总理兼内务部长达契奇因健康问题已入院接受治疗。初步信息显示，达契奇病情危重，已插管并使用呼吸机。",
@@ -254,7 +265,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -292,6 +303,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "韩国央行行长李昌镛：IT行业净出口将贡献今年GDP增幅约0.7个百分点。 本地投资者购买美元资产对韩元造成的下行压力正在减小。 已就国民年金公团发行美元债券的利弊进行分析，该基金是否发行外汇债券最终由政府决定。 现行前瞻指引体系能否维持或完善，将由新一届韩国央行货币政策委员会成员决定。",
+          "url": "https://wallstreetcn.com/livenews/3059235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "委内瑞拉总检察长向议会递交辞呈",
           "url": "https://wallstreetcn.com/livenews/3059046",
           "source": "华尔街见闻-快讯",
@@ -309,9 +331,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "县委书记抖音号成“民情留言板”",
+          "url": "https://www.douyin.com/hot/2411692",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "欧洲央行在官方网站发布意见，不反对任命Vujcic为欧洲央行副主席。",
@@ -323,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "法国国民议会否决两项针对政府能源规划的不信任动议",
+          "url": "https://flash.jin10.com/detail/20260226111705657800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "美联储施密德：去年联邦公开市场委员会的异议并非轻率之举。",
@@ -411,6 +455,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "中央政治局委员、书记处书记等向党中央和习近平总书记述职",
+          "url": "https://wallstreetcn.com/livenews/3059210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "新疆公安厅原副厅长牟宗义被查",
+          "url": "https://www.toutiao.com/trending/7610972855571939371/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     }
