@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-27T00:57:16.376036+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-27T01:57:25.851111+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "以色列辛贝特局长承认机构存在“严重专业性失误”",
-          "url": "https://flash.jin10.com/detail/20260227004954888800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
         {
           "title": "白宫官员希望以色列先打击伊朗",
           "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
@@ -25,7 +14,29 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "解放军军事法院院长刘少云被免职",
+          "url": "https://www.toutiao.com/trending/7611163688510164506/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "以色列辛贝特局长承认机构存在“严重专业性失误”",
+          "url": "https://flash.jin10.com/detail/20260227004954888800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         },
@@ -34,22 +45,94 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32659827",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
         },
         {
           "title": "比尔盖茨出轨女性身份曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%87%BA%E8%BD%A8%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "媒体点赞县委书记开抖音号",
+          "url": "https://www.douyin.com/hot/2412122",
+          "source": "抖音",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "中央政治局委员、书记处书记等向党中央和习近平总书记述职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658158",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "王祥喜被免去应急管理部部长职务",
+          "url": "https://www.toutiao.com/trending/7611128612496539691/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "湖南蓝山县委书记抖音账号成民情留言板，粉丝已破10万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660227",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时57分]"
+        },
+        {
+          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
+          "url": "https://wallstreetcn.com/articles/3766227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "K692 次列车 3 名无座旅客在车厢内公然打电话找人安排座位，官方展开调查，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2010338443201308616",
+          "source": "知乎",
+          "ranks": [
+            14,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
+          "time_info": "[00时57分 ~ 01时57分]"
         },
         {
           "title": "领克Z20语音误关大灯致事故 官方回应",
@@ -63,70 +146,37 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "中央政治局委员、书记处书记等向党中央和习近平总书记述职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658158",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "媒体点赞县委书记开抖音号",
-          "url": "https://www.douyin.com/hot/2412122",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "王祥喜被免去应急管理部部长职务",
-          "url": "https://www.toutiao.com/trending/7611128612496539691/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "湖南蓝山县委书记抖音账号成民情留言板，粉丝已破10万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660227",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
-          "url": "https://wallstreetcn.com/articles/3766227",
-          "source": "华尔街见闻",
+          "title": "阿富汗政府发言人：特种部队已在与巴基斯坦接壤的边境地区展开行动。",
+          "url": "https://flash.jin10.com/detail/20260227013948682800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时57分"
         },
         {
-          "title": "K692 次列车 3 名无座旅客在车厢内公然打电话找人安排座位，官方展开调查，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2010338443201308616",
-          "source": "知乎",
+          "title": "阿富汗政府发言人：将在阿富汗与巴基斯坦之间的德尤兰线加强军事行动。",
+          "url": "https://flash.jin10.com/detail/20260227013803860800",
+          "source": "金十数据",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "全国人民代表大会常务委员会公告〔十四届〕第十六号",
+          "url": "https://www.cls.cn/detail/2296369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "叙利亚外交部：外长阿萨德·哈桑·阿尔-希巴尼先生在首都大马士革接见了欧盟外交代表团。会议讨论了双方关系发展的前景，代表团确认欧盟将继续支持叙利亚政府的努力，并预计不久将提升欧盟驻大马士革使团的外交代表级别。",
@@ -135,7 +185,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         },
@@ -146,7 +196,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         },
@@ -157,7 +207,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
         }
