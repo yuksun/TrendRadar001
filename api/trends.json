@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T07:20:58.800907+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-03-01T10:08:45.172548+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "五粮液董事长曾从钦被查",
@@ -19,8 +19,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 10时08分]"
         },
         {
           "title": "联合国秘书长就伊朗局势发表声明",
@@ -45,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 10时08分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -91,11 +91,25 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351134&amp;topic_name=%E5%8D%9A%E5%A3%AB%E5%87%BA%E8%BD%A8%E8%B7%91%E8%B7%AF%2C%E5%A4%A7%E8%80%81%E5%A9%86%E6%89%BE%E4%B8%8A%E9%97%A8",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 10时08分]"
+        },
+        {
+          "title": "伊朗政府新闻发言人办公室发布1号公告",
+          "url": "https://www.cls.cn/detail/2298419",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时08分]"
         },
         {
           "title": "辽宁一地要求班主任退群 教育局回应",
@@ -111,16 +125,18 @@
           "time_info": "[01时19分 ~ 07时20分]"
         },
         {
-          "title": "伊朗政府新闻发言人办公室发布1号公告",
-          "url": "https://www.cls.cn/detail/2298419",
-          "source": "财联社热门",
+          "title": "华润集团副总经理韩嵩主动投案，正接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32673682",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            10
+            20,
+            18,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 7,
+          "time_info": "[03时20分 ~ 10时08分]"
         },
         {
           "title": "美官员透露空袭伊朗行动细节",
@@ -148,17 +164,70 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
-          "title": "华润集团副总经理韩嵩主动投案，正接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32673682",
-          "source": "澎湃新闻",
+          "title": "伊朗政府宣布40天全国哀悼",
+          "url": "https://news.ifeng.com/c/8r8LLX6aReF",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "美官员：美以在哈梅内伊与其高级助手举行会议时发动袭击",
+          "url": "https://flash.jin10.com/detail/20260301095914052800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "全国政协会议议程来了",
+          "url": "https://wallstreetcn.com/livenews/3061045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗政府宣布40天全国哀悼。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3061044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "伊朗政府宣布40天全国哀悼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%8340%E5%A4%A9%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "伊朗政府宣布40天全国哀悼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%8340%E5%A4%A9%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "国际原子能机构：将继续监测局势并及时通报。",
@@ -305,6 +374,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊去世后，伊朗官方媒体宣布全国进入40天公众哀悼期。",
+          "url": "https://flash.jin10.com/detail/20260301093807484800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "卡塔尔内政部官员表示，伊朗发动的袭击造成8人受伤，其中1人伤势危重。",
           "url": "https://flash.jin10.com/detail/20260301045831268800",
           "source": "金十数据",
@@ -314,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "五粮液集团董事长曾从钦被查",
+          "url": "https://www.cls.cn/detail/2298479",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "以高级官员：哈梅内伊已死 其尸体已被找到",
@@ -402,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "五粮液董事长曾从钦被查",
+          "url": "https://www.toutiao.com/trending/7611928799583850022/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：今天下午我与塞浦路斯总统、以色列总统、德国总理以及奥地利总理取得了联系，讨论了关于中东局势的发展。我们致力于继续与所有区域伙伴密切合作，维护区域稳定与安全，保护平民生命。我坚决支持伊朗人民决定自己未来的权利。",
