@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T15:49:45.866503+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-03-02T16:42:22.493932+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 86,
+      "match_count": 91,
       "titles": [
         {
           "title": "周末要闻汇总：美以袭击伊朗，哈梅内伊身亡；全国政协会议议程来了",
@@ -67,6 +67,17 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
+          "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682871",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 16时42分]"
+        },
+        {
           "title": "德黑兰“震中”首个24小时：包括哈梅内伊在内约40名伊朗官员身亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32678707",
           "source": "澎湃新闻",
@@ -89,11 +100,12 @@
             13,
             17,
             16,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时42分]"
         },
         {
           "title": "魔法对轰,尘白玩家举报乙游",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 15时49分]"
-        },
-        {
-          "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682871",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时49分]"
         },
         {
           "title": "伊朗总统就最高领袖遇袭身亡发声明，呼吁全国保持团结，最可能「不团结」的会是谁？三人委员会能稳住伊朗吗？",
@@ -149,6 +150,17 @@
           "time_info": "[01时21分 ~ 07时22分]"
         },
         {
+          "title": "两会前瞻｜政协委员赴京参会前夕，多省市政协召开行前会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682836",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 16时42分]"
+        },
+        {
           "title": "美以企图斩首伊朗领导层，但靠空袭难以颠覆政权",
           "url": "https://wallstreetcn.com/articles/3766447",
           "source": "华尔街见闻",
@@ -169,28 +181,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时22分]"
-        },
-        {
-          "title": "两会前瞻｜政协委员赴京参会前夕，多省市政协召开行前会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682836",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时49分]"
-        },
-        {
-          "title": "被举报酒驾后 反手举报朋友私存烟花",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%85%92%E9%A9%BE%E5%90%8E+%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E6%9C%8B%E5%8F%8B%E7%A7%81%E5%AD%98%E7%83%9F%E8%8A%B1",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时49分]"
         },
         {
           "title": "出轨对象得知感染HIV还瞒着自己",
@@ -229,11 +219,40 @@
             1,
             4,
             13,
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗：6名中情局官员在阿联酋身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A6%E5%90%8D%E4%B8%AD%E6%83%85%E5%B1%80%E5%AE%98%E5%91%98%E5%9C%A8%E9%98%BF%E8%81%94%E9%85%8B%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            1,
+            16,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时42分]"
+        },
+        {
+          "title": "被举报酒驾后 反手举报朋友私存烟花",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%85%92%E9%A9%BE%E5%90%8E+%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E6%9C%8B%E5%8F%8B%E7%A7%81%E5%AD%98%E7%83%9F%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时49分]"
+          "time_info": "[13时52分 ~ 16时42分]"
         },
         {
           "title": "以色列官员表示，除了军事行动之外，以色列“也在以自己的方式”促使伊朗民众反对现政权。",
@@ -264,24 +283,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
         {
-          "title": "伊朗：6名中情局官员在阿联酋身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A6%E5%90%8D%E4%B8%AD%E6%83%85%E5%B1%80%E5%AE%98%E5%91%98%E5%9C%A8%E9%98%BF%E8%81%94%E9%85%8B%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "官方辟谣浙江泰顺发生4.2级地震",
+          "url": "https://www.toutiao.com/trending/7611809487200079414/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            1,
-            16,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时42分]"
         },
         {
           "title": "日本政府：目前尚未就释放原油储备作出任何决定。截至目前，尚未收到有关协同释放储备的国际请求。",
@@ -328,6 +343,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美以联合袭击伊朗是否提前通报中方？外交部：没有",
+          "url": "https://news.ifeng.com/c/8rASs2Bqz7m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "印尼1月出口较上年同期增长3.4%，机构调查预估为增长11.1%。",
           "url": "https://flash.jin10.com/detail/20260302120658192800",
           "source": "金十数据",
@@ -361,15 +387,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "官方辟谣浙江泰顺发生4.2级地震",
-          "url": "https://www.toutiao.com/trending/7611809487200079414/",
-          "source": "今日头条",
+          "title": "当地政府：俄罗斯新罗西斯克一燃料码头起火。",
+          "url": "https://flash.jin10.com/detail/20260302162817690800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "中国驻伊朗大使馆通报撤离通道",
@@ -378,11 +404,26 @@
           "ranks": [
             1,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 16时42分]"
+        },
+        {
+          "title": "人物｜担任最高领袖36年，哈梅内伊如何领导伊朗走到今天？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32680290",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 16时42分]"
         },
         {
           "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
@@ -454,19 +495,6 @@
             8,
             7,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时49分]"
-        },
-        {
-          "title": "人物｜担任最高领袖36年，哈梅内伊如何领导伊朗走到今天？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32680290",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -557,6 +585,18 @@
           "time_info": "[04时25分 ~ 05时22分]"
         },
         {
+          "title": "香港昂船洲政府船坞发生爆炸已致5伤",
+          "url": "https://www.toutiao.com/trending/7612496902088802310/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：太平洋标准时间凌晨4时30分左右，我们的一个可用区（MEC1-AZ2）遭到物体击中数据中心，引发火花并导致火灾。消防部门在扑救火灾期间，切断了该设施及发电机的电源。",
           "url": "https://flash.jin10.com/detail/20260302014634382800",
           "source": "金十数据",
@@ -629,6 +669,18 @@
           "time_info": "[04时25分 ~ 05时22分]"
         },
         {
+          "title": "官方回应椰树低俗广告",
+          "url": "https://www.toutiao.com/trending/7611623701172191258/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
           "title": "57岁村支书去世 曾38天吃住防汛大堤",
           "url": "https://www.toutiao.com/trending/7611956624593567782/",
           "source": "今日头条",
@@ -679,9 +731,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8855，较上一交易日官方收盘价跌296点，较上日夜盘收盘跌225点。",
+          "url": "https://wallstreetcn.com/livenews/3061716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：就一起针对英国阿克罗蒂里军事基地的无人机袭击事件与塞浦路斯总统通话。",
@@ -726,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "香港昂船洲政府船坞发生爆炸已致5伤",
-          "url": "https://www.toutiao.com/trending/7612496902088802310/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "为稳定提供公共服务 伊朗政府成立多个专家委员会",
@@ -855,9 +907,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "伊公布袭击中死亡的部分高级军事官员",
+          "url": "https://www.toutiao.com/trending/7611856736324419590/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "据伊朗官方媒体，伊朗国家广播电视总部部分区域在对德黑兰的空袭中遭打击。",
@@ -921,7 +984,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -932,7 +995,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -959,15 +1022,15 @@
           "time_info": "13时52分"
         },
         {
-          "title": "官方回应椰树低俗广告",
-          "url": "https://www.toutiao.com/trending/7611623701172191258/",
-          "source": "今日头条",
+          "title": "日本最高外汇事务官员三村淳：以美元计价的稳定币的激增极有可能巩固美元作为关键货币的地位。",
+          "url": "https://flash.jin10.com/detail/20260302161034368800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时42分"
         },
         {
           "title": "西安市委常委贠笑冬被查",
@@ -1012,6 +1075,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生指数收盘跌2.14%，恒生科技指数跌2.89%，山东墨龙涨约116%",
+          "url": "https://wallstreetcn.com/livenews/3061695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     }
