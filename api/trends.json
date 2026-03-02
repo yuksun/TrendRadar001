@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T01:43:43.010539+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-03T02:44:36.367149+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "两会前瞻｜政协委员赴京参会前夕，多省市政协召开行前会",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "举报有效!乙游联动高校叫停",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
+        },
+        {
+          "title": "以色列驻联合国大使丹尼·达农：我们希望会有新的伊朗领导层。",
+          "url": "https://flash.jin10.com/detail/20260303023558957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "广州出现回南天？气象部门回应",
@@ -46,11 +57,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查，可能涉及哪些问题？会对五粮液集团造成哪些影响？",
@@ -60,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "起泡胶、捏捏乐、水晶泥，央视调查网红玩具背后的“隐形伤害”",
@@ -72,8 +84,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "马上评｜学生“健康第一”，如何落实在正确政绩观中",
@@ -84,8 +96,32 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
+        },
+        {
+          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3062080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "time_info": "[01时43分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗任命代理国防部长",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%BB%E5%91%BD%E4%BB%A3%E7%90%86%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "北约秘书长吕特：美以军事行动“至关重要”，因为这些行动削弱了伊朗获取核武器和弹道导弹能力。",
@@ -94,18 +130,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3062080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -116,7 +141,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -132,6 +157,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "以色列驻联合国大使丹尼·达农：针对美以两国实施的果断、精准打击，伊朗领导层正“出于绝望而疯狂反击”。",
+          "url": "https://flash.jin10.com/detail/20260303023043340800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "土耳其总统府：土耳其总统埃尔多安在与北约秘书长吕特的电话中表示，必须给外交一个机会，以实现持久、可持续的地区和平。",
           "url": "https://flash.jin10.com/detail/20260303003325420800",
           "source": "金十数据",
@@ -141,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "据沙特媒体Al Hadath：以色列官员表示，战争准备工作将持续到下个月初。",
+          "url": "https://flash.jin10.com/detail/20260303022912458800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "以交通部长称计划下周开始分阶段重新开放领空",
@@ -154,13 +201,24 @@
           "time_info": "00时44分"
         },
         {
+          "title": "卡塔尔总理兼外交大臣周一接到波斯尼亚和黑塞哥维那外交部长的电话。卡塔尔总理兼外交大臣强调，伊朗对卡塔尔领土的攻击是对其国家主权的公然侵犯，与良好邻里关系原则不符，任何理由或借口都无法接受。",
+          "url": "https://flash.jin10.com/detail/20260303022526124800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "真主党高级官员：该组织理解黎巴嫩有权决定战争或和平，但不认为其有义务对那些反对“占领”的人强加严厉决定。",
           "url": "https://flash.jin10.com/detail/20260303010127599800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -171,7 +229,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -209,15 +267,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "伊朗任命代理国防部长",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%BB%E5%91%BD%E4%BB%A3%E7%90%86%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF",
-          "source": "百度热搜",
+          "title": "黎巴嫩卫生部官员：以色列空袭黎巴嫩造成的死亡人数已升至52人，另有150多人受伤。",
+          "url": "https://flash.jin10.com/detail/20260303015752628800",
+          "source": "金十数据",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "02时44分"
         },
         {
           "title": "市场消息：政府发言人确认，四架希腊F-16战隼战斗机刚刚降落在塞浦路斯。",
@@ -237,7 +295,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
