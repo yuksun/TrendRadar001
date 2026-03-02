@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-02T09:59:19.044007+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-03-02T12:20:18.475155+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 53,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "周末要闻汇总：美以袭击伊朗，哈梅内伊身亡；全国政协会议议程来了",
+          "url": "https://www.cls.cn/detail/2298868",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 12时20分]"
+        },
         {
           "title": "2026新春走基层",
           "url": "https://s.weibo.com/weibo?q=%232026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top",
@@ -28,18 +40,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
-        },
-        {
-          "title": "周末要闻汇总：美以袭击伊朗，哈梅内伊身亡；全国政协会议议程来了",
-          "url": "https://www.cls.cn/detail/2298868",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时59分]"
         },
         {
@@ -74,11 +74,12 @@
             14,
             13,
             15,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时20分]"
         },
         {
           "title": "女子出轨男同事后感染艾滋病",
@@ -86,11 +87,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时20分]"
         },
         {
           "title": "魔法对轰,尘白玩家举报乙游",
@@ -99,11 +101,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时20分]"
         },
         {
           "title": "伊朗总统就最高领袖遇袭身亡发声明，呼吁全国保持团结，最可能「不团结」的会是谁？三人委员会能稳住伊朗吗？",
@@ -183,6 +186,28 @@
           "time_info": "[01时21分 ~ 07时22分]"
         },
         {
+          "title": "伊朗：6名美中情局官员在阿联酋身亡",
+          "url": "https://www.toutiao.com/trending/7612139587531522057/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682871",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "以色列官员表示，除了军事行动之外，以色列“也在以自己的方式”促使伊朗民众反对现政权。",
           "url": "https://flash.jin10.com/detail/20260302025304933800",
           "source": "金十数据",
@@ -200,9 +225,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "香港昂船洲政府船坞发生爆炸，已造成5人受伤",
+          "url": "https://wallstreetcn.com/livenews/3061496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "伊朗政府宣布40天全国哀悼",
@@ -216,15 +252,49 @@
           "time_info": "00时26分"
         },
         {
+          "title": "印尼1月出口较上年同期增长3.4%，机构调查预估为增长11.1%。",
+          "url": "https://flash.jin10.com/detail/20260302120658192800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
+          "url": "https://wallstreetcn.com/livenews/3061494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "美以官员透露，美以对伊朗的打击比原定时间推迟了一周",
           "url": "https://flash.jin10.com/detail/20260302095355535800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "伊朗：6名中情局官员在阿联酋身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A6%E5%90%8D%E4%B8%AD%E6%83%85%E5%B1%80%E5%AE%98%E5%91%98%E5%9C%A8%E9%98%BF%E8%81%94%E9%85%8B%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时20分]"
         },
         {
           "title": "欧洲央行管委内格尔：对美元避险地位的质疑有所增加",
@@ -348,6 +418,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "官方辟谣浙江泰顺发生4.2级地震",
+          "url": "https://www.toutiao.com/trending/7611809487200079414/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时20分]"
+        },
+        {
           "title": "据泰晤士报：目前，在海湾国家（主要是阿联酋）的近10万名英国人已向政府登记了他们的联系方式。而随着大臣们制定经由沙特阿拉伯进行大规模撤离的计划（以备在其他地区领空持续关闭时启用），目前登记的总人数已达9.4万人。",
           "url": "https://flash.jin10.com/detail/20260302035510519800",
           "source": "金十数据",
@@ -370,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时21分]"
+        },
+        {
+          "title": "全国政协十四届四次会议新闻发布会3月3日举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32678915",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时20分]"
         },
         {
           "title": "土耳其金融稳定委员会称，土耳其准备采取措施，以减轻冲突对金融市场的负面影响。",
@@ -431,15 +524,37 @@
           "time_info": "03时21分"
         },
         {
-          "title": "官方辟谣浙江泰顺发生4.2级地震",
-          "url": "https://www.toutiao.com/trending/7611809487200079414/",
-          "source": "今日头条",
+          "title": "伊朗最高国家安全委员会秘书：绝不允许国家被分裂",
+          "url": "https://wallstreetcn.com/livenews/3061489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时20分"
+        },
+        {
+          "title": "美以袭击伊朗前通报了波兰和德国，却没告知法国，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2011576275110740002",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "前香港金管局局长提议设“资本通”及港元-人民币双柜台扩容",
+          "url": "https://wallstreetcn.com/livenews/3061487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "以色列急救服务部门周日表示，在以色列中部城市贝特谢梅什发生的导弹袭击事件已造成至少8人死亡。",
@@ -459,18 +574,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "伊朗：6名中情局官员在阿联酋身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A6%E5%90%8D%E4%B8%AD%E6%83%85%E5%B1%80%E5%AE%98%E5%91%98%E5%9C%A8%E9%98%BF%E8%81%94%E9%85%8B%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -503,9 +607,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "人物｜担任最高领袖36年，哈梅内伊如何领导伊朗走到今天？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32680290",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "阿曼外交部表示，伊朗外交部长在与阿曼外交部长的电话通话中表示，德黑兰对任何旨在缓和局势的严肃努力持开放态度。",
@@ -536,7 +651,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -552,15 +667,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "全国政协十四届四次会议新闻发布会3月3日举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32678915",
-          "source": "澎湃新闻",
+          "title": "济南市副市长谢堃被查",
+          "url": "https://www.toutiao.com/trending/7612474829426167315/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时20分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：发生在马纳马的伊朗袭击是毫无道理且不可接受的，我已向巴林国王表明了这一点。",
@@ -607,13 +722,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "安徽通报3名干部处理结果",
+          "url": "https://www.toutiao.com/trending/7612236284681207849/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "西安市委常委贠笑冬被查",
           "url": "https://www.toutiao.com/trending/7612450734377799211/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
