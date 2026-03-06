@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T01:34:44.335157+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-07T02:42:58.033873+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "全国人大举行经济主题记者会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "政府工作报告提到的资金关系你我",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "商务部长两会提“西方不亮东方亮”",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "省委书记怒批有点小权就用到极致",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "人大代表庹庆明建议高速由重大节假日免费改为年度 3000 公里免费，这能解决哪些出行痛点？该怎样实施？",
@@ -70,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "据Axios记者：以色列国防军表示，以色列认为伊朗高级官员近日一直在使用该地堡，目前仍在评估袭击发生时地堡内是否有人。",
@@ -92,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
         },
         {
           "title": "司机被查 拿出“驾驶证”逗乐交警",
@@ -101,11 +102,45 @@
           "source": "百度热搜",
           "ranks": [
             18,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时42分]"
+        },
+        {
+          "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
+          "url": "https://wallstreetcn.com/articles/3766890",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
+        },
+        {
+          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
+          "url": "https://www.cls.cn/detail/2305412",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
+        },
+        {
+          "title": "顾客在寿司郎吃出金枪鱼寄生虫卵，市场监管局已立案调查，这些虫卵吃了会有多大风险？消费者该如何维权？",
+          "url": "https://www.zhihu.com/question/2012838954169230348",
+          "source": "知乎",
+          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "政府工作报告提到，我国将调整优化消费税征税范围、税率，可能会怎么改？你更关心哪类商品的消费税变化？",
@@ -119,37 +154,28 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
-          "url": "https://wallstreetcn.com/articles/3766890",
-          "source": "华尔街见闻",
+          "title": "欧洲央行管委Schnabel：必须仔细追踪能源冲击的顽固性。",
+          "url": "https://wallstreetcn.com/livenews/3065394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时34分]"
+          "time_info": "[01时34分 ~ 02时42分]"
         },
         {
-          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
-          "url": "https://www.cls.cn/detail/2305412",
-          "source": "财联社热门",
+          "title": "许昆林：理旧账也是政绩",
+          "url": "https://www.douyin.com/hot/2420790",
+          "source": "抖音",
           "ranks": [
-            13
+            14,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时34分]"
-        },
-        {
-          "title": "顾客在寿司郎吃出金枪鱼寄生虫卵，市场监管局已立案调查，这些虫卵吃了会有多大风险？消费者该如何维权？",
-          "url": "https://www.zhihu.com/question/2012838954169230348",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时34分]"
+          "time_info": "[01时34分 ~ 02时42分]"
         },
         {
           "title": "广西壮族自治区党委书记陈刚亮家丑",
@@ -163,26 +189,26 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "欧洲央行管委Schnabel：必须仔细追踪能源冲击的顽固性。",
-          "url": "https://wallstreetcn.com/livenews/3065394",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰外交部长安德烈·西比哈：已成功促成七名在布达佩斯被扣押的乌克兰公民获释。",
+          "url": "https://flash.jin10.com/detail/20260307020007081800",
+          "source": "金十数据",
           "ranks": [
-            7
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时42分"
         },
         {
-          "title": "许昆林：理旧账也是政绩",
-          "url": "https://www.douyin.com/hot/2420790",
+          "title": "外交部副部长吊唁哈梅内伊遇难",
+          "url": "https://www.douyin.com/hot/2420584",
           "source": "抖音",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时42分"
         },
         {
           "title": "微软365：正在调查影响北美地区部分客户微软365服务的问题。",
@@ -194,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "伊拉克安全部门消息人士：火箭弹袭击目标为位于巴格达国际机场附近的美军外交中心及军事基地宿舍。",
+          "url": "https://flash.jin10.com/detail/20260307013915285800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     }
