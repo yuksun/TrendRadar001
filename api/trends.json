@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T00:27:43.384253+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T01:22:14.276387+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "外交部长王毅答记者问",
@@ -15,41 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时22分]"
         },
         {
           "title": "沙特外交部：政治事务副部长接见了俄罗斯驻沙特大使，双方讨论了共同关心的问题。",
           "url": "https://flash.jin10.com/detail/20260308235647393800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
         },
         {
           "title": "公务员“养龙虾”冲上热搜，有人称靠上门安装赚26万元！马化腾说没想到“龙虾”这么火",
           "url": "https://wallstreetcn.com/articles/3766973",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
         },
         {
           "title": "法国国防部长：法国和科威特是历史上的合作伙伴。当科威特遭到伊朗袭击时，法国将立即提供支持，帮助其自卫。",
           "url": "https://flash.jin10.com/detail/20260308232831525800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
         },
         {
           "title": "以防长称打死伊朗最高领袖军事秘书",
@@ -59,8 +62,54 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
+        },
+        {
+          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2012820068103378470",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
+        },
+        {
+          "title": "政协委员蒋胜男建议处罚加班严重企业，不随意且常态化加班，可以怎样处罚？执行起来有哪些难点？",
+          "url": "https://www.zhihu.com/question/2013901366821610864",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时22分]"
+        },
+        {
+          "title": "伊朗外交部：在伊朗，官员绝无可能出国与外国间谍机构勾结，教唆我们的总统听从外国的指使。",
+          "url": "https://flash.jin10.com/detail/20260309003733632800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队一名官员表示，如果针对伊朗能源基础设施的袭击不停止，我们将采取类似行动在该地区予以回击。",
+          "url": "https://flash.jin10.com/detail/20260309003317780800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美能源部长淡化油价飙升冲击，称“恐惧溢价”仅属短期波动",
@@ -68,28 +117,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2012820068103378470",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "政协委员蒋胜男建议处罚加班严重企业，不随意且常态化加班，可以怎样处罚？执行起来有哪些难点？",
-          "url": "https://www.zhihu.com/question/2013901366821610864",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
