@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T02:40:19.471020+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-03-14T03:31:38.032880+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "315丨大理苍山景观房旁建起电塔，镇政府：安全距离符合要求",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "国家网络安全通报中心发布OpenClaw安全风险预警",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "6位人大代表话实干",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "政府工作报告（全文）",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "联合国秘书长候选人增至五人",
@@ -60,20 +60,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
         {
-          "title": "联合国秘书长候选人增至五人",
-          "url": "https://wallstreetcn.com/livenews/3069968",
+          "title": "官方通报被盗国保琉璃被公开售卖",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%AB%E7%9B%97%E5%9B%BD%E4%BF%9D%E7%90%89%E7%92%83%E8%A2%AB%E5%85%AC%E5%BC%80%E5%94%AE%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
+        },
+        {
+          "title": "哥伦比亚防长率政府代表团访问委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3069959",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4,
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时31分]"
         },
         {
           "title": "伊朗否认向土耳其发射导弹，提议展开联合调查",
@@ -89,38 +102,28 @@
           "time_info": "[00时39分 ~ 02时40分]"
         },
         {
-          "title": "哥伦比亚防长率政府代表团访问委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3069959",
+          "title": "联合国秘书长候选人增至五人",
+          "url": "https://wallstreetcn.com/livenews/3069968",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11
+            3,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时40分]"
-        },
-        {
-          "title": "官方通报被盗国保琉璃被公开售卖",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%AB%E7%9B%97%E5%9B%BD%E4%BF%9D%E7%90%89%E7%92%83%E8%A2%AB%E5%85%AC%E5%BC%80%E5%94%AE%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "time_info": "[02时40分 ~ 03时31分]"
         },
         {
           "title": "跟着人大代表来做操全身都通了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E6%9D%A5%E5%81%9A%E6%93%8D%E5%85%A8%E8%BA%AB%E9%83%BD%E9%80%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "校长为演讲时脱口而出“呦西”致歉",
@@ -130,8 +133,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "贵州茅台党委委员、副总经理、财务总监、董事会秘书蒋焰被查",
@@ -141,8 +144,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "澎湃读报丨央媒集中刊发社论，祝贺十四届全国人大四次会议胜利闭幕",
@@ -151,11 +154,35 @@
           "ranks": [
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
+        },
+        {
+          "title": "女子称“嫁给爱情”却发现老公出轨",
+          "url": "https://www.toutiao.com/trending/7616605108911308819/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
+        },
+        {
+          "title": "终末地EP太low,官方火速下架",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351721&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0EP%E5%A4%AAlow%2C%E5%AE%98%E6%96%B9%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "【社论】扫码入企，让执法检查受监督、可评价",
@@ -170,27 +197,16 @@
           "time_info": "[00时39分 ~ 02时40分]"
         },
         {
-          "title": "女子称“嫁给爱情”却发现老公出轨",
-          "url": "https://www.toutiao.com/trending/7616605108911308819/",
+          "title": "美旧金山市长保镖同流浪汉扭打在地",
+          "url": "https://www.toutiao.com/trending/7615544347093811236/",
           "source": "今日头条",
           "ranks": [
-            24,
-            23
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
-        },
-        {
-          "title": "终末地EP太low,官方火速下架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351721&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0EP%E5%A4%AAlow%2C%E5%AE%98%E6%96%B9%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "消息人士称，哥伦比亚外交部长和国防部长已前往委内瑞拉的加拉加斯，此前总统会晤已被推迟。",
@@ -270,15 +286,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美旧金山市长保镖同流浪汉扭打在地",
-          "url": "https://www.toutiao.com/trending/7615544347093811236/",
-          "source": "今日头条",
+          "title": "卡塔尔内政部长：战略性水资源储备可维持四个月，粮食安全储备则可维持18个月。",
+          "url": "https://flash.jin10.com/detail/20260314022744830800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "03时31分"
         },
         {
           "title": "调查显示：经济学家预计美联储2026年将降息两次，对沃什存有疑虑",
