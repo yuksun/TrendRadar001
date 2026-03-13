@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T09:57:16.408371+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-03-13T12:13:52.450985+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "十四届全国人大四次会议闭幕",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
@@ -61,11 +61,12 @@
             7,
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "司法部部长贺荣：今年政府立法工作将着力解决“内卷式”竞争等问题",
@@ -74,11 +75,26 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时13分]"
+        },
+        {
+          "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时41分 ~ 12时13分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -103,11 +119,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "澎湃读报丨央媒集中刊发社论，祝贺全国政协十四届四次会议胜利闭幕",
@@ -128,24 +145,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时57分]"
-        },
-        {
-          "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时41分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时13分]"
         },
         {
           "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
@@ -205,7 +210,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -298,6 +303,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "司法部部长表示，今年将通过政府立法解决「内卷式」竞争，有哪些可行举措？",
+          "url": "https://www.zhihu.com/question/2015510070532728752",
+          "source": "知乎",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时13分]"
         },
         {
           "title": "伊斯兰革命卫队官员：已摧毁七成美在中东地区基地和指挥部",
@@ -409,18 +426,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "司法部部长表示，今年将通过政府立法解决「内卷式」竞争，有哪些可行举措？",
-          "url": "https://www.zhihu.com/question/2015510070532728752",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -431,7 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -447,6 +453,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "柬国务部长答凤凰：有望4月底彻底瓦解诈骗活动",
+          "url": "https://news.ifeng.com/c/8rSJi0NEbzA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我们特别关注了扩大乌克兰和罗马尼亚之间的边境口岸。我们还讨论了关于乌克兰-罗马尼亚边境口岸联合监管的政府间协议的相关工作。",
           "url": "https://flash.jin10.com/detail/20260313012846017800",
           "source": "金十数据",
@@ -458,15 +475,48 @@
           "time_info": "01时56分"
         },
         {
+          "title": "患者做核磁共振被忘6小时 医院通报",
+          "url": "https://www.baidu.com/s?wd=%E6%82%A3%E8%80%85%E5%81%9A%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%A2%AB%E5%BF%986%E5%B0%8F%E6%97%B6+%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：预计日本原油进口量将在本月晚些时候出现下滑。 将灵活采取措施，以最大限度减少油价对经济的影响。 预计（释放出的）原油储备的买方为国内炼油企业。 政府正努力确保多元化的替代采购渠道。 日本私营企业正在寻找替代石油来源。 合理的油价应是伊朗冲突前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3069339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "冻干草莓农残超标调查",
           "url": "https://www.baidu.com/s?wd=%E5%86%BB%E5%B9%B2%E8%8D%89%E8%8E%93%E5%86%9C%E6%AE%8B%E8%B6%85%E6%A0%87%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：日本政府将与私营部门经营者一道，尽最大努力确保原油替代来源。",
+          "url": "https://flash.jin10.com/detail/20260313113849287800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "墨西哥商界代表和官员将于5月7日至9日对加拿大进行商务访问。",
@@ -486,7 +536,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -524,13 +574,24 @@
           "time_info": "05时31分"
         },
         {
+          "title": "英国国防部长表示，可能会增加军事支持，以保护霍尔木兹海峡的船只。",
+          "url": "https://flash.jin10.com/detail/20260313111701476800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美官员称坠毁加油机伤亡情况尚不清楚",
           "url": "https://wallstreetcn.com/livenews/3069244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -541,7 +602,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
