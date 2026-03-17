@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:38:14.126020+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-03-18T05:38:12.797423+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "315影子调查｜谁在承受“灰色”租赁车之痛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "315影子调查｜美容者之死：“脸部美容”9日后身亡，系肉毒素中毒",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "甘肃省副省长雷思维被查",
@@ -41,44 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "重庆万州马拉松乌龙事故引争议，冠军选手冲线时被拦停并强行带离赛道，官方称裁判因下雨误判，如何评价？",
-          "url": "https://www.zhihu.com/question/2017003163564155841",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "以色列总理下令“消灭”伊朗政府高级官员",
-          "url": "https://news.ifeng.com/c/8rZRyoRGSey",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
-          "url": "https://www.cls.cn/detail/2315798",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "甘肃省委常委、副省长雷思维任上被查",
@@ -90,8 +54,57 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "重庆万州马拉松乌龙事故引争议，冠军选手冲线时被拦停并强行带离赛道，官方称裁判因下雨误判，如何评价？",
+          "url": "https://www.zhihu.com/question/2017003163564155841",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "以色列总理下令“消灭”伊朗政府高级官员",
+          "url": "https://news.ifeng.com/c/8rZRyoRGSey",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
+          "url": "https://www.cls.cn/detail/2315798",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783242",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "美以伊战争丨美官员辞职：出于良知无法支持对伊战争",
@@ -105,17 +118,71 @@
           "time_info": "[00时07分 ~ 03时05分]"
         },
         {
-          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783242",
+          "title": "全国人大农业与农村委员会原副主任委员蒋超良被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781423",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            6,
-            4
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "警方通报“15岁男生过斑马线被撞身亡”：两名驾驶员均已被控制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783801",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "受贿1.5亿余元，李海涛一审被判无期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783239",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32782863",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "美反恐中心主任称无法昧良心支持对伊战争",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E6%98%A7%E8%89%AF%E5%BF%83%E6%94%AF%E6%8C%81%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%89%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            15,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 05时38分]"
         },
         {
           "title": "英国财政大臣酝酿新政：拟赋予英国地方政府税收分配权",
@@ -129,13 +196,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "泽连斯基会见北约秘书长吕特，讨论加强乌克兰防空能力",
+          "url": "https://wallstreetcn.com/livenews/3071917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与北约秘书长吕特会面，讨论了许多不同的话题，但首先是加强防空和保护我们的人民免受俄罗斯攻击。也谈到了伊朗局势及其对乌克兰和整个欧洲的影响。俄罗斯不应从中获得任何好处，也不应有任何拖延对乌克兰战争的机会",
           "url": "https://flash.jin10.com/detail/20260318042613084800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -144,77 +222,34 @@
           "url": "https://wallstreetcn.com/livenews/3071894",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时38分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社报道，伊朗最高国家安全委员会秘书阿里·拉里贾尼与其子、资深安全官员莫尔特扎·拉里贾尼以及一组随行保镖一同遇害。伊朗最高国家安全委员会在一份声明中确认阿里·拉里贾尼死亡，称其与其子、副安全官员阿里雷扎·巴亚特以及其安保团队成员一同遇害。",
+          "url": "https://flash.jin10.com/detail/20260318051148630800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时38分"
         },
         {
-          "title": "全国人大农业与农村委员会原副主任委员蒋超良被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781423",
-          "source": "澎湃新闻",
+          "title": "标普全球：预计伊拉克政府将动用其庞大的外部缓冲以偿还外债。",
+          "url": "https://flash.jin10.com/detail/20260318050912024800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            11
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "警方通报“15岁男生过斑马线被撞身亡”：两名驾驶员均已被控制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783801",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "受贿1.5亿余元，李海涛一审被判无期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783239",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32782863",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时38分]"
-        },
-        {
-          "title": "美反恐中心主任称无法昧良心支持对伊战争",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E6%98%A7%E8%89%AF%E5%BF%83%E6%94%AF%E6%8C%81%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%89%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 04时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "伊拉克石油部长：巴格达与埃尔比勒同意，恢复通过伊拉克库尔德斯坦出口石油。 与库尔德斯坦的协议在今天达成。（Rudaw）",
@@ -223,7 +258,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -261,6 +296,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "据路透：伊朗媒体证实，伊朗最高国家安全委员会秘书拉里贾尼遇害。",
+          "url": "https://flash.jin10.com/detail/20260318045229455800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "巴西国家经济和社会发展银行行长表示，巴西政府可能推出一揽子援助计划，以应对石油危机带来的影响。",
           "url": "https://flash.jin10.com/detail/20260317232351957800",
           "source": "金十数据",
@@ -278,7 +324,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         }
