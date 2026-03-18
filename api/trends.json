@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:04:12.499124+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-03-18T12:55:50.130113+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 33,
+      "match_count": 45,
       "titles": [
         {
           "title": "315影子调查｜谁在承受“灰色”租赁车之痛",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 12时55分]"
         },
         {
           "title": "甘肃省副省长雷思维被查",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 12时55分]"
         },
         {
           "title": "以色列总理下令“消灭”伊朗政府高级官员",
@@ -126,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 12时55分]"
         },
         {
           "title": "全国人大农业与农村委员会原副主任委员蒋超良被提起公诉",
@@ -150,11 +150,12 @@
             19,
             16,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 12时55分]"
         },
         {
           "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
@@ -164,11 +165,12 @@
             18,
             17,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 12时55分]"
         },
         {
           "title": "美以伊战争丨美官员辞职：出于良知无法支持对伊战争",
@@ -203,7 +205,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -228,6 +230,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "国际原子能机构称收到伊朗核电站遭袭通报",
+          "url": "https://flash.jin10.com/detail/20260318123715441800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "中国农科院院长称「中国粮、中国菜和中国肉都主要用上了中国种」，这意味着什么？「中国种」的含金量有多高？",
+          "url": "https://www.zhihu.com/question/2012573241504453453",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "泽连斯基会见北约秘书长吕特，讨论加强乌克兰防空能力",
@@ -274,8 +298,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时55分]"
         },
         {
           "title": "胡亚波已任湖北省领导",
@@ -289,6 +313,39 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "伊朗最高安全官员拉里贾尼是谁",
+          "url": "https://www.douyin.com/hot/2434452",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "挪威议会批准就爱泼斯坦案设立调查委员会",
+          "url": "https://flash.jin10.com/detail/20260318123554446800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗最高国家安全委员会秘书阿里·拉里贾尼与其子、资深安全官员莫尔特扎·拉里贾尼以及一组随行保镖一同遇害。伊朗最高国家安全委员会在一份声明中确认阿里·拉里贾尼死亡，称其与其子、副安全官员阿里雷扎·巴亚特以及其安保团队成员一同遇害。",
           "url": "https://flash.jin10.com/detail/20260318051148630800",
           "source": "金十数据",
@@ -298,6 +355,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "安徽省委书记：零容忍查办腐败案件",
+          "url": "https://www.toutiao.com/trending/7618377458525798451/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "学会协会多人被查",
+          "url": "https://www.douyin.com/hot/2434174",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "标普全球：预计伊拉克政府将动用其庞大的外部缓冲以偿还外债。",
@@ -320,6 +410,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
+          "url": "https://www.zhihu.com/question/2016967278948787751",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "人物｜以色列再“斩首”，伊朗最高安全官员拉里贾尼是谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783188",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "315影子调查｜妙三多猫咪疫苗网售乱象：防伪造假，来源成谜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760379",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "OPPO Find N6 手机 3 月 17 日全球首发，官方称将是「全球最平整」折叠屏，还有哪些值得关注？",
@@ -377,6 +500,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "孟加拉国石油公司官员：孟加拉国批准采购两批液化天然气现货以应对中东供应中断。",
+          "url": "https://flash.jin10.com/detail/20260318120214076800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "巴西国家经济和社会发展银行行长表示，巴西政府可能推出一揽子援助计划，以应对石油危机带来的影响。",
           "url": "https://flash.jin10.com/detail/20260317232351957800",
           "source": "金十数据",
@@ -394,7 +528,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -422,7 +556,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         }
