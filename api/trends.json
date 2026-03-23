@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T13:02:19.919517+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-03-23T15:08:22.952637+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "靳磊任广东省委常委和深圳市委书记",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时08分]"
         },
         {
           "title": "吉林省委书记：留下烂摊子要追责",
@@ -160,7 +161,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -193,6 +194,19 @@
           "time_info": "[03时24分 ~ 07时26分]"
         },
         {
+          "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811621",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 15时08分]"
+        },
+        {
           "title": "伊朗就核设施遭美以袭击致信联合国秘书长及安理会",
           "url": "https://wallstreetcn.com/livenews/3074627",
           "source": "华尔街见闻-快讯",
@@ -205,18 +219,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时26分]"
-        },
-        {
-          "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32811621",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 13时02分]"
         },
         {
           "title": "英国政府顾问：应考虑对能源利润设限",
@@ -233,6 +235,19 @@
           "time_info": "[03时24分 ~ 06时24分]"
         },
         {
+          "title": "何立峰会见美中贸易全国委员会代表团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811423",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时08分]"
+        },
+        {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
           "url": "https://wallstreetcn.com/livenews/3074585",
           "source": "华尔街见闻-快讯",
@@ -245,16 +260,16 @@
           "time_info": "[00时29分 ~ 02时36分]"
         },
         {
-          "title": "何立峰会见美中贸易全国委员会代表团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32811423",
+          "title": "受贿数额特别巨大，山西省原省长金湘军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813396",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            14
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时02分]"
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时08分]"
         },
         {
           "title": "有「打假人」举报 1200 多家饭店拍黄瓜，将合规性瑕疵说成食品安全问题索要赔偿，这种行为违法吗？",
@@ -267,6 +282,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时08分]"
+        },
+        {
+          "title": "突发公告！百亿富豪被立案调查",
+          "url": "https://news.ifeng.com/c/8riyPL3TXX1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时08分]"
+        },
+        {
+          "title": "澳大利亚部分地区出现油荒 政府劝民众勿恐慌囤油",
+          "url": "https://www.cls.cn/detail/2320683",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时08分]"
         },
         {
           "title": "伊朗媒体称伊官员提出停战六项条件，包括为霍尔木兹海峡建立新的法律体系",
@@ -324,37 +374,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "受贿数额特别巨大，山西省原省长金湘军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813396",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "突发公告！百亿富豪被立案调查",
-          "url": "https://news.ifeng.com/c/8riyPL3TXX1",
-          "source": "凤凰网",
+          "title": "商务部部长王文涛会见博世集团董事会主席哈通",
+          "url": "https://flash.jin10.com/detail/20260323144437355800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "15时08分"
         },
         {
           "title": "又一案例 LED芯片龙头三安光电实控人被留置并立案调查|速读公告",
@@ -363,20 +391,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
         {
-          "title": "澳大利亚部分地区出现油荒 政府劝民众勿恐慌囤油",
-          "url": "https://www.cls.cn/detail/2320683",
-          "source": "财联社热门",
+          "title": "商务部部长王文涛会见大众汽车集团管理董事会主席奥博穆",
+          "url": "https://flash.jin10.com/detail/20260323144237465800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "15时08分"
+        },
+        {
+          "title": "彭博调查：预计欧洲斯托克600指数2026年底为626点。 预计欧洲斯托克50指数2026年底为6175点。 预计德国DAX指数2026年底为26343点，英国富时100指数为10603点。",
+          "url": "https://wallstreetcn.com/livenews/3074936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "国际能源署署长比罗尔：澳大利亚政府正尽最大努力提高燃料库存水平。",
@@ -412,15 +451,48 @@
           "time_info": "10时06分"
         },
         {
+          "title": "商务部部长王文涛会见博世集团董事会主席哈通",
+          "url": "https://wallstreetcn.com/livenews/3074927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "伦敦警方：戈尔德斯格林（Golders Green）发生救护车纵火袭击事件，警方已就此展开调查。位于戈尔德斯格林的犹太社区急救服务中心有四辆救护车遭纵火焚毁。纵火袭击被定性为反犹太主义仇恨犯罪。",
           "url": "https://flash.jin10.com/detail/20260323121531466800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "商务部部长王文涛会见巴斯夫集团执行董事会主席凯礼",
+          "url": "https://flash.jin10.com/detail/20260323143124036800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "交警通报司机占道闯红灯还竖中指",
+          "url": "https://www.toutiao.com/trending/7619377911853760554/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     }
