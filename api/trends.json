@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T18:02:23.570715+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-03-23T19:42:40.447557+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "靳磊任广东省委常委和深圳市委书记",
@@ -53,6 +53,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时26分]"
+        },
+        {
+          "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811621",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 19时42分]"
         },
         {
           "title": "伊朗官员提出停战六项条件",
@@ -128,20 +143,6 @@
           "time_info": "[00时29分 ~ 10时06分]"
         },
         {
-          "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32811621",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗媒体：伊官员提出停战六项条件",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E4%BC%8A%E5%AE%98%E5%91%98%E6%8F%90%E5%87%BA%E5%81%9C%E6%88%98%E5%85%AD%E9%A1%B9%E6%9D%A1%E4%BB%B6",
           "source": "百度热搜",
@@ -157,6 +158,19 @@
           "time_info": "[00时29分 ~ 07时26分]"
         },
         {
+          "title": "受贿数额特别巨大，山西省原省长金湘军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813396",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时42分]"
+        },
+        {
           "title": "多校试点班主任退群，改由学校行政人员、家委会统一管理，有哪些考量和难点？家校关系的权责和边界在哪？",
           "url": "https://www.zhihu.com/question/2019079766146248985",
           "source": "知乎",
@@ -169,6 +183,32 @@
           "time_info": "[10时06分 ~ 13时02分]"
         },
         {
+          "title": "中国政府中东问题特使：解铃还须系铃人",
+          "url": "https://news.ifeng.com/c/8rjPPUatPAG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时42分]"
+        },
+        {
+          "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时42分]"
+        },
+        {
           "title": "官方发18.5亿元大红包 你领到了吗",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%8F%9118.5%E4%BA%BF%E5%85%83%E5%A4%A7%E7%BA%A2%E5%8C%85+%E4%BD%A0%E9%A2%86%E5%88%B0%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -178,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "欧盟委员会：欧盟-南方共同市场贸易协议将于5月1日起临时生效。",
+          "url": "https://flash.jin10.com/detail/20260323191530972800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "澳大利亚部分地区出现油荒，政府劝民众勿恐慌囤油",
@@ -219,18 +270,6 @@
           "time_info": "16时54分"
         },
         {
-          "title": "受贿数额特别巨大，山西省原省长金湘军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813396",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗就核设施遭美以袭击致信联合国秘书长及安理会",
           "url": "https://wallstreetcn.com/livenews/3074627",
           "source": "华尔街见闻-快讯",
@@ -243,30 +282,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时26分]"
-        },
-        {
-          "title": "中国政府中东问题特使：解铃还须系铃人",
-          "url": "https://news.ifeng.com/c/8rjPPUatPAG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时02分]"
         },
         {
           "title": "中国政府中东问题特使：维护霍尔木兹海峡及附近水域安全符合国际社会共同利益",
@@ -332,6 +347,17 @@
           "time_info": "[10时05分 ~ 15时08分]"
         },
         {
+          "title": "蓝绿参选人抢攻新北市长，政策交锋不断",
+          "url": "https://news.ifeng.com/c/8rjHMJH4Azr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 19时42分]"
+        },
+        {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
           "url": "https://wallstreetcn.com/livenews/3074585",
           "source": "华尔街见闻-快讯",
@@ -344,6 +370,30 @@
           "time_info": "[00时29分 ~ 02时36分]"
         },
         {
+          "title": "广东横琴警方通报男子窜至某小区抢劫致 1 死，嫌疑人已被抓获，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019071458769330373",
+          "source": "知乎",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 19时42分]"
+        },
+        {
+          "title": "北京三部门约谈12家平台企业 通报“内卷式”竞争第一批问题",
+          "url": "https://www.cls.cn/detail/2321460",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时42分]"
+        },
+        {
           "title": "有「打假人」举报 1200 多家饭店拍黄瓜，将合规性瑕疵说成食品安全问题索要赔偿，这种行为违法吗？",
           "url": "https://www.zhihu.com/question/2018789080519894132",
           "source": "知乎",
@@ -354,28 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时24分]"
-        },
-        {
-          "title": "蓝绿参选人抢攻新北市长，政策交锋不断",
-          "url": "https://news.ifeng.com/c/8rjHMJH4Azr",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时02分]"
-        },
-        {
-          "title": "广东横琴警方通报男子窜至某小区抢劫致 1 死，嫌疑人已被抓获，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019071458769330373",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时02分]"
         },
         {
           "title": "澳大利亚部分地区出现油荒 政府劝民众勿恐慌囤油",
@@ -462,9 +490,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "90后清华博士任河南长垣市副市长",
+          "url": "https://www.toutiao.com/trending/7620369310541840435/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "中国政府中东问题特使提醒：暂勿前往伊朗和周边地区国家",
@@ -495,7 +534,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -533,24 +572,24 @@
           "time_info": "13时02分"
         },
         {
+          "title": "阿曼官员：无论你对伊朗持何种看法，这场战争都不是由伊朗挑起的。",
+          "url": "https://flash.jin10.com/detail/20260323191149963800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "日本首相高市早苗：将加薪势头扩展到中小企业至关重要。 政府的经济措施鼓励了雇主加薪。 将通过财政政策确保可预测性。",
           "url": "https://wallstreetcn.com/livenews/3075067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "北京三部门约谈12家平台企业 通报“内卷式”竞争第一批问题",
-          "url": "https://www.cls.cn/detail/2321460",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -638,7 +677,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -660,7 +699,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -682,7 +721,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -726,7 +765,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -737,7 +776,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -781,7 +820,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -814,7 +853,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -830,13 +869,24 @@
           "time_info": "16时54分"
         },
         {
+          "title": "国家数据局局长刘烈宏：加快国家枢纽算力设施集群建设",
+          "url": "https://wallstreetcn.com/livenews/3075118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "欧洲央行管委卡兹米尔：若通胀率有较长时间维持在目标水平之上风险，将毫不犹豫采取行动。",
           "url": "https://flash.jin10.com/detail/20260323173024486800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -864,7 +914,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
