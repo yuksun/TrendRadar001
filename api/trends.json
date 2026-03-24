@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T01:55:34.289798+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-25T03:19:10.808013+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
         },
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -27,19 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
-        },
-        {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时19分]"
         },
         {
           "title": "印度政府：该命令为在印度全国范围内铺设和扩建管道提供了一个精简且有时限的框架。",
@@ -59,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -86,27 +86,17 @@
           "time_info": "00时06分"
         },
         {
-          "title": "多地驾校上调报名费，C1车型最高涨500元，交通部门回应",
-          "url": "https://news.ifeng.com/c/8rknq6EgPm2",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
-        },
-        {
           "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32821414",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
         },
         {
           "title": "官方撑腰!bin哥剑指亚运席位",
@@ -116,8 +106,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
         },
         {
           "title": "“内鬼”受贿两千万后公司损失一个亿，涉嫌行贿的商人未被追责",
@@ -127,8 +117,54 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
+        },
+        {
+          "title": "大理通报女生被殴打事件调查处置情况",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时19分]"
+        },
+        {
+          "title": "多地驾校上调报名费，C1车型最高涨500元，交通部门回应",
+          "url": "https://news.ifeng.com/c/8rknq6EgPm2",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时19分]"
+        },
+        {
+          "title": "5名央企领导职务调整",
+          "url": "https://www.cls.cn/detail/2323296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "time_info": "[01时55分 ~ 03时19分]"
+        },
+        {
+          "title": "“内鬼”受贿两千万后公司损失一个亿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%8F%97%E8%B4%BF%E4%B8%A4%E5%8D%83%E4%B8%87%E5%90%8E%E5%85%AC%E5%8F%B8%E6%8D%9F%E5%A4%B1%E4%B8%80%E4%B8%AA%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时19分]"
         },
         {
           "title": "瑞士央行管委Petra Tschudi：瑞士央行准备在外汇市场偏高时候干预。",
@@ -148,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -162,28 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "5名央企领导职务调整",
-          "url": "https://www.cls.cn/detail/2323296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "大理通报女生被殴打事件调查处置情况",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         },
         {
           "title": "伊朗任命新任最高国家安全委员会秘书",
@@ -266,8 +280,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时19分]"
         }
       ]
     }
