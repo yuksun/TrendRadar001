@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T15:13:04.034319+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-03-24T16:52:40.006670+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "受贿数额特别巨大，山西省原省长金湘军被提起公诉",
@@ -108,11 +108,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时52分]"
         },
         {
           "title": "蓝绿参选人抢攻新北市长，政策交锋不断",
@@ -149,6 +150,17 @@
           "time_info": "[14时01分 ~ 15时13分]"
         },
         {
+          "title": "金融监管总局副局长周亮被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "新西兰联储主席Breman：将不排除加息或降息的可能性。 官方现金利率（OCR）是采取应对行动的一个良好起点，认为目前不需要采取替代性政策措施。 目前看不到金融稳定问题，银行业能够经受住地缘政治局势的考验。 GDP数据显示经济正显现出势头。 收紧的金融状况可能会抑制经济增长。 我们不想过早对通货膨胀做出反应。 将关注企业的定价行为。",
           "url": "https://wallstreetcn.com/livenews/3075473",
           "source": "华尔街见闻-快讯",
@@ -169,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8877，较上一交易日官方收盘价涨185点，较上日夜盘收盘跌82点。",
+          "url": "https://wallstreetcn.com/livenews/3075801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "据半岛电视台：伊朗高级官员表示，德黑兰与华盛顿通过埃及和土耳其进行了善意的沟通，旨在缓解紧张局势。华盛顿仍拒绝接受两个基本条件——支付赔偿和承认对伊朗的侵略。",
@@ -251,6 +274,17 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
+          "title": "台北市长选举，蒋万安郑丽君谁更强？",
+          "url": "https://news.ifeng.com/c/8rkaoZ46s0O",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时52分]"
+        },
+        {
           "title": "伊朗高级官员称战争将持续 直到所有损失都得到补偿",
           "url": "https://flash.jin10.com/detail/20260324032656436800",
           "source": "金十数据",
@@ -273,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "台北市长选举，蒋万安郑丽君谁更强？",
-          "url": "https://news.ifeng.com/c/8rkaoZ46s0O",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时13分]"
         },
         {
           "title": "加拿大石油重镇Alberta省政府为审批若干重大项目给出120天的时间表。",
@@ -391,6 +414,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "比利时官员：两名未成年人因安特卫普一起涉嫌反犹太主义的纵火案于夜间被捕。",
+          "url": "https://flash.jin10.com/detail/20260324163000436800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "七部门联合部署2026年春耕备耕农资打假工作",
           "url": "https://wallstreetcn.com/livenews/3075633",
           "source": "华尔街见闻-快讯",
@@ -411,6 +445,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "国家金融监管总局副局长周亮被查",
+          "url": "https://www.toutiao.com/trending/7619964540578614847/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "国家金融监督管理总局副局长周亮被查",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%87%91%E8%9E%8D%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "90后清华博士宋云天已任副市长",
@@ -576,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819700",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "菲律宾经济规划部长：通胀加速和侨汇减少可能导致今年经济增长低于目标。",
@@ -765,6 +832,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "秦岭乱扔垃圾事件涉事游客非公职人员",
+          "url": "https://www.toutiao.com/trending/7620242491933032491/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
           "url": "https://wallstreetcn.com/livenews/3075601",
           "source": "华尔街见闻-快讯",
@@ -802,11 +880,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32818080",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 16时52分]"
         },
         {
           "title": "山东入室抢婴案二审宣判",
