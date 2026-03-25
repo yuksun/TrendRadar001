@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T07:31:45.497821+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-03-25T10:04:11.584793+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
@@ -15,8 +15,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
+        },
+        {
+          "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32821414",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
         },
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -31,54 +59,55 @@
           "time_info": "[00时06分 ~ 06时29分]"
         },
         {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
-        },
-        {
-          "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32821414",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
-        },
-        {
           "title": "“内鬼”受贿两千万后公司损失一个亿，涉嫌行贿的商人未被追责",
           "url": "https://m.thepaper.cn/newsDetail_forward_32819398",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
         },
         {
           "title": "官方撑腰!bin哥剑指亚运席位",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352241&amp;topic_name=%E5%AE%98%E6%96%B9%E6%92%91%E8%85%B0%21bin%E5%93%A5%E5%89%91%E6%8C%87%E4%BA%9A%E8%BF%90%E5%B8%AD%E4%BD%8D",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
+        },
+        {
+          "title": "“内鬼”受贿两千万后公司损失一个亿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%8F%97%E8%B4%BF%E4%B8%A4%E5%8D%83%E4%B8%87%E5%90%8E%E5%85%AC%E5%8F%B8%E6%8D%9F%E5%A4%B1%E4%B8%80%E4%B8%AA%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            9,
+            21,
+            16,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
+          "time_info": "[03时18分 ~ 10时04分]"
+        },
+        {
+          "title": "多地驾校上调报名费，C1车型最高涨500元，交通部门回应",
+          "url": "https://news.ifeng.com/c/8rknq6EgPm2",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 10时04分]"
         },
         {
           "title": "大理通报女生被殴打事件调查处置情况",
@@ -94,31 +123,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时55分 ~ 07时31分]"
-        },
-        {
-          "title": "多地驾校上调报名费，C1车型最高涨500元，交通部门回应",
-          "url": "https://news.ifeng.com/c/8rknq6EgPm2",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时31分]"
-        },
-        {
-          "title": "“内鬼”受贿两千万后公司损失一个亿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%E5%8F%97%E8%B4%BF%E4%B8%A4%E5%8D%83%E4%B8%87%E5%90%8E%E5%85%AC%E5%8F%B8%E6%8D%9F%E5%A4%B1%E4%B8%80%E4%B8%AA%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            9,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 07时31分]"
         },
         {
           "title": "印度政府：该命令为在印度全国范围内铺设和扩建管道提供了一个精简且有时限的框架。",
@@ -203,6 +207,17 @@
           "time_info": "[04时40分 ~ 06时29分]"
         },
         {
+          "title": "官方统计每天1500人心源性猝死离世",
+          "url": "https://www.toutiao.com/trending/7620493126599426091/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
           "url": "https://wallstreetcn.com/livenews/3076183",
           "source": "华尔街见闻-快讯",
@@ -224,6 +239,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "大理通报女生被殴打事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "被妈妈独留酒店男童已由村委安置",
+          "url": "https://www.toutiao.com/trending/7620080415499763754/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "华科大老校长称机器人发展搞错重点",
+          "url": "https://www.toutiao.com/trending/7619844115865419818/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "瑞士央行管委Petra Tschudi：瑞士央行准备在外汇市场偏高时候干预。",
@@ -254,7 +302,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -276,7 +324,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -301,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "财政部部长蓝佛安会见世界银行运营常务副行长比耶德",
+          "url": "https://wallstreetcn.com/livenews/3076294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8911，上调32点；上一交易日中间价6.8943，上一交易日官方收盘价6.8877，上日夜盘报收6.8916。",
+          "url": "https://wallstreetcn.com/livenews/3076293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "伊朗任命新任最高国家安全委员会秘书",
@@ -394,7 +464,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东泰安入室抢婴案二审宣判：驳回上诉，维持原判",
@@ -403,11 +473,34 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 10时04分]"
+        },
+        {
+          "title": "A股贵金属板块集体走强，晓程科技涨近10%，湖南白银、盛达资源、山金国际、中金黄金、赤峰黄金、山东黄金等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "港股油气生产股盘初下跌，山东墨龙(00568.HK)跌近8%，中国海洋石油(00883.HK)跌超5.5%，中国石油股份(00857.HK)跌超2.5%，中信资源(01205.HK)、中国石油股份(00857.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260325093402095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     }
