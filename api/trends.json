@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-03-25T14:02:02.708584+08:00",
-  "total_titles_processed": 1165,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-03-25T15:15:06.969849+08:00",
+  "total_titles_processed": 1270,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
@@ -17,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
@@ -29,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
@@ -45,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -72,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "多地驾校上调报名费，C1车型最高涨500元，交通部门回应",
@@ -83,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "官方撑腰!bin哥剑指亚运席位",
@@ -94,11 +92,12 @@
             17,
             18,
             27,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 15时15分]"
         },
         {
           "title": "“内鬼”受贿两千万后公司损失一个亿",
@@ -117,6 +116,17 @@
           "time_info": "[03时18分 ~ 12时53分]"
         },
         {
+          "title": "“中园石化”加油站被立案调查",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%AD%E7%9F%B3%E5%8C%96%E2%80%9D%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时00分 ~ 15时15分]"
+        },
+        {
           "title": "大理通报女生被殴打事件调查处置情况",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5",
           "source": "百度热搜",
@@ -132,15 +142,15 @@
           "time_info": "[01时55分 ~ 07时31分]"
         },
         {
-          "title": "“中园石化”加油站被立案调查",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%AD%E7%9F%B3%E5%8C%96%E2%80%9D%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "美以伊战争丨伊朗停火条件曝光，美官员：荒谬",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "印尼财长：如果政府批准，镍和煤炭暴利税可能于4月1日实施。",
@@ -149,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -187,6 +197,19 @@
           "time_info": "00时06分"
         },
         {
+          "title": "黑龙江省委书记、省长会见刘强东",
+          "url": "https://www.toutiao.com/trending/7620813305922437161/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时15分]"
+        },
+        {
           "title": "印度政府：发布具有里程碑意义的命令，以加强天然气基础设施并优化营商环境。",
           "url": "https://flash.jin10.com/detail/20260324235508484800",
           "source": "金十数据",
@@ -209,6 +232,55 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 06时29分]"
+        },
+        {
+          "title": "评测造假,汽车之家遭官方整治",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时15分]"
+        },
+        {
+          "title": "患者两年后发现住院检测报告系伪造，中山大学附属第五医院通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32825259",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时15分]"
+        },
+        {
+          "title": "“苏超”南通队因违规违纪被通报批评，4名球员被停赛多场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32823739",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时15分]"
+        },
+        {
+          "title": "加完油才发现是“中园石化”，涉事加油站已被立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32826482",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时15分]"
         },
         {
           "title": "伊拉克内阁：政府授权SOMO（国家石油营销组织）签署汽油进口合同。 新合同将对那些被拖延交付的货物构成补偿。",
@@ -236,18 +308,6 @@
           "time_info": "[04时40分 ~ 06时29分]"
         },
         {
-          "title": "黑龙江省委书记、省长会见刘强东",
-          "url": "https://www.toutiao.com/trending/7620813305922437161/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时00分]"
-        },
-        {
           "title": "官方统计每天1500人心源性猝死离世",
           "url": "https://www.toutiao.com/trending/7620493126599426091/",
           "source": "今日头条",
@@ -271,54 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 14时00分]"
-        },
-        {
-          "title": "评测造假,汽车之家遭官方整治",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
-        },
-        {
-          "title": "患者两年后发现住院检测报告系伪造，中山大学附属第五医院通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32825259",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
-        },
-        {
-          "title": "“苏超”南通队因违规违纪被通报批评，4名球员被停赛多场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32823739",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
-        },
-        {
-          "title": "加完油才发现是“中园石化”，涉事加油站已被立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32826482",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -388,6 +400,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "纪委介入调查30亩待收油菜被毁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A530%E4%BA%A9%E5%BE%85%E6%94%B6%E6%B2%B9%E8%8F%9C%E8%A2%AB%E6%AF%81%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "官方回应张雪峰医疗文件疑遭泄露",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8C%BB%E7%96%97%E6%96%87%E4%BB%B6%E7%96%91%E9%81%AD%E6%B3%84%E9%9C%B2%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -405,7 +428,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -504,9 +527,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "印度政府文件显示，印度将其要求燃煤电厂降低运行负荷的计划推迟一年。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3076485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "市场消息：Arm预计新的芯片部门在五年内年销售额将达到150亿美元。",
@@ -592,7 +626,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -625,7 +659,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -650,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "印尼财政部长：印尼政府向国有银行追加注资100万亿卢比，稳定国债收益率升势",
+          "url": "https://wallstreetcn.com/livenews/3076468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "俄媒：俄联邦安全局称挫败针对俄关键设施、政府官员等恐袭图谋",
