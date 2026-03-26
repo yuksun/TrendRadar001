@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T18:02:33.540633+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-03-26T19:04:54.607349+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "死缓！谭瑞松贪污、受贿、内幕交易、泄露内幕信息案一审宣判",
@@ -46,11 +46,12 @@
             12,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 19时04分]"
         },
         {
           "title": "事关幼儿园食品安全，两部门起草新规向社会征求意见",
@@ -106,6 +107,18 @@
           "time_info": "[00时13分 ~ 13时05分]"
         },
         {
+          "title": "中东战事冲击斯里兰卡：政府关门、商户歇业，全国推行上四休三",
+          "url": "https://news.ifeng.com/c/8rnoIadGt4b",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 19时04分]"
+        },
+        {
           "title": "2025 年有调查显示，95 、 00 后越来越多人开始拒绝加班，但 80 、 90 后还有不少人在熬，你还会熬吗？",
           "url": "https://www.zhihu.com/question/2019165528103600779",
           "source": "知乎",
@@ -118,18 +131,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时44分]"
-        },
-        {
-          "title": "中东战事冲击斯里兰卡：政府关门、商户歇业，全国推行上四休三",
-          "url": "https://news.ifeng.com/c/8rnoIadGt4b",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时02分]"
         },
         {
           "title": "研究所所长被女下属举报猥亵，警方通报",
@@ -179,6 +180,21 @@
           "time_info": "[00时13分 ~ 05时38分]"
         },
         {
+          "title": "周杰伦淘金小镇官方MV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87%E5%AE%98%E6%96%B9MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            7,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 19时04分]"
+        },
+        {
           "title": "死缓！谭瑞松贪污、受贿、内幕交易、泄露内幕信息案一审宣判",
           "url": "https://www.cls.cn/detail/2324409",
           "source": "财联社热门",
@@ -203,20 +219,6 @@
           "time_info": "[01时57分 ~ 07时44分]"
         },
         {
-          "title": "周杰伦淘金小镇官方MV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87%E5%AE%98%E6%96%B9MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时02分]"
-        },
-        {
           "title": "委内瑞拉任命新任对外贸易部长",
           "url": "https://flash.jin10.com/detail/20260326095416602800",
           "source": "金十数据",
@@ -239,13 +241,40 @@
           "time_info": "15时06分"
         },
         {
+          "title": "江苏连云港破获涉案稀土220吨、价值超46亿走私案？官方辟谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32832857",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 19时04分]"
+        },
+        {
+          "title": "山姆紧急下架！监管部门：已立案",
+          "url": "https://news.ifeng.com/c/8rniIOXe6NE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 19时04分]"
+        },
+        {
           "title": "八部门：探索建立缴费时长和待遇水平相挂钩的连续参保激励机制，对连续参保的按规定适当提高支付比例",
           "url": "https://wallstreetcn.com/livenews/3077348",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -270,32 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "江苏连云港破获涉案稀土220吨、价值超46亿走私案？官方辟谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32832857",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时02分]"
-        },
-        {
-          "title": "山姆紧急下架！监管部门：已立案",
-          "url": "https://news.ifeng.com/c/8rniIOXe6NE",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时02分]"
         },
         {
           "title": "上海警方通报女子出差遭领导猥亵",
@@ -406,7 +409,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -417,7 +420,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -516,7 +519,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -552,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "王文涛出席世贸组织投资便利化协定部长会议并致辞",
+          "url": "https://flash.jin10.com/detail/20260326182900607800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "欧洲央行管委Villeroy：央行将不惜一切地让通胀靠近2%。",
@@ -618,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "商务部部长王文涛出席世贸组织投资便利化协定部长会议并致辞",
+          "url": "https://wallstreetcn.com/livenews/3077383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "贪污受贿超7亿！谭瑞松被判死缓",
@@ -763,6 +788,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "以色列国防部长：以军将逐一追击伊朗官员。",
+          "url": "https://flash.jin10.com/detail/20260326182236480800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "韩国将于4月发行18万亿韩元政府债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3077167",
           "source": "华尔街见闻-快讯",
@@ -838,6 +874,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东黄金：2025年净利润47.39亿元，同比增长60.57%",
+          "url": "https://wallstreetcn.com/livenews/3077409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     }
