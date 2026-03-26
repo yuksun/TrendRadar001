@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T06:29:05.481007+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-03-27T07:31:45.304852+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "原正部长级官员刘慧被开除党籍",
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "江苏连云港破获涉案稀土220吨、价值超46亿走私案？官方辟谣",
@@ -26,11 +26,36 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 07时31分]"
+        },
+        {
+          "title": "十三届全国政协教科卫体委员会副主任刘慧严重违纪违法被开除党籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32836651",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 07时31分]"
+        },
+        {
+          "title": "模型店爆雷,包裹藏毒被查获",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352333&amp;topic_name=%E6%A8%A1%E5%9E%8B%E5%BA%97%E7%88%86%E9%9B%B7%2C%E5%8C%85%E8%A3%B9%E8%97%8F%E6%AF%92%E8%A2%AB%E6%9F%A5%E8%8E%B7",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "警方通报高空撒钱：嫌犯抛撒赃款",
@@ -40,23 +65,27 @@
             4,
             5,
             22,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
-          "title": "十三届全国政协教科卫体委员会副主任刘慧严重违纪违法被开除党籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32836651",
-          "source": "澎湃新闻",
+          "title": "20元纸币背景观景台乱收费？景区通报",
+          "url": "https://www.baidu.com/s?wd=20%E5%85%83%E7%BA%B8%E5%B8%81%E8%83%8C%E6%99%AF%E8%A7%82%E6%99%AF%E5%8F%B0%E4%B9%B1%E6%94%B6%E8%B4%B9%EF%BC%9F%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            13
+            29,
+            18,
+            23,
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时13分 ~ 06时29分]"
+          "time_info": "[02时04分 ~ 07时31分]"
         },
         {
           "title": "周杰伦淘金小镇官方MV",
@@ -70,31 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 06时29分]"
-        },
-        {
-          "title": "模型店爆雷,包裹藏毒被查获",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352333&amp;topic_name=%E6%A8%A1%E5%9E%8B%E5%BA%97%E7%88%86%E9%9B%B7%2C%E5%8C%85%E8%A3%B9%E8%97%8F%E6%AF%92%E8%A2%AB%E6%9F%A5%E8%8E%B7",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 06时29分]"
-        },
-        {
-          "title": "20元纸币背景观景台乱收费？景区通报",
-          "url": "https://www.baidu.com/s?wd=20%E5%85%83%E7%BA%B8%E5%B8%81%E8%83%8C%E6%99%AF%E8%A7%82%E6%99%AF%E5%8F%B0%E4%B9%B1%E6%94%B6%E8%B4%B9%EF%BC%9F%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时04分 ~ 06时29分]"
         },
         {
           "title": "世界银行：将借助私营部门的力量，为企业提供流动性、贸易融资和营运资金。",
@@ -236,13 +240,24 @@
           "time_info": "[04时22分 ~ 04时35分]"
         },
         {
+          "title": "经济日报金观平：各级政府要更好“当家理财”",
+          "url": "https://wallstreetcn.com/livenews/3077732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "印度外交部长苏杰生：西亚冲突带来的不确定性，使建立更具韧性的贸易走廊和供应链的必要性更加凸显。",
           "url": "https://flash.jin10.com/detail/20260327060007251800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -253,7 +268,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -291,15 +306,37 @@
           "time_info": "02时04分"
         },
         {
+          "title": "新西兰财政部长：无论全球环境如何变化，新西兰都具备良好的应对能力。",
+          "url": "https://flash.jin10.com/detail/20260327070300839800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "王文涛部长会见新加坡永续发展与环境部部长兼主管贸易关系部长傅海燕",
           "url": "https://wallstreetcn.com/livenews/3077699",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "新西兰财政部长：政府更新国家燃料计划，包含应对燃料安全风险的四个阶段。",
+          "url": "https://flash.jin10.com/detail/20260327070257886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "波兰财政部长：（谈燃油价格纾困措施）消费税下调每月将耗资7亿兹罗提。",
@@ -311,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "新西兰财政部长：目前新西兰无需实施燃油限制措施。",
+          "url": "https://flash.jin10.com/detail/20260327070238372800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Greene：石油（市场供应）冲击意味着，到2027年、甚至2028年这段时期都无法恢复过来。",
@@ -370,8 +418,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时31分]"
         }
       ]
     }
