@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:54:45.315407+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-03-29T21:53:37.535905+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[10时14分 ~ 21时53分]"
         },
         {
           "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
@@ -45,8 +46,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 21时53分]"
+        },
+        {
+          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
+          "url": "https://www.zhihu.com/question/2021515727467803576",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 21时53分]"
         },
         {
           "title": "官方约谈315曝光问题地方政府负责人",
@@ -65,6 +79,20 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
+          "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855545",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 21时53分]"
+        },
+        {
           "title": "高三学生请求拆除鸟巢校长写信回应",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E8%AF%B7%E6%B1%82%E6%8B%86%E9%99%A4%E9%B8%9F%E5%B7%A2%E6%A0%A1%E9%95%BF%E5%86%99%E4%BF%A1%E5%9B%9E%E5%BA%94%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -79,33 +107,6 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
-          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
-          "url": "https://www.zhihu.com/question/2021515727467803576",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 20时54分]"
-        },
-        {
-          "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32855545",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 20时54分]"
-        },
-        {
           "title": "校长给建议拆除鸟巢的学生买了耳塞",
           "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E7%BB%99%E5%BB%BA%E8%AE%AE%E6%8B%86%E9%99%A4%E9%B8%9F%E5%B7%A2%E7%9A%84%E5%AD%A6%E7%94%9F%E4%B9%B0%E4%BA%86%E8%80%B3%E5%A1%9E",
           "source": "百度热搜",
@@ -118,6 +119,35 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 10时14分]"
+        },
+        {
+          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
+          "url": "https://www.cls.cn/detail/2327982",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时14分 ~ 21时53分]"
+        },
+        {
+          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 21时53分]"
         },
         {
           "title": "也门政府谴责伊朗将其拖入地区冲突",
@@ -142,35 +172,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 10时14分]"
-        },
-        {
-          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
-          "url": "https://www.cls.cn/detail/2327982",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 20时54分]"
-        },
-        {
-          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 20时54分]"
         },
         {
           "title": "美中贸易全国委员会会长谭森：美中加强合作才能实现共赢",
@@ -299,6 +300,20 @@
           "time_info": "[17时36分 ~ 20时54分]"
         },
         {
+          "title": "官方通报单亲妈妈申请国赔被叫停",
+          "url": "https://www.toutiao.com/trending/7622219139041591306/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 21时53分]"
+        },
+        {
           "title": "副部级高官落马 多名前下属被查",
           "url": "https://www.toutiao.com/trending/7622115024709897734/",
           "source": "今日头条",
@@ -350,20 +365,6 @@
           "time_info": "[07时30分 ~ 10时14分]"
         },
         {
-          "title": "官方通报单亲妈妈申请国赔被叫停",
-          "url": "https://www.toutiao.com/trending/7622219139041591306/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 20时54分]"
-        },
-        {
           "title": "副部级高官落马 多名前下属被查",
           "url": "https://www.baidu.com/s?wd=%E5%89%AF%E9%83%A8%E7%BA%A7%E9%AB%98%E5%AE%98%E8%90%BD%E9%A9%AC+%E5%A4%9A%E5%90%8D%E5%89%8D%E4%B8%8B%E5%B1%9E%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -402,6 +403,18 @@
           "time_info": "[03时29分 ~ 05时29分]"
         },
         {
+          "title": "美中贸易全国委员会会长谭森：美中加强合作才能实现共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852582",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时53分]"
+        },
+        {
           "title": "官方通报申请国家赔偿被中止办理",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E8%A2%AB%E4%B8%AD%E6%AD%A2%E5%8A%9E%E7%90%86%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -435,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时28分]"
+        },
+        {
+          "title": "全美“无王”抗议升级：洛杉矶上千人包围政府大楼",
+          "url": "https://news.ifeng.com/c/8rtMS5A5tuS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时53分]"
         },
         {
           "title": "以色列军方官员：我们将根据自己的考虑选择何时以及如何打击胡塞武装。",
@@ -497,28 +521,6 @@
           "time_info": "[02时39分 ~ 03时29分]"
         },
         {
-          "title": "美中贸易全国委员会会长谭森：美中加强合作才能实现共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852582",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时32分]"
-        },
-        {
-          "title": "全美“无王”抗议升级：洛杉矶上千人包围政府大楼",
-          "url": "https://news.ifeng.com/c/8rtMS5A5tuS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "安全部门消息人士称，伊拉克什叶派人民动员组织总部遭空袭，死亡人数升至3人，另有6人受伤。",
           "url": "https://flash.jin10.com/detail/20260329002314312800",
           "source": "金十数据",
@@ -558,7 +560,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
