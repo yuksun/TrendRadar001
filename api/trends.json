@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T01:29:40.616644+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-03-30T02:40:57.755482+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "芬兰总统：今晨，有无人机误入芬兰领空。其中一架无人机已确认来自乌克兰。我想强调，芬兰没有面临军事威胁。我们当局立即对这一情况作出了反应。事件的调查仍在进行中。我们正在密切关注局势。芬兰随时准备监控和保护其领土。",
           "url": "https://flash.jin10.com/detail/20260330010626356800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时40分]"
         },
         {
           "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
@@ -35,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
@@ -49,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "全美“无王”抗议升级：洛杉矶上千人包围政府大楼",
@@ -60,19 +62,55 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "纳比勒·法赫米将担任新一任阿盟秘书长",
           "url": "https://wallstreetcn.com/livenews/3078745",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
+        },
+        {
+          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
+        },
+        {
+          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3078735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
+        },
+        {
+          "title": "巴基斯坦外长：我们向各外长及代表团通报了美伊在伊斯兰堡举行会谈的可能性。",
+          "url": "https://flash.jin10.com/detail/20260330004034903800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时40分]"
         },
         {
           "title": "新党副秘书长声援柯文哲被警察围殴",
@@ -87,26 +125,28 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
-          "source": "澎湃新闻",
+          "title": "牧神记村长出画破秘术",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            25,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
+          "title": "副部级高官落马 多名前下属被查",
+          "url": "https://www.toutiao.com/trending/7622115024709897734/",
+          "source": "今日头条",
           "ranks": [
-            15
+            24,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时40分]"
         },
         {
           "title": "女生举报老师性骚扰失败状告公安机关",
@@ -121,15 +161,49 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "巴基斯坦外长：我们向各外长及代表团通报了美伊在伊斯兰堡举行会谈的可能性。",
-          "url": "https://flash.jin10.com/detail/20260330004034903800",
-          "source": "金十数据",
+          "title": "官方通报单亲妈妈申请国赔被叫停",
+          "url": "https://www.toutiao.com/trending/7622219139041591306/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时40分]"
+        },
+        {
+          "title": "伊朗政府发言人：美以袭击致475名妇女和未成年人死亡",
+          "url": "https://wallstreetcn.com/livenews/3078758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时40分"
+        },
+        {
+          "title": "以媒：美官员称到下周初将有足够兵力来执行对伊朗的地面行动",
+          "url": "https://flash.jin10.com/detail/20260330015039504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "伊朗官员：全国各类项目建设均未中断",
+          "url": "https://flash.jin10.com/detail/20260330013806596800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "市场消息：在地面行动扩大之前，内以色列总理内塔尼亚胡、以色列国防部长、以色列总参谋长以及以色列国防军的将领们今天访问了北方司令部。",
@@ -148,39 +222,6 @@
           "source": "金十数据",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "副部级高官落马 多名前下属被查",
-          "url": "https://www.toutiao.com/trending/7622115024709897734/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "牧神记村长出画破秘术",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "官方通报单亲妈妈申请国赔被叫停",
-          "url": "https://www.toutiao.com/trending/7622219139041591306/",
-          "source": "今日头条",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
