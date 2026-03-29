@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T15:02:08.835245+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:38:37.319683+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 15时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时38分]"
         },
         {
           "title": "官方约谈315曝光问题地方政府负责人",
@@ -66,6 +66,29 @@
           "time_info": "[00时32分 ~ 10时14分]"
         },
         {
+          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
+          "url": "https://www.zhihu.com/question/2020794934098142439",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时38分]"
+        },
+        {
+          "title": "牧神记村长出画破秘术",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
+        },
+        {
           "title": "也门政府谴责伊朗将其拖入地区冲突",
           "url": "https://wallstreetcn.com/livenews/3078621",
           "source": "华尔街见闻-快讯",
@@ -88,29 +111,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 10时14分]"
-        },
-        {
-          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
-          "url": "https://www.zhihu.com/question/2020794934098142439",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时02分]"
-        },
-        {
-          "title": "牧神记村长出画破秘术",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
         },
         {
           "title": "美中贸易全国委员会会长谭森：美中加强合作才能实现共赢",
@@ -147,6 +147,17 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
+          "url": "https://www.zhihu.com/question/2021515727467803576",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时38分]"
+        },
+        {
           "title": "伊朗伊斯兰共和国通讯社（IRNA）：当地官员表示，伊朗西南部城镇哈夫特凯勒的水库遭美以空袭袭击。",
           "url": "https://flash.jin10.com/detail/20260329030833879800",
           "source": "金十数据",
@@ -172,27 +183,30 @@
           "time_info": "10时14分"
         },
         {
-          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
-          "url": "https://www.zhihu.com/question/2021515727467803576",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "日本舆论要求日政府向中方道歉",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E8%A6%81%E6%B1%82%E6%97%A5%E6%94%BF%E5%BA%9C%E5%90%91%E4%B8%AD%E6%96%B9%E9%81%93%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
+        },
+        {
+          "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855545",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
         },
         {
           "title": "女子被羁押 821 天后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
@@ -206,6 +220,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "舆论要求日本政府就闯中国使馆道歉",
+          "url": "https://www.toutiao.com/trending/7621869700113350662/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
           "url": "https://flash.jin10.com/detail/20260329004806006800",
           "source": "金十数据",
@@ -216,6 +241,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时39分]"
+        },
+        {
+          "title": "约千人“包围”洛杉矶政府机构大楼",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%8D%83%E4%BA%BA%E2%80%9C%E5%8C%85%E5%9B%B4%E2%80%9D%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%E5%A4%A7%E6%A5%BC",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
+        },
+        {
+          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
+          "url": "https://www.cls.cn/detail/2327982",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时38分]"
         },
         {
           "title": "巴基斯坦：伊朗政府已同意再放行20艘巴船只",
@@ -243,28 +293,42 @@
           "time_info": "[07时30分 ~ 10时14分]"
         },
         {
-          "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32855545",
+          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            15,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
         },
         {
-          "title": "约千人“包围”洛杉矶政府机构大楼",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%8D%83%E4%BA%BA%E2%80%9C%E5%8C%85%E5%9B%B4%E2%80%9D%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%E5%A4%A7%E6%A5%BC",
-          "source": "百度热搜",
+          "title": "副部级高官落马 多名前下属被查",
+          "url": "https://www.toutiao.com/trending/7622115024709897734/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            20
+            22,
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
+        },
+        {
+          "title": "副部级高官落马 多名前下属被查",
+          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E9%83%A8%E7%BA%A7%E9%AB%98%E5%AE%98%E8%90%BD%E9%A9%AC+%E5%A4%9A%E5%90%8D%E5%89%8D%E4%B8%8B%E5%B1%9E%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时38分]"
         },
         {
           "title": "以色列军方官员：我们已做好准备迎接胡塞武装的参战。",
@@ -280,18 +344,6 @@
           "time_info": "[03时29分 ~ 05时29分]"
         },
         {
-          "title": "【早报】两部门督办“3・15”晚会曝光问题整改；俄罗斯4月1日起将禁止汽油出口",
-          "url": "https://www.cls.cn/detail/2327982",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时02分]"
-        },
-        {
           "title": "以色列军方官员：胡塞武装只是一个干扰因素，我们将全力继续进行对伊朗的打击。",
           "url": "https://flash.jin10.com/detail/20260329022700833800",
           "source": "金十数据",
@@ -303,41 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时29分 ~ 05时29分]"
-        },
-        {
-          "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
-        },
-        {
-          "title": "副部级高官落马 多名前下属被查",
-          "url": "https://www.toutiao.com/trending/7622115024709897734/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
-        },
-        {
-          "title": "副部级高官落马 多名前下属被查",
-          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E9%83%A8%E7%BA%A7%E9%AB%98%E5%AE%98%E8%90%BD%E9%A9%AC+%E5%A4%9A%E5%90%8D%E5%89%8D%E4%B8%8B%E5%B1%9E%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时02分]"
         },
         {
           "title": "官方通报申请国家赔偿被中止办理",
@@ -434,6 +451,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "巴基斯坦副总理兼外交部长会见埃及外长",
+          "url": "https://flash.jin10.com/detail/20260329152041535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "王文涛部长发表书面致辞 支持世贸组织《电子商务协定》达成临时实施安排",
           "url": "https://flash.jin10.com/detail/20260328222329685800",
           "source": "金十数据",
@@ -443,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "日本民众举行抗议集会 敦促日本政府就强闯使馆事件道歉",
+          "url": "https://flash.jin10.com/detail/20260329151128088800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "印度商务部长：纳入投资框架协定将有损世界贸易组织的职能边界，并削弱其基本原则。",
@@ -534,11 +573,12 @@
           "ranks": [
             8,
             13,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时38分]"
         }
       ]
     }
