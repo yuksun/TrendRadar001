@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T03:58:03.002436+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-31T04:50:57.305736+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 04时50分]"
         },
         {
           "title": "西班牙对袭击伊朗军机关闭领空",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 04时50分]"
         },
         {
           "title": "央视调查烧秸秆屡禁不止",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 04时50分]"
         },
         {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
@@ -52,8 +53,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 04时50分]"
         },
         {
           "title": "河南平顶山通报“女子去世后被结婚”",
@@ -63,20 +64,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 03时58分]"
-        },
-        {
-          "title": "大连多地出现不明臭味 官方回应",
-          "url": "https://www.toutiao.com/trending/7622857447008124955/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 04时50分]"
         },
         {
           "title": "西班牙对参与美伊战事的军机关闭领空",
@@ -86,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时50分]"
         },
         {
           "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
@@ -97,8 +86,69 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时50分]"
+        },
+        {
+          "title": "大连多地出现不明臭味 官方回应",
+          "url": "https://www.toutiao.com/trending/7622857447008124955/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            5,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时05分 ~ 03时58分]"
+          "time_info": "[02时58分 ~ 04时50分]"
+        },
+        {
+          "title": "欧官员称伊朗促胡塞武装备战红海 后者内部存分歧",
+          "url": "https://flash.jin10.com/detail/20260331042201198800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
+          "url": "https://news.ifeng.com/c/8rvD3PGcseJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时50分]"
+        },
+        {
+          "title": "河南平顶山通报“女子去世后被结婚”",
+          "url": "https://www.toutiao.com/trending/7622998928476389385/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            28,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时50分]"
+        },
+        {
+          "title": "山西省人大常委会原党组成员、副主任岳普煜被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863109",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时50分]"
         },
         {
           "title": "七国集团召开跨部门会议，拟在必要时协同稳定能源市场",
@@ -113,42 +163,6 @@
           "time_info": "[00时05分 ~ 01时54分]"
         },
         {
-          "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
-          "url": "https://news.ifeng.com/c/8rvD3PGcseJ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 03时58分]"
-        },
-        {
-          "title": "河南平顶山通报“女子去世后被结婚”",
-          "url": "https://www.toutiao.com/trending/7622998928476389385/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时58分]"
-        },
-        {
-          "title": "山西省人大常委会原党组成员、副主任岳普煜被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863109",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时58分]"
-        },
-        {
           "title": "白宫官方 App 上架被美媒称为「怪异又多余」，如何看待这一评价？",
           "url": "https://www.zhihu.com/question/2021523862542624218",
           "source": "知乎",
@@ -158,8 +172,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时50分]"
         },
         {
           "title": "法国外交部长：在联合国驻黎巴嫩临时部队维和人员遇袭后，请求召开联合国安理会紧急会议。",
@@ -184,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时58分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长称，我们已采取必要措施确保燃料供应，不会面临任何问题。",
+          "url": "https://flash.jin10.com/detail/20260331040455736800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "市场消息：迪拜批准100亿迪拉姆经济支持方案以助力商业部门，计划将于4月1日起实施，持续三到六个月。",
