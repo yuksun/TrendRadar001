@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T13:23:41.528116+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-03-30T15:26:02.491351+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
@@ -44,11 +44,12 @@
             19,
             17,
             23,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 13时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时26分]"
         },
         {
           "title": "副部级高官落马 多名前下属被查",
@@ -108,6 +109,19 @@
           "time_info": "[00时34分 ~ 06时30分]"
         },
         {
+          "title": "美官员：美军特种作战部队人员已抵达中东",
+          "url": "https://news.ifeng.com/c/8ruUOuLOV6v",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 15时26分]"
+        },
+        {
           "title": "纳比勒·法赫米将担任新一任阿盟秘书长",
           "url": "https://wallstreetcn.com/livenews/3078745",
           "source": "华尔街见闻-快讯",
@@ -148,16 +162,16 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
-          "title": "美官员：美军特种作战部队人员已抵达中东",
-          "url": "https://news.ifeng.com/c/8ruUOuLOV6v",
-          "source": "凤凰网",
+          "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
+          "url": "https://www.cls.cn/detail/2328496",
+          "source": "财联社热门",
           "ranks": [
             4,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 15时26分]"
         },
         {
           "title": "美以伊战争丨美官员：特种作战部队人员已抵达中东",
@@ -166,7 +180,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -177,7 +191,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -215,37 +229,16 @@
           "time_info": "07时31分"
         },
         {
-          "title": "官方：长期限制配偶正常社交是家暴",
-          "url": "https://www.toutiao.com/trending/7621930691261743146/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
-          "url": "https://www.cls.cn/detail/2328496",
-          "source": "财联社热门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860443",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            9,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "境外间谍机关渗透我国粮食领域",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%83%E5%A4%96%E9%97%B4%E8%B0%8D%E6%9C%BA%E5%85%B3%E6%B8%97%E9%80%8F%E6%88%91%E5%9B%BD%E7%B2%AE%E9%A3%9F%E9%A2%86%E5%9F%9F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时26分]"
         },
         {
           "title": "中国国民党主席郑丽文感谢并接受中共中央和习近平总书记邀请将率团访问大陆。（新华社）",
@@ -269,6 +262,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 06时30分]"
+        },
+        {
+          "title": "官方：长期限制配偶正常社交是家暴",
+          "url": "https://www.toutiao.com/trending/7621930691261743146/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时26分]"
+        },
+        {
+          "title": "境外间谍机关渗透我国粮食领域",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A2%83%E5%A4%96%E9%97%B4%E8%B0%8D%E6%9C%BA%E5%85%B3%E6%B8%97%E9%80%8F%E6%88%91%E5%9B%BD%E7%B2%AE%E9%A3%9F%E9%A2%86%E5%9F%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时26分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗能源部副部长称，德黑兰东部的停电问题已得到解决。",
@@ -307,6 +324,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时40分]"
+        },
+        {
+          "title": "美官员称美军特种作战部队人员已抵达中东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860287",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 15时26分]"
+        },
+        {
+          "title": "政协委员呼吁“减少高成长型中小微企业外迁”，四川省经信厅回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857617",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 15时26分]"
         },
         {
           "title": "全美“无王”抗议升级：洛杉矶上千人包围政府大楼",
@@ -369,16 +412,26 @@
           "time_info": "[00时34分 ~ 01时29分]"
         },
         {
-          "title": "美官员称美军特种作战部队人员已抵达中东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860287",
-          "source": "澎湃新闻",
+          "title": "女生囤积考点附近酒店房间当黄牛被查",
+          "url": "https://www.toutiao.com/trending/7622901982462312502/",
+          "source": "今日头条",
           "ranks": [
-            15,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 13时23分]"
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "黑龙江通报建筑坍塌事故",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "伊朗官员：全国各类项目建设均未中断",
@@ -393,16 +446,15 @@
           "time_info": "[02时40分 ~ 03时32分]"
         },
         {
-          "title": "政协委员呼吁“减少高成长型中小微企业外迁”，四川省经信厅回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857617",
+          "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857611",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 13时23分]"
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "舆论要求日本政府就闯中国使馆道歉",
@@ -416,6 +468,17 @@
           "time_info": "[06时29分 ~ 06时30分]"
         },
         {
+          "title": "日本政府发言人：看到金融市场正出现大幅波动。",
+          "url": "https://flash.jin10.com/detail/20260330151351758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "澳大利亚国库部长查默斯：减税措施将在未来一年内拉低消费者价格指数。",
           "url": "https://flash.jin10.com/detail/20260330095643040800",
           "source": "金十数据",
@@ -425,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "日本政府发言人：我们以极高的紧迫感密切关注市场动向。",
+          "url": "https://flash.jin10.com/detail/20260330151341938800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -449,24 +523,13 @@
           "time_info": "10时23分"
         },
         {
-          "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860443",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "有关官员及消息人士称，欧洲航空业2025年绿色航空燃料使用比例很可能已经达到甚至超过2%的法定目标。",
           "url": "https://flash.jin10.com/detail/20260330130054407800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -499,9 +562,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "伊朗官员称计划对通过霍尔木兹海峡船只实施准入和收费制度",
+          "url": "https://wallstreetcn.com/livenews/3079041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美联储鸽派官员纷纷倒戈，降息周期或已终结？",
@@ -510,7 +584,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -559,6 +633,28 @@
           "time_info": "10时23分"
         },
         {
+          "title": "伊朗官员称计划对通过霍尔木兹海峡船只实施准入和收费制度",
+          "url": "https://flash.jin10.com/detail/20260330150329654800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "西班牙宣布对参与美伊战事的军用飞机关闭领空",
+          "url": "https://wallstreetcn.com/livenews/3079031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "澳大利亚国库部长查默斯：相关措施将缓解燃料价格上涨带来的冲击。",
           "url": "https://flash.jin10.com/detail/20260330094753456800",
           "source": "金十数据",
@@ -603,6 +699,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "日本参议院预算委员会通过2026财年临时预算案",
+          "url": "https://wallstreetcn.com/livenews/3079025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯：政府将对汽油和柴油实行燃料消费税减半征收，为期三个月。",
           "url": "https://flash.jin10.com/detail/20260330094408123800",
           "source": "金十数据",
@@ -612,6 +719,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股贵金属板块震荡拉升，赤峰黄金涨超8%，山金国际、山东黄金、招金黄金、中金黄金、四川黄金涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3079027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     }
