@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T20:22:24.149837+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-03-31T21:15:51.486602+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -155,6 +155,17 @@
           "time_info": "[02时58分 ~ 07时34分]"
         },
         {
+          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时15分]"
+        },
+        {
           "title": "白宫官方 App 上架被美媒称为「怪异又多余」，如何看待这一评价？",
           "url": "https://www.zhihu.com/question/2021523862542624218",
           "source": "知乎",
@@ -171,15 +182,34 @@
           "time_info": "[01时54分 ~ 10时11分]"
         },
         {
-          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
-          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
-          "source": "凤凰网",
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            15,
+            13,
+            12,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 20时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 21时15分]"
+        },
+        {
+          "title": "丝芭实名举报,小鞠偷税漏税",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352571&amp;topic_name=%E4%B8%9D%E8%8A%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%2C%E5%B0%8F%E9%9E%A0%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "3月官方制造业PMI为50.4% 经济回升向好",
@@ -209,20 +239,6 @@
           "time_info": "[10时11分 ~ 18时08分]"
         },
         {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 20时22分]"
-        },
-        {
           "title": "鞠婧祎被实名举报偷税漏税",
           "url": "https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -234,19 +250,16 @@
           "time_info": "10时11分"
         },
         {
-          "title": "丝芭实名举报,小鞠偷税漏税",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352571&amp;topic_name=%E4%B8%9D%E8%8A%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%2C%E5%B0%8F%E9%9E%A0%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
-          "source": "贴吧",
+          "title": "鞠婧祎被实名举报偷税漏税，有哪些信息值得关注？对鞠婧祎的影响有多大？",
+          "url": "https://www.zhihu.com/question/2022252700604134491",
+          "source": "知乎",
           "ranks": [
-            8,
-            11,
-            14,
-            16,
-            21
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时08分 ~ 20时22分]"
+          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "德国政府发言人：政府对以色列议会的决定深表遗憾，无法予以支持。",
@@ -293,6 +306,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "官方回应鞠婧祎涉税事项",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "官方通报男子玩真人CS高坠身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%8E%A9%E7%9C%9F%E4%BA%BACS%E9%AB%98%E5%9D%A0%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -310,7 +334,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -337,6 +361,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
+          "url": "https://www.zhihu.com/question/2022397421683040410",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "税务部门回应鞠婧祎被举报偷漏税",
           "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E",
           "source": "百度热搜",
@@ -351,16 +386,17 @@
           "time_info": "[13时08分 ~ 18时08分]"
         },
         {
-          "title": "鞠婧祎被实名举报偷税漏税，有哪些信息值得关注？对鞠婧祎的影响有多大？",
-          "url": "https://www.zhihu.com/question/2022252700604134491",
-          "source": "知乎",
+          "title": "外交部揭底自卫队官员为何强闯中使馆",
+          "url": "https://www.toutiao.com/trending/7622819484025409065/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            8,
+            26,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时08分 ~ 20时22分]"
+          "time_info": "[16时57分 ~ 21时15分]"
         },
         {
           "title": "据巴西《圣保罗页报》：巴西政府将宣布一系列旨在遏制喷气燃料价格上涨的措施。",
@@ -373,18 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时35分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何强闯中使馆",
-          "url": "https://www.toutiao.com/trending/7622819484025409065/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 20时22分]"
         },
         {
           "title": "央视调查烧秸秆屡禁不止",
@@ -423,6 +447,19 @@
           "time_info": "[00时05分 ~ 01时54分]"
         },
         {
+          "title": "如何看待贵州四部门发文落实休假，要求摒弃「将不休假等于敬业奉献」的片面认识？能否改变「休假羞耻」？",
+          "url": "https://www.zhihu.com/question/2021961087789139395",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时15分]"
+        },
+        {
           "title": "男子CT报告显示子宫正常，院方通报：涉事人员已停职",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862717",
           "source": "澎湃新闻",
@@ -436,16 +473,15 @@
           "time_info": "[15时12分 ~ 20时22分]"
         },
         {
-          "title": "如何看待贵州四部门发文落实休假，要求摒弃「将不休假等于敬业奉献」的片面认识？能否改变「休假羞耻」？",
-          "url": "https://www.zhihu.com/question/2021961087789139395",
-          "source": "知乎",
+          "title": "税务部门：未发现鞠婧祎涉税问题",
+          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%EF%BC%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 20时22分]"
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时15分]"
         },
         {
           "title": "官方通报网友反映亡母被结婚，系其舅舅伪造其母亲身份欲冒领养老金，涉事人员被处分，哪些信息值得关注？",
@@ -484,6 +520,17 @@
           "time_info": "[02时58分 ~ 03时58分]"
         },
         {
+          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
+          "url": "https://www.zhihu.com/question/2021862824255693111",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时15分]"
+        },
+        {
           "title": "鞠婧祎被实名举报偷漏税，称其申报 1100 万元，实际收入超五千万元，若情况属实将面临哪些法律后果？",
           "url": "https://www.zhihu.com/question/2022257383494173642",
           "source": "知乎",
@@ -516,17 +563,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
-        },
-        {
-          "title": "税务部门：未发现鞠婧祎涉税问题",
-          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%EF%BC%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
         },
         {
           "title": "德国政府发言人：政府对以色列通过的死刑法案表示严重关切。",
@@ -579,18 +615,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
-          "url": "https://www.zhihu.com/question/2021862824255693111",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -634,7 +659,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -678,7 +703,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -700,7 +725,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -738,13 +763,24 @@
           "time_info": "18时08分"
         },
         {
+          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "印度尼西亚首席经济部长：国家燃油储备仍充足，财政状况依然稳健。",
           "url": "https://flash.jin10.com/detail/20260331200843653800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -777,7 +813,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
