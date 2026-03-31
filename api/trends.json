@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:15:51.486602+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-03-31T23:02:12.231341+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 86,
+      "match_count": 97,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -129,6 +129,22 @@
           "time_info": "[00时04分 ~ 06时35分]"
         },
         {
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 23时02分]"
+        },
+        {
           "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
           "url": "https://news.ifeng.com/c/8rvD3PGcseJ",
           "source": "凤凰网",
@@ -180,21 +196,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时54分 ~ 10时11分]"
-        },
-        {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "丝芭实名举报,小鞠偷税漏税",
@@ -306,15 +307,27 @@
           "time_info": "10时11分"
         },
         {
-          "title": "官方回应鞠婧祎涉税事项",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
-          "source": "bilibili 热搜",
+          "title": "墨西哥总统辛鲍姆：调查迄今未发现漏油。",
+          "url": "https://flash.jin10.com/detail/20260331224427220800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "官方回应鞠婧祎涉税事项",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时02分]"
         },
         {
           "title": "官方通报男子玩真人CS高坠身亡",
@@ -350,6 +363,17 @@
           "time_info": "16时58分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：政府和科学家正在调查墨西哥湾石油泄漏事件。",
+          "url": "https://flash.jin10.com/detail/20260331224421058800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
           "url": "https://wallstreetcn.com/livenews/3079592",
           "source": "华尔街见闻-快讯",
@@ -359,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
-          "url": "https://www.zhihu.com/question/2022397421683040410",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "税务部门回应鞠婧祎被举报偷漏税",
@@ -397,6 +410,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时57分 ~ 21时15分]"
+        },
+        {
+          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
+          "url": "https://www.zhihu.com/question/2022397421683040410",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时02分]"
+        },
+        {
+          "title": "税务部门：未发现鞠婧祎涉税问题",
+          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%EF%BC%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 23时02分]"
         },
         {
           "title": "据巴西《圣保罗页报》：巴西政府将宣布一系列旨在遏制喷气燃料价格上涨的措施。",
@@ -473,15 +510,27 @@
           "time_info": "[15时12分 ~ 20时22分]"
         },
         {
-          "title": "税务部门：未发现鞠婧祎涉税问题",
-          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%EF%BC%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
+          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
+          "url": "https://www.zhihu.com/question/2021862824255693111",
+          "source": "知乎",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 23时02分]"
+        },
+        {
+          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时02分]"
         },
         {
           "title": "官方通报网友反映亡母被结婚，系其舅舅伪造其母亲身份欲冒领养老金，涉事人员被处分，哪些信息值得关注？",
@@ -520,15 +569,15 @@
           "time_info": "[02时58分 ~ 03时58分]"
         },
         {
-          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
-          "url": "https://www.zhihu.com/question/2021862824255693111",
-          "source": "知乎",
+          "title": "妻子4次试管未孕 丈夫出轨生子获刑",
+          "url": "https://www.toutiao.com/trending/7623346123201740836/",
+          "source": "今日头条",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时15分]"
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "鞠婧祎被实名举报偷漏税，称其申报 1100 万元，实际收入超五千万元，若情况属实将面临哪些法律后果？",
@@ -554,6 +603,39 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864912",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "纯牛奶倒出疑似透明苦水？当地通报",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%AF%E7%89%9B%E5%A5%B6%E5%80%92%E5%87%BA%E7%96%91%E4%BC%BC%E9%80%8F%E6%98%8E%E8%8B%A6%E6%B0%B4%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "丝芭 我司并非举报主体",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%9D%E8%8A%AD%20%E6%88%91%E5%8F%B8%E5%B9%B6%E9%9D%9E%E4%B8%BE%E6%8A%A5%E4%B8%BB%E4%BD%93&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。",
           "url": "https://wallstreetcn.com/livenews/3079834",
           "source": "华尔街见闻-快讯",
@@ -563,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "德国政府发言人：政府对以色列通过的死刑法案表示严重关切。",
@@ -763,17 +856,6 @@
           "time_info": "18时08分"
         },
         {
-          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "印度尼西亚首席经济部长：国家燃油储备仍充足，财政状况依然稳健。",
           "url": "https://flash.jin10.com/detail/20260331200843653800",
           "source": "金十数据",
@@ -794,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "巴西国家石油公司勘探与生产部门负责人：公司3月份单日原油产量达290万桶。",
+          "url": "https://flash.jin10.com/detail/20260331222328653800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "九部门：到2028年，物联网核心产业规模突破3.5万亿元",
@@ -849,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "路透调查：分析师以有记录以来最大幅度上调年度油价预测",
+          "url": "https://flash.jin10.com/detail/20260331222201157800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "中国—尼加拉瓜自贸协定联合委员会举行第一次会议",
@@ -950,6 +1054,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "英国政府：在“伊拉克和黎凡特伊斯兰国”和基地组织制裁机制下新增1项指定对象。",
+          "url": "https://flash.jin10.com/detail/20260331221851386800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "欧洲央行管委穆勒：不能排除四月加息的可能性；将密切关注工资和劳动力市场。",
           "url": "https://flash.jin10.com/detail/20260331174829422800",
           "source": "金十数据",
@@ -970,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "联合国维和行动负责人：针对两名印尼维和人员在黎巴嫩南部遇难事件的初步调查结果显示，事故系路边炸弹爆炸所致。",
+          "url": "https://flash.jin10.com/detail/20260331221343505800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "国民党台中市长初选结果揭晓",
