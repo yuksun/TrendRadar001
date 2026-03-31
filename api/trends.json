@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T10:11:31.125971+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-03-31T13:08:47.043074+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 33,
+      "match_count": 46,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -49,6 +49,33 @@
           "time_info": "[00时04分 ~ 10时11分]"
         },
         {
+          "title": "山西省人大常委会原党组成员、副主任岳普煜被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863109",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 13时08分]"
+        },
+        {
+          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
+          "url": "https://wallstreetcn.com/articles/3768721",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 13时08分]"
+        },
+        {
           "title": "西班牙对参与美伊战事的军机关闭领空",
           "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AF%B9%E5%8F%82%E4%B8%8E%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%8B%E7%9A%84%E5%86%9B%E6%9C%BA%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
           "source": "百度热搜",
@@ -78,20 +105,6 @@
           "time_info": "[01时54分 ~ 07时34分]"
         },
         {
-          "title": "山西省人大常委会原党组成员、副主任岳普煜被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863109",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 10时11分]"
-        },
-        {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862446",
           "source": "澎湃新闻",
@@ -114,17 +127,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 06时35分]"
-        },
-        {
-          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
-          "url": "https://wallstreetcn.com/articles/3768721",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时11分]"
         },
         {
           "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
@@ -175,7 +177,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -186,18 +188,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "央视调查烧秸秆屡禁不止",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E7%83%A7%E7%A7%B8%E7%A7%86%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -225,6 +216,18 @@
           "time_info": "[05时41分 ~ 06时35分]"
         },
         {
+          "title": "央视调查烧秸秆屡禁不止",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E7%83%A7%E7%A7%B8%E7%A7%86%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时08分]"
+        },
+        {
           "title": "欧官员称伊朗促胡塞武装备战红海 后者内部存分歧",
           "url": "https://flash.jin10.com/detail/20260331042201198800",
           "source": "金十数据",
@@ -247,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时54分]"
+        },
+        {
+          "title": "官方通报网友反映亡母被结婚，系其舅舅伪造其母亲身份欲冒领养老金，涉事人员被处分，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2022043008556689229",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时08分]"
         },
         {
           "title": "法国外交部长：在联合国驻黎巴嫩临时部队维和人员遇袭后，请求召开联合国安理会紧急会议。",
@@ -273,6 +288,18 @@
           "time_info": "[02时58分 ~ 03时58分]"
         },
         {
+          "title": "河南平顶山通报“女子去世后被结婚”：涉事人员被处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862866",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时08分]"
+        },
+        {
           "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862487",
           "source": "澎湃新闻",
@@ -284,15 +311,37 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
-          "title": "官方通报网友反映亡母被结婚，系其舅舅伪造其母亲身份欲冒领养老金，涉事人员被处分，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2022043008556689229",
-          "source": "知乎",
+          "title": "泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。",
+          "url": "https://wallstreetcn.com/livenews/3079834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "国家医保局副局长李滔会见多家跨国医药企业及行业协会负责人",
+          "url": "https://wallstreetcn.com/livenews/3079833",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时08分"
+        },
+        {
+          "title": "丝芭实名举报,小鞠偷税漏税",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352571&amp;topic_name=%E4%B8%9D%E8%8A%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%2C%E5%B0%8F%E9%9E%A0%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "马来西亚央行：货币政策委员会已做好准备，确保市场有序运行并管控过度波动。",
@@ -301,7 +350,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -312,20 +361,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
         {
-          "title": "河南平顶山通报“女子去世后被结婚”：涉事人员被处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862866",
-          "source": "澎湃新闻",
+          "title": "3月官方制造业PMI为50.4% 经济回升向好",
+          "url": "https://www.cls.cn/detail/2329847",
+          "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时08分"
+        },
+        {
+          "title": "韩国财政部官员：日本政府养老金投资基金正买入韩国国债。",
+          "url": "https://flash.jin10.com/detail/20260331124825327800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "税务部门回应鞠婧祎被举报偷漏税",
+          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E6%BC%8F%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "鞠婧祎被实名举报偷税漏税，有哪些信息值得关注？对鞠婧祎的影响有多大？",
+          "url": "https://www.zhihu.com/question/2022252700604134491",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长称，我们已采取必要措施确保燃料供应，不会面临任何问题。",
@@ -350,6 +443,28 @@
           "time_info": "00时05分"
         },
         {
+          "title": "九部门：到2028年，物联网核心产业规模突破3.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3079817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "央视调查烧秸秆屡禁不止",
+          "url": "https://www.toutiao.com/trending/7622614582146449435/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "中国—尼加拉瓜自贸协定联合委员会举行第一次会议",
           "url": "https://wallstreetcn.com/livenews/3079478",
           "source": "华尔街见闻-快讯",
@@ -367,7 +482,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -378,7 +493,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -400,9 +515,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "英国对华挖掘机发起反吸收调查",
+          "url": "https://wallstreetcn.com/livenews/3079803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "国民党台中市长初选结果揭晓",
+          "url": "https://www.toutiao.com/trending/7622194978793685035/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "新加坡交易所：新交所衍生品将推出亚太政府债券期货。",
+          "url": "https://flash.jin10.com/detail/20260331120607929800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
