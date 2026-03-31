@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:34:11.696242+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-03-31T10:11:31.125971+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 07时34分]"
-        },
-        {
-          "title": "西班牙对袭击伊朗军机关闭领空",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AF%B9%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%86%9B%E6%9C%BA%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 07时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 10时11分]"
         },
         {
           "title": "央视调查烧秸秆屡禁不止",
@@ -44,8 +31,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 07时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 10时11分]"
+        },
+        {
+          "title": "西班牙对袭击伊朗军机关闭领空",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AF%B9%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%86%9B%E6%9C%BA%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 10时11分]"
         },
         {
           "title": "西班牙对参与美伊战事的军机关闭领空",
@@ -87,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 10时11分]"
         },
         {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
@@ -115,6 +116,28 @@
           "time_info": "[00时04分 ~ 06时35分]"
         },
         {
+          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
+          "url": "https://wallstreetcn.com/articles/3768721",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 10时11分]"
+        },
+        {
+          "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
+          "url": "https://news.ifeng.com/c/8rvD3PGcseJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 10时11分]"
+        },
+        {
           "title": "大连多地出现不明臭味 官方回应",
           "url": "https://www.toutiao.com/trending/7622857447008124955/",
           "source": "今日头条",
@@ -130,28 +153,6 @@
           "time_info": "[02时58分 ~ 07时34分]"
         },
         {
-          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
-          "url": "https://wallstreetcn.com/articles/3768721",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时34分]"
-        },
-        {
-          "title": "日民众抗议：驻日美军未经日政府同意擅自赴中东参战",
-          "url": "https://news.ifeng.com/c/8rvD3PGcseJ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时34分]"
-        },
-        {
           "title": "白宫官方 App 上架被美媒称为「怪异又多余」，如何看待这一评价？",
           "url": "https://www.zhihu.com/question/2021523862542624218",
           "source": "知乎",
@@ -160,11 +161,45 @@
             14,
             15,
             13,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 07时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 10时11分]"
+        },
+        {
+          "title": "鞠婧祎被实名举报偷税漏税",
+          "url": "https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "受贿数额特别巨大！中国证监会原副主席王建军被提起公诉",
+          "url": "https://wallstreetcn.com/livenews/3079743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "央视调查烧秸秆屡禁不止",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E7%83%A7%E7%A7%B8%E7%A7%86%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
@@ -249,6 +284,50 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "官方通报网友反映亡母被结婚，系其舅舅伪造其母亲身份欲冒领养老金，涉事人员被处分，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2022043008556689229",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "马来西亚央行：货币政策委员会已做好准备，确保市场有序运行并管控过度波动。",
+          "url": "https://flash.jin10.com/detail/20260331100103545800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "受贿数额特别巨大 中国证监会原副主席王建军被提起公诉",
+          "url": "https://flash.jin10.com/detail/20260331100050786800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "河南平顶山通报“女子去世后被结婚”：涉事人员被处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862866",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长称，我们已采取必要措施确保燃料供应，不会面临任何问题。",
           "url": "https://flash.jin10.com/detail/20260331040455736800",
           "source": "金十数据",
@@ -282,15 +361,48 @@
           "time_info": "00时05分"
         },
         {
+          "title": "中国3月官方综合PMI 50.5，前值 49.5。",
+          "url": "https://wallstreetcn.com/livenews/3079711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中国3月官方制造业PMI 50.4，前值 49。",
+          "url": "https://wallstreetcn.com/livenews/3079710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "澳洲联储发布支付系统委员会的最终决定。 取消借记卡、预付卡和信用卡的刷卡手续费（附加费）。 降低交换费（Interchange Fees）的上限。 提高卡组织（如Visa/Mastercard）网络费用的透明度。 相关变更将于10月1日正式生效。 澳洲联储计划针对本次审查未涵盖的领域开展进一步咨询 澳洲联储的公开咨询计划包括手机钱包（Mobile Wallets）和“先买后付”（BNPL）模式。",
           "url": "https://wallstreetcn.com/livenews/3079604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "中国3月官方非制造业PMI 50.1，前值 49.5。",
+          "url": "https://wallstreetcn.com/livenews/3079709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
