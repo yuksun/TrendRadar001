@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-01T04:49:36.799327+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-04-01T05:38:34.048789+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "官方回应鞠婧祎涉税事项",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
-        },
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
           "url": "https://www.zhihu.com/question/2022394365436248248",
@@ -29,8 +17,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时38分]"
+        },
+        {
+          "title": "官方回应鞠婧祎涉税事项",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "税务部门：未发现鞠婧祎涉税问题",
@@ -66,11 +67,12 @@
             20,
             10,
             22,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "妻子4次试管未孕 丈夫出轨生子获刑",
@@ -83,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "纯牛奶倒出疑似透明苦水？当地通报",
@@ -94,11 +96,12 @@
             24,
             26,
             25,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
@@ -109,8 +112,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
@@ -120,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时38分]"
         },
         {
           "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
@@ -131,8 +134,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时38分]"
+        },
+        {
+          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
+          "url": "https://www.zhihu.com/question/2021862824255693111",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时38分]"
+        },
+        {
+          "title": "贺青升任上海市副市长",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E9%9D%92%E5%8D%87%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            28,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时38分]"
         },
         {
           "title": "以色列官员：谈判破裂意味着将攻击德黑兰的石油设施。",
@@ -155,31 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
-          "url": "https://www.zhihu.com/question/2021862824255693111",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时49分]"
-        },
-        {
-          "title": "贺青升任上海市副市长",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E9%9D%92%E5%8D%87%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 04时49分]"
         },
         {
           "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
@@ -222,11 +226,12 @@
           "url": "https://www.toutiao.com/trending/7622819484025409065/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时38分]"
         },
         {
           "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
@@ -275,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时58分]"
+        },
+        {
+          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：与土耳其领导层举行了一系列重要会议，讨论了安全形势、谈判进展，以及针对共同威胁的进一步协调步骤。",
+          "url": "https://flash.jin10.com/detail/20260401044951306800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "欧洲央行管委Rehn：加息并非板上钉钉",
