@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T01:56:07.218459+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-04-01T03:01:45.269241+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "官方回应鞠婧祎涉税事项",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "以色列官员：谈判破裂意味着将攻击德黑兰的石油设施。",
@@ -49,9 +50,55 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
+          "url": "https://flash.jin10.com/detail/20260401024747669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：加息（预期）是没有保障的。",
+          "url": "https://wallstreetcn.com/livenews/3080330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
+          "url": "https://flash.jin10.com/detail/20260401024156924800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "税务部门：未发现鞠婧祎涉税问题",
@@ -62,20 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
-        },
-        {
-          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "妻子4次试管未孕 丈夫出轨生子获刑",
@@ -83,33 +118,36 @@
           "source": "今日头条",
           "ranks": [
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32864912",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "纯牛奶倒出疑似透明苦水？当地通报",
           "url": "https://www.baidu.com/s?wd=%E7%BA%AF%E7%89%9B%E5%A5%B6%E5%80%92%E5%87%BA%E7%96%91%E4%BC%BC%E9%80%8F%E6%98%8E%E8%8B%A6%E6%B0%B4%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
@@ -119,8 +157,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
@@ -130,8 +168,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
@@ -141,19 +179,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时01分]"
         },
         {
           "title": "贺青升任上海市副市长",
           "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E9%9D%92%E5%8D%87%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时01分]"
         },
         {
           "title": "外交部揭底自卫队官员为何强闯中使馆",
@@ -167,13 +206,57 @@
           "time_info": "[01时55分 ~ 01时56分]"
         },
         {
+          "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
+          "url": "https://flash.jin10.com/detail/20260401022916465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
+          "url": "https://flash.jin10.com/detail/20260401022746023800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
+          "url": "https://flash.jin10.com/detail/20260401022740700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
+          "url": "https://flash.jin10.com/detail/20260401022554348800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
           "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
           "url": "https://flash.jin10.com/detail/20260401010742198800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
