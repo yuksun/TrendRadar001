@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:23:51.465521+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-04-01T15:18:53.448549+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -74,11 +74,12 @@
             14,
             15,
             13,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 15时18分]"
         },
         {
           "title": "税务部门：未发现鞠婧祎涉税问题",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 07时33分]"
+        },
+        {
+          "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
+          "url": "https://news.ifeng.com/c/8rxMg3wp4zX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 15时18分]"
         },
         {
           "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
@@ -148,15 +160,18 @@
           "time_info": "[00时12分 ~ 06时33分]"
         },
         {
-          "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
-          "url": "https://news.ifeng.com/c/8rxMg3wp4zX",
-          "source": "凤凰网",
+          "title": "谭案说法｜爆雷养老机构的“五步圈钱”法，何以骗过民政部门、银行和集资人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867102",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            19,
+            14,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 15时18分]"
         },
         {
           "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
@@ -198,6 +213,17 @@
           "time_info": "[10时28分 ~ 13时23分]"
         },
         {
+          "title": "湖人大胜骑士",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E5%A4%A7%E8%83%9C%E9%AA%91%E5%A3%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "外交部揭底自卫队官员为何强闯中使馆",
           "url": "https://www.toutiao.com/trending/7622819484025409065/",
           "source": "今日头条",
@@ -208,6 +234,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时55分 ~ 10时28分]"
+        },
+        {
+          "title": "加拿大财政部部长商鹏飞将访华",
+          "url": "https://wallstreetcn.com/livenews/3080705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "以色列官员：谈判破裂意味着将攻击德黑兰的石油设施。",
@@ -230,19 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "谭案说法｜爆雷养老机构的“五步圈钱”法，何以骗过民政部门、银行和集资人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867102",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 13时23分]"
         },
         {
           "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
@@ -293,6 +317,30 @@
           "time_info": "[07时33分 ~ 10时28分]"
         },
         {
+          "title": "演员宋宁峰承认婚内出轨，发长文道歉称「将无限期暂停所有演艺工作」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2022289067467962137",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时18分]"
+        },
+        {
+          "title": "宋宁峰承认婚内出轨",
+          "url": "https://www.toutiao.com/trending/7623246904469831743/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时18分]"
+        },
+        {
           "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
           "url": "https://flash.jin10.com/detail/20260401022916465800",
           "source": "金十数据",
@@ -303,6 +351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时58分]"
+        },
+        {
+          "title": "张雪机车夺冠背后政府该怎样支持企业",
+          "url": "https://www.toutiao.com/trending/7623578832003403270/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时18分]"
         },
         {
           "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
@@ -385,26 +445,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "演员宋宁峰承认婚内出轨，发长文道歉称「将无限期暂停所有演艺工作」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2022289067467962137",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "宋宁峰承认婚内出轨",
-          "url": "https://www.toutiao.com/trending/7623246904469831743/",
-          "source": "今日头条",
+          "title": "县委书记用6秒搞定足球赛闭幕式",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%A86%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B6%B3%E7%90%83%E8%B5%9B%E9%97%AD%E5%B9%95%E5%BC%8F",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "15时18分"
         },
         {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：与土耳其领导层举行了一系列重要会议，讨论了安全形势、谈判进展，以及针对共同威胁的进一步协调步骤。",
@@ -438,17 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "张雪机车夺冠背后政府该怎样支持企业",
-          "url": "https://www.toutiao.com/trending/7623578832003403270/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         },
         {
           "title": "巴林内政部：因伊朗袭击，巴林民防部门正在扑灭一家公司设施的火灾。",
@@ -512,9 +550,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "以色列国防军4月1日发表声明说，3月31日，以色列空军根据情报，袭击了伊朗马哈拉特地区，导致“圣城旅”黎巴嫩部队工程部门负责人身亡。",
+          "url": "https://flash.jin10.com/detail/20260401143220766800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
@@ -534,7 +583,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -556,7 +605,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -567,9 +616,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "张雪机车夺冠：政府该怎样支持企业",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%EF%BC%9A%E6%94%BF%E5%BA%9C%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "丝芭传媒否认举报鞠婧祎偷税漏税",
@@ -593,11 +653,12 @@
           "url": "https://www.toutiao.com/trending/7623332548361489963/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 15时18分]"
         },
         {
           "title": "辽宁舰山东舰福建舰呼叫",
