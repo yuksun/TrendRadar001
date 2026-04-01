@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T10:28:34.280673+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-04-01T13:23:51.465521+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -148,6 +148,17 @@
           "time_info": "[00时12分 ~ 06时33分]"
         },
         {
+          "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
+          "url": "https://news.ifeng.com/c/8rxMg3wp4zX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 13时23分]"
+        },
+        {
           "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
           "url": "https://www.zhihu.com/question/2021862824255693111",
           "source": "知乎",
@@ -175,15 +186,16 @@
           "time_info": "[01时55分 ~ 07时33分]"
         },
         {
-          "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
-          "url": "https://news.ifeng.com/c/8rxMg3wp4zX",
-          "source": "凤凰网",
+          "title": "县委书记用6秒搞定足球赛闭幕式",
+          "url": "https://www.toutiao.com/trending/7623420599781081142/",
+          "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时33分 ~ 10时28分]"
+          "time_info": "[10时28分 ~ 13时23分]"
         },
         {
           "title": "外交部揭底自卫队官员为何强闯中使馆",
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时55分 ~ 10时28分]"
-        },
-        {
-          "title": "县委书记用6秒搞定足球赛闭幕式",
-          "url": "https://www.toutiao.com/trending/7623420599781081142/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "以色列官员：谈判破裂意味着将攻击德黑兰的石油设施。",
@@ -240,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 13时23分]"
         },
         {
           "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
@@ -346,7 +347,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -384,6 +385,28 @@
           "time_info": "07时33分"
         },
         {
+          "title": "演员宋宁峰承认婚内出轨，发长文道歉称「将无限期暂停所有演艺工作」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2022289067467962137",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "宋宁峰承认婚内出轨",
+          "url": "https://www.toutiao.com/trending/7623246904469831743/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：与土耳其领导层举行了一系列重要会议，讨论了安全形势、谈判进展，以及针对共同威胁的进一步协调步骤。",
           "url": "https://flash.jin10.com/detail/20260401044951306800",
           "source": "金十数据",
@@ -412,9 +435,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "张雪机车夺冠背后政府该怎样支持企业",
+          "url": "https://www.toutiao.com/trending/7623578832003403270/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "巴林内政部：因伊朗袭击，巴林民防部门正在扑灭一家公司设施的火灾。",
@@ -423,7 +457,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -434,7 +468,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -472,6 +506,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "中柬执法合作再获重大战果 陈志犯罪集团核心骨干成员李雄被从柬埔寨押解回国",
+          "url": "https://wallstreetcn.com/livenews/3080604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
           "url": "https://flash.jin10.com/detail/20260401010742198800",
           "source": "金十数据",
@@ -483,6 +528,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "陕西省政协原副主席刘宽忍被公诉",
+          "url": "https://www.toutiao.com/trending/7623608552003895332/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "最新调查结果显示，OPEC 3月石油产量较2月下降730万桶/日，降至2020年6月以来最低水平。（路透）",
           "url": "https://wallstreetcn.com/livenews/3080259",
           "source": "华尔街见闻-快讯",
@@ -492,6 +548,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "四部门发布通知 明确2025年度享受研发费用加计扣除政策的工业母机企业清单制定工作有关事项",
+          "url": "https://wallstreetcn.com/livenews/3080596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "印尼3月CPI同比上涨3.48%（路透调查预期为3.60%）。",
+          "url": "https://flash.jin10.com/detail/20260401124743017800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "丝芭传媒否认举报鞠婧祎偷税漏税",
@@ -517,9 +595,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时23分]"
         },
         {
           "title": "辽宁舰山东舰福建舰呼叫",
@@ -528,7 +606,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
