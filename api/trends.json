@@ -1,409 +1,33 @@
 {
-  "generated_at": "2026-04-01T23:03:34.743846+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-04-02T01:34:33.084815+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 80,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "谭案说法｜爆雷养老机构的“五步圈钱”法，何以骗过民政部门、银行和集资人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867102",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时33分 ~ 21时19分]"
-        },
-        {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 10时28分]"
-        },
-        {
-          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "官方回应鞠婧祎涉税事项",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E4%BA%8B%E9%A1%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "妻子4次试管未孕 丈夫出轨生子获刑",
-          "url": "https://www.toutiao.com/trending/7623346123201740836/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            15,
-            13,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 15时18分]"
-        },
-        {
-          "title": "税务部门：未发现鞠婧祎涉税问题",
-          "url": "https://www.baidu.com/s?wd=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%EF%BC%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%B6%89%E7%A8%8E%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            10,
-            22,
-            18,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "纯牛奶倒出疑似透明苦水？当地通报",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%AF%E7%89%9B%E5%A5%B6%E5%80%92%E5%87%BA%E7%96%91%E4%BC%BC%E9%80%8F%E6%98%8E%E8%8B%A6%E6%B0%B4%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26,
-            25,
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
-          "url": "https://news.ifeng.com/c/8rxMg3wp4zX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 15时18分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
-          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
-          "url": "https://www.zhihu.com/question/2022397421683040410",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时33分]"
-        },
-        {
-          "title": "宋宁峰承认婚内出轨",
-          "url": "https://www.toutiao.com/trending/7623246904469831743/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 23时03分]"
-        },
-        {
-          "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864912",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时33分]"
-        },
-        {
-          "title": "和新来的领导互加了微信，几天后由于好奇点开他的朋友圈，结果一条横线，同事说他屏蔽我了，为什么呢？",
-          "url": "https://www.zhihu.com/question/2021862824255693111",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时33分]"
-        },
         {
           "title": "演员宋宁峰承认婚内出轨，发长文道歉称「将无限期暂停所有演艺工作」，如何看待此事？",
           "url": "https://www.zhihu.com/question/2022289067467962137",
           "source": "知乎",
           "ranks": [
-            11,
-            20,
-            12,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 23时03分]"
-        },
-        {
-          "title": "贺青升任上海市副市长",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BA%E9%9D%92%E5%8D%87%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            28,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 07时33分]"
-        },
-        {
-          "title": "县委书记用6秒搞定足球赛闭幕式",
-          "url": "https://www.toutiao.com/trending/7623420599781081142/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时23分]"
-        },
-        {
-          "title": "湖人大胜骑士",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA%E5%A4%A7%E8%83%9C%E9%AA%91%E5%A3%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何强闯中使馆",
-          "url": "https://www.toutiao.com/trending/7622819484025409065/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 10时28分]"
-        },
-        {
-          "title": "加拿大财政部部长商鹏飞将访华",
-          "url": "https://wallstreetcn.com/livenews/3080705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "以色列官员：谈判破裂意味着将攻击德黑兰的石油设施。",
-          "url": "https://flash.jin10.com/detail/20260401013825329800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "安全部门消息人士：伊拉克库尔德斯坦杜胡克省一处油田遭无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260401163940202800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "欧洲央行管委Rehn：加息（预期）是没有保障的。",
-          "url": "https://wallstreetcn.com/livenews/3080330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "中国央行等多部门：增强科技金融服务专业能力，丰富适应高新技术领域特点的金融产品",
-          "url": "https://wallstreetcn.com/livenews/3080882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "官媒评“张雪回应政府支持被误读”",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E5%AA%92%E8%AF%84%E2%80%9C%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81%E8%A2%AB%E8%AF%AF%E8%AF%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 23时03分]"
-        },
-        {
-          "title": "太原杏花岭区通报“暴走团”凌晨放音乐扰民：即刻暂停活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871270",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 23时03分]"
+          "time_info": "01时34分"
         },
         {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
           "url": "https://www.cls.cn/detail/2332377",
           "source": "财联社热门",
           "ranks": [
-            5,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 23时03分]"
-        },
-        {
-          "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
-          "url": "https://flash.jin10.com/detail/20260401024747669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "巴克莱预测：持续扩张的国债市场将需要政府救助",
-          "url": "https://wallstreetcn.com/livenews/3080345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 04时49分]"
-        },
-        {
-          "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
-          "url": "https://flash.jin10.com/detail/20260401024156924800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "印度官员：不会向日本提供用于液化石油气互换协议的原油；印度法规不允许原油出口。",
-          "url": "https://wallstreetcn.com/livenews/3080852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "英国议员怒批政府：自取其辱，回头还得买中国涡轮机",
@@ -413,580 +37,124 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
-          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
+          "title": "太原杏花岭区通报“暴走团”凌晨放音乐扰民：即刻暂停活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871270",
           "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 23时03分]"
-        },
-        {
-          "title": "湖北恩施通报“1岁男童输液后离世”",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%81%A9%E6%96%BD%E9%80%9A%E6%8A%A5%E2%80%9C1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%BE%93%E6%B6%B2%E5%90%8E%E7%A6%BB%E4%B8%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 23时03分]"
-        },
-        {
-          "title": "官方通报1岁男童疑输液后抽搐去世",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A51%E5%B2%81%E7%94%B7%E7%AB%A5%E7%96%91%E8%BE%93%E6%B6%B2%E5%90%8E%E6%8A%BD%E6%90%90%E5%8E%BB%E4%B8%96%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时53分]"
-        },
-        {
-          "title": "县委书记用6秒搞定足球赛闭幕式",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%94%A86%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B6%B3%E7%90%83%E8%B5%9B%E9%97%AD%E5%B9%95%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 17时03分]"
-        },
-        {
-          "title": "武汉交警通报“多辆萝卜快跑行驶中突然停车”：初判系统故障，无人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32868923",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 10时28分]"
-        },
-        {
-          "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
-          "url": "https://flash.jin10.com/detail/20260401022916465800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "张雪机车夺冠背后政府该怎样支持企业",
-          "url": "https://www.toutiao.com/trending/7623578832003403270/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时18分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
-          "url": "https://flash.jin10.com/detail/20260401022746023800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
-          "url": "https://flash.jin10.com/detail/20260401022740700800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
-          "url": "https://flash.jin10.com/detail/20260401022554348800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时58分]"
-        },
-        {
-          "title": "张雪机车夺冠：政府该怎样支持企业",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%EF%BC%9A%E6%94%BF%E5%BA%9C%E8%AF%A5%E6%80%8E%E6%A0%B7%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 17时03分]"
-        },
-        {
-          "title": "欧盟委员会就900亿欧元乌克兰贷款采取了一些准备工作。",
-          "url": "https://flash.jin10.com/detail/20260401183049744800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "法国国防部长助理：北约是一个关乎欧洲-大西洋地区安全的军事联盟，而非用于在霍尔木兹海峡开展不尊重国际法的行动。",
-          "url": "https://flash.jin10.com/detail/20260401192543975800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "阿联酋部长、阿布扎比国家石油公司首席执行官AL Jaber称：世界各国必须携手保护能源流动。",
-          "url": "https://wallstreetcn.com/livenews/3080771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "白银有色：麻在生辞任公司董事会秘书职务",
-          "url": "https://flash.jin10.com/detail/20260401163843656800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "韩国政府对华放宽多次往返签证发放标准",
-          "url": "https://wallstreetcn.com/livenews/3080544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "当地时间3月31日，赞比亚政府宣布该国燃油供应进入紧急状态，同时宣布了一系列紧急措施以缓解该国燃油短缺困境。",
-          "url": "https://flash.jin10.com/detail/20260401064237303800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美官员：第三方斡旋效果不佳 应直接与伊朗谈判",
-          "url": "https://flash.jin10.com/detail/20260401064114422800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "澳大利亚国库部长查默斯：将为中小企业提供更便捷的信贷渠道。",
-          "url": "https://flash.jin10.com/detail/20260401064017894800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：与土耳其领导层举行了一系列重要会议，讨论了安全形势、谈判进展，以及针对共同威胁的进一步协调步骤。",
-          "url": "https://flash.jin10.com/detail/20260401044951306800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "澳大利亚国库部长查默斯：对于因伊朗局势紧张而无法满足税务要求的企业，澳大利亚税务局将提供临时纾困措施。",
-          "url": "https://flash.jin10.com/detail/20260401063643826800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "印度官员：不会向日本提供用于液化石油气互换协议的原油；印度法规不允许原油出口。",
-          "url": "https://flash.jin10.com/detail/20260401182639604800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "检察机关依法对民进中央原副主席、陕西省政协原副主席刘宽忍涉嫌受贿、贪污案提起公诉。",
-          "url": "https://wallstreetcn.com/livenews/3080533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "巴林内政部：因伊朗袭击，巴林民防部门正在扑灭一家公司设施的火灾。",
-          "url": "https://flash.jin10.com/detail/20260401100924330800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "光华科技：中国证监会决定对公司董事、高级管理人员蔡雯女士因涉嫌内幕交易予以立案。本次立案调查系对蔡雯女士的个人调查，与公司的日常经营管理和业务活动无关，且不涉及本公司股票交易。",
-          "url": "https://wallstreetcn.com/livenews/3080832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "“为吸引中国‘回头客’”，韩媒：韩国政府对华放宽多次往返签证发放标准",
-          "url": "https://flash.jin10.com/detail/20260401100924042800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "欧洲央行管委Rehn：加息并非板上钉钉",
-          "url": "https://wallstreetcn.com/livenews/3080330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "韩国强化车辆限行措施 公共机关车辆单双号限行",
-          "url": "https://wallstreetcn.com/livenews/3080829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "张雪全网爆火 为何没看到一个黑粉",
-          "url": "https://www.toutiao.com/trending/7623701751824141850/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8740，较上一交易日官方收盘价涨341点，较上日夜盘收盘涨141点。",
-          "url": "https://wallstreetcn.com/livenews/3080754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "墨西哥政府：正与加油站合作以遏制油价上涨。",
-          "url": "https://flash.jin10.com/detail/20260401182411128800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时34分"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
           "url": "https://www.toutiao.com/trending/7623594666915004458/",
           "source": "今日头条",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "广西岑溪市委书记以球员身份参加县超，球队斩获赛季首胜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865281",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美官员称已有348名美军在对伊朗军事行动中受伤",
-          "url": "https://wallstreetcn.com/livenews/3080417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "中柬执法合作再获重大战果 陈志犯罪集团核心骨干成员李雄被从柬埔寨押解回国",
-          "url": "https://wallstreetcn.com/livenews/3080604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "以色列国防军4月1日发表声明说，3月31日，以色列空军根据情报，袭击了伊朗马哈拉特地区，导致“圣城旅”黎巴嫩部队工程部门负责人身亡。",
-          "url": "https://flash.jin10.com/detail/20260401143220766800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
-          "url": "https://flash.jin10.com/detail/20260401010742198800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "俄罗斯外交部：我们预计OPEC+监督委员会将讨论油价上涨问题。",
-          "url": "https://wallstreetcn.com/livenews/3080909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "陕西省政协原副主席刘宽忍被公诉",
-          "url": "https://www.toutiao.com/trending/7623608552003895332/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "印度航空官员：部分航油价格上涨实际上意味着航空公司将取消燃油附加费或不再征收新的附加费。",
-          "url": "https://flash.jin10.com/detail/20260401181326130800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "最新调查结果显示，OPEC 3月石油产量较2月下降730万桶/日，降至2020年6月以来最低水平。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3080259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "四部门发布通知 明确2025年度享受研发费用加计扣除政策的工业母机企业清单制定工作有关事项",
-          "url": "https://wallstreetcn.com/livenews/3080596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "官方通报1岁男童输液后抽搐去世",
-          "url": "https://www.toutiao.com/trending/7622958677590507526/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时34分"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
           "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E00%E5%90%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%AB%98%E7%AE%A1%E6%80%A7%E9%AA%9A%E6%89%B0",
           "source": "百度热搜",
           "ranks": [
-            28
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时03分"
+          "time_info": "01时34分"
         },
         {
-          "title": "印尼3月CPI同比上涨3.48%（路透调查预期为3.60%）。",
-          "url": "https://flash.jin10.com/detail/20260401124743017800",
+          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "法国海军司令：最终仍需动用军事力量来监督霍尔木兹海峡的重新开放。",
+          "url": "https://flash.jin10.com/detail/20260402004147755800",
           "source": "金十数据",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "01时34分"
         },
         {
-          "title": "1岁男童输液期间抽搐去世 当地通报",
-          "url": "https://www.baidu.com/s?wd=1%E5%B2%81%E7%94%B7%E7%AB%A5%E8%BE%93%E6%B6%B2%E6%9C%9F%E9%97%B4%E6%8A%BD%E6%90%90%E5%8E%BB%E4%B8%96+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "宋宁峰承认婚内出轨",
+          "url": "https://www.toutiao.com/trending/7623246904469831743/",
+          "source": "今日头条",
           "ranks": [
-            29
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "01时34分"
         },
         {
-          "title": "丝芭传媒否认举报鞠婧祎偷税漏税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E5%90%A6%E8%AE%A4%E4%B8%BE%E6%8A%A5%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
-          "source": "百度热搜",
+          "title": "太原通报暴走团凌晨4点扰民",
+          "url": "https://www.douyin.com/hot/2451732",
+          "source": "抖音",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "01时34分"
         },
         {
-          "title": "三部门对优思益展开调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%AF%B9%E4%BC%98%E6%80%9D%E7%9B%8A%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5%23&t=31&band_rank=30&Refer=top",
+          "title": "美官员称美军已损失16架MQ-9型“死神”无人机",
+          "url": "https://flash.jin10.com/detail/20260402002242317800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "优思益问题被调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E9%97%AE%E9%A2%98%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "01时34分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "辽宁舰山东舰福建舰呼叫81192返航",
           "url": "https://www.toutiao.com/trending/7623332548361489963/",
           "source": "今日头条",
           "ranks": [
-            1,
-            7,
-            8,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 23时03分]"
-        },
-        {
-          "title": "辽宁舰山东舰福建舰呼叫",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E8%88%B0%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%91%BC%E5%8F%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "01时34分"
         }
       ]
     }
