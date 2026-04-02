@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T19:04:01.337541+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-04-02T21:10:40.796078+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 71,
+      "match_count": 79,
       "titles": [
         {
           "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
@@ -154,6 +154,20 @@
           "time_info": "[01时34分 ~ 07时35分]"
         },
         {
+          "title": "老美请黑工,反手举报非法移民",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352694&amp;topic_name=%E8%80%81%E7%BE%8E%E8%AF%B7%E9%BB%91%E5%B7%A5%2C%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时10分]"
+        },
+        {
           "title": "县委书记“六秒致辞”火了",
           "url": "https://www.toutiao.com/trending/7623614387089784851/",
           "source": "今日头条",
@@ -191,19 +205,6 @@
           "time_info": "[15时10分 ~ 15时11分]"
         },
         {
-          "title": "老美请黑工,反手举报非法移民",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352694&amp;topic_name=%E8%80%81%E7%BE%8E%E8%AF%B7%E9%BB%91%E5%B7%A5%2C%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时04分]"
-        },
-        {
           "title": "警方通报司机猥亵后排女乘客",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8F%B8%E6%9C%BA%E7%8C%A5%E4%BA%B5%E5%90%8E%E6%8E%92%E5%A5%B3%E4%B9%98%E5%AE%A2%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -214,6 +215,53 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时01分 ~ 19时04分]"
+        },
+        {
+          "title": "三部门约谈抖音、淘天、小红书",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "三部门约谈涉优思益营销平台",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%B6%89%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "三部门约谈抖音淘天小红书",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "云南省委书记王宁看望张桂梅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32872473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时10分]"
         },
         {
           "title": "北约发言人：北约秘书长吕特下周将访问华盛顿，进行“早已计划好的访问”。",
@@ -251,17 +299,17 @@
           "time_info": "[15时10分 ~ 18时02分]"
         },
         {
-          "title": "云南省委书记王宁看望张桂梅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32872473",
+          "title": "江西乐平通报“天湖医院解聘全体职工”：专班依法依规开展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879007",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
-            17
+            16,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时04分]"
+          "time_info": "[18时01分 ~ 21时10分]"
         },
         {
           "title": "印度政府公告：自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
@@ -275,6 +323,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时36分]"
+        },
+        {
+          "title": "高校校长称 4:30 锁教学楼「专治脆皮大学生」，你如何看待这种管理方式？",
+          "url": "https://www.zhihu.com/question/2021887135221819236",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时10分]"
         },
         {
           "title": "印度政府公告：自4月2日至6月30日，硝酸铵免征农业基础设施与发展税。",
@@ -361,18 +422,6 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
-          "title": "江西乐平通报“天湖医院解聘全体职工”：专班依法依规开展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879007",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 19时04分]"
-        },
-        {
           "title": "加拿大央行会议纪要：官员们不能忽视经济面临的贸易相关风险。",
           "url": "https://flash.jin10.com/detail/20260402013108184800",
           "source": "金十数据",
@@ -418,18 +467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
-          "title": "高校校长称 4:30 锁教学楼「专治脆皮大学生」，你如何看待这种管理方式？",
-          "url": "https://www.zhihu.com/question/2021887135221819236",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时04分]"
         },
         {
           "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
@@ -485,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "女子赠侄子旧手机致出轨照外泄",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%A0%E4%BE%84%E5%AD%90%E6%97%A7%E6%89%8B%E6%9C%BA%E8%87%B4%E5%87%BA%E8%BD%A8%E7%85%A7%E5%A4%96%E6%B3%84%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "英国能源监管机构OFGEM：将继续密切关注中东局势，并与政府及行业各方合作，保护消费者。",
@@ -597,6 +645,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "中国政府中东问题特使翟隽应约同瑞士中东事务特使通电话，双方就当前中东地区紧张局势交换意见。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3081579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "网络基础设施服务提供商BDx：各国政府正越来越多地转向主权人工智能。",
           "url": "https://flash.jin10.com/detail/20260402122020099800",
           "source": "金十数据",
@@ -606,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "罗马尼亚政府：缓解燃油价格上涨的措施已充分考虑财政限制。",
+          "url": "https://flash.jin10.com/detail/20260402204526394800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "依法严惩芯片制造等领域侵权犯罪 检察机关这样服务新质生产力发展",
@@ -628,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "罗马尼亚政府：已决定将柴油消费税每升下调0.30列伊。",
+          "url": "https://flash.jin10.com/detail/20260402204518059800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "中国互金协会筹备设立互联网贷款自律工作委员会",
@@ -707,6 +788,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "法国外交部发言人：七国集团与海湾阿拉伯国家合作委员会成员国将于下周举行会议，讨论霍尔木兹海峡局势。",
+          "url": "https://flash.jin10.com/detail/20260402204330945800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "根据对32位经济学家的调查，预计新西兰联储4月8日将把现金利率维持在2.25%。",
           "url": "https://flash.jin10.com/detail/20260402142102156800",
           "source": "金十数据",
@@ -757,7 +849,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -845,7 +937,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         }
