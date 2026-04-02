@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-04-02T15:11:13.131183+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-02T16:55:33.382908+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            11,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时34分 ~ 16时55分]"
+        },
         {
           "title": "太原杏花岭区通报“暴走团”凌晨放音乐扰民：即刻暂停活动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32871270",
@@ -18,24 +35,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时34分 ~ 15时11分]"
-        },
-        {
-          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时34分 ~ 15时11分]"
+          "appearance_count": 16,
+          "time_info": "[01时34分 ~ 16时55分]"
         },
         {
           "title": "太原通报暴走团凌晨4点扰民",
@@ -113,6 +114,18 @@
           "time_info": "[01时34分 ~ 10时07分]"
         },
         {
+          "title": "优思益营销策划公司被立案调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E7%AD%96%E5%88%92%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时55分]"
+        },
+        {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
           "url": "https://www.cls.cn/detail/2332377",
           "source": "财联社热门",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时34分 ~ 07时35分]"
-        },
-        {
-          "title": "优思益营销策划公司被立案调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E7%AD%96%E5%88%92%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时11分]"
         },
         {
           "title": "县委书记“六秒致辞”火了",
@@ -197,6 +198,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3081462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8936，较上一交易日官方收盘价跌196点，较上日夜盘收盘跌186点。",
+          "url": "https://wallstreetcn.com/livenews/3081461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "澳大利亚资源部长：考虑到2026年第三季度东海岸可能出现天然气短缺，正在研究保障能源供应的措施。",
@@ -283,6 +306,18 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "“张雪机车”夺冠车型限制新手购买被投诉处罚？重庆市市监部门：符合规定未处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871257",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时55分]"
+        },
+        {
           "title": "加拿大央行会议纪要：官员们不能忽视经济面临的贸易相关风险。",
           "url": "https://flash.jin10.com/detail/20260402013108184800",
           "source": "金十数据",
@@ -330,17 +365,6 @@
           "time_info": "[15时10分 ~ 15时11分]"
         },
         {
-          "title": "“张雪机车”夺冠车型限制新手购买被投诉处罚？重庆市市监部门：符合规定未处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871257",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
           "title": "三部门开展猪肉收储",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%BC%80%E5%B1%95%E7%8C%AA%E8%82%89%E6%94%B6%E5%82%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -363,6 +387,28 @@
           "time_info": "[15时10分 ~ 15时11分]"
         },
         {
+          "title": "印度政府发布命令，将出口产品关税和税收减免计划延长至2026年9月。",
+          "url": "https://flash.jin10.com/detail/20260402163944697800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "老美请黑工,反手举报非法移民",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352694&amp;topic_name=%E8%80%81%E7%BE%8E%E8%AF%B7%E9%BB%91%E5%B7%A5%2C%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "官方回应医院称经营困难解聘全体职工",
           "url": "https://www.toutiao.com/trending/7623766168667013158/",
           "source": "今日头条",
@@ -372,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "英国能源监管机构OFGEM：将继续密切关注中东局势，并与政府及行业各方合作，保护消费者。",
+          "url": "https://flash.jin10.com/detail/20260402163923993800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "加拿大央行会议纪要：管委会认为，短期内经济增长面临下行风险，而油价冲击则构成了通胀的额外上行风险。",
@@ -391,7 +448,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -435,7 +492,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -468,7 +525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -482,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "云南省委书记王宁看望张桂梅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32872473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "法国海军司令：最终仍需动用军事力量来监督霍尔木兹海峡的重新开放。",
@@ -501,9 +569,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "英国政府初步数据显示，2025年英国温室气体排放量下降了2%。",
+          "url": "https://flash.jin10.com/detail/20260402163251831800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "相关调查显示，在受访的28位经济学家中，有18位认为新西兰联储将在第四季度末前将官方现金利率上调至2.50%或更高。年底官方现金利率预测中值为2.50%，而2月份的预测为2.25%。",
@@ -512,9 +591,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "菲律宾外交部长：就海员安全与能源供应安全达成积极共识。",
+          "url": "https://flash.jin10.com/detail/20260402163132681800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "警方通报女子被网约车司机骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%AA%9A%E6%89%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "3台旧手机能换1台iPhone？实地调查",
@@ -534,9 +635,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "菲律宾外交部长：与伊朗外交部长进行了富有成效的通话。",
+          "url": "https://flash.jin10.com/detail/20260402163057675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美官员称美军已损失16架MQ-9型“死神”无人机",
@@ -561,6 +673,50 @@
           "time_info": "10时07分"
         },
         {
+          "title": "欧洲央行管委帕内塔：欧洲央行的不利情景表明，能源供应将恢复正常，经济将在2026年第四季度至2027年期间复苏，这些情景如今更有可能实现。",
+          "url": "https://flash.jin10.com/detail/20260402162925672800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "欧洲央行管委SIMKUS：鉴于形势正在变化，利率方面需保持谨慎。 现在判断四月份需要采取什么行动还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3081426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "巴基斯坦政府：八个穆斯林占多数的国家发表联合声明，强烈谴责以色列在被占领的约旦河西岸颁布允许判处死刑的法律。联合声明强调，亟需避免“占领国”采取的可能进一步激化紧张局势的措施。",
+          "url": "https://flash.jin10.com/detail/20260402162903383800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "报道：伊朗冲突导致股市大幅下跌后，越南政府计划采取股市支持措施",
+          "url": "https://wallstreetcn.com/livenews/3081423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "外卖小哥电摩没挂牌照被查扣",
           "url": "https://www.toutiao.com/trending/7623626705710874630/",
           "source": "今日头条",
@@ -581,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "欧洲央行管委帕内塔：鉴于当前地缘政治紧张局势，市场对意大利公共财政的看法有所改善至关重要。",
+          "url": "https://flash.jin10.com/detail/20260402162528306800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
