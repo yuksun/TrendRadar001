@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-04-03T00:01:51.709433+08:00",
-  "total_titles_processed": 304,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-04-03T01:05:49.893915+08:00",
+  "total_titles_processed": 390,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "海警被走私艇冲撞牺牲 执法画面公开",
@@ -17,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "UP主曾举报伪洋品牌优思益",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%9B%BE%E4%B8%BE%E6%8A%A5%E6%B4%8B%E5%93%81%E7%89%8C%E4%BC%98%E6%80%9D%E7%9B%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "三部门约谈涉优思益营销平台",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%B6%89%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "阿盟呼吁对以色列“巴勒斯坦人死刑法”展开紧急国际刑事调查",
@@ -49,7 +49,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "三部门约谈抖音淘天小红书",
@@ -72,19 +72,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "老美请黑工,反手举报非法移民",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352694&amp;topic_name=%E8%80%81%E7%BE%8E%E8%AF%B7%E9%BB%91%E5%B7%A5%2C%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "女子赠侄子旧手机致出轨照外泄",
@@ -94,8 +95,63 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时05分]"
+        },
+        {
+          "title": "江西乐平通报“天湖医院解聘全体职工”：专班依法依规开展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879007",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[00时00分 ~ 01时05分]"
+        },
+        {
+          "title": "江西乐平市天湖医院解聘全体职工，官方通报称其存在拖欠工资等问题，当前情况如何？职工权益如何保障？",
+          "url": "https://www.zhihu.com/question/2023079287373199315",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时05分]"
+        },
+        {
+          "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
+          "url": "https://www.zhihu.com/question/2023111270262465086",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时05分]"
+        },
+        {
+          "title": "国务院食安办等三部门就“优思益”问题约谈3家平台企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32882464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 01时05分]"
+        },
+        {
+          "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 01时05分]"
         },
         {
           "title": "内蒙古十多名干部接连落马",
@@ -109,15 +165,15 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "江西乐平通报“天湖医院解聘全体职工”：专班依法依规开展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879007",
-          "source": "澎湃新闻",
+          "title": "巴西财政部官员塞隆：对低价值进口商品征收的关税对于保住就业岗位至关重要，任何此类政策的调整都应谨慎推进。",
+          "url": "https://flash.jin10.com/detail/20260403003919438800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "01时05分"
         },
         {
           "title": "法国政府：法国已向海军集团订购第五艘防御与干预型护卫舰。",
@@ -126,29 +182,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "江西乐平市天湖医院解聘全体职工，官方通报称其存在拖欠工资等问题，当前情况如何？职工权益如何保障？",
-          "url": "https://www.zhihu.com/question/2023079287373199315",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
-          "url": "https://www.zhihu.com/question/2023111270262465086",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
@@ -159,31 +193,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         },
         {
-          "title": "国务院食安办等三部门就“优思益”问题约谈3家平台企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32882464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
-          "source": "澎湃新闻",
+          "title": "欧洲央行管委兼法国央行行长Villeroy：某些金融条件趋紧已经显现出来。",
+          "url": "https://wallstreetcn.com/livenews/3081709",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "01时05分"
+        },
+        {
+          "title": "据沙特官方新闻社：沙特王储与俄罗斯总统普京通电话。",
+          "url": "https://flash.jin10.com/detail/20260403002916745800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "印度政府声明：对国内航班喷气燃料价格的月度涨幅设定25%的上限。",
+          "url": "https://flash.jin10.com/detail/20260403002811268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "联合国秘书长：“我们正处于更广泛战争的边缘”",
+          "url": "https://wallstreetcn.com/livenews/3081704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         }
       ]
     }
