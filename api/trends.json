@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T20:52:51.611030+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-04-04T21:53:18.289115+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "马兴瑞涉嫌严重违纪违法正接受中央纪委国家监委纪律审查和监察调查",
@@ -106,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 20时52分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 21时53分]"
         },
         {
           "title": "女生午睡5小时被领导警告发视频哭诉",
@@ -150,11 +150,12 @@
             13,
             14,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时38分 ~ 20时52分]"
+          "appearance_count": 26,
+          "time_info": "[00时38分 ~ 21时53分]"
         },
         {
           "title": "谷歌官方发布最新模型Gemma4",
@@ -321,17 +322,6 @@
           "time_info": "[03时38分 ~ 06时32分]"
         },
         {
-          "title": "以色列前国防官员：伊朗部署多光谱摄像机网络追踪美以军机",
-          "url": "https://flash.jin10.com/detail/20260404203053644800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "巴基斯坦总理谢里夫：汽油价格的下调将由政府征收的石油税来提供资金。",
           "url": "https://flash.jin10.com/detail/20260404025228783800",
           "source": "金十数据",
@@ -357,6 +347,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时39分 ~ 19时28分]"
+        },
+        {
+          "title": "重庆一固定三角翼飞行器坠落致2人受伤 官方通报",
+          "url": "https://wallstreetcn.com/livenews/3082425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时53分]"
         },
         {
           "title": "日媒：高市政府已敲定放宽武器出口方案，拟月内修改相关限制原则",
@@ -385,17 +389,17 @@
           "time_info": "[16时39分 ~ 18时32分]"
         },
         {
-          "title": "重庆一固定三角翼飞行器坠落致2人受伤 官方通报",
-          "url": "https://wallstreetcn.com/livenews/3082425",
+          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3082430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
+            5,
+            16,
             21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时52分]"
+          "time_info": "[19时28分 ~ 21时53分]"
         },
         {
           "title": "法国财政部长表示，已致函欧盟委员会，要求其对欧洲炼油行业展开调查。",
@@ -422,16 +426,30 @@
           "time_info": "[02时44分 ~ 03时38分]"
         },
         {
-          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3082430",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列前国防官员：伊朗部署多光谱摄像机网络追踪美以军机",
+          "url": "https://flash.jin10.com/detail/20260404203053644800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            16
+            4,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时52分]"
+          "time_info": "[20时52分 ~ 21时53分]"
+        },
+        {
+          "title": "马兴瑞被查 新疆：深刻汲取教训",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%9F%A5+%E6%96%B0%E7%96%86%EF%BC%9A%E6%B7%B1%E5%88%BB%E6%B1%B2%E5%8F%96%E6%95%99%E8%AE%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            10,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时53分]"
         },
         {
           "title": "何宣林是孟子义的大学班主任",
@@ -469,19 +487,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 03时38分]"
-        },
-        {
-          "title": "马兴瑞被查 新疆：深刻汲取教训",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%9F%A5+%E6%96%B0%E7%96%86%EF%BC%9A%E6%B7%B1%E5%88%BB%E6%B1%B2%E5%8F%96%E6%95%99%E8%AE%AD",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时52分]"
         },
         {
           "title": "土交通部长称又一艘土耳其船只通过霍尔木兹海峡",
@@ -545,6 +550,30 @@
           "time_info": "[15时00分 ~ 15时53分]"
         },
         {
+          "title": "女演员裙子着火被灼伤 园方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E8%A3%99%E5%AD%90%E7%9D%80%E7%81%AB%E8%A2%AB%E7%81%BC%E4%BC%A4+%E5%9B%AD%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时53分]"
+        },
+        {
+          "title": "以官员：以空军暂停空袭协助美军搜寻坠落战机人员",
+          "url": "https://flash.jin10.com/detail/20260404202614148800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时53分]"
+        },
+        {
           "title": "重庆一固定三角翼飞行器坠落致2人受伤 官方通报",
           "url": "https://flash.jin10.com/detail/20260404174227841800",
           "source": "金十数据",
@@ -605,6 +634,18 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
+          "title": "印度政府：将黄豌豆的免关税进口政策延长至2027年3月31日。",
+          "url": "https://flash.jin10.com/detail/20260404200015300800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时53分]"
+        },
+        {
           "title": "伊朗地方官员鼓励民众追捕美军飞行员",
           "url": "https://wallstreetcn.com/livenews/3082262",
           "source": "华尔街见闻-快讯",
@@ -641,18 +682,6 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
-          "title": "女演员裙子着火被灼伤 园方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E8%A3%99%E5%AD%90%E7%9D%80%E7%81%AB%E8%A2%AB%E7%81%BC%E4%BC%A4+%E5%9B%AD%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时52分]"
-        },
-        {
           "title": "何宣林是北影表演系班主任",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%AE%A3%E6%9E%97%E6%98%AF%E5%8C%97%E5%BD%B1%E8%A1%A8%E6%BC%94%E7%B3%BB%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -675,15 +704,26 @@
           "time_info": "19时28分"
         },
         {
-          "title": "以官员：以空军暂停空袭协助美军搜寻坠落战机人员",
-          "url": "https://flash.jin10.com/detail/20260404202614148800",
+          "title": "美参议院银行委员会据悉定于4月16日审议沃什美联储主席提名",
+          "url": "https://flash.jin10.com/detail/20260404211424488800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "21时53分"
+        },
+        {
+          "title": "新疆：坚决拥护党中央对马兴瑞进行审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32902793",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "国际原子能机构：已获伊朗通报，今晨一枚弹丸击中布什尔核电站厂区附近。",
@@ -708,15 +748,15 @@
           "time_info": "19时28分"
         },
         {
-          "title": "印度政府：将黄豌豆的免关税进口政策延长至2027年3月31日。",
-          "url": "https://flash.jin10.com/detail/20260404200015300800",
+          "title": "希腊政府因冒领欧盟农业补贴丑闻再次改组",
+          "url": "https://flash.jin10.com/detail/20260404204528580800",
           "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "21时53分"
         },
         {
           "title": "15部门启动“一起益企”中小企业服务行动",
@@ -761,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "中使馆发布刚果（金）安全形势通报",
+          "url": "https://www.toutiao.com/trending/7624129986522071090/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
