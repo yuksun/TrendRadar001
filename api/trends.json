@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T01:29:44.138773+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-04-06T02:42:27.477627+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊官员提开放霍尔木兹海峡条件：先用过往船税补偿伊朗战争损失",
@@ -13,22 +13,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "伊朗政府发言人谴责以色列袭击民用设施",
+          "url": "https://wallstreetcn.com/livenews/3082675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美官员：失踪的第二名美军飞行员已被找到，但尚未脱险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32907670",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "黄晓明已去交警部门接受处罚",
@@ -38,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "黄晓明已去交警部门接受处罚",
@@ -50,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "俄罗斯副总理Novak：OPEC+同意5月份增产石油20.6万桶/日。 全球原油市场失衡。 石油输出国组织（OPEC，欧佩克）秘书处将筹备关于若干潜在措施的报告。",
@@ -59,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "自爆刷币被封,洛克官方遭声讨",
@@ -73,8 +87,82 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "以军称打死伊朗革命卫队石油部门高级指挥官",
+          "url": "https://wallstreetcn.com/livenews/3082654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "张雪回应“一个子儿都没有”言论：当时心想我没拿政府钱，自己就能干这么酷的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907291",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "印度外交部长苏杰生就中东冲突发表声明称，已与阿联酋副总理兼外交部长讨论中东局势的演变。",
+          "url": "https://flash.jin10.com/detail/20260406003627082800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时42分]"
+        },
+        {
+          "title": "印度外交部长苏杰生就中东冲突发表声明称，今晚与卡塔尔首相及外交部长就持续的中东冲突进行了电话会议。",
+          "url": "https://flash.jin10.com/detail/20260406003559899800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时42分]"
+        },
+        {
+          "title": "TES举报宁王",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%BE%E6%8A%A5%E5%AE%81%E7%8E%8B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时42分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：国内需求正由本公司的其他设施满足，不会影响对客户的供气。",
@@ -89,47 +177,12 @@
           "time_info": "[00时35分 ~ 01时29分]"
         },
         {
-          "title": "以军称打死伊朗革命卫队石油部门高级指挥官",
-          "url": "https://wallstreetcn.com/livenews/3082654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
-        },
-        {
-          "title": "张雪回应“一个子儿都没有”言论：当时心想我没拿政府钱，自己就能干这么酷的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907291",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
-        },
-        {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：已隔离受影响区域，并对哈卜尚天然气处理装置的损毁情况进行全面评估。",
           "url": "https://flash.jin10.com/detail/20260405234216198800",
           "source": "金十数据",
           "ranks": [
             14,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时29分]"
-        },
-        {
-          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -160,26 +213,48 @@
           "time_info": "[00时35分 ~ 01时29分]"
         },
         {
-          "title": "印度外交部长苏杰生就中东冲突发表声明称，已与阿联酋副总理兼外交部长讨论中东局势的演变。",
-          "url": "https://flash.jin10.com/detail/20260406003627082800",
+          "title": "巴基斯坦外交部：巴基斯坦外交部长与沙特外交部长通话，就最新地区局势发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260406021046862800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗胡齐斯坦省官员：阿瓦士国际机场一天内第三次遭到炮击。",
+          "url": "https://flash.jin10.com/detail/20260406020934374800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时42分"
         },
         {
-          "title": "印度外交部长苏杰生就中东冲突发表声明称，今晚与卡塔尔首相及外交部长就持续的中东冲突进行了电话会议。",
-          "url": "https://flash.jin10.com/detail/20260406003559899800",
+          "title": "伊朗能源部长：目前全国所有重要中心的电力供应都已得到保障，而且我们还有剩余电力。",
+          "url": "https://flash.jin10.com/detail/20260406020857680800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "印度外交部长苏杰生就中东冲突发表声明称，接到伊朗外长来电，讨论了当前局势。",
+          "url": "https://flash.jin10.com/detail/20260406011618561800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "伊官员提开放霍尔木兹海峡条件：先用过往船税补偿伊朗战争损失",
@@ -191,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "TES举报宁王",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%BE%E6%8A%A5%E5%AE%81%E7%8E%8B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
         },
         {
           "title": "乌克兰总统泽连斯基身处叙利亚首都大马士革，与叙利亚领导层对话。（法新社）",
