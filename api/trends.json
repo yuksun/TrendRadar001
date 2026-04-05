@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T10:23:18.786419+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-04-05T13:11:31.742268+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "新疆：坚决拥护党中央对马兴瑞进行审查调查的决定",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 10时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时11分]"
         },
         {
           "title": "6秒致辞走红的县委书记是清华硕士",
@@ -41,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 10时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时11分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -90,13 +92,24 @@
           "time_info": "[03时31分 ~ 07时30分]"
         },
         {
+          "title": "自爆刷币被封,洛克官方遭声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352803&amp;topic_name=%E8%87%AA%E7%88%86%E5%88%B7%E5%B8%81%E8%A2%AB%E5%B0%81%2C%E6%B4%9B%E5%85%8B%E5%AE%98%E6%96%B9%E9%81%AD%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "科威特称伊朗无人机袭击造成政府部门综合体严重受损",
           "url": "https://flash.jin10.com/detail/20260405093823855800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -143,15 +156,49 @@
           "time_info": "[01时29分 ~ 02时40分]"
         },
         {
+          "title": "新疆生产建设兵团党委常委会：坚决拥护党中央对马兴瑞审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904201",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 13时11分]"
+        },
+        {
+          "title": "美官员：失踪美军飞行员已被找到",
+          "url": "https://www.douyin.com/hot/2455810",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "安徽省委书记、省长会见王传福",
           "url": "https://www.toutiao.com/trending/7625003277365297206/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "巴林内政部：民防部门已扑灭一处设施发生的火灾，该火灾系伊朗袭击所致。",
+          "url": "https://flash.jin10.com/detail/20260405114353461800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "乌官员称只要中东战争持续 俄乌谈判就保持暂停",
@@ -160,9 +207,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "美官员：第二名失踪飞行员已获救，救援队尚未撤出伊朗",
+          "url": "https://flash.jin10.com/detail/20260405112703367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "乌官员称只要中东战争持续，俄乌谈判就保持暂停",
@@ -171,7 +229,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -182,18 +240,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "新疆生产建设兵团党委常委会：坚决拥护党中央对马兴瑞审查调查的决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904201",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -204,9 +251,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长向海湾国家大使请求确保石油、液化天然气、石脑油和尿素的稳定供应。",
+          "url": "https://flash.jin10.com/detail/20260405110239625800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长呼吁海湾国家驻韩大使确保韩国船只及船员在霍尔木兹海峡附近的安全。",
+          "url": "https://flash.jin10.com/detail/20260405110158936800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "韩国政府声明：韩国财政部长在首尔会见海湾合作委员会各国大使，商讨中东危机。",
+          "url": "https://flash.jin10.com/detail/20260405110152349800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "巴林内政部：伊朗袭击后，民防部门正在采取措施控制一处设施的火灾。",
+          "url": "https://flash.jin10.com/detail/20260405105430427800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "希腊政府因冒领农业补贴再次改组",
@@ -218,6 +309,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东多地为何在清明前一天扫墓",
+          "url": "https://www.toutiao.com/trending/7624460999006371850/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     }
