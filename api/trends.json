@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:55:53.493422+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-06T19:48:37.990545+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "TES举报宁王",
@@ -59,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 18时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 19时48分]"
         },
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -136,6 +136,18 @@
           "time_info": "[02时42分 ~ 07时33分]"
         },
         {
+          "title": "郭艾伦被曝遭熟人诈骗近千万，嫌疑人以「投资入股」为名诱导其转账，公安机关已正式立案，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2024243189742139189",
+          "source": "知乎",
+          "ranks": [
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 19时48分]"
+        },
+        {
           "title": "俄罗斯副总理Novak：OPEC+同意5月份增产石油20.6万桶/日。 全球原油市场失衡。 石油输出国组织（OPEC，欧佩克）秘书处将筹备关于若干潜在措施的报告。",
           "url": "https://wallstreetcn.com/livenews/3082655",
           "source": "华尔街见闻-快讯",
@@ -162,18 +174,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时29分]"
-        },
-        {
-          "title": "郭艾伦被曝遭熟人诈骗近千万，嫌疑人以「投资入股」为名诱导其转账，公安机关已正式立案，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2024243189742139189",
-          "source": "知乎",
-          "ranks": [
-            20,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 18时55分]"
         },
         {
           "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
@@ -204,7 +204,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -215,9 +215,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "希腊能源部长：希腊将向受能源价格上涨影响的制造业提供援助。",
+          "url": "https://flash.jin10.com/detail/20260406193405383800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "报道：宁德时代计划今年将海洋事业部门规模扩大一倍",
@@ -229,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "以色列国防部长说以军空袭伊朗最大石油化工设施",
+          "url": "https://wallstreetcn.com/livenews/3082816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美航天局局长：外星人存在几率相当高",
@@ -249,7 +271,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -346,6 +368,20 @@
           "time_info": "[02时42分 ~ 05时31分]"
         },
         {
+          "title": "AND2BLE官方账号公开",
+          "url": "https://www.douyin.com/hot/2456779",
+          "source": "抖音",
+          "ranks": [
+            16,
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 19时48分]"
+        },
+        {
           "title": "印度外交部长苏杰生就中东冲突发表声明称，今晚与卡塔尔首相及外交部长就持续的中东冲突进行了电话会议。",
           "url": "https://flash.jin10.com/detail/20260406003559899800",
           "source": "金十数据",
@@ -370,19 +406,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时32分]"
-        },
-        {
-          "title": "AND2BLE官方账号公开",
-          "url": "https://www.douyin.com/hot/2456779",
-          "source": "抖音",
-          "ranks": [
-            16,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 17时07分]"
         },
         {
           "title": "伊官员提开放霍尔木兹海峡条件",
@@ -496,7 +519,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -512,13 +535,24 @@
           "time_info": "17时07分"
         },
         {
+          "title": "日本民众集会抗议政府为武器出口松绑",
+          "url": "https://wallstreetcn.com/livenews/3082809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "印度政府官员：政府正考虑建立液化石油气储备。",
           "url": "https://flash.jin10.com/detail/20260406182243690800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -534,6 +568,39 @@
           "time_info": "17时07分"
         },
         {
+          "title": "以色列国防部长卡茨：已指示以色列军方继续全力打击伊朗的“国家基础设施”。",
+          "url": "https://flash.jin10.com/detail/20260406191150038800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列国防军对位于伊斯法罕的伊朗最大石化设施实施强力打击。目前，这两处设施（合计约占伊朗石化出口约85%）已被瘫痪，处于停运状态。",
+          "url": "https://flash.jin10.com/detail/20260406191124078800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列空军不久前袭击了伊朗“最大的石化设施”。",
+          "url": "https://flash.jin10.com/detail/20260406191050590800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "印度尼西亚财政部长计划提高部分煤炭企业的矿产资源税。",
           "url": "https://flash.jin10.com/detail/20260406142755242800",
           "source": "金十数据",
@@ -543,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "非常不服自己的领导怎么办？",
+          "url": "https://www.zhihu.com/question/1922821869549097873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "沙特阿美将5月面向西北欧的阿拉伯轻质原油官方售价定为较伦敦布伦特原油升水14.60美元/桶。",
@@ -595,7 +673,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
