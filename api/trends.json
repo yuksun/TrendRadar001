@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T19:48:37.990545+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-04-06T21:07:00.664146+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 19时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 21时07分]"
         },
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -141,11 +141,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 21时07分]"
         },
         {
           "title": "俄罗斯副总理Novak：OPEC+同意5月份增产石油20.6万桶/日。 全球原油市场失衡。 石油输出国组织（OPEC，欧佩克）秘书处将筹备关于若干潜在措施的报告。",
@@ -174,6 +175,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时29分]"
+        },
+        {
+          "title": "美航天局局长称外星人存在几率相当高",
+          "url": "https://www.toutiao.com/trending/7625525898590191679/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            2,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 21时07分]"
         },
         {
           "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
@@ -220,17 +235,6 @@
           "time_info": "18时55分"
         },
         {
-          "title": "希腊能源部长：希腊将向受能源价格上涨影响的制造业提供援助。",
-          "url": "https://flash.jin10.com/detail/20260406193405383800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "报道：宁德时代计划今年将海洋事业部门规模扩大一倍",
           "url": "https://wallstreetcn.com/livenews/3082753",
           "source": "华尔街见闻-快讯",
@@ -240,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "以色列国防部长说以军空袭伊朗最大石油化工设施",
-          "url": "https://wallstreetcn.com/livenews/3082816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         },
         {
           "title": "美航天局局长：外星人存在几率相当高",
@@ -287,17 +280,28 @@
           "time_info": "10时24分"
         },
         {
-          "title": "美航天局局长称外星人存在几率相当高",
-          "url": "https://www.toutiao.com/trending/7625525898590191679/",
-          "source": "今日头条",
+          "title": "希腊能源部长：希腊将向受能源价格上涨影响的制造业提供援助。",
+          "url": "https://flash.jin10.com/detail/20260406193405383800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            2,
-            19
+            3,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 18时55分]"
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时07分]"
+        },
+        {
+          "title": "以色列国防部长说以军空袭伊朗最大石油化工设施",
+          "url": "https://wallstreetcn.com/livenews/3082816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时07分]"
         },
         {
           "title": "商务部等6部门发布《关于更好服务实体经济 推进电子商务高质量发展的指导意见》",
@@ -431,6 +435,18 @@
           "time_info": "[07时32分 ~ 07时33分]"
         },
         {
+          "title": "日本民众集会抗议政府为武器出口松绑",
+          "url": "https://wallstreetcn.com/livenews/3082809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时07分]"
+        },
+        {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：国内需求正由本公司的其他设施满足，不会影响对客户的供气。",
           "url": "https://flash.jin10.com/detail/20260405234312514800",
           "source": "金十数据",
@@ -477,6 +493,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时29分]"
+        },
+        {
+          "title": "非常不服自己的领导怎么办？",
+          "url": "https://www.zhihu.com/question/1922821869549097873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时07分]"
         },
         {
           "title": "韩国出现“垃圾袋盗贼”，政府称库存量充足，呼吁民众不必恐慌囤货",
@@ -535,17 +562,6 @@
           "time_info": "17时07分"
         },
         {
-          "title": "日本民众集会抗议政府为武器出口松绑",
-          "url": "https://wallstreetcn.com/livenews/3082809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "印度政府官员：政府正考虑建立液化石油气储备。",
           "url": "https://flash.jin10.com/detail/20260406182243690800",
           "source": "金十数据",
@@ -574,7 +590,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -585,7 +601,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -596,7 +612,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -610,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "非常不服自己的领导怎么办？",
-          "url": "https://www.zhihu.com/question/1922821869549097873",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         },
         {
           "title": "沙特阿美将5月面向西北欧的阿拉伯轻质原油官方售价定为较伦敦布伦特原油升水14.60美元/桶。",
@@ -709,6 +714,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CBA山东vs广东卡位战",
+          "url": "https://www.douyin.com/hot/2457331",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         }
       ]
     }
