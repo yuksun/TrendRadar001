@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T01:58:57.898337+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-08T03:12:11.060767+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗驻联合国大使表示，联合国秘书长的个人特使目前正在前往德黑兰，以推进磋商。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -23,11 +23,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32917370",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 03时12分]"
+        },
+        {
+          "title": "美移民执法局借机场安检数据逮捕逾800人，引发执法争议",
+          "url": "https://wallstreetcn.com/livenews/3083667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "副部级王文灵任上被查",
@@ -41,6 +53,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "伊朗第一副总统就针对伊朗基础设施的威胁作出回应：政府已做好应对各种情况的准备。",
+          "url": "https://flash.jin10.com/detail/20260408023459754800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "财联社C50风向指数调查：3月新增信贷及社融或同比少增，M2同比增速或小幅回落",
+          "url": "https://www.cls.cn/detail/2336686",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "沙特王储与巴基斯坦总理通电话。（沙特官方媒体SPA）",
           "url": "https://wallstreetcn.com/livenews/3083624",
           "source": "华尔街见闻-快讯",
@@ -50,6 +84,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)正与安大略省和魁北克省政府、公用事业公司、电网运营商及监管机构合作，推动数据中心发展与规划中的投资相协调。",
+          "url": "https://flash.jin10.com/detail/20260408022434921800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美移民执法局借机场安检数据逮捕逾800人 引发执法争议",
+          "url": "https://flash.jin10.com/detail/20260408021805772800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
