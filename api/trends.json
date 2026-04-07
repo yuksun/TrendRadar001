@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T13:08:57.427336+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-04-07T15:14:46.634909+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "黄晓明就带 9 岁儿子骑行发文道歉，称已去交警部门接受处罚，未成年儿童骑车有哪些容易被忽视的安全问题？",
@@ -26,11 +26,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 15时14分]"
         },
         {
           "title": "自爆刷币被封,洛克官方遭声讨",
@@ -39,11 +40,12 @@
           "ranks": [
             19,
             20,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时14分]"
         },
         {
           "title": "非常不服自己的领导怎么办？",
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 06时35分]"
+        },
+        {
+          "title": "法国能源部长：民众的燃气账单很可能会上涨。",
+          "url": "https://flash.jin10.com/detail/20260407144253694800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "官方通报“宠物狗上桌就餐”",
@@ -69,6 +82,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时35分]"
+        },
+        {
+          "title": "市场消息：黎巴嫩内政部长宣布计划在全国范围内加强安全。",
+          "url": "https://flash.jin10.com/detail/20260407143436573800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "新西兰经济研究所（NZIER）货币政策影子委员会建议，新西兰联储在即将于2026年4月8日举行的货币政策评估中，将官方现金利率（OCR）维持在2.25%不变。",
@@ -180,6 +204,17 @@
           "time_info": "[04时37分 ~ 05时37分]"
         },
         {
+          "title": "霍尔木兹未完全封锁？分析师亲历前线调查：伊朗已建立“航行管理体系”",
+          "url": "https://www.cls.cn/detail/2335900",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时14分]"
+        },
+        {
           "title": "伊朗议会国家安全委员会开始审议霍尔木兹海峡的管控方案",
           "url": "https://wallstreetcn.com/livenews/3082937",
           "source": "华尔街见闻-快讯",
@@ -190,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时37分]"
+        },
+        {
+          "title": "演员李若嘉被查出桥本病",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E8%8B%A5%E5%98%89%E8%A2%AB%E6%9F%A5%E5%87%BA%E6%A1%A5%E6%9C%AC%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时14分]"
         },
         {
           "title": "河南发布9名领导干部任前公示",
@@ -225,6 +272,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "法国初级能源部长：约18%的法国加油站缺乏必要供应，道达尔能源旗下加油站的供应状况正面临压力。",
+          "url": "https://flash.jin10.com/detail/20260407143234149800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "北京楼市“小阳春”调查：成交量回暖，刚需积极入市",
           "url": "https://wallstreetcn.com/livenews/3083009",
           "source": "华尔街见闻-快讯",
@@ -247,37 +305,37 @@
           "time_info": "03时53分"
         },
         {
-          "title": "霍尔木兹未完全封锁？分析师亲历前线调查：伊朗已建立“航行管理体系”",
-          "url": "https://www.cls.cn/detail/2335900",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "西班牙人大闹浪姐",
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA%E5%A4%A7%E9%97%B9%E6%B5%AA%E5%A7%90",
           "source": "bilibili 热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "演员李若嘉被查出桥本病",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E8%8B%A5%E5%98%89%E8%A2%AB%E6%9F%A5%E5%87%BA%E6%A1%A5%E6%9C%AC%E7%97%85",
-          "source": "百度热搜",
+          "title": "新加坡内政部长：新加坡正在评估其他能源来源，以实现能源结构多元化。",
+          "url": "https://flash.jin10.com/detail/20260407142259677800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "新加坡内政部长：将继续与本地炼油企业合作，提升能源效率。",
+          "url": "https://flash.jin10.com/detail/20260407142148995800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "15时14分"
         },
         {
           "title": "巴拿马贸易部长：到明天我们将发布一项决议，允许第一量子矿业公司将科布雷巴拿马矿的矿石运出境外。",
@@ -300,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "哈萨克斯坦能源部长：计划在2026年将煤炭产量提高11.2%。",
+          "url": "https://flash.jin10.com/detail/20260407141928714800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "韩国官员将访问哈萨克斯坦、阿曼和沙特阿拉伯，韩国正努力确保石油和石脑油的供应来源。 韩国正准备采取措施，确保霍尔木兹海峡的船只安全通过。",
@@ -333,6 +402,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "新加坡内政部长：新加坡尚未动用燃料储备。",
+          "url": "https://flash.jin10.com/detail/20260407141831194800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "新加坡内政部长：新加坡对全球供应链中断深感担忧。",
+          "url": "https://flash.jin10.com/detail/20260407141642203800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "微软365：正在调查北美地区部分管理员可能无法访问微软365管理中心的问题。",
@@ -402,11 +493,12 @@
           "url": "https://www.zhihu.com/question/2023428986286479049",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时14分]"
         }
       ]
     }
