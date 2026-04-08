@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:10:19.404548+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-04-08T15:17:33.447564+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "全国社保基金理事会副理事长王文灵，任上被查",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 13时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 15时17分]"
         },
         {
           "title": "伊朗驻联合国大使表示，联合国秘书长的个人特使目前正在前往德黑兰，以推进磋商。",
@@ -106,11 +106,12 @@
           "ranks": [
             20,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 15时17分]"
         },
         {
           "title": "财联社C50风向指数调查：3月新增信贷及社融或同比少增，M2同比增速或小幅回落",
@@ -136,6 +137,30 @@
           "time_info": "[10时12分 ~ 13时10分]"
         },
         {
+          "title": "女子孕期得知丈夫出轨20余人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A820%E4%BD%99%E4%BA%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时17分]"
+        },
+        {
+          "title": "国台办驳斥管碧玲有关大陆公务船言论",
+          "url": "https://www.toutiao.com/trending/7626216217552125995/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时17分]"
+        },
+        {
           "title": "民航局局长宋志勇晋升正部级",
           "url": "https://www.toutiao.com/trending/7625989951517065252/",
           "source": "今日头条",
@@ -145,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 04时45分]"
+        },
+        {
+          "title": "官方回应太平间招搬尸工要笔试面试",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%AA%E5%B9%B3%E9%97%B4%E6%8B%9B%E6%90%AC%E5%B0%B8%E5%B7%A5%E8%A6%81%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "联合国秘书长古特雷斯：没有任何军事目标可以为大规模摧毁一个社会的基础设施或蓄意给平民百姓带来苦难辩护。",
@@ -257,6 +293,28 @@
           "time_info": "03时12分"
         },
         {
+          "title": "女子孕期得知丈夫出轨20余人",
+          "url": "https://www.toutiao.com/trending/7625986224688185394/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
+          "url": "https://www.cls.cn/detail/2337516",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "新西兰联储：如果这些条件得不到满足，就需要果断而及时地提高官方现金利率。",
           "url": "https://flash.jin10.com/detail/20260408100115524800",
           "source": "金十数据",
@@ -266,17 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "女子孕期得知丈夫出轨20余人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A820%E4%BD%99%E4%BA%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
         },
         {
           "title": "新西兰联储：委员会密切关注任何普遍性的通胀压力，并随时准备采取行动使通胀回归目标。",
@@ -334,13 +381,24 @@
           "time_info": "04时45分"
         },
         {
+          "title": "马士基：欢迎宣布的停火以及有关霍尔木兹海峡商业通航可能再次实现的公开声明，尽管目前仅限于有限时期。 目前可获得的信息和细节仍非常有限，正紧急努力获取更多明确情况。 停火可能带来过境机会，但尚未提供完全的海上安全保障，需要了解所有可能附加的条件。 保障我们的船员、船只和货物安全仍是马士基的最高优先事项。 任何通过霍尔木兹海峡的决定都将基于持续的风险评估、密切监控安全局势，以及相关部门和合作伙伴的指导。 目前我们采取谨慎态度，不会对具体服务做出任何调整。 正在评估可能的影响，并将尽快就对航班、路线或应急措施的潜在影响直接进行沟通。",
+          "url": "https://wallstreetcn.com/livenews/3084091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "印度央行行长：通胀前景的上行风险已有所增加，核心通胀压力依然温和。 中东冲突可能会阻碍经济增长。政府已采取多项措施保护出口和供应链，这应当会减轻冲突带来的不利影响。 印度经济的基本面更加稳固，具备抵御冲击的韧性。 央行保持警惕，正在评估风险的平衡。 高企的原油价格可能会推高通胀并扩大经常账户赤字。 不确定性加剧、避险情绪以及避险需求的增加可能会影响经济活动。 全球金融市场的负面溢出效应可能会推高借贷成本。 初步的供应冲击在中期内可能会转化为需求冲击。 受霍尔木兹海峡局势影响而高企的能源与大宗商品价格，可能会冲击今年的经济增长。",
           "url": "https://wallstreetcn.com/livenews/3083977",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -406,7 +464,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -439,18 +497,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "国台办驳斥管碧玲有关大陆公务船言论",
-          "url": "https://www.toutiao.com/trending/7626216217552125995/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -461,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
