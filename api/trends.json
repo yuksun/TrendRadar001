@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T15:17:33.447564+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-04-08T16:59:51.972592+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "全国社保基金理事会副理事长王文灵，任上被查",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 16时59分]"
         },
         {
           "title": "伊朗驻联合国大使表示，联合国秘书长的个人特使目前正在前往德黑兰，以推进磋商。",
@@ -33,6 +33,21 @@
           "time_info": "01时58分"
         },
         {
+          "title": "女子攀爬樱花树致树木倒伏，有关部门：当事人承认错误并愿意赔偿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918636",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 16时59分]"
+        },
+        {
           "title": "新西兰联储政策声明：中东局势从实质上改变了通胀前景以及风险平衡。 短期内，预计通胀将上升，而经济复苏将走弱。 货币政策委员会致力于确保通胀在中期内回归2%的目标中值。 委员会对任何普遍性的通胀压力保持警惕，并随时准备采取行动使通胀回落。 核心通胀和工资增长需要保持受控，且中长期通胀预期需要维持在2%左右，如果这些条件无法满足，则需要果断且及时地提高官方现金利率（OCR）。 短期内整体通胀的上升幅度，将取决于中东冲突的演变进程，以及全球供应链和能源市场受干扰的程度与持续时间。 当前的经济形势与2022年不同。 委员会维持OCR不变的决定，权衡了针对中期通胀上升风险采取预见性应对的潜在收益，以及不必要地抑制经济复苏所带来的成本。",
           "url": "https://wallstreetcn.com/livenews/3083896",
           "source": "华尔街见闻-快讯",
@@ -42,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "阿里新设集团技术委员会，升级通义大模型事业部",
+          "url": "https://wallstreetcn.com/livenews/3084190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "检察机关依法对冯志斌涉嫌受贿、利用影响力受贿、国有公司人员滥用职权案提起公诉。（新华社）",
@@ -77,6 +103,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "伊朗官员：若美不接受十点计划，最高领袖将不会批准停火协议",
+          "url": "https://news.ifeng.com/c/8s9rqgU0rAq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "新西兰联储：然而，任何显著的第二轮通胀效应或中期通胀预期上升的迹象，都将要求果断而及时地提高官方现金利率，以重新锚定通胀预期。",
           "url": "https://flash.jin10.com/detail/20260408100340453800",
           "source": "金十数据",
@@ -100,20 +137,6 @@
           "time_info": "[04时45分 ~ 05时41分]"
         },
         {
-          "title": "女子攀爬樱花树致树木倒伏，有关部门：当事人承认错误并愿意赔偿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32918636",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 15时17分]"
-        },
-        {
           "title": "财联社C50风向指数调查：3月新增信贷及社融或同比少增，M2同比增速或小幅回落",
           "url": "https://www.cls.cn/detail/2336686",
           "source": "财联社热门",
@@ -124,6 +147,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时41分]"
+        },
+        {
+          "title": "女子孕期得知丈夫出轨20余人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A820%E4%BD%99%E4%BA%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 16时59分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
+          "url": "https://www.cls.cn/detail/2337516",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时59分]"
         },
         {
           "title": "以官员对美伊临时停火协议表示担忧：名单上仍有更多目标",
@@ -138,15 +186,15 @@
         },
         {
           "title": "女子孕期得知丈夫出轨20余人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%9C%9F%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A820%E4%BD%99%E4%BA%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7625986224688185394/",
+          "source": "今日头条",
           "ranks": [
             12,
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时17分]"
+          "time_info": "[15时17分 ~ 16时59分]"
         },
         {
           "title": "国台办驳斥管碧玲有关大陆公务船言论",
@@ -178,7 +226,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -214,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "欧洲央行管委SIMKUS：形势正朝欧洲央行较不利的情景发展。",
+          "url": "https://wallstreetcn.com/livenews/3084183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "白宫官员称，伊朗停火协议将在伊朗开放霍尔木兹海峡时生效。",
@@ -282,6 +341,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "以官员对美伊临时停火协议表示担忧：名单上仍有更多目标",
+          "url": "https://www.cls.cn/detail/2337275",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "伊朗第一副总统就针对伊朗基础设施的威胁作出回应：政府已做好应对各种情况的准备。",
           "url": "https://flash.jin10.com/detail/20260408023459754800",
           "source": "金十数据",
@@ -291,28 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "女子孕期得知丈夫出轨20余人",
-          "url": "https://www.toutiao.com/trending/7625986224688185394/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
-          "url": "https://www.cls.cn/detail/2337516",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "新西兰联储：如果这些条件得不到满足，就需要果断而及时地提高官方现金利率。",
@@ -346,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8274，较上一交易日官方收盘价涨323点，较上日夜盘收盘涨335点。",
+          "url": "https://wallstreetcn.com/livenews/3084176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "新西兰联储：货币政策委员会专注于确保通胀在中期内回到2%的目标中值。",
@@ -387,7 +446,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -456,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "预告：中国汽车流通协会乘用车市场信息联席分会秘书处现决定2026年4月9日（星期四）下午16:00举行“2026年4月乘用车市场分析发布会”。",
+          "url": "https://flash.jin10.com/detail/20260408164111218800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "印度央行行长：货币政策委员会维持政策立场“中性”。",
