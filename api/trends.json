@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T17:06:12.516753+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-09T18:57:50.858566+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 61,
+      "match_count": 69,
       "titles": [
         {
           "title": "澎湃暗访“婚迁”灰产后：女子称举报富二代丈夫重婚遭“报复”，“重婚案”将移交检察院",
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 17时06分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 18时57分]"
         },
         {
           "title": "全红婵遭受网暴：所在训练中心已报警，相关部门开展核查处置工作",
@@ -43,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 18时57分]"
         },
         {
           "title": "女子举报富二代丈夫重婚遭“报复”",
@@ -85,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -107,7 +108,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -156,13 +157,24 @@
           "time_info": "10时06分"
         },
         {
+          "title": "以军：击毙黎巴嫩真主党总书记的秘书",
+          "url": "https://news.ifeng.com/c/8sBWZWOLuIb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "土耳其财政部长表示，预计今年通胀率将低于20%，但确实出现了严重的冲击。",
           "url": "https://flash.jin10.com/detail/20260409164721174800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -173,9 +185,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "3人虚假摆拍“深山救助流浪女”被查",
+          "url": "https://www.toutiao.com/trending/7626588705675038258/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时57分]"
+        },
+        {
+          "title": "虚假摆拍深山救助流浪女 3人被查",
+          "url": "https://www.baidu.com/s?wd=%E8%99%9A%E5%81%87%E6%91%86%E6%8B%8D%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3+3%E4%BA%BA%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时57分]"
+        },
+        {
+          "title": "虚假摆拍深山救助流浪女 3人被查",
+          "url": "https://search.bilibili.com/all?keyword=%E8%99%9A%E5%81%87%E6%91%86%E6%8B%8D%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%203%E4%BA%BA%E8%A2%AB%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时57分]"
         },
         {
           "title": "白宫新闻秘书莱维特：我们尚未明确接受伊朗收取过路费的做法。",
@@ -195,7 +240,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -206,7 +251,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -220,6 +265,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时57分]"
         },
         {
           "title": "大桥垮塌致13死事故调查报告公布",
@@ -236,39 +294,6 @@
           "time_info": "[02时13分 ~ 06时38分]"
         },
         {
-          "title": "3人虚假摆拍“深山救助流浪女”被查",
-          "url": "https://www.toutiao.com/trending/7626588705675038258/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时06分]"
-        },
-        {
-          "title": "虚假摆拍深山救助流浪女 3人被查",
-          "url": "https://www.baidu.com/s?wd=%E8%99%9A%E5%81%87%E6%91%86%E6%8B%8D%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3+3%E4%BA%BA%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时06分]"
-        },
-        {
-          "title": "虚假摆拍深山救助流浪女 3人被查",
-          "url": "https://search.bilibili.com/all?keyword=%E8%99%9A%E5%81%87%E6%91%86%E6%8B%8D%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%203%E4%BA%BA%E8%A2%AB%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时06分]"
-        },
-        {
           "title": "伊朗议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹：你们（美以）又一次表明自己完全不懂什么是停火，只有战火才能让你们清醒过来，那就等着吧。",
           "url": "https://flash.jin10.com/detail/20260409050248482800",
           "source": "金十数据",
@@ -279,19 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
-        },
-        {
-          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 17时06分]"
         },
         {
           "title": "国务院国资委新设境外国资工作局：朱凯任局长，主要职责公布",
@@ -332,6 +344,18 @@
           "time_info": "[10时06分 ~ 15时20分]"
         },
         {
+          "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932229",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 18时57分]"
+        },
+        {
           "title": "3人摆拍“深山救助流浪女”被查",
           "url": "https://www.douyin.com/hot/2460358",
           "source": "抖音",
@@ -341,6 +365,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 15时20分]"
+        },
+        {
+          "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
+          "url": "https://www.zhihu.com/question/2025507998328514557",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时57分]"
         },
         {
           "title": "救护车截单延误抢救致死 深圳通报",
@@ -355,15 +391,15 @@
           "time_info": "[10时06分 ~ 13时08分]"
         },
         {
-          "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932229",
-          "source": "澎湃新闻",
+          "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
+          "url": "https://wallstreetcn.com/articles/3769516",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
+          "time_info": "[17时06分 ~ 18时57分]"
         },
         {
           "title": "深圳通报患者被拉至民营医院后死亡",
@@ -383,7 +419,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -410,15 +446,15 @@
           "time_info": "02时13分"
         },
         {
-          "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
-          "url": "https://wallstreetcn.com/articles/3769516",
-          "source": "华尔街见闻",
+          "title": "欧盟委员会发言人：匈牙利政府需就有关向俄罗斯泄露信息的报道紧急作出说明。",
+          "url": "https://flash.jin10.com/detail/20260409184616066800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时57分"
         },
         {
           "title": "据以色列媒体报道，以色列对真主党秘书长纳伊姆·卡西姆的私人秘书及侄子进行了袭击。",
@@ -449,7 +485,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -460,9 +496,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "抖音集团发布反舞弊通报：2025年，共有五十余人因涉嫌违法犯罪被移送司法机关处理。2025年，抖音集团共将23家合作方列入永不合作主体清单。",
+          "url": "https://wallstreetcn.com/livenews/3084998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "三部门指导平台企业落实《互联网平台价格行为规则》",
@@ -471,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -504,7 +551,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -520,15 +567,15 @@
           "time_info": "06时38分"
         },
         {
-          "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
-          "url": "https://www.zhihu.com/question/2025507998328514557",
-          "source": "知乎",
+          "title": "税务部门曝光4起社会教育培训行业涉税违法案件",
+          "url": "https://wallstreetcn.com/livenews/3084995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "18时57分"
         },
         {
           "title": "巴基斯坦内政部长与美官员会谈 讨论即将举行的美伊谈判",
@@ -537,9 +584,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "“拼豆”玩具漏电致贵阳一女童身亡，调查发现有的竟外接220伏市电",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932481",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "日本央行前官员：日本央行可能在4月份加息",
@@ -559,9 +617,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "韩国外交部：韩国外交部长将向伊朗派遣特别使节，就中东局势及双边问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260409183827290800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "白宫新闻秘书莱维特：美伊将于周六在巴基斯坦举行会谈。周六将举行第一轮会谈。",
@@ -573,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "韩国外交部长：在与伊朗外长的电话会谈中强调霍尔木兹海峡自由航行的重要性。",
+          "url": "https://flash.jin10.com/detail/20260409183707006800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "联合国秘书长强烈谴责以色列袭击黎巴嫩",
@@ -614,7 +694,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -625,7 +705,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -658,7 +738,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -680,9 +760,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗总统副手：巴基斯坦官员已确认，在这场不公正的战争中，我们所有的盟友都被包括在停火协议内。",
+          "url": "https://flash.jin10.com/detail/20260409183144786800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "会议纪要：美联储官员们认为，伊朗战争给就业和通胀都带来风险",
@@ -702,7 +793,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         }
