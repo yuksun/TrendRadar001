@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:37:24.149179+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-04-09T10:06:21.761931+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "全红婵遭受网暴：所在训练中心已报警，相关部门开展核查处置工作",
@@ -29,11 +29,12 @@
             19,
             17,
             13,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时06分]"
         },
         {
           "title": "女子举报富二代丈夫重婚遭“报复”",
@@ -64,6 +65,50 @@
           "time_info": "02时13分"
         },
         {
+          "title": "越共中央总书记、国家主席苏林将访华",
+          "url": "https://wallstreetcn.com/livenews/3084711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "深圳通报救护车截单延误抢救致死",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "贾平凹女儿论文被指抄袭 校方调查",
+          "url": "https://www.toutiao.com/trending/7625671839926255670/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "西北大学调查贾某某涉论文抄袭问题",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E8%B0%83%E6%9F%A5%E8%B4%BE%E6%9F%90%E6%9F%90%E6%B6%89%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：我们尚未明确接受伊朗收取过路费的做法。",
           "url": "https://flash.jin10.com/detail/20260409015030545800",
           "source": "金十数据",
@@ -73,6 +118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
+          "url": "https://www.zhihu.com/question/2025292599771100645",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "对网传贾某某论文抄袭等启动调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BD%91%E4%BC%A0%E8%B4%BE%E6%9F%90%E6%9F%90%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E7%AD%89%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "大桥垮塌致13死事故调查报告公布",
@@ -113,6 +180,28 @@
           "time_info": "[06时37分 ~ 07时37分]"
         },
         {
+          "title": "深圳通报患者被拉至民营医院后死亡",
+          "url": "https://www.toutiao.com/trending/7625905342224072745/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "救护车截单延误抢救致死 深圳通报",
+          "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8A%A4%E8%BD%A6%E6%88%AA%E5%8D%95%E5%BB%B6%E8%AF%AF%E6%8A%A2%E6%95%91%E8%87%B4%E6%AD%BB+%E6%B7%B1%E5%9C%B3%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：核战争政策没有变化。",
           "url": "https://flash.jin10.com/detail/20260409014849344800",
           "source": "金十数据",
@@ -146,6 +235,28 @@
           "time_info": "02时13分"
         },
         {
+          "title": "国务院国资委新设境外国资工作局：朱凯任局长，主要职责公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32925485",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗官方向全体人民祝贺胜利：保持团结对落实胜利成果至关重要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924688",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：伊朗已表示将移交浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260409014435937800",
           "source": "金十数据",
@@ -155,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8649，上调31点；上一交易日中间价6.8680，上一交易日官方收盘价6.8274，上日夜盘报收6.8360。",
+          "url": "https://wallstreetcn.com/livenews/3084672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "前日本央行官员：日本央行很可能在4月提高利率",
