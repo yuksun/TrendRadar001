@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T22:47:08.354317+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2026-04-10T23:52:26.678157+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 97,
+      "match_count": 106,
       "titles": [
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[15时25分 ~ 23时52分]"
         },
         {
           "title": "以军：击毙黎巴嫩真主党总书记的秘书",
@@ -81,8 +81,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 22时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 23时52分]"
         },
         {
           "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
@@ -124,6 +124,20 @@
           "time_info": "[01时06分 ~ 10时25分]"
         },
         {
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时07分 ~ 23时52分]"
+        },
+        {
           "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32931467",
           "source": "澎湃新闻",
@@ -153,18 +167,15 @@
           "time_info": "[01时06分 ~ 07时37分]"
         },
         {
-          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
-          "source": "澎湃新闻",
+          "title": "警方通报全红婵遭网暴案，群主徐某变换昵称多次发表侮辱言论，被行拘十日并处罚款，此事件有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2026016241375003473",
+          "source": "知乎",
           "ranks": [
-            12,
-            11,
-            10,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时07分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时52分]"
         },
         {
           "title": "山西一生态环境局局长在办公室内离世",
@@ -191,17 +202,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 10时25分]"
-        },
-        {
-          "title": "警方通报全红婵遭网暴案，群主徐某变换昵称多次发表侮辱言论，被行拘十日并处罚款，此事件有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/2026016241375003473",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时47分]"
         },
         {
           "title": "杭州爱尔眼科医院院长被指猥亵遭停职",
@@ -275,17 +275,6 @@
           "time_info": "[01时06分 ~ 07时37分]"
         },
         {
-          "title": "美媒：以官员称伊朗正在征收海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260410223419119800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
           "url": "https://www.zhihu.com/question/2025292599771100645",
           "source": "知乎",
@@ -299,6 +288,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 06时39分]"
+        },
+        {
+          "title": "白宫官员称针对开通霍尔木兹海峡已制定“备用方案”",
+          "url": "https://flash.jin10.com/detail/20260410233625637800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫表示，在特别军事行动中，获得了乌克兰境内生物实验室生产生物武器部件的证据。这些风险是不可接受的。",
@@ -323,6 +323,17 @@
           "time_info": "19时47分"
         },
         {
+          "title": "警方通报全红婵被网暴事件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353072&amp;topic_name=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "多位书记省长会见一位外企高管",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%BD%8D%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%BC%9A%E8%A7%81%E4%B8%80%E4%BD%8D%E5%A4%96%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
@@ -335,15 +346,29 @@
           "time_info": "[10时25分 ~ 13时24分]"
         },
         {
-          "title": "教育部部长怀进鹏会见美桥水投资公司创始人达利欧",
-          "url": "https://wallstreetcn.com/livenews/3085981",
-          "source": "华尔街见闻-快讯",
+          "title": "警方通报全红婵遭网暴事件",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            9,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时47分 ~ 23时52分]"
+        },
+        {
+          "title": "美媒：以官员称伊朗正在征收海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260410223419119800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时52分]"
         },
         {
           "title": "以色列总理办公室：巴基斯坦国防部长呼吁消灭以色列的言论令人愤慨。任何政府都不能容忍这种言论，尤其是一个自诩为和平中立仲裁者的政府。",
@@ -358,17 +383,40 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
-          "title": "警方通报全红婵遭网暴事件",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "教育部部长怀进鹏会见美桥水投资公司创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3085981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            12,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时52分]"
+        },
+        {
+          "title": "广州警方通报全红婵被网暴事件：群主徐某多次发表侮辱性言论，被行拘十日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32943358",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时47分 ~ 22时47分]"
+          "time_info": "[21时06分 ~ 23时52分]"
+        },
+        {
+          "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32942514",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时52分]"
         },
         {
           "title": "辽宁通报“奔驰土葬”：当事人配合整改",
@@ -406,28 +454,39 @@
           "time_info": "[01时06分 ~ 04时57分]"
         },
         {
-          "title": "广州警方通报全红婵被网暴事件：群主徐某多次发表侮辱性言论，被行拘十日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32943358",
-          "source": "澎湃新闻",
+          "title": "警方通报父母离婚不接年幼乘客",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%A9%9A%E4%B8%8D%E6%8E%A5%E5%B9%B4%E5%B9%BC%E4%B9%98%E5%AE%A2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时47分]"
-        },
-        {
-          "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32942514",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
+            20,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时47分]"
+          "time_info": "[22时46分 ~ 23时52分]"
+        },
+        {
+          "title": "加大对新型隐性腐败惩治力度",
+          "url": "https://www.douyin.com/hot/2461506",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时52分]"
+        },
+        {
+          "title": "中青赛北京赛区U10男足虚假比赛双方连射本队球门，中国足协通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940826",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时52分]"
         },
         {
           "title": "71岁厅官鲜雄被查 退休已超10年",
@@ -560,17 +619,6 @@
           "time_info": "[18时53分 ~ 19时47分]"
         },
         {
-          "title": "加大对新型隐性腐败惩治力度",
-          "url": "https://www.douyin.com/hot/2461506",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
           "title": "牺牲副局长最后1句话是线索不能断",
           "url": "https://www.baidu.com/s?wd=%E7%89%BA%E7%89%B2%E5%89%AF%E5%B1%80%E9%95%BF%E6%9C%80%E5%90%8E1%E5%8F%A5%E8%AF%9D%E6%98%AF%E7%BA%BF%E7%B4%A2%E4%B8%8D%E8%83%BD%E6%96%AD",
           "source": "百度热搜",
@@ -580,17 +628,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "中青赛北京赛区U10男足虚假比赛双方连射本队球门，中国足协通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940826",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "欧盟官员警告欧盟经济或将面临“滞胀”",
@@ -614,17 +651,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "警方通报父母离婚不接年幼乘客",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%A9%9A%E4%B8%8D%E6%8E%A5%E5%B9%B4%E5%B9%BC%E4%B9%98%E5%AE%A2%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "形式主义考核如何让基层滋生数据造假",
@@ -660,13 +686,24 @@
           "time_info": "10时25分"
         },
         {
+          "title": "美中贸易全国委员会率企业代表团访粤，彰显深化合作强烈意愿",
+          "url": "https://wallstreetcn.com/livenews/3086004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
           "url": "https://flash.jin10.com/detail/20260410221739226800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -737,6 +774,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美中贸易全国委员会率企业代表团访粤 彰显深化合作强烈意愿",
+          "url": "https://flash.jin10.com/detail/20260410231400390800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "加大对新型隐性腐败惩治力度 两高发布最新司法解释",
           "url": "https://flash.jin10.com/detail/20260410100135438800",
           "source": "金十数据",
@@ -781,6 +829,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：石油公司PEMEX正调查Dos Bocas火情的起因。 事故可能系延迟焦化装置（DCU）所致。",
+          "url": "https://wallstreetcn.com/livenews/3085997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "互联网平台价格新规今起实施 三部门纠治自动续费、免密支付等情况",
           "url": "https://wallstreetcn.com/livenews/3085729",
           "source": "华尔街见闻-快讯",
@@ -803,6 +862,17 @@
           "time_info": "18时53分"
         },
         {
+          "title": "严打“饭圈”形式侮辱、诋毁运动员，公安部通报全红婵遭网暴案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32944170",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
           "url": "https://flash.jin10.com/detail/20260410023246620800",
           "source": "金十数据",
@@ -823,6 +893,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "巴西财政部长：希望下周在国际货币基金组织会议上推进关于美方合作的谈判。",
+          "url": "https://flash.jin10.com/detail/20260410230143448800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "为什么一个部门换领导后往往都容易面临整个部门大换血啊？",
+          "url": "https://www.zhihu.com/question/666820807",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "辽阳弓长岭区通报“填埋奔驰S450L陪葬”事件：违法违规，严肃处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32942540",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "黎巴嫩真主党议员Ali Fayyad：我们反对直接与以色列谈判。 黎巴嫩政府应当将（以色列）停火作为先决条件，（达到这一要求了）再采取任何后续行动。",
