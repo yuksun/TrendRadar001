@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:47:39.611792+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-04-10T21:06:58.299528+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 86,
+      "match_count": 91,
       "titles": [
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
@@ -57,6 +57,19 @@
           "time_info": "[01时06分 ~ 10时25分]"
         },
         {
+          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时23分 ~ 21时06分]"
+        },
+        {
           "title": "习近平总书记会见中国国民党主席郑丽文",
           "url": "https://www.cls.cn/detail/2340047",
           "source": "财联社热门",
@@ -67,6 +80,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时24分 ~ 19时47分]"
+        },
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 21时06分]"
         },
         {
           "title": "杭州一眼科医院院长被指猥亵医药公司销售经理，已被停职警方已立案",
@@ -109,32 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时23分 ~ 19时47分]"
-        },
-        {
-          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时23分 ~ 19时47分]"
-        },
-        {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 19时47分]"
         },
         {
           "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
@@ -250,6 +250,30 @@
           "time_info": "[01时06分 ~ 07时37分]"
         },
         {
+          "title": "警方通报全红婵遭网暴案，群主徐某变换昵称多次发表侮辱言论，被行拘十日并处罚款，此事件有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2026016241375003473",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 21时06分]"
+        },
+        {
           "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
           "url": "https://www.zhihu.com/question/2025292599771100645",
           "source": "知乎",
@@ -282,7 +306,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -297,19 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时24分]"
-        },
-        {
-          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 19时47分]"
         },
         {
           "title": "以色列总理办公室：巴基斯坦国防部长呼吁消灭以色列的言论令人愤慨。任何政府都不能容忍这种言论，尤其是一个自诩为和平中立仲裁者的政府。",
@@ -442,6 +453,18 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
+          "title": "警方通报全红婵遭网暴事件",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时06分]"
+        },
+        {
           "title": "国家网信办等五部门：拟人化互动服务提供者不得向第三方提供用户交互数据",
           "url": "https://wallstreetcn.com/livenews/3085810",
           "source": "华尔街见闻-快讯",
@@ -556,17 +579,6 @@
           "time_info": "10时25分"
         },
         {
-          "title": "警方通报全红婵遭网暴事件",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "分类施策全覆盖！教育部等5部门部署“人工智能+教育”行动计划",
           "url": "https://wallstreetcn.com/livenews/3085488",
           "source": "华尔街见闻-快讯",
@@ -677,6 +689,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32942514",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "互联网平台价格新规今起实施 三部门纠治自动续费、免密支付等情况",
           "url": "https://wallstreetcn.com/livenews/3085729",
           "source": "华尔街见闻-快讯",
@@ -686,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "广州警方通报全红婵被网暴事件：群主徐某多次发表侮辱性言论，被行拘十日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32943358",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩下周将分别会见北约秘书长吕特和北约欧洲盟军最高指挥官格里布科维奇。",
@@ -716,7 +750,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -741,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "男子追求女技师被拒举报浴场涉黄",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BF%BD%E6%B1%82%E5%A5%B3%E6%8A%80%E5%B8%88%E8%A2%AB%E6%8B%92%E4%B8%BE%E6%8A%A5%E6%B5%B4%E5%9C%BA%E6%B6%89%E9%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "北约秘书长吕特：欢迎英国和挪威在北极地区开展针对俄罗斯潜艇的行动。这些旨在干扰俄罗斯对我们关键海底基础设施监视的行动，将保护我们所有人。北约将继续持续监测俄罗斯在该地区的军事活动。",
@@ -1005,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "ST新动力：股东南昌达亿投资有限公司、天津腾宇高通信息咨询合伙企业（有限合伙）、方海云因涉嫌ST新动力持股变动信息披露违法违规，中国证监会决定对上述三方主体立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3085870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
