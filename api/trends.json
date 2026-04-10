@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T18:53:13.703130+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-04-10T19:47:39.611792+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
@@ -57,6 +57,18 @@
           "time_info": "[01时06分 ~ 10时25分]"
         },
         {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://www.cls.cn/detail/2340047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时47分]"
+        },
+        {
           "title": "杭州一眼科医院院长被指猥亵医药公司销售经理，已被停职警方已立案",
           "url": "https://m.thepaper.cn/newsDetail_forward_32933898",
           "source": "澎湃新闻",
@@ -84,16 +96,45 @@
           "time_info": "[01时06分 ~ 10时25分]"
         },
         {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://www.cls.cn/detail/2340047",
-          "source": "财联社热门",
+          "title": "多位书记省长为何会见同位外企高管",
+          "url": "https://www.toutiao.com/trending/7626952299218259466/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            2
+            16,
+            29,
+            27,
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 18时53分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时47分]"
+        },
+        {
+          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时47分]"
+        },
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时47分]"
         },
         {
           "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
@@ -124,46 +165,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时06分 ~ 07时37分]"
-        },
-        {
-          "title": "多位书记省长为何会见同位外企高管",
-          "url": "https://www.toutiao.com/trending/7626952299218259466/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            29,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 18时53分]"
-        },
-        {
-          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 18时53分]"
-        },
-        {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时53分]"
         },
         {
           "title": "中方担保伊朗官员不在谈判中被暗杀？外交部回应",
@@ -275,6 +276,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "广东警方通报全红婵遭网暴事件。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3085846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "多位书记省长会见一位外企高管",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%BD%8D%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%BC%9A%E8%A7%81%E4%B8%80%E4%BD%8D%E5%A4%96%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
@@ -285,6 +297,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时24分]"
+        },
+        {
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 19时47分]"
         },
         {
           "title": "以色列总理办公室：巴基斯坦国防部长呼吁消灭以色列的言论令人愤慨。任何政府都不能容忍这种言论，尤其是一个自诩为和平中立仲裁者的政府。",
@@ -299,16 +324,15 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
-          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
-          "source": "澎湃新闻",
+          "title": "辽宁通报“奔驰土葬”：当事人配合整改",
+          "url": "https://www.toutiao.com/trending/7626690800416292902/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时47分]"
         },
         {
           "title": "三部门指导平台企业落实《互联网平台价格行为规则》",
@@ -358,17 +382,6 @@
           "time_info": "[18时52分 ~ 18时53分]"
         },
         {
-          "title": "辽宁通报“奔驰土葬”：当事人配合整改",
-          "url": "https://www.toutiao.com/trending/7626690800416292902/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
-        },
-        {
           "title": "伊朗外交关系战略委员会主席去世",
           "url": "https://flash.jin10.com/detail/20260410051928012800",
           "source": "金十数据",
@@ -379,6 +392,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时39分]"
+        },
+        {
+          "title": "东方盛虹：三级全资子公司虹科新材料与国家东中西区域合作示范区（连云港徐圩新区）管委会签署了《合作意向协议书》，约定虹科新材料在连云港徐圩新区投资新建芳烃产业链提质增效项目，该项目预计总投资约133.30亿元。",
+          "url": "https://wallstreetcn.com/livenews/3085818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "伊朗媒体：伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐(Kamal Kharazi)因此前在美以联合空袭中所受的伤势不治身亡。",
@@ -417,6 +442,30 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
+          "title": "国家网信办等五部门：拟人化互动服务提供者不得向第三方提供用户交互数据",
+          "url": "https://wallstreetcn.com/livenews/3085810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
+        },
+        {
+          "title": "国家网信办等五部门：支持算法、框架、芯片等技术的自主创新，推进拟人化互动服务技术研发和相关标准建设",
+          "url": "https://wallstreetcn.com/livenews/3085809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
+        },
+        {
           "title": "联合国秘书长特使谴责伊小学遭袭事件",
           "url": "https://www.toutiao.com/trending/7626667088377872420/",
           "source": "今日头条",
@@ -426,6 +475,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://wallstreetcn.com/livenews/3085806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "牺牲副局长最后1句话是线索不能断",
@@ -462,17 +523,6 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "东方盛虹：三级全资子公司虹科新材料与国家东中西区域合作示范区（连云港徐圩新区）管委会签署了《合作意向协议书》，约定虹科新材料在连云港徐圩新区投资新建芳烃产业链提质增效项目，该项目预计总投资约133.30亿元。",
-          "url": "https://wallstreetcn.com/livenews/3085818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
           "title": "形式主义考核如何让基层滋生数据造假",
           "url": "https://www.toutiao.com/trending/7626156011815993350/",
           "source": "今日头条",
@@ -506,6 +556,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "警方通报全红婵遭网暴事件",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "分类施策全覆盖！教育部等5部门部署“人工智能+教育”行动计划",
           "url": "https://wallstreetcn.com/livenews/3085488",
           "source": "华尔街见闻-快讯",
@@ -526,28 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "国家网信办等五部门：拟人化互动服务提供者不得向第三方提供用户交互数据",
-          "url": "https://wallstreetcn.com/livenews/3085810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "国家网信办等五部门：支持算法、框架、芯片等技术的自主创新，推进拟人化互动服务技术研发和相关标准建设",
-          "url": "https://wallstreetcn.com/livenews/3085809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "爱尔眼科医院院长被指猥亵销售经理",
@@ -605,17 +644,6 @@
           "time_info": "10时25分"
         },
         {
-          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
-          "url": "https://wallstreetcn.com/livenews/3085806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
           "title": "教育部等五部门：加快普及中小学生的人工智能教育",
           "url": "https://flash.jin10.com/detail/20260410100041443800",
           "source": "金十数据",
@@ -666,7 +694,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -680,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "巴西法院驳回政府要求，继续对部分公司免征石油出口税。",
+          "url": "https://flash.jin10.com/detail/20260410190329718800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "黎巴嫩真主党议员Ali Fayyad：我们反对直接与以色列谈判。 黎巴嫩政府应当将（以色列）停火作为先决条件，（达到这一要求了）再采取任何后续行动。",
@@ -721,7 +760,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -743,7 +782,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -765,7 +804,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -787,7 +826,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -842,7 +881,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -897,7 +936,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -919,7 +958,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -980,7 +1019,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
