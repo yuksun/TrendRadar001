@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:08:10.479194+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-04-10T18:53:13.703130+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 68,
+      "match_count": 83,
       "titles": [
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
@@ -84,6 +84,18 @@
           "time_info": "[01时06分 ~ 10时25分]"
         },
         {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://www.cls.cn/detail/2340047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 18时53分]"
+        },
+        {
           "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
           "url": "https://www.zhihu.com/question/2025507998328514557",
           "source": "知乎",
@@ -114,16 +126,44 @@
           "time_info": "[01时06分 ~ 07时37分]"
         },
         {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://www.cls.cn/detail/2340047",
-          "source": "财联社热门",
+          "title": "多位书记省长为何会见同位外企高管",
+          "url": "https://www.toutiao.com/trending/7626952299218259466/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            2
+            16,
+            29,
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时08分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 18时53分]"
+        },
+        {
+          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 18时53分]"
+        },
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 18时53分]"
         },
         {
           "title": "中方担保伊朗官员不在谈判中被暗杀？外交部回应",
@@ -149,6 +189,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时20分 ~ 07时37分]"
+        },
+        {
+          "title": "内塔尼亚胡腐败案将于12日恢复审判",
+          "url": "https://www.toutiao.com/trending/7626536006149570566/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "详解黄河特大桥事故调查报告",
@@ -196,32 +247,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时37分]"
-        },
-        {
-          "title": "多位书记省长为何会见同位外企高管",
-          "url": "https://www.toutiao.com/trending/7626952299218259466/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 17时08分]"
-        },
-        {
-          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 17时08分]"
         },
         {
           "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
@@ -274,16 +299,16 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
-          "title": "习近平总书记会见中国国民党主席郑丽文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940352",
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            10
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时08分]"
+          "time_info": "[17时07分 ~ 18时53分]"
         },
         {
           "title": "三部门指导平台企业落实《互联网平台价格行为规则》",
@@ -320,6 +345,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 06时39分]"
+        },
+        {
+          "title": "官方通报填埋奔驰车祭祀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A1%AB%E5%9F%8B%E5%A5%94%E9%A9%B0%E8%BD%A6%E7%A5%AD%E7%A5%80%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
+        },
+        {
+          "title": "辽宁通报“奔驰土葬”：当事人配合整改",
+          "url": "https://www.toutiao.com/trending/7626690800416292902/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "伊朗外交关系战略委员会主席去世",
@@ -370,17 +417,6 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
-          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
           "title": "联合国秘书长特使谴责伊小学遭袭事件",
           "url": "https://www.toutiao.com/trending/7626667088377872420/",
           "source": "今日头条",
@@ -424,6 +460,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "东方盛虹：三级全资子公司虹科新材料与国家东中西区域合作示范区（连云港徐圩新区）管委会签署了《合作意向协议书》，约定虹科新材料在连云港徐圩新区投资新建芳烃产业链提质增效项目，该项目预计总投资约133.30亿元。",
+          "url": "https://wallstreetcn.com/livenews/3085818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "形式主义考核如何让基层滋生数据造假",
@@ -481,6 +528,28 @@
           "time_info": "01时06分"
         },
         {
+          "title": "国家网信办等五部门：拟人化互动服务提供者不得向第三方提供用户交互数据",
+          "url": "https://wallstreetcn.com/livenews/3085810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "国家网信办等五部门：支持算法、框架、芯片等技术的自主创新，推进拟人化互动服务技术研发和相关标准建设",
+          "url": "https://wallstreetcn.com/livenews/3085809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "爱尔眼科医院院长被指猥亵销售经理",
           "url": "https://www.baidu.com/s?wd=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8C%87%E7%8C%A5%E4%BA%B5%E9%94%80%E5%94%AE%E7%BB%8F%E7%90%86",
           "source": "百度热搜",
@@ -536,6 +605,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://wallstreetcn.com/livenews/3085806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "教育部等五部门：加快普及中小学生的人工智能教育",
           "url": "https://flash.jin10.com/detail/20260410100041443800",
           "source": "金十数据",
@@ -564,7 +644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -575,9 +655,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩下周将分别会见北约秘书长吕特和北约欧洲盟军最高指挥官格里布科维奇。",
+          "url": "https://flash.jin10.com/detail/20260410182415248800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
@@ -624,15 +715,37 @@
           "time_info": "05时44分"
         },
         {
+          "title": "国家网信办等五部门：拟人化互动服务提供者不得向第三方提供用户交互数据",
+          "url": "https://flash.jin10.com/detail/20260410182103059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "证监会：试点地方政府推送拟发行上市企业信息，是这次创业板改革的一项重要探索",
           "url": "https://wallstreetcn.com/livenews/3085721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "国家金融监督管理总局：设立农村商业银行、农村商业联合银行，注册资本最低限额为5000万元人民币",
+          "url": "https://wallstreetcn.com/livenews/3085796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "据沙特通讯社：沙特能源部一名官员表示，库赖斯油田设施此前曾遭袭击，导致其日产量减少30万桶。",
@@ -646,6 +759,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "印度政府：将于7月关停1万兆瓦燃煤发电装机进行检修。",
+          "url": "https://flash.jin10.com/detail/20260410181946325800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "据沙特通讯社：沙特能源部一名官员表示，马尼法油田生产设施也遭到袭击，导致其日均产能减少约30万桶。",
           "url": "https://flash.jin10.com/detail/20260410022817125800",
           "source": "金十数据",
@@ -655,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "国家网信办等五部门：支持算法、框架、芯片等技术的自主创新，推进拟人化互动服务技术研发和相关标准建设",
+          "url": "https://flash.jin10.com/detail/20260410181902780800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "据沙特通讯社：沙特能源部官员表示，近期针对能源设施的袭击导致一名沙特能源公司工业安保人员死亡。",
@@ -674,7 +809,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -699,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://flash.jin10.com/detail/20260410181714560800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "为保障美伊谈判 巴内政部长宣布将封锁伊斯兰堡安全核心区",
@@ -745,6 +891,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "香港财库局副局长：让投资者统一以人民币进行人民币交易结算及缴付印花税",
+          "url": "https://flash.jin10.com/detail/20260410181540067800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "韩国央行： 周五的利率决议获得一致通过。 中东冲突对经济增长构成风险。 今年经济增长率可能低于2%。 将全面评估包括中东局势在内的国内外环境。 将密切监测其对通胀、增长及金融稳定的影响。 有必要对汇率波动保持谨慎。 今年通胀率可能显著高于2.2%。 有必要继续监测房价和家庭债务。 外汇市场波动及政府政策措施将影响通胀路径。 经济前景的不确定性极高。 贸易不确定性、中东冲突以及芯片行业动能将影响未来的增长。",
           "url": "https://wallstreetcn.com/livenews/3085456",
           "source": "华尔街见闻-快讯",
@@ -754,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "三部门印发《网络安全标识管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3085789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "黎巴嫩高级官员表示，停火谈判尚未确定日期或地点。",
@@ -795,7 +963,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -803,8 +971,19 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "山东药玻：拟定增募资不超32.36亿元，用于补充流动资金",
+          "url": "https://flash.jin10.com/detail/20260410182758759800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
         {
           "title": "A股玻纤板块异动拉升，山东玻纤触及涨停，宏和科技、国际复材、中国巨石、长海股份、中材科技跟涨。",
           "url": "https://flash.jin10.com/detail/20260410094932814800",
