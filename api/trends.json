@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:56:03.097904+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-04-11T22:36:10.952244+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "习近平总书记会见中国国民党主席郑丽文",
@@ -61,6 +61,23 @@
           "time_info": "[00时50分 ~ 21时56分]"
         },
         {
+          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            12,
+            10,
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时00分 ~ 22时36分]"
+        },
+        {
           "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
           "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
           "source": "澎湃新闻",
@@ -73,25 +90,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时50分 ~ 14时01分]"
-        },
-        {
-          "title": "警方通报全红婵被网暴事件",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353072&amp;topic_name=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            9,
-            10,
-            11,
-            13,
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时50分 ~ 21时56分]"
         },
         {
           "title": "广州警方通报全红婵被网暴事件：群主徐某多次发表侮辱性言论，被行拘十日",
@@ -110,20 +108,24 @@
           "time_info": "[00时50分 ~ 19时29分]"
         },
         {
-          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
-          "source": "澎湃新闻",
+          "title": "警方通报全红婵被网暴事件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353072&amp;topic_name=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
+          "source": "贴吧",
           "ranks": [
-            19,
-            17,
-            12,
+            3,
+            5,
+            9,
             10,
-            7,
-            5
+            11,
+            13,
+            14,
+            16,
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时00分 ~ 21时56分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 22时36分]"
         },
         {
           "title": "一车牌号带8888的奔驰车疑被当陪葬品，辽宁辽阳官方通报",
@@ -174,8 +176,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时50分 ~ 21时56分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 22时36分]"
         },
         {
           "title": "中青赛北京赛区U10男足虚假比赛双方连射本队球门，中国足协通报",
@@ -296,6 +298,17 @@
           "time_info": "[14时00分 ~ 15时13分]"
         },
         {
+          "title": "印度政府公告：印度将柴油出口关税由每升21.5卢比上调至55.5卢比；将航空煤油出口关税由每升29.5卢比上调至42卢比。汽油出口关税继续维持为零。",
+          "url": "https://flash.jin10.com/detail/20260411215147564800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
           "url": "https://wallstreetcn.com/livenews/3086152",
           "source": "华尔街见闻-快讯",
@@ -322,6 +335,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时06分 ~ 15时13分]"
+        },
+        {
+          "title": "博闻丨盐山县法院被指拖欠加油站6万元油费20年，法院院长回应将再督促办理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32949546",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 22时36分]"
         },
         {
           "title": "小领导旁敲侧击善意提醒你不要在背后蛐蛐大领导，我该如何疏导自己，因为实在做不到不蛐蛐 ？",
@@ -400,6 +426,18 @@
           "time_info": "[04时35分 ~ 07时34分]"
         },
         {
+          "title": "多地领导干部集中“充电”学前沿科技，有何深意？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32944161",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
           "url": "https://flash.jin10.com/detail/20260411034714242800",
           "source": "金十数据",
@@ -450,16 +488,15 @@
           "time_info": "[15时13分 ~ 17时38分]"
         },
         {
-          "title": "博闻丨盐山县法院被指拖欠加油站6万元油费20年，法院院长回应将再督促办理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32949546",
-          "source": "澎湃新闻",
+          "title": "俄国防部前副部长波波夫，被重判19年",
+          "url": "https://news.ifeng.com/c/8sF0yjjvK5c",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时56分]"
+          "time_info": "[20时55分 ~ 22时36分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
@@ -584,17 +621,6 @@
           "time_info": "[00时50分 ~ 01时46分]"
         },
         {
-          "title": "俄国防部前副部长波波夫，被重判19年",
-          "url": "https://news.ifeng.com/c/8sF0yjjvK5c",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时56分]"
-        },
-        {
           "title": "市场消息：当地政府表示，无人机残骸夜间坠落在俄罗斯克拉斯诺达尔边疆区一处油库区域内导致区域起火，火势已扑灭。",
           "url": "https://flash.jin10.com/detail/20260411145412092800",
           "source": "金十数据",
@@ -631,15 +657,15 @@
           "time_info": "[01时46分 ~ 02时51分]"
         },
         {
-          "title": "多地领导干部集中“充电”学前沿科技，有何深意？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32944161",
+          "title": "打假博主带人“打假”因退赔标准内讧，线索系某监管领导提供？后者否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32948979",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "time_info": "[22时35分 ~ 22时36分]"
         },
         {
           "title": "官方回应违规养鸭系在编打工鸭",
@@ -706,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "小领导旁敲侧击善意提醒我不要在背后蛐蛐大领导，我该如何疏导自己，因为实在做不到不蛐蛐 ？",
+          "url": "https://www.zhihu.com/question/1997375399617926528",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "智利国家铜委员会：智利埃斯孔迪达铜矿2月份铜产量同比下降7.4%，至10.5万吨。",
