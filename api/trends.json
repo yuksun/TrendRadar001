@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T07:32:56.233933+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-04-12T10:28:26.460610+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "司机开路虎加油后逃单，江西警方发布警情通报",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
           "title": "警方通报全红婵遭网暴事件",
@@ -42,8 +42,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
           "title": "多地领导干部集中“充电”学前沿科技，有何深意？",
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
           "title": "警方通报全红婵被网暴事件",
@@ -65,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
           "title": "俄国防部前副部长波波夫，被重判19年",
@@ -76,19 +76,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 10时28分]"
         },
         {
-          "title": "巴政府谨慎对待本次伊美谈判",
-          "url": "https://wallstreetcn.com/livenews/3086299",
-          "source": "华尔街见闻-快讯",
+          "title": "领导家里有喜事，没有在公司下通知，但听说有的同事私下都去随了礼，我没得到通知要去随礼吗？",
+          "url": "https://www.zhihu.com/question/2025538472966911204",
+          "source": "知乎",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时28分"
+        },
+        {
+          "title": "伊朗通报谈判进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%9A%E6%8A%A5%E8%B0%88%E5%88%A4%E8%BF%9B%E5%B1%95%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
+          "url": "https://www.zhihu.com/question/2025885699283382999",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "小领导旁敲侧击善意提醒我不要在背后蛐蛐大领导，我该如何疏导自己，因为实在做不到不蛐蛐 ？",
@@ -115,6 +137,30 @@
           "time_info": "[05时31分 ~ 07时32分]"
         },
         {
+          "title": "巴政府谨慎对待本次伊美谈判",
+          "url": "https://wallstreetcn.com/livenews/3086299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时28分]"
+        },
+        {
+          "title": "打假博主带人“打假”因退赔标准内讧，线索系某监管领导提供？后者否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32948979",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 10时28分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：将与黎巴嫩政府就两个条件进行谈判，一个是达成和平协议，另一个是解除真主党武装。",
           "url": "https://flash.jin10.com/detail/20260412021308336800",
           "source": "金十数据",
@@ -128,24 +174,13 @@
           "time_info": "[03时34分 ~ 05时31分]"
         },
         {
-          "title": "打假博主带人“打假”因退赔标准内讧，线索系某监管领导提供？后者否认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32948979",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
           "title": "伊朗政府：尽管仍存在一些分歧，谈判将继续进行。",
           "url": "https://flash.jin10.com/detail/20260412061720925800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -183,6 +218,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "伊朗通报谈判进展伊朗",
+          "url": "https://flash.jin10.com/detail/20260412085435182800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "书记市长送花祝贺常州队首胜",
+          "url": "https://www.toutiao.com/trending/7626692478910660651/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "俄罗斯库尔斯克州地区官员：乌克兰无人机袭击俄罗斯库尔斯克州一处加油站，造成3人受伤。",
           "url": "https://flash.jin10.com/detail/20260411231549623800",
           "source": "金十数据",
@@ -192,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "巴政府谨慎对待本次伊美谈判",
+          "url": "https://flash.jin10.com/detail/20260412064348227800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "巴基斯坦官员说伊美谈判进程慢于预期",
@@ -211,7 +279,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
