@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T16:02:09.423144+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-04-13T18:04:51.144800+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 57,
+      "match_count": 74,
       "titles": [
         {
           "title": "打虎！丁业现被查",
@@ -44,11 +44,12 @@
             19,
             14,
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 18时04分]"
         },
         {
           "title": "警方通报全红婵被网暴事件",
@@ -80,6 +81,32 @@
           "time_info": "[00时37分 ~ 07时33分]"
         },
         {
+          "title": "周杰伦乡间的路官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 18时04分]"
+        },
+        {
+          "title": "四川省昭觉县、湖北省文化和旅游厅及湖北艺术职业学院政绩观存在偏差、不顾实际使用财政资金问题被公开通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 18时04分]"
+        },
+        {
           "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
           "url": "https://www.zhihu.com/question/2025986895683871916",
           "source": "知乎",
@@ -91,17 +118,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时34分]"
-        },
-        {
-          "title": "周杰伦乡间的路官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "山西吕梁被曝猥亵案件当事人的法官已停职，当地纪检监察部门介入",
@@ -117,17 +133,15 @@
           "time_info": "[10时32分 ~ 16时02分]"
         },
         {
-          "title": "四川省昭觉县、湖北省文化和旅游厅及湖北艺术职业学院政绩观存在偏差、不顾实际使用财政资金问题被公开通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32956612",
-          "source": "澎湃新闻",
+          "title": "为什么不能把杨柳树都砍了？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8A%8A%E6%9D%A8%E6%9F%B3%E6%A0%91%E9%83%BD%E7%A0%8D%E4%BA%86%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "英国政府称，已授予罗尔斯·罗伊斯公司建造首批小型模块化核反应堆的合同。",
@@ -152,6 +166,63 @@
           "time_info": "10时32分"
         },
         {
+          "title": "杭州官方发文：对新兴领域企业，谨慎使用行政处罚等执法措施",
+          "url": "https://wallstreetcn.com/livenews/3086869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "茅台总经理王莉被查？官方回应",
+          "url": "https://www.toutiao.com/trending/7628163613094608938/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "克里姆林宫：（就匈牙利反对派领袖毛焦尔）我们希望与新领导层继续保持务实接触。",
+          "url": "https://flash.jin10.com/detail/20260413175654523800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "西藏自治区人大常委会原党组副书记、副主任丁业现被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32955453",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 18时04分]"
+        },
+        {
+          "title": "中东地区官员：新一轮美伊会谈有望数日内举行",
+          "url": "https://news.ifeng.com/c/8sI2WYlPN6E",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "市场消息：以色列总理、国防部长和参谋长在黎巴嫩境内进行了局势评估会议。",
           "url": "https://flash.jin10.com/detail/20260412234622260800",
           "source": "金十数据",
@@ -161,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗官员称将“很快恢复”部分机场国内航班",
+          "url": "https://wallstreetcn.com/livenews/3086860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "匈牙利大选前几天进行的民意调查中位数结果显示，蒂萨党预计将赢得议会199个席位中的135个席位，支持率为57%，高于匈牙利总理欧尔班领导的青民盟。",
@@ -275,11 +357,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 18时04分]"
         },
         {
           "title": "英国政府发言人：霍尔木兹海峡通行时不得收取任何费用。",
@@ -332,16 +415,16 @@
           "time_info": "[01时34分 ~ 03时38分]"
         },
         {
-          "title": "西藏自治区人大常委会原党组副书记、副主任丁业现被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32955453",
+          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            9
+            15,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "time_info": "[16时01分 ~ 18时04分]"
         },
         {
           "title": "山西一法官猥亵当事人纪检部门介入",
@@ -429,17 +512,6 @@
           "time_info": "[01时34分 ~ 02时46分]"
         },
         {
-          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
           "title": "本周重要事件与数据预告：中国贸易帐与一季度GDP；周三美联储官员密集发言",
           "url": "https://flash.jin10.com/detail/20260413065939314800",
           "source": "金十数据",
@@ -451,13 +523,24 @@
           "time_info": "07时33分"
         },
         {
+          "title": "匈牙利蒂萨党赢得大选，外交部：愿同匈新政府加强高层交往",
+          "url": "https://news.ifeng.com/c/8sI8XzNuvBp",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "德国财政部长克林贝伊尔：作为税收减免补贴的配套筹资措施，烟草税将于2026年上调。",
           "url": "https://flash.jin10.com/detail/20260413153237628800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -479,9 +562,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "茅台总经理王莉被查？官方回应：其到北京学习至5月",
+          "url": "https://wallstreetcn.com/livenews/3086844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "创业板“地方政府推送企业信息新机制”划重点：非必备程序，更非通行证",
@@ -517,6 +611,39 @@
           "time_info": "06时33分"
         },
         {
+          "title": "妻子空壳公司“转手”获利3395万，江苏一厅官涉新型受贿被判13年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958734",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "两连板天普股份：公司存在被立案调查等多项风险 且无开展人工智能业务计划",
+          "url": "https://flash.jin10.com/detail/20260413175125738800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "西班牙国防大臣：西政府将维持捍卫和平的立场",
+          "url": "https://flash.jin10.com/detail/20260413175116507800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "伊官员：谈判中抵制美三大无理要求",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AE%98%E5%91%98%EF%BC%9A%E8%B0%88%E5%88%A4%E4%B8%AD%E6%8A%B5%E5%88%B6%E7%BE%8E%E4%B8%89%E5%A4%A7%E6%97%A0%E7%90%86%E8%A6%81%E6%B1%82",
           "source": "百度热搜",
@@ -534,9 +661,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "很多事情都已经和领导做过汇报了，但领导好像每次都不记得，怎么办？",
+          "url": "https://www.zhihu.com/question/664068347",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "新任厦门市委书记调研鼓浪屿：让“国之瑰宝”更加熠熠生辉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956411",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "以色列总理和国防部长视察黎巴嫩南部的以军",
@@ -567,7 +716,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -589,9 +738,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "官方2月预言大表哥加入猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B92%E6%9C%88%E9%A2%84%E8%A8%80%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%8A%A0%E5%85%A5%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "国家互联网信息办公室与香港特区政府创新科技及工业局签署关于创新科技发展的合作备忘录",
@@ -633,7 +793,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -671,6 +831,28 @@
           "time_info": "13时40分"
         },
         {
+          "title": "茅台回应总经理王莉被查传闻",
+          "url": "https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%9B%9E%E5%BA%94%E6%80%BB%E7%BB%8F%E7%90%86%E7%8E%8B%E8%8E%89%E8%A2%AB%E6%9F%A5%E4%BC%A0%E9%97%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "英国金融时报：在毛焦尔·彼得在匈牙利大选中获胜后，欧盟委员会已开始与其“即刻接触”，敦促他修复与乌克兰的关系，并启动长期以来一直要求的改革，以解冻350亿欧元的欧盟冻结资金。",
+          "url": "https://flash.jin10.com/detail/20260413174546609800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "人民币兑美元中间价报6.8657，下调3点；上一交易日中间价6.8654，上一交易日官方收盘价6.8333，上日夜盘报收6.8305。",
           "url": "https://wallstreetcn.com/livenews/3086561",
           "source": "华尔街见闻-快讯",
@@ -680,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "官方回应网传茅台总经理王莉被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%8C%85%E5%8F%B0%E6%80%BB%E7%BB%8F%E7%90%86%E7%8E%8B%E8%8E%89%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "台北市长选战民进党难寻“正常人”",
