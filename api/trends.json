@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T13:40:25.974359+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-04-13T16:02:09.423144+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "打虎！丁业现被查",
@@ -43,11 +43,12 @@
             18,
             19,
             14,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 16时02分]"
         },
         {
           "title": "警方通报全红婵被网暴事件",
@@ -98,9 +99,35 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时02分]"
+        },
+        {
+          "title": "山西吕梁被曝猥亵案件当事人的法官已停职，当地纪检监察部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956305",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 16时02分]"
+        },
+        {
+          "title": "四川省昭觉县、湖北省文化和旅游厅及湖北艺术职业学院政绩观存在偏差、不顾实际使用财政资金问题被公开通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 16时02分]"
         },
         {
           "title": "英国政府称，已授予罗尔斯·罗伊斯公司建造首批小型模块化核反应堆的合同。",
@@ -109,7 +136,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -231,18 +258,6 @@
           "time_info": "[03时38分 ~ 05时33分]"
         },
         {
-          "title": "山西吕梁被曝猥亵案件当事人的法官已停职，当地纪检监察部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32956305",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时40分]"
-        },
-        {
           "title": "知情官员：美伊第二轮谈判可能在几天内举行",
           "url": "https://flash.jin10.com/detail/20260413044254014800",
           "source": "金十数据",
@@ -255,16 +270,16 @@
           "time_info": "[05时33分 ~ 06时33分]"
         },
         {
-          "title": "四川省昭觉县、湖北省文化和旅游厅及湖北艺术职业学院政绩观存在偏差、不顾实际使用财政资金问题被公开通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32956612",
-          "source": "澎湃新闻",
+          "title": "吃饱打厨子,玩家反手举报bug",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353131&amp;topic_name=%E5%90%83%E9%A5%B1%E6%89%93%E5%8E%A8%E5%AD%90%2C%E7%8E%A9%E5%AE%B6%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5bug",
+          "source": "贴吧",
           "ranks": [
-            16,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "英国政府发言人：霍尔木兹海峡通行时不得收取任何费用。",
@@ -293,6 +308,17 @@
           "time_info": "[01时34分 ~ 03时38分]"
         },
         {
+          "title": "西班牙大臣：我们没有诽谤，以色列政府就是种族灭绝的犯罪政权",
+          "url": "https://news.ifeng.com/c/8sHeFNMztLD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时02分]"
+        },
+        {
           "title": "匈牙利选举委员会：匈牙利大选投票率在格林威治时间16时30分（北京时间00:30）已达77.8%，高于2022年同期的67.8%。",
           "url": "https://flash.jin10.com/detail/20260413005716755800",
           "source": "金十数据",
@@ -304,6 +330,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时34分 ~ 03时38分]"
+        },
+        {
+          "title": "西藏自治区人大常委会原党组副书记、副主任丁业现被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32955453",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "山西一法官猥亵当事人纪检部门介入",
@@ -356,17 +394,6 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
-          "title": "西班牙大臣：我们没有诽谤，以色列政府就是种族灭绝的犯罪政权",
-          "url": "https://news.ifeng.com/c/8sHeFNMztLD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时40分]"
-        },
-        {
           "title": "匈牙利选举委员会：匈牙利选举投票率在格林威治时间15时（北京时间23:00）达到74.23%，高于2022年的62.92%。",
           "url": "https://flash.jin10.com/detail/20260412233303273800",
           "source": "金十数据",
@@ -402,6 +429,17 @@
           "time_info": "[01时34分 ~ 02时46分]"
         },
         {
+          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
           "title": "本周重要事件与数据预告：中国贸易帐与一季度GDP；周三美联储官员密集发言",
           "url": "https://flash.jin10.com/detail/20260413065939314800",
           "source": "金十数据",
@@ -413,26 +451,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "吃饱打厨子,玩家反手举报bug",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353131&amp;topic_name=%E5%90%83%E9%A5%B1%E6%89%93%E5%8E%A8%E5%AD%90%2C%E7%8E%A9%E5%AE%B6%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5bug",
-          "source": "贴吧",
+          "title": "德国财政部长克林贝伊尔：作为税收减免补贴的配套筹资措施，烟草税将于2026年上调。",
+          "url": "https://flash.jin10.com/detail/20260413153237628800",
+          "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "西藏自治区人大常委会原党组副书记、副主任丁业现被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32955453",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "time_info": "16时02分"
         },
         {
           "title": "伊朗外交部长：然而，就在距离《伊斯兰堡谅解备忘录》仅咫尺之遥时，我们却遭遇了极端主义、不断变换条件以及封锁。",
@@ -444,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "外交部：中方祝贺毛焦尔领导的蒂萨党在匈牙利新一届国会选举中获胜。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "创业板“地方政府推送企业信息新机制”划重点：非必备程序，更非通行证",
@@ -490,6 +528,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "匈牙利蒂萨党赢得大选，外交部：愿同匈新政府加强高层交往",
+          "url": "https://flash.jin10.com/detail/20260413152934126800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "以色列总理和国防部长视察黎巴嫩南部的以军",
           "url": "https://flash.jin10.com/detail/20260412234622260800",
           "source": "金十数据",
@@ -507,9 +556,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "丁薛祥将访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式、举行中土合作委员会第七次会议。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "斯洛伐克官员称北约面临信任危机",
@@ -521,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗官员说美并非真心谈判",
+          "url": "https://wallstreetcn.com/livenews/3086744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "国家互联网信息办公室与香港特区政府创新科技及工业局签署关于创新科技发展的合作备忘录",
@@ -551,9 +622,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "德国劳动部长巴斯：德国燃油税减免价值约16亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260413151735971800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "【伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦】据巴基斯坦政府消息，伊朗伊斯兰议会议长卡利巴夫12日傍晚率领伊朗谈判代表团乘飞机离开巴基斯坦。（新华社）",
@@ -573,7 +655,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -584,7 +666,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
