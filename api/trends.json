@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:29:07.179762+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-04-14T17:17:08.445509+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 15时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 17时17分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -88,11 +88,12 @@
             13,
             14,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 15时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 17时17分]"
         },
         {
           "title": "国家烟草专卖局原党组成员、副局长韩占武被“双开”",
@@ -116,8 +117,45 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 17时17分]"
+        },
+        {
+          "title": "儿子遭遇校园欺凌，父亲到校处理激动猝死，当地警方正在调查，事件各方的法律责任与过错应如何划分？",
+          "url": "https://www.zhihu.com/question/2027294077729731311",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
+          "ranks": [
+            7,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 17时17分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -131,17 +169,15 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
+          "title": "Lululemon被调查",
+          "url": "https://s.weibo.com/weibo?q=%23Lululemon%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            6,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时29分]"
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "中东官员：新一轮美伊会谈有望数日内举行 正与美讨论延长停火期",
@@ -172,26 +208,52 @@
           "time_info": "[01时58分 ~ 15时29分]"
         },
         {
-          "title": "儿子遭遇校园欺凌，父亲到校处理激动猝死，当地警方正在调查，事件各方的法律责任与过错应如何划分？",
-          "url": "https://www.zhihu.com/question/2027294077729731311",
+          "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2026270826924695607",
           "source": "知乎",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "time_info": "[15时29分 ~ 17时17分]"
         },
         {
           "title": "gen粉举报逃税,faker被传唤调查",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353200&amp;topic_name=gen%E7%B2%89%E4%B8%BE%E6%8A%A5%E9%80%83%E7%A8%8E%2Cfaker%E8%A2%AB%E4%BC%A0%E5%94%A4%E8%B0%83%E6%9F%A5",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时17分]"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://www.toutiao.com/trending/7628431394586886163/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
+          "title": "Lululemon涉嫌含永久化学物质遭调查",
+          "url": "https://www.baidu.com/s?wd=Lululemon%E6%B6%89%E5%AB%8C%E5%90%AB%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时17分]"
         },
         {
           "title": "联合国秘书长古特雷斯：呼吁恢复谈判以达成协议。停火必须绝对得到维护，所有违反行为必须停止。冲突各方必须遵守国际法，尊重航行自由，包括在霍尔木兹海峡。",
@@ -205,15 +267,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2026270826924695607",
-          "source": "知乎",
+          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
+          "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "17时17分"
         },
         {
           "title": "深圳坪山比亚迪突发大火 消防通报",
@@ -250,29 +312,17 @@
           "time_info": "00时11分"
         },
         {
-          "title": "孙卫东卸任外交部副部长",
-          "url": "https://www.toutiao.com/trending/7628431394586886163/",
-          "source": "今日头条",
+          "title": "澎湃回声｜湖北襄阳一村支书被举报违规建1500㎡楼房，已被免职接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32965235",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
-          "ranks": [
-            7,
-            13,
-            17
+            19,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时29分]"
+          "time_info": "[13时22分 ~ 17时17分]"
         },
         {
           "title": "伊朗外交部：强烈谴责以官员闯入阿克萨清真寺大院行为",
@@ -299,16 +349,28 @@
           "time_info": "[05时47分 ~ 06时42分]"
         },
         {
-          "title": "澎湃回声｜湖北襄阳一村支书被举报违规建1500㎡楼房，已被免职接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32965235",
+          "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32965684",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            14
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时17分]"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时17分]"
         },
         {
           "title": "当地通报村干部违建楼房成打卡地",
@@ -371,26 +433,15 @@
           "time_info": "[04时54分 ~ 05时47分]"
         },
         {
-          "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32965684",
-          "source": "澎湃新闻",
+          "title": "Lululemon在美被查",
+          "url": "https://www.douyin.com/hot/2465613",
+          "source": "抖音",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
-        },
-        {
-          "title": "孙卫东卸任外交部副部长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "伊朗官员称在谈判中抵制了美方三大「无理要求」，如何理解这些内容？反映出美方怎样的意图？",
@@ -402,17 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 13时22分]"
-        },
-        {
-          "title": "Lululemon涉嫌含永久化学物质遭调查",
-          "url": "https://www.baidu.com/s?wd=Lululemon%E6%B6%89%E5%AB%8C%E5%90%AB%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
           "title": "徐巧芯：陆客来台可为基层经济注活水",
@@ -459,6 +499,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "中国兵器装备集团有限公司原党组成员、副总经理刘卫东受贿案一审宣判",
+          "url": "https://wallstreetcn.com/livenews/3087591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "加拿大举行选区补选 加总理卡尼领导的自由党预计将成为议会多数党",
           "url": "https://wallstreetcn.com/livenews/3087421",
           "source": "华尔街见闻-快讯",
@@ -498,9 +549,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "中国证监会主席吴清会见马来西亚证券委员会主席拿督穆罕默德·法伊兹·阿兹米",
+          "url": "https://wallstreetcn.com/livenews/3087586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "欧洲央行管委武伊契奇：能源价格仍最接近欧洲央行基本情景",
@@ -558,6 +620,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "官方回应「为什么不能把杨柳树都砍了」，有哪些考量？为什么杨柳树能成为早年城市绿化的主力树种？",
+          "url": "https://www.zhihu.com/question/2026751927879246020",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "孙卫东卸任外交部副部长",
           "url": "https://wallstreetcn.com/livenews/3087308",
           "source": "华尔街见闻-快讯",
@@ -569,6 +642,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "中欧国际工商学院院长汪泓：跨境金融和离岸市场是企业高质量出海的关键基础设施",
+          "url": "https://wallstreetcn.com/livenews/3087579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "加拿大总理卡尼确保了多数党政府，因自由党赢得空缺席位。",
           "url": "https://wallstreetcn.com/livenews/3087304",
           "source": "华尔街见闻-快讯",
@@ -578,6 +662,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "欧洲央行：管理委员会呼吁通过促进单一市场来增强银行竞争力。",
+          "url": "https://flash.jin10.com/detail/20260414170217632800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8164，较上一交易日官方收盘价涨174点，较上日夜盘收盘涨136点。",
+          "url": "https://wallstreetcn.com/livenews/3087571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：调查显示对通胀需保持警惕。",
@@ -624,6 +730,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "多部门启动2026年度集体协商“集中要约行动”",
+          "url": "https://wallstreetcn.com/livenews/3087568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "赵文芳任国家铁路局副局长",
           "url": "https://www.toutiao.com/trending/7628417938475040804/",
           "source": "今日头条",
@@ -655,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：中东战争对通胀的影响并非直接明了。 从货币政策关注的中期来看，通胀走势可能会出现不同方向的发展。 货币政策不应仅仅基于某一单一价格（如石油），而应基于整体经济形势。 目前欧洲央行特别密切关注的是中东冲突的持续时间和强度，以及其对其他经济领域的溢出效应。 如果战争持续并导致价格和工资出现二轮效应，且通胀预期开始失锚，货币政策将按照策略大幅收紧。",
+          "url": "https://wallstreetcn.com/livenews/3087578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "警方通报男子撞倒大伯后逃逸致死",
