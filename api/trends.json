@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:02:16.324299+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-04-14T21:22:52.070042+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
@@ -54,11 +54,26 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 21时22分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 21时22分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -75,19 +90,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时11分 ~ 10时27分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 19时02分]"
         },
         {
           "title": "妻子空壳公司“转手”获利3395万，江苏一厅官涉新型受贿被判13年",
@@ -118,8 +120,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 19时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 21时22分]"
         },
         {
           "title": "国家烟草专卖局原党组成员、副局长韩占武被“双开”",
@@ -143,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 21时22分]"
         },
         {
           "title": "官方通报深圳比亚迪车库起火",
@@ -157,19 +159,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 21时22分]"
         },
         {
           "title": "Lululemon被调查",
           "url": "https://s.weibo.com/weibo?q=%23Lululemon%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 21时22分]"
         },
         {
           "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
@@ -179,8 +182,33 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 21时22分]"
+        },
+        {
+          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时02分]"
+          "time_info": "[17时17分 ~ 21时22分]"
+        },
+        {
+          "title": "gen粉举报逃税,faker被传唤调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353200&amp;topic_name=gen%E7%B2%89%E4%B8%BE%E6%8A%A5%E9%80%83%E7%A8%8E%2Cfaker%E8%A2%AB%E4%BC%A0%E5%94%A4%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 21时22分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -209,6 +237,20 @@
           "time_info": "[00时11分 ~ 07时41分]"
         },
         {
+          "title": "澎湃回声｜湖北襄阳一村支书被举报违规建1500㎡楼房，已被免职接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32965235",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 21时22分]"
+        },
+        {
           "title": "周杰伦乡间的路官方MV上线",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -220,30 +262,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 15时29分]"
-        },
-        {
-          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
-          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时02分]"
-        },
-        {
-          "title": "gen粉举报逃税,faker被传唤调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353200&amp;topic_name=gen%E7%B2%89%E4%B8%BE%E6%8A%A5%E9%80%83%E7%A8%8E%2Cfaker%E8%A2%AB%E4%BC%A0%E5%94%A4%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 19时02分]"
         },
         {
           "title": "孙卫东卸任外交部副部长",
@@ -283,17 +301,31 @@
           "time_info": "03时21分"
         },
         {
-          "title": "澎湃回声｜湖北襄阳一村支书被举报违规建1500㎡楼房，已被免职接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32965235",
+          "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32965684",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            14,
-            12
+            15,
+            13,
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时22分 ~ 19时02分]"
+          "time_info": "[15时28分 ~ 21时22分]"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 21时22分]"
         },
         {
           "title": "以色列外交部长：以色列和捷克成立联合机构以加强经济联系。",
@@ -302,7 +334,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -317,17 +349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时22分]"
-        },
-        {
-          "title": "受贿数额特别巨大 刘卫东获刑13年",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E5%88%98%E5%8D%AB%E4%B8%9C%E8%8E%B7%E5%88%9113%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -358,34 +379,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
         {
-          "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32965684",
-          "source": "澎湃新闻",
+          "title": "受贿数额特别巨大 刘卫东获刑13年",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E5%88%98%E5%8D%AB%E4%B8%9C%E8%8E%B7%E5%88%9113%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            13,
-            11
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 19时02分]"
-        },
-        {
-          "title": "孙卫东卸任外交部副部长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 19时02分]"
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 21时22分]"
         },
         {
           "title": "伊朗外交部：强烈谴责以官员闯入阿克萨清真寺大院行为",
@@ -416,11 +424,25 @@
           "url": "https://www.douyin.com/hot/2465613",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 21时22分]"
+        },
+        {
+          "title": "官方回应「为什么不能把杨柳树都砍了」，有哪些考量？为什么杨柳树能成为早年城市绿化的主力树种？",
+          "url": "https://www.zhihu.com/question/2026751927879246020",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时02分]"
+          "time_info": "[17时17分 ~ 21时22分]"
         },
         {
           "title": "当地通报村干部违建楼房成打卡地",
@@ -481,18 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时47分]"
-        },
-        {
-          "title": "官方回应「为什么不能把杨柳树都砍了」，有哪些考量？为什么杨柳树能成为早年城市绿化的主力树种？",
-          "url": "https://www.zhihu.com/question/2026751927879246020",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时02分]"
         },
         {
           "title": "伊朗官员称在谈判中抵制了美方三大「无理要求」，如何理解这些内容？反映出美方怎样的意图？",
@@ -567,7 +577,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -589,7 +599,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -622,7 +632,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -644,9 +654,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "美共和党参议员：沃什听证会定于下周举行，司法部调查料数周内结束以扫清障碍",
+          "url": "https://flash.jin10.com/detail/20260414211748605800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "中国证监会主席吴清会见马来西亚证券委员会主席拿督穆罕默德·法伊兹·阿兹米",
@@ -699,7 +720,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -748,6 +769,28 @@
           "time_info": "17时17分"
         },
         {
+          "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32968045",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "影子调查｜21万元注射干细胞，是谁把临床试验做成了生意？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961077",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "加拿大总理卡尼确保了多数党政府，因自由党赢得空缺席位。",
           "url": "https://wallstreetcn.com/livenews/3087304",
           "source": "华尔街见闻-快讯",
@@ -765,7 +808,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -801,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "王沪宁分别会见越共中央总书记、国家主席苏林，新西兰议长布朗利",
+          "url": "https://wallstreetcn.com/livenews/3087709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "据MS Now新闻：北约官员称，英国正牵头一个由40多个国家组成的联盟，以重新开放霍尔木兹海峡。",
