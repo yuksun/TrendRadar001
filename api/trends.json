@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:13:28.518044+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-15T04:52:34.960224+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
@@ -15,19 +15,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
         },
         {
           "title": "澎湃回声｜湖北襄阳一村支书被举报违规建1500㎡楼房，已被免职接受调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32965235",
           "source": "澎湃新闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "影子调查｜21万元注射干细胞，是谁把临床试验做成了生意？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961077",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
         },
         {
           "title": "比心被拒小哥:尊重官方和coser",
@@ -37,20 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "影子调查｜21万元注射干细胞，是谁把临床试验做成了生意？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961077",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
         },
         {
           "title": "女子抛撒大量港币引争抢 当地通报",
@@ -58,11 +71,118 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "武汉通报一小区电梯发生冲顶事故",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%8F%91%E7%94%9F%E5%86%B2%E9%A1%B6%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "四川荣县通报“男子无偿献血十年要求免诊查费遭拒”：医院作出书面检讨，分管领导诫勉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32969304",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32968045",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "gen粉举报逃税,faker被传唤调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353200&amp;topic_name=gen%E7%B2%89%E4%B8%BE%E6%8A%A5%E9%80%83%E7%A8%8E%2Cfaker%E8%A2%AB%E4%BC%A0%E5%94%A4%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "Lululemon在美被查",
+          "url": "https://www.douyin.com/hot/2465613",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "54岁班主任带15岁女孩到宾馆开房猥亵被拘十天，家长提起刑事自诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32966462",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "吃饱打厨子,玩家反手举报bug",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353131&amp;topic_name=%E5%90%83%E9%A5%B1%E6%89%93%E5%8E%A8%E5%AD%90%2C%E7%8E%A9%E5%AE%B6%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5bug",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时52分]"
+        },
+        {
+          "title": "官方回应「为什么不能把杨柳树都砍了」，有哪些考量？为什么杨柳树能成为早年城市绿化的主力树种？",
+          "url": "https://www.zhihu.com/question/2026751927879246020",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "time_info": "[01时06分 ~ 04时52分]"
         },
         {
           "title": "Lululemon在美被查",
@@ -77,107 +197,28 @@
           "time_info": "[01时05分 ~ 03时13分]"
         },
         {
-          "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32968045",
-          "source": "澎湃新闻",
+          "title": "牛排店被查唯一干净的竟是喂狗碗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%8E%92%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%94%AF%E4%B8%80%E5%B9%B2%E5%87%80%E7%9A%84%E7%AB%9F%E6%98%AF%E5%96%82%E7%8B%97%E7%A2%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "四川荣县通报“男子无偿献血十年要求免诊查费遭拒”：医院作出书面检讨，分管领导诫勉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32969304",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "gen粉举报逃税,faker被传唤调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353200&amp;topic_name=gen%E7%B2%89%E4%B8%BE%E6%8A%A5%E9%80%83%E7%A8%8E%2Cfaker%E8%A2%AB%E4%BC%A0%E5%94%A4%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "Lululemon在美被查",
-          "url": "https://www.douyin.com/hot/2465613",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "54岁班主任带15岁女孩到宾馆开房猥亵被拘十天，家长提起刑事自诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32966462",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "武汉通报一小区电梯发生冲顶事故",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%8F%91%E7%94%9F%E5%86%B2%E9%A1%B6%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "孙卫东卸任外交部副部长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964957",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "吃饱打厨子,玩家反手举报bug",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353131&amp;topic_name=%E5%90%83%E9%A5%B1%E6%89%93%E5%8E%A8%E5%AD%90%2C%E7%8E%A9%E5%AE%B6%E5%8F%8D%E6%89%8B%E4%B8%BE%E6%8A%A5bug",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "官方回应「为什么不能把杨柳树都砍了」，有哪些考量？为什么杨柳树能成为早年城市绿化的主力树种？",
-          "url": "https://www.zhihu.com/question/2026751927879246020",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
+            24,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时52分]"
+        },
+        {
+          "title": "班主任猥亵女学生被调到做后勤工作",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%B0%83%E5%88%B0%E5%81%9A%E5%90%8E%E5%8B%A4%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时52分]"
         },
         {
           "title": "联合国秘书长古特雷斯：目前掌握的迹象表明，伊朗核问题谈判极有可能重启。",
@@ -189,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "变天之后，匈牙利新政府将如何对待中国？",
+          "url": "https://news.ifeng.com/c/8sKUEQgerfO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "美官员：未全面封锁霍尔木兹海峡 仅针对进出伊朗港口船只",
@@ -208,7 +260,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -219,7 +271,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -241,7 +293,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -255,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://www.toutiao.com/trending/7628431394586886163/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "欧洲央行管委马赫鲁夫：美联储和欧洲央行短期内走向不同道路并非不可能。",
@@ -274,7 +337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -285,7 +348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -296,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -307,18 +370,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "牛排店被查唯一干净的竟是喂狗碗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%8E%92%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%94%AF%E4%B8%80%E5%B9%B2%E5%87%80%E7%9A%84%E7%AB%9F%E6%98%AF%E5%96%82%E7%8B%97%E7%A2%97%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -329,7 +381,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -354,17 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "班主任猥亵女学生被调到做后勤工作",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%B0%83%E5%88%B0%E5%81%9A%E5%90%8E%E5%8B%A4%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
         }
       ]
     }
