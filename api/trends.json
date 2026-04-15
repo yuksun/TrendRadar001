@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T21:44:05.235578+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-04-15T23:05:04.457879+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 86,
+      "match_count": 91,
       "titles": [
         {
           "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
@@ -88,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 23时05分]"
         },
         {
           "title": "比心被拒小哥:尊重官方和coser",
@@ -105,8 +105,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时05分 ~ 21时44分]"
+          "appearance_count": 20,
+          "time_info": "[01时05分 ~ 23时05分]"
         },
         {
           "title": "官方辟谣“重庆铜梁地震引发灾情”",
@@ -116,8 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 23时05分]"
         },
         {
           "title": "gen粉举报逃税,faker被传唤调查",
@@ -136,6 +136,20 @@
           "time_info": "[01时05分 ~ 18时58分]"
         },
         {
+          "title": "数字赋能，技术何以为基层减负？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939955",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时05分]"
+        },
+        {
           "title": "Lululemon在美被查",
           "url": "https://www.douyin.com/hot/2465613",
           "source": "抖音",
@@ -146,6 +160,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 10时25分]"
+        },
+        {
+          "title": "两部门：将境内外商独资银行、境内中外合资银行、外国银行境内分行的境外贷款杠杆率由0.5上调至1.5",
+          "url": "https://www.cls.cn/detail/2344842",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时05分]"
         },
         {
           "title": "解说公海条约秘书处落户竞选",
@@ -163,18 +191,17 @@
           "time_info": "[15时38分 ~ 21时44分]"
         },
         {
-          "title": "两部门：将境内外商独资银行、境内中外合资银行、外国银行境内分行的境外贷款杠杆率由0.5上调至1.5",
-          "url": "https://www.cls.cn/detail/2344842",
-          "source": "财联社热门",
+          "title": "同济大学王教授被举报学术造假，为什么饶毅建议他「千万不要认错」？",
+          "url": "https://www.zhihu.com/question/2027671656424829523",
+          "source": "知乎",
           "ranks": [
-            10,
-            3,
+            8,
             2,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时18分 ~ 21时44分]"
+          "time_info": "[18时58分 ~ 23时05分]"
         },
         {
           "title": "女子抛撒大量港币引争抢 当地通报",
@@ -216,19 +243,6 @@
           "time_info": "[01时05分 ~ 07时41分]"
         },
         {
-          "title": "数字赋能，技术何以为基层减负？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939955",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 21时44分]"
-        },
-        {
           "title": "54岁班主任带15岁女孩到宾馆开房猥亵被拘十天，家长提起刑事自诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32966462",
           "source": "澎湃新闻",
@@ -264,19 +278,6 @@
           "time_info": "[01时05分 ~ 07时41分]"
         },
         {
-          "title": "同济大学王教授被举报学术造假，为什么饶毅建议他「千万不要认错」？",
-          "url": "https://www.zhihu.com/question/2027671656424829523",
-          "source": "知乎",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 21时44分]"
-        },
-        {
           "title": "日本政府决定继续释放民间石油储备",
           "url": "https://flash.jin10.com/detail/20260415165316951800",
           "source": "金十数据",
@@ -286,6 +287,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "南京一卫生院用杆秤称重，秤砣滑落砸到新生儿，当地卫健委已介入调查，这一操作合规吗？为啥还会用老式杆秤？",
+          "url": "https://www.zhihu.com/question/2027450584798603164",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 23时05分]"
         },
         {
           "title": "交管部门回应绿牌变白牌",
@@ -302,13 +318,37 @@
           "time_info": "[15时38分 ~ 19时58分]"
         },
         {
+          "title": "2女子遭高压水枪狂喷官方将调查",
+          "url": "https://www.baidu.com/s?wd=2%E5%A5%B3%E5%AD%90%E9%81%AD%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E7%8B%82%E5%96%B7%E5%AE%98%E6%96%B9%E5%B0%86%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时57分 ~ 23时05分]"
+        },
+        {
+          "title": "德国国防部长：短期内尚无开放霍尔木兹海峡的可能。",
+          "url": "https://flash.jin10.com/detail/20260415224914742800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "以色列官员向以色列12频道表示，目前尚未决定是否终止在黎巴嫩的停火协议。",
           "url": "https://flash.jin10.com/detail/20260415213739224800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -368,6 +408,17 @@
           "time_info": "17时18分"
         },
         {
+          "title": "IMF总裁格奥尔基耶娃：我们目前没有讨论扩大对埃及援助计划的规模，埃及政府的表现非常负责。",
+          "url": "https://wallstreetcn.com/livenews/3088618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "Lululemon在美被查",
           "url": "https://www.toutiao.com/trending/7628381192332640319/",
           "source": "今日头条",
@@ -380,20 +431,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 07时41分]"
-        },
-        {
-          "title": "南京一卫生院用杆秤称重，秤砣滑落砸到新生儿，当地卫健委已介入调查，这一操作合规吗？为啥还会用老式杆秤？",
-          "url": "https://www.zhihu.com/question/2027450584798603164",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 21时44分]"
         },
         {
           "title": "班主任猥亵女学生被调到做后勤工作",
@@ -421,6 +458,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时43分 ~ 10时25分]"
+        },
+        {
+          "title": "国家安全部官方入驻抖音",
+          "url": "https://www.douyin.com/hot/2466564",
+          "source": "抖音",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时05分]"
         },
         {
           "title": "据阿拉伯卫星电视台：伊朗一家亲政府的Telegram频道消息称，伊朗首都德黑兰的伊玛目霍梅尼大街发生汽车炸弹爆炸。德黑兰居民表示，在当地时间周二午夜前后听到了多次爆炸声。",
@@ -460,18 +509,6 @@
           "time_info": "[01时06分 ~ 05时51分]"
         },
         {
-          "title": "2女子遭高压水枪狂喷官方将调查",
-          "url": "https://www.baidu.com/s?wd=2%E5%A5%B3%E5%AD%90%E9%81%AD%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E7%8B%82%E5%96%B7%E5%AE%98%E6%96%B9%E5%B0%86%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时57分 ~ 21时44分]"
-        },
-        {
           "title": "牛排店被查唯一干净的竟是喂狗碗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%8E%92%E5%BA%97%E8%A2%AB%E6%9F%A5%E5%94%AF%E4%B8%80%E5%B9%B2%E5%87%80%E7%9A%84%E7%AB%9F%E6%98%AF%E5%96%82%E7%8B%97%E7%A2%97%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -496,17 +533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时43分]"
-        },
-        {
-          "title": "国家安全部官方入驻抖音",
-          "url": "https://www.douyin.com/hot/2466564",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "杨紫官方后援会致歉",
@@ -564,6 +590,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "大连通报星海广场旅拍经营纠纷",
+          "url": "https://www.toutiao.com/trending/7628870088536375339/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "王海举报陈建斌代言三无产品",
@@ -638,7 +675,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -671,7 +708,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -696,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "英国政府发布商业公开信，就AI网络风险发出警告。",
+          "url": "https://wallstreetcn.com/livenews/3088609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "自然资源部部长关志鸥会见安哥拉矿产资源、石油和天然气部部长",
@@ -814,7 +862,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -825,9 +873,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "市场消息：英国政府向企业发出公开信，警告人工智能网络的风险。",
+          "url": "https://flash.jin10.com/detail/20260415223508551800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "联合国秘书长：美伊极有可能重启和谈",
@@ -880,7 +939,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -891,7 +950,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -913,7 +972,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -946,7 +1005,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -990,7 +1049,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1001,7 +1060,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
