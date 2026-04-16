@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:01:58.784013+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-04-16T22:25:23.167584+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 70,
+      "match_count": 79,
       "titles": [
         {
           "title": "千万网红博主称在大凉山帮扶被骗：相关部门跟进调查，警方介入",
@@ -59,11 +59,26 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 22时25分]"
+        },
+        {
+          "title": "人民日报刊文： 着力纠正做“太平官”的错误政绩观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32981257",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 22时25分]"
         },
         {
           "title": "比心被拒小哥:尊重官方和coser",
@@ -76,6 +91,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 10时32分]"
+        },
+        {
+          "title": "受贿数额特别巨大，湖北省政协原副主席周先旺被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32982589",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 22时25分]"
         },
         {
           "title": "周先旺被公诉：受贿数额特别巨大",
@@ -100,19 +139,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时40分]"
-        },
-        {
-          "title": "人民日报刊文： 着力纠正做“太平官”的错误政绩观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32981257",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 19时01分]"
         },
         {
           "title": "南京一卫生院用杆秤称重，秤砣滑落砸到新生儿，当地卫健委已介入调查，这一操作合规吗？为啥还会用老式杆秤？",
@@ -177,29 +203,6 @@
           "time_info": "[01时02分 ~ 07时40分]"
         },
         {
-          "title": "受贿数额特别巨大，湖北省政协原副主席周先旺被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32982589",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 19时01分]"
-        },
-        {
-          "title": "伊朗：将就官员被暗杀追究美以责任",
-          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "当地官员：乌克兰黑海港口敖德萨的一栋公寓楼遭到俄罗斯袭击，一人死亡，六人受伤。",
           "url": "https://flash.jin10.com/detail/20260416004839103800",
           "source": "金十数据",
@@ -255,6 +258,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "两部门：开展2026年度中央财政支持实施城市更新行动",
+          "url": "https://www.cls.cn/detail/2346503",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据路透调查：因伊朗战争担忧，日本反对加息的企业比例几乎翻倍。42%的日本企业认为，如果WTI平均价格低于100美元，利润增长是可能的，28%则认为这一门槛在80美元。大多数日本公司正在经历或预期伊朗战争对业务运营的影响。",
           "url": "https://flash.jin10.com/detail/20260416070044103800",
           "source": "金十数据",
@@ -300,6 +314,19 @@
           "time_info": "[13时29分 ~ 15时43分]"
         },
         {
+          "title": "马上评｜政府投资终身追责，向“拍脑袋”决策亮剑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32983090",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 22时25分]"
+        },
+        {
           "title": "警方回应15岁女孩遭班主任猥亵",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9415%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -338,6 +365,32 @@
           "time_info": "[03时15分 ~ 04时45分]"
         },
         {
+          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
+          "url": "https://www.zhihu.com/question/2028041056713798347",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 22时25分]"
+        },
+        {
+          "title": "官方重拳出击维护faker声誉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353319&amp;topic_name=%E5%AE%98%E6%96%B9%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E7%BB%B4%E6%8A%A4faker%E5%A3%B0%E8%AA%89",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 22时25分]"
+        },
+        {
           "title": "湖北省政协原副主席周先旺被公诉",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%91%A8%E5%85%88%E6%97%BA%E8%A2%AB%E5%85%AC%E8%AF%89",
           "source": "百度热搜",
@@ -348,30 +401,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时31分 ~ 13时30分]"
-        },
-        {
-          "title": "马上评｜政府投资终身追责，向“拍脑袋”决策亮剑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32983090",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 19时01分]"
-        },
-        {
-          "title": "官方重拳出击维护faker声誉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353319&amp;topic_name=%E5%AE%98%E6%96%B9%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E7%BB%B4%E6%8A%A4faker%E5%A3%B0%E8%AA%89",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时01分]"
         },
         {
           "title": "巴西政府发布2027年预算指导意见草案。",
@@ -471,18 +500,6 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
-          "url": "https://www.zhihu.com/question/2028041056713798347",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时01分]"
-        },
-        {
           "title": "班主任猥亵女生已成立联合调查组",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -558,6 +575,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "韩国能源部长：美伊战争引发首尔向可再生能源的“根本性能源转型”",
+          "url": "https://wallstreetcn.com/livenews/3089421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节：情报部门周密部署 军民协同作战",
+          "url": "https://wallstreetcn.com/livenews/3089420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "日本财务大臣片山皋月：许多中央银行官员采取观望态度，因为加息可能会对经济产生负面影响。",
@@ -665,7 +704,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -681,15 +720,37 @@
           "time_info": "10时32分"
         },
         {
+          "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32982197",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "商务部副部长盛秋平出席第六届消博会电子商务国际合作圆桌会",
           "url": "https://wallstreetcn.com/livenews/3089232",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "同济通报「院长被质疑 Nature 论文数据造假」，已成立调查组，有哪些信息值得关注？若查实将有什么影响？",
+          "url": "https://www.zhihu.com/question/2028179039127433628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "以官员称以色列总理将与黎巴嫩总统通话",
@@ -731,9 +792,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "欧洲央行管委穆勒：4月30日会议可能难以确定是否需要加息；6月会议将提供更多数据。",
@@ -764,9 +836,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节：情报部门周密部署 军民协同作战",
+          "url": "https://flash.jin10.com/detail/20260416220813200800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "商务部部长王文涛会见越南工贸部部长黎孟雄",
@@ -802,6 +885,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "15时4分还没人上班 广西钦州通报",
+          "url": "https://www.baidu.com/s?wd=15%E6%97%B64%E5%88%86%E8%BF%98%E6%B2%A1%E4%BA%BA%E4%B8%8A%E7%8F%AD+%E5%B9%BF%E8%A5%BF%E9%92%A6%E5%B7%9E%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "官方通报企业买地建酒厂因污染停工",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%81%E4%B8%9A%E4%B9%B0%E5%9C%B0%E5%BB%BA%E9%85%92%E5%8E%82%E5%9B%A0%E6%B1%A1%E6%9F%93%E5%81%9C%E5%B7%A5",
           "source": "百度热搜",
@@ -822,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "同济大学启动调查程序",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%90%AF%E5%8A%A8%E8%B0%83%E6%9F%A5%E7%A8%8B%E5%BA%8F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -837,11 +942,12 @@
             13,
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 22时25分]"
         },
         {
           "title": "马上看丨清水河变“牛奶河”！山东临沂一乡村河道污水横流、鱼虾绝迹、农田遭殃",
@@ -850,11 +956,12 @@
           "ranks": [
             16,
             17,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 22时25分]"
         },
         {
           "title": "山东：聚焦航空航天制造、卫星应用和低空飞行服务保障等领域",
@@ -874,7 +981,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
