@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T10:28:12.373481+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-04-17T13:27:10.512463+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 42,
+      "match_count": 54,
       "titles": [
         {
           "title": "人民日报刊文： 着力纠正做“太平官”的错误政绩观",
@@ -43,19 +43,6 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
-          "title": "15时4分还没人上班 广西钦州通报",
-          "url": "https://www.baidu.com/s?wd=15%E6%97%B64%E5%88%86%E8%BF%98%E6%B2%A1%E4%BA%BA%E4%B8%8A%E7%8F%AD+%E5%B9%BF%E8%A5%BF%E9%92%A6%E5%B7%9E%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时28分]"
-        },
-        {
           "title": "广西靖西通报一国道多名男子持手电筒拦车：5人被刑拘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32986614",
           "source": "澎湃新闻",
@@ -64,7 +51,21 @@
             19,
             17,
             13,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时27分]"
+        },
+        {
+          "title": "15时4分还没人上班 广西钦州通报",
+          "url": "https://www.baidu.com/s?wd=15%E6%97%B64%E5%88%86%E8%BF%98%E6%B2%A1%E4%BA%BA%E4%B8%8A%E7%8F%AD+%E5%B9%BF%E8%A5%BF%E9%92%A6%E5%B7%9E%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -117,11 +118,12 @@
           "ranks": [
             12,
             13,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时27分]"
         },
         {
           "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
@@ -155,11 +157,35 @@
           "url": "https://news.ifeng.com/c/8sL7pYZfi7D",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时11分 ~ 10时28分]"
+          "appearance_count": 7,
+          "time_info": "[03时11分 ~ 13时27分]"
+        },
+        {
+          "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
+          "url": "https://www.zhihu.com/question/2028141749118189870",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
+          "title": "陈刚会见越共中央总书记苏林",
+          "url": "https://www.douyin.com/hot/2468985",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -195,17 +221,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
-          "url": "https://www.zhihu.com/question/2028141749118189870",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "同济通报「院长被质疑 Nature 论文数据造假」，已成立调查组，有哪些信息值得关注？若查实将有什么影响？",
           "url": "https://www.zhihu.com/question/2028179039127433628",
           "source": "知乎",
@@ -231,6 +246,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时13分]"
+        },
+        {
+          "title": "受贿数额特别巨大 于文明被提起公诉",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E4%BA%8E%E6%96%87%E6%98%8E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时27分]"
+        },
+        {
+          "title": "黄果任国家药品监督管理局党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985809",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时27分]"
+        },
+        {
+          "title": "越共中央总书记夫人在广西参观",
+          "url": "https://www.toutiao.com/trending/7628925843070746678/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "联合国秘书长古特雷斯：欢迎以色列与黎巴嫩之间停火的公告。",
@@ -268,17 +318,6 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
-          "title": "受贿数额特别巨大 于文明被提起公诉",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E4%BA%8E%E6%96%87%E6%98%8E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
           "title": "黎巴嫩财政部长：黎巴嫩代表团在华盛顿与国际货币基金组织进行了良好的会谈。",
           "url": "https://flash.jin10.com/detail/20260417053358995800",
           "source": "金十数据",
@@ -291,15 +330,38 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
-          "title": "黄果任国家药品监督管理局党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985809",
+          "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
           "source": "澎湃新闻",
           "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
+          "title": "国家中医药管理局原局长被提起公诉",
+          "url": "https://www.toutiao.com/trending/7629542149790957606/",
+          "source": "今日头条",
+          "ranks": [
+            23,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
+          "title": "女儿遭班主任猥亵父亲打算为其改名",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%81%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%8C%A5%E4%BA%B5%E7%88%B6%E4%BA%B2%E6%89%93%E7%AE%97%E4%B8%BA%E5%85%B6%E6%94%B9%E5%90%8D%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：经验表明，央行独立性带来更低的通胀和更低的利率。",
@@ -352,7 +414,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -363,7 +425,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -379,13 +441,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "据英国《金融时报》报道，怡和正与长和谈判收购后者的超市部门并将其与惠康合并，谈判已经持续了一段时间，但短期内仍不会达成协议；长和也在考虑让屈臣氏集团进行IPO，并寻求高达300亿美元的估值。",
+          "url": "https://wallstreetcn.com/livenews/3089782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "联合国秘书长欢迎黎以停火",
           "url": "https://flash.jin10.com/detail/20260417101002110800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -399,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "宁夏回族自治区党委常委、常务副主席陈春平表示，“十五五”期间宁夏将进一步加强开放通道建设。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3089778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "据报道，以色列内阁会议已结束。内塔尼亚胡向各部长承诺，将很快再次召开内阁会议以讨论具体细节。",
@@ -418,7 +502,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -432,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "调查：通胀飙升，欧洲央行将于6月加息",
+          "url": "https://flash.jin10.com/detail/20260417123816450800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
@@ -456,6 +551,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "由于政府审批延迟，印度银行业暂停黄金和白银进口",
+          "url": "https://flash.jin10.com/detail/20260417123323134800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "欧洲央行管委Nagel：在4月会议前应保持政策选项开放",
           "url": "https://wallstreetcn.com/livenews/3089548",
           "source": "华尔街见闻-快讯",
@@ -467,15 +573,48 @@
           "time_info": "04时57分"
         },
         {
+          "title": "四川资中通报：发生大震可能性不大",
+          "url": "https://www.toutiao.com/trending/7629562538186772011/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "巴西对华大豆蛋白启动反倾销调查",
           "url": "https://flash.jin10.com/detail/20260417095133655800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "贸易消息人士：印度银行业暂停向海外供应商进口黄金和白银。由于政府命令延迟，印度各银行仍在等待进口金银的清关。约有5吨黄金和8吨白银因未获海关清关而滞留。",
+          "url": "https://flash.jin10.com/detail/20260417123007478800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "岛内政治人物好感度调查蒋万安领先",
+          "url": "https://www.toutiao.com/trending/7629159345129488390/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "日本设无人装备部门，欲打造新作战方式",
@@ -495,7 +634,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
@@ -503,7 +642,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马上看丨“白汤”灌河，黑口直排！山东临沂一乡村河道竟成这样……",
@@ -529,6 +668,20 @@
           "time_info": "[00时21分 ~ 10时28分]"
         },
         {
+          "title": "澎湃回声｜乡村河道成“牛奶河”，山东临沂回应：沿线管网破损溢流所致，正抢修",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985447",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时38分 ~ 13时27分]"
+        },
+        {
           "title": "官方通报山东一化工厂爆炸：无伤亡",
           "url": "https://www.toutiao.com/trending/7629358451390418483/",
           "source": "今日头条",
@@ -540,17 +693,15 @@
           "time_info": "[04时56分 ~ 04时57分]"
         },
         {
-          "title": "澎湃回声｜乡村河道成“牛奶河”，山东临沂回应：沿线管网破损溢流所致，正抢修",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985447",
+          "title": "山东淄博一化工厂发生火情：明火已扑灭，未造成人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32987449",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19,
-            5
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 10时28分]"
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         }
       ]
     }
