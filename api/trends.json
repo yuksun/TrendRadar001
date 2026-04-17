@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T15:44:14.358372+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-04-17T17:16:21.543138+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 58,
+      "match_count": 70,
       "titles": [
         {
           "title": "人民日报刊文： 着力纠正做“太平官”的错误政绩观",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时16分]"
         },
         {
           "title": "15时4分还没人上班 广西钦州通报",
@@ -120,11 +120,12 @@
             13,
             16,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时16分]"
         },
         {
           "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
@@ -162,8 +163,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时11分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 17时16分]"
         },
         {
           "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
@@ -172,11 +173,25 @@
           "ranks": [
             3,
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 17时16分]"
+        },
+        {
+          "title": "黄果任国家药品监督管理局党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985809",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 17时16分]"
         },
         {
           "title": "陈刚会见越共中央总书记苏林",
@@ -208,18 +223,6 @@
             12,
             19,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 15时44分]"
-        },
-        {
-          "title": "黄果任国家药品监督管理局党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985809",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -263,6 +266,18 @@
           "time_info": "[00时22分 ~ 05时41分]"
         },
         {
+          "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时16分]"
+        },
+        {
           "title": "以色列安全官员表示，军方在任何停火期间没有计划从黎巴嫩南部撤回部队。（路透）",
           "url": "https://wallstreetcn.com/livenews/3089472",
           "source": "华尔街见闻-快讯",
@@ -273,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时13分]"
-        },
-        {
-          "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 15时44分]"
         },
         {
           "title": "国家中医药管理局原局长被提起公诉",
@@ -418,7 +422,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -443,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "全国八部门常态化联合打击涉税违法犯罪工作推进会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/3089941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "联合国秘书长欢迎黎以停火",
@@ -500,6 +515,28 @@
           "time_info": "10时28分"
         },
         {
+          "title": "中国联通宝鸡分公司被罚3万，未对合作方短信内容等进行规范、管理、监督和处置",
+          "url": "https://wallstreetcn.com/livenews/3089936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "波兰能源部长：截至目前，波兰尚未从储备中释放任何航空燃油。",
+          "url": "https://flash.jin10.com/detail/20260417165720426800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "叙利亚过渡政府接管所有在叙美军基地",
           "url": "https://wallstreetcn.com/livenews/3089488",
           "source": "华尔街见闻-快讯",
@@ -520,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "央媒：班主任猥亵15岁女生被刑拘，不是“升格”是“纠错”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32992384",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "据报道，以色列内阁会议已结束。内塔尼亚胡向各部长承诺，将很快再次召开内阁会议以讨论具体细节。",
@@ -544,6 +592,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "全国八部门常态化联合打击涉税违法犯罪工作推进会议在京召开",
+          "url": "https://flash.jin10.com/detail/20260417165238382800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "据知情人士透露，国际货币基金组织（IMF）将正式接触委内瑞拉政府。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3089613",
           "source": "华尔街见闻-快讯",
@@ -553,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "昆明三部门约谈“松果出行”：责令限期清理回收违规投放车辆",
+          "url": "https://wallstreetcn.com/livenews/3089927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "调查：通胀飙升，欧洲央行将于6月加息",
@@ -566,15 +636,48 @@
           "time_info": "13时27分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8263，较上一交易日官方收盘价跌66点，较上日夜盘收盘跌33点。",
+          "url": "https://wallstreetcn.com/livenews/3089926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "市场监管总局开通传统工艺市场“打假清源”举报渠道",
           "url": "https://wallstreetcn.com/livenews/3089842",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美卫生部长出席国会听证 避谈疫苗接种问题",
+          "url": "https://wallstreetcn.com/livenews/3089922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "据日本共同社报道，东京地方检察厅17日对强闯中国驻日本大使馆的自卫队官员村田晃大实施鉴定拘留，以调查其是否具备刑事责任能力。鉴定拘留期限将持续至6月16日。",
+          "url": "https://flash.jin10.com/detail/20260417164945126800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。 欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）",
@@ -654,6 +757,28 @@
           "time_info": "13时27分"
         },
         {
+          "title": "波兰能源部长：波兰已确保未来几周的航空燃料供应。",
+          "url": "https://flash.jin10.com/detail/20260417164529173800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "女子后悔砌墙 多次举报自己违建",
+          "url": "https://www.toutiao.com/trending/7629564401716543529/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "岛内政治人物好感度调查蒋万安领先",
           "url": "https://www.toutiao.com/trending/7629159345129488390/",
           "source": "今日头条",
@@ -685,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "绿城水务：收到控股股东南宁建宁水务投资集团有限责任公司的通知，公司法定代表人、董事长黄东海被南宁市监察委员会立案调查并采取留置措施。",
+          "url": "https://wallstreetcn.com/livenews/3089915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -727,8 +863,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时38分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 17时16分]"
         },
         {
           "title": "官方通报山东一化工厂爆炸：无伤亡",
