@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:05:07.164425+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-04-20T18:47:19.280325+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "中央通报后河南问责25人",
@@ -213,6 +213,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "中央通报江西一市盲目收购上市企业",
+          "url": "https://www.toutiao.com/trending/7630775947578314281/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "巴基斯坦伊斯兰堡“红区”内政府机构实行居家办公",
           "url": "https://flash.jin10.com/detail/20260420041248514800",
           "source": "金十数据",
@@ -263,7 +274,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -274,7 +285,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
