@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T01:56:39.647329+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-21T03:03:43.654826+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "榜一挪用千万公款打赏主播",
@@ -14,20 +14,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时03分]"
         },
         {
-          "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
-          "url": "https://flash.jin10.com/detail/20260421013601493800",
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时03分]"
+        },
+        {
+          "title": "伊朗外交部长告诉巴基斯坦外长，德黑兰将在考虑所有相关因素后决定如何推进此事。",
+          "url": "https://flash.jin10.com/detail/20260421023753468800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时03分"
         },
         {
           "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
@@ -41,16 +54,16 @@
           "time_info": "00时08分"
         },
         {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
-          "source": "澎湃新闻",
+          "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
+          "url": "https://flash.jin10.com/detail/20260421013601493800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            3
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 03时03分]"
         },
         {
           "title": "央企干部醉酒被拒绝登机 施压机组",
@@ -58,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时03分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
@@ -70,11 +84,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时03分]"
         },
         {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
@@ -94,7 +109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -105,7 +120,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -185,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "哈马斯官员称该组织愿意交出部分武器",
+          "url": "https://www.toutiao.com/trending/7630608344310792219/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         }
       ]
     }
