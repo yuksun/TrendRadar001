@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T05:45:10.844913+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-04-21T06:42:26.694263+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "榜一挪用千万公款打赏主播",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 06时42分]"
         },
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "央企干部醉酒被拒绝登机 施压机组",
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
@@ -54,11 +54,12 @@
             24,
             30,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时42分]"
         },
         {
           "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
@@ -108,6 +109,17 @@
           "time_info": "[03时03分 ~ 04时43分]"
         },
         {
+          "title": "美方称已于4月10日与古巴政府官员会晤",
+          "url": "https://flash.jin10.com/detail/20260421054824410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
           "url": "https://wallstreetcn.com/livenews/3091242",
           "source": "华尔街见闻-快讯",
@@ -147,7 +159,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -169,7 +181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -229,6 +241,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "美劳工部长将离任，因涉与工作人员存在不当关系遭调查",
+          "url": "https://wallstreetcn.com/livenews/3091339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：大部分农户已备齐本播种季所需化肥，因此价格的长期走势将取决于战争持续时长。",
           "url": "https://flash.jin10.com/detail/20260420233223592800",
           "source": "金十数据",
@@ -268,7 +291,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
