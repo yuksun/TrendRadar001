@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:42:26.694263+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-04-21T07:41:26.540474+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "榜一挪用千万公款打赏主播",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 07时41分]"
         },
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "央企干部醉酒被拒绝登机 施压机组",
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时42分]"
+        },
+        {
+          "title": "自然资源部部长：把牢资源命脉，筑牢安全根基",
+          "url": "https://wallstreetcn.com/livenews/3091381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "据Politico：沃什表示，政府评论不会威胁到美联储政策。",
@@ -115,7 +126,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -173,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "当你晚上加班到十点回家路上，领导临时增任务，让你回公司办，你会回去吗？",
+          "url": "https://www.zhihu.com/question/2015351892025291067",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "苹果(AAPL.O)：约翰·特纳斯（John Ternus）将于2026年9月1日起出任首席执行官。库克将继续担任首席执行官，直至夏季，以监督过渡过程。",
@@ -247,7 +269,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -294,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "新西兰经济研究所（NZIER）：新西兰第一季度商业信心大幅下滑。 净43%的受访企业预计价格将在二季度上涨。 净4%的企业预计经济将恶化，而第四季度有48%的企业认为经济将改善。 经季节性调整后，净1%的企业预计经济将改善。 净0%的企业报告称第一季度自身经营活动有所改善。 净13%的企业预计第二季度自身活动将改善。 净10%的企业表示更难找到熟练工人。 净22%的企业在第一季度提高了价格。 净43%的企业预计将在第二季度提高价格。 净9%的企业在第一季度解雇了工人。 净5%的企业预计将在第二季度解雇工人。 调查回复收集时间为3月6日至4月10日。",
+          "url": "https://wallstreetcn.com/livenews/3091351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     }
