@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:44:39.023131+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-04-22T17:19:44.783814+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
@@ -31,11 +31,12 @@
             19,
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 15时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时19分]"
         },
         {
           "title": "人民日报批“领导没发话，我们不能动”：不沾责任、不沾风险、不沾矛盾",
@@ -77,6 +78,18 @@
           "time_info": "[00时59分 ~ 10时27分]"
         },
         {
+          "title": "十五部门：加强青年婚恋观引导 探索住房、出行、消费等多领域联动的生育支持政策",
+          "url": "https://www.cls.cn/detail/2351738",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 17时19分]"
+        },
+        {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
           "url": "https://flash.jin10.com/detail/20260422004214145800",
           "source": "金十数据",
@@ -94,20 +107,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
         {
-          "title": "十五部门：加强青年婚恋观引导 探索住房、出行、消费等多领域联动的生育支持政策",
-          "url": "https://www.cls.cn/detail/2351738",
-          "source": "财联社热门",
+          "title": "沙特媒体称马宁因执法失误，已被亚足联取消执法资格，后亚足联认证无错漏判，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2029929536180019387",
+          "source": "知乎",
           "ranks": [
-            4
+            3,
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 17时19分]"
         },
         {
           "title": "以色列国防军：根据进一步调查，克法尔尤瓦尔和马扬巴鲁克地区响起的警报极有可能是由于拦截了一架从黎巴嫩发射、试图进入以色列领土的无人机所致。这些发射行为公然违反了停火协议。",
@@ -144,18 +159,6 @@
           "time_info": "[10时26分 ~ 13时24分]"
         },
         {
-          "title": "沙特媒体称马宁因执法失误，已被亚足联取消执法资格，后亚足联认证无错漏判，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2029929536180019387",
-          "source": "知乎",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时44分]"
-        },
-        {
           "title": "伊朗并未请求延长停火，官员称：美此举是为争取时间发动突袭",
           "url": "https://wallstreetcn.com/livenews/3092118",
           "source": "华尔街见闻-快讯",
@@ -166,6 +169,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时37分]"
+        },
+        {
+          "title": "肯德基酱料要收费了，媒体调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020045",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 17时19分]"
         },
         {
           "title": "影子调查｜揭秘58同城维修“幽灵订单”：强行生成订单，截胡上门服务",
@@ -191,16 +207,15 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "肯德基酱料要收费了，媒体调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020045",
-          "source": "澎湃新闻",
+          "title": "美官员称“阿联酋要求互换货币，威胁改用人民币”，阿联酋否认",
+          "url": "https://news.ifeng.com/c/8sX6bqLo5NT",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "哈萨克斯坦能源部长：因暂停对德国出口，哈萨克斯坦暂无计划减少石油产量。 里海管道联盟运营正常。",
@@ -286,7 +301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -297,7 +312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -311,6 +326,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "20岁小伙养6弟妹？当地民政部门回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33027078",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "欧元区2025年政府债务占GDP比重上升至87.8%，较2024年的87%有所增加。",
+          "url": "https://flash.jin10.com/detail/20260422170200794800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "英国金融行为监管局与审慎监管局确认将调整高级管理人员问责制度，以简化监管并促进增长。",
+          "url": "https://flash.jin10.com/detail/20260422170148537800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "欧洲央行管委Kazaks称，欧洲央行在加息问题上有“充足”资本可以等待。（英国金融时报）",
@@ -469,11 +517,12 @@
           "url": "https://www.zhihu.com/question/2029989062296039823",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时12分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[04时12分 ~ 17时19分]"
         },
         {
           "title": "山东泰山2:1天津津门虎",
