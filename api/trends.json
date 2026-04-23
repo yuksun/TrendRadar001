@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:27:08.865954+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-04-23T19:07:21.478924+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "20岁小伙养6弟妹？当地民政部门回应",
@@ -29,11 +29,12 @@
             1,
             8,
             13,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 19时07分]"
         },
         {
           "title": "官方辟谣割青麦作青贮饲料",
@@ -59,11 +60,12 @@
             14,
             20,
             19,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 19时07分]"
         },
         {
           "title": "官方回应男童疑发现金矿：有可能",
@@ -86,11 +88,27 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 19时07分]"
+        },
+        {
+          "title": "一季度全国纪检监察机关立案24.5万件，其中立案省部级干部30人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032321",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 19时07分]"
         },
         {
           "title": "美官员披露：伊朗保留的军事能力远超美方此前声明",
@@ -141,20 +159,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时44分 ~ 15时49分]"
-        },
-        {
-          "title": "一季度全国纪检监察机关立案24.5万件，其中立案省部级干部30人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032321",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 17时27分]"
         },
         {
           "title": "美官员称“阿联酋要求互换货币，威胁改用人民币”，阿联酋否认",
@@ -257,11 +261,36 @@
           "ranks": [
             20,
             14,
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时07分]"
+        },
+        {
+          "title": "“公务员300万立案，民企3万立案”？这是误导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33034238",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时29分 ~ 17时27分]"
+          "time_info": "[15时49分 ~ 19时07分]"
+        },
+        {
+          "title": "男子整日疑妻出轨确诊神经梅毒晚期",
+          "url": "https://www.toutiao.com/trending/7631082967553622022/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时07分]"
         },
         {
           "title": "日本政府一系列危险动向引发强烈反对",
@@ -287,18 +316,6 @@
           "time_info": "[07时44分 ~ 10时31分]"
         },
         {
-          "title": "“公务员300万立案，民企3万立案”？这是误导",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33034238",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时27分]"
-        },
-        {
           "title": "一季度30名省部级干部被立案",
           "url": "https://www.toutiao.com/trending/7631724723797557299/",
           "source": "今日头条",
@@ -308,17 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 13时29分]"
-        },
-        {
-          "title": "男子整日疑妻出轨确诊神经梅毒晚期",
-          "url": "https://www.toutiao.com/trending/7631082967553622022/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "一季度2.3万村支书村主任被立案",
@@ -345,6 +351,18 @@
           "time_info": "[00时58分 ~ 02时03分]"
         },
         {
+          "title": "同济博士、上海商学院校长吴忠被实名举报学术不端，论文涉嫌抄袭、一稿多发疑骗经费，具体什么情况？",
+          "url": "https://www.zhihu.com/question/2029745974487113974",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时07分]"
+        },
+        {
           "title": "中央纪委国家监委通报",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E5%9B%BD%E5%AE%B6%E7%9B%91%E5%A7%94%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -366,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 15时49分]"
+        },
+        {
+          "title": "乌官员：乌俄交换被扣押人员工作仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3093262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "检察机关依法对中国证券监督管理委员会原党委委员、中央纪委国家监委驻中国证券监督管理委员会纪检监察组原组长王会民涉嫌受贿案提起公诉。",
@@ -399,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "乌官员：乌俄交换被扣押人员工作仍在继续",
+          "url": "https://flash.jin10.com/detail/20260423184823905800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "百度发布反贪腐舞弊通报：2025年共查办处理违法违纪员工144人，其中33人被司法机关依法处理。",
@@ -445,6 +485,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "副局长家暴12岁女儿 被刑事立案",
+          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E5%B1%80%E9%95%BF%E5%AE%B6%E6%9A%B412%E5%B2%81%E5%A5%B3%E5%84%BF+%E8%A2%AB%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "巴基斯坦官员：收到伊朗愿重启面对面谈判的积极信号",
           "url": "https://flash.jin10.com/detail/20260423012512387800",
           "source": "金十数据",
@@ -467,15 +518,15 @@
           "time_info": "06时45分"
         },
         {
-          "title": "同济博士、上海商学院校长吴忠被实名举报学术不端，论文涉嫌抄袭、一稿多发疑骗经费，具体什么情况？",
-          "url": "https://www.zhihu.com/question/2029745974487113974",
-          "source": "知乎",
+          "title": "日本财务大臣片山皋月：各国财政部长们谨慎观察中东局势。 就外汇问题与美方保持密切联系。 我们在外汇干预方面拥有自主权。 美日两国通过副手级官员就外汇问题保持全天24小时联系。 首次见到石油市场出现如此大的波动。 以往的外汇干预措施每次都能产生效果。",
+          "url": "https://wallstreetcn.com/livenews/3093250",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "19时07分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。",
@@ -533,6 +584,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "日本财务大臣片山皋月：非常关注市场对日本政府债券的看法。",
+          "url": "https://flash.jin10.com/detail/20260423184306516800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "中国国防部长董军将访问俄罗斯、吉尔吉斯斯坦并出席上海合作组织成员国国防部长会议",
           "url": "https://wallstreetcn.com/livenews/3092952",
           "source": "华尔街见闻-快讯",
@@ -572,7 +634,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -594,7 +656,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -638,7 +700,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
