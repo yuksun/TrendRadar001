@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T16:02:18.817500+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-24T17:53:15.925540+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 54,
       "titles": [
         {
           "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
@@ -79,11 +79,12 @@
             10,
             12,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时19分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时19分 ~ 17时53分]"
         },
         {
           "title": "官方出手!内存条迎来控价",
@@ -126,26 +127,28 @@
           "time_info": "[01时19分 ~ 07时44分]"
         },
         {
-          "title": "周杰伦谁稀罕官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%B0%81%E7%A8%80%E7%BD%95%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
           "title": "NBA官方取消布克技术犯规",
           "url": "https://www.douyin.com/hot/2477164",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时53分]"
+        },
+        {
+          "title": "周杰伦谁稀罕官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%B0%81%E7%A8%80%E7%BD%95%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时53分]"
         },
         {
           "title": "十四届全国人大常委会第二十二次会议4月27日至30日举行",
@@ -157,6 +160,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "官方回应甘肃镇原县发生山体垮塌",
+          "url": "https://www.douyin.com/hot/2476682",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 17时53分]"
         },
         {
           "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
@@ -195,17 +212,15 @@
           "time_info": "[01时19分 ~ 05时44分]"
         },
         {
-          "title": "官方回应甘肃镇原县发生山体垮塌",
-          "url": "https://www.douyin.com/hot/2476682",
-          "source": "抖音",
+          "title": "高校通报“自己举报自己”最新进展",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E2%80%9C%E8%87%AA%E5%B7%B1%E4%B8%BE%E6%8A%A5%E8%87%AA%E5%B7%B1%E2%80%9D%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            10,
-            21
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "“十四五”期间我国版权部门共查处实体市场侵权盗版案件1.28万件",
@@ -254,6 +269,18 @@
           "time_info": "[05时44分 ~ 06时42分]"
         },
         {
+          "title": "世界读书日前夕，湖北多地市委书记向全市群众推荐了多本好书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037706",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时53分]"
+        },
+        {
           "title": "官方通报退伍老兵如厕遭保安拒绝",
           "url": "https://www.toutiao.com/trending/7631064372659798070/",
           "source": "今日头条",
@@ -279,6 +306,30 @@
           "time_info": "[03时05分 ~ 04时51分]"
         },
         {
+          "title": "原村支书驾铲车推土埋村民被刑拘",
+          "url": "https://www.toutiao.com/trending/7632185954698068022/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时53分]"
+        },
+        {
+          "title": "演员陈丽君晋升副主任",
+          "url": "https://www.toutiao.com/trending/7632185392069971466/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时53分]"
+        },
+        {
           "title": "演员陈丽君晋升副主任",
           "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%99%88%E4%B8%BD%E5%90%9B%E6%99%8B%E5%8D%87%E5%89%AF%E4%B8%BB%E4%BB%BB",
           "source": "百度热搜",
@@ -302,38 +353,15 @@
           "time_info": "[01时19分 ~ 04时51分]"
         },
         {
-          "title": "世界读书日前夕，湖北多地市委书记向全市群众推荐了多本好书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33037706",
-          "source": "澎湃新闻",
+          "title": "官方辟谣招录武大图书馆事件当事人",
+          "url": "https://www.douyin.com/hot/2475455",
+          "source": "抖音",
           "ranks": [
-            18,
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "原村支书驾铲车推土埋村民被刑拘",
-          "url": "https://www.toutiao.com/trending/7632185954698068022/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "演员陈丽君晋升副主任",
-          "url": "https://www.toutiao.com/trending/7632185392069971466/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "time_info": "[16时01分 ~ 17时53分]"
         },
         {
           "title": "原村支书用铲车推土埋村民被刑拘",
@@ -359,15 +387,26 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
-          "title": "官方辟谣招录武大图书馆事件当事人",
-          "url": "https://www.douyin.com/hot/2475455",
-          "source": "抖音",
+          "title": "中国央行等八部门：应用算法推荐技术开展网络营销的 不得设置诱导金融消费者和投资者过度消费的算法模型",
+          "url": "https://wallstreetcn.com/livenews/3093926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "联合国秘书长接班人浮出水面",
+          "url": "https://www.toutiao.com/trending/7632101676371869702/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：首批450亿欧元对乌克兰款项可能在二季度就批发。",
@@ -381,6 +420,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "中国央行等八部门：金融机构及其员工不得委托第三方互联网平台以“投资者教育”“课程培训”等形式变相开展金融产品网络营销",
+          "url": "https://wallstreetcn.com/livenews/3093925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "据华尔街日报：耐克将裁员1,400人，约占其员工总数的2%；耐克科技部门裁员人数最多。",
           "url": "https://flash.jin10.com/detail/20260424053005335800",
           "source": "金十数据",
@@ -390,6 +440,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "据法院记录及消息人士：印度国有钢铁企业印度钢铁管理局（SAIL）获得法院裁定，暂缓对其钢铁反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20260424174817203800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "伊朗教育部长：将把本轮美伊战争纳入教材",
+          "url": "https://wallstreetcn.com/livenews/3093921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗领导层集体否认内斗分裂",
@@ -409,9 +481,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "国防部长董军同俄罗斯国防部长举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3093916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "女大学生赴泰国过泼水节被卖缅甸园区，家属转账二十余万对方拒绝放人，警方已立案调查，哪些信息值得关注？",
@@ -420,9 +503,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "媒体：陈丽君已任浙江小百花越剧院艺术生产与创作部副主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33041741",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "市场消息：挪威政府提议社交媒体使用年龄限制为16岁。",
@@ -480,6 +574,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "中国人民银行等八部门有关负责人就《金融产品网络营销管理办法》答记者问",
+          "url": "https://flash.jin10.com/detail/20260424173826599800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "陈丽君晋升副主任",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E6%99%8B%E5%8D%87%E5%89%AF%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -489,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "伊朗强调各级官员之间保持“牢不可破”的团结",
+          "url": "https://wallstreetcn.com/livenews/3093890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "美部长称600美元降到10美元是降价600%",
@@ -508,7 +624,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -527,7 +643,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "辽宁舰编号 16，山东舰编号 17，前面 15 个编号是哪些舰船呢？",
@@ -542,6 +658,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时44分 ~ 10时31分]"
+        },
+        {
+          "title": "山东诞生新首富",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%AF%9E%E7%94%9F%E6%96%B0%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "山东新娘输液昏迷92天后初现意识",
