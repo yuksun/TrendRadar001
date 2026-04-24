@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T10:31:53.933231+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-04-24T13:34:58.257032+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
@@ -63,11 +63,12 @@
             20,
             19,
             18,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 10时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 13时34分]"
         },
         {
           "title": "外网爆出崩铁联动初音未来",
@@ -75,11 +76,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 10时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 13时34分]"
         },
         {
           "title": "官方出手!内存条迎来控价",
@@ -98,11 +100,12 @@
           "url": "https://www.toutiao.com/trending/7631179671958814783/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 10时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时19分 ~ 13时34分]"
         },
         {
           "title": "百万网红称抓蜈蚣致失明？警方通报",
@@ -127,7 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -168,13 +171,24 @@
           "time_info": "[01时19分 ~ 05时44分]"
         },
         {
+          "title": "周杰伦谁稀罕官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%B0%81%E7%A8%80%E7%BD%95%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "“十四五”期间我国版权部门共查处实体市场侵权盗版案件1.28万件",
           "url": "https://flash.jin10.com/detail/20260424100947710800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -188,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "官方回应甘肃镇原县发生山体垮塌",
-          "url": "https://www.douyin.com/hot/2476682",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         },
         {
           "title": "美司法部监察机构调查《爱泼斯坦档案透明法》执行情况",
@@ -223,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
+        },
+        {
+          "title": "官方回应甘肃镇原县发生山体垮塌",
+          "url": "https://www.douyin.com/hot/2476682",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时34分]"
         },
         {
           "title": "官方通报退伍老兵如厕遭保安拒绝",
@@ -273,6 +288,17 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
+          "title": "演员陈丽君晋升副主任",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%99%88%E4%B8%BD%E5%90%9B%E6%99%8B%E5%8D%87%E5%89%AF%E4%B8%BB%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：首批450亿欧元对乌克兰款项可能在二季度就批发。",
           "url": "https://wallstreetcn.com/livenews/3093432",
           "source": "华尔街见闻-快讯",
@@ -295,15 +321,59 @@
           "time_info": "05时44分"
         },
         {
+          "title": "伊朗领导层集体否认内斗分裂",
+          "url": "https://www.toutiao.com/trending/7631334778814398505/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "世界读书日前夕，湖北多地市委书记向全市群众推荐了多本好书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33037706",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "市场消息：挪威政府提议社交媒体使用年龄限制为16岁。",
+          "url": "https://flash.jin10.com/detail/20260424130308507800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "中国商务部部长王文涛会见空客公司首席执行官傅里",
           "url": "https://wallstreetcn.com/livenews/3093623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美官员称伊朗本周已在霍尔木兹海峡布设更多水雷",
+          "url": "https://wallstreetcn.com/livenews/3093700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "伊朗领导层集体否认内斗分裂：我们都是伊朗人、革命者",
@@ -317,13 +387,24 @@
           "time_info": "03时06分"
         },
         {
+          "title": "狗头萝莉否认出轨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%90%A6%E8%AE%A4%E5%87%BA%E8%BD%A8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "陈丽君晋升副主任",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E6%99%8B%E5%8D%87%E5%89%AF%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -337,12 +418,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "新西兰联储调查显示，伊朗战争和选举可能导致信贷需求下降。",
+          "url": "https://wallstreetcn.com/livenews/3093686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "辽宁舰编号 16，山东舰编号 17，前面 15 个编号是哪些舰船呢？",
@@ -357,6 +449,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时44分 ~ 10时31分]"
+        },
+        {
+          "title": "山东新娘输液昏迷92天后初现意识",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A8%98%E8%BE%93%E6%B6%B2%E6%98%8F%E8%BF%B792%E5%A4%A9%E5%90%8E%E5%88%9D%E7%8E%B0%E6%84%8F%E8%AF%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     }
