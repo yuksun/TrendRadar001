@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T15:13:43.740947+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-04-25T16:51:55.621691+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "男子称用了 16 年的学位证突然被告知「无效」，自我举报求证真伪，如何评价？可能是哪个环节出了问题？",
@@ -31,11 +31,12 @@
             17,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 15时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 16时51分]"
         },
         {
           "title": "媒体：陈丽君已任浙江小百花越剧院艺术生产与创作部副主任",
@@ -174,6 +175,17 @@
           "time_info": "[00时54分 ~ 07时38分]"
         },
         {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "当地通报“7旬老人遭8旬老人殴打”",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E2%80%9C7%E6%97%AC%E8%80%81%E4%BA%BA%E9%81%AD8%E6%97%AC%E8%80%81%E4%BA%BA%E6%AE%B4%E6%89%93%E2%80%9D",
           "source": "百度热搜",
@@ -254,17 +266,32 @@
           "time_info": "13时10分"
         },
         {
+          "title": "空调安装工触电致残疑云：供电说调查结论由应急局出，后者称不在监管范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046338",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 16时51分]"
+        },
+        {
           "title": "监管部门向2026年北京车展参展企业列出十大负面行为清单",
           "url": "https://wallstreetcn.com/livenews/3094334",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 16时51分]"
         },
         {
           "title": "商务部新闻发言人就美众议院外交事务委员会通过MATCH等法案答记者问",
@@ -272,11 +299,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 16时51分]"
         },
         {
           "title": "巴西财政部长Durigan：巴西封禁那些没有控制措施的预测市场运营。 政府提议对预测市场实施更加严厉的监管，可能会实施更多监管措施。 总统卢拉非常担心赌博对于民众的影响。 Polymarket、Kalshi等预测市场平台。",
@@ -291,19 +319,6 @@
           "time_info": "[03时51分 ~ 04时45分]"
         },
         {
-          "title": "空调安装工触电致残疑云：供电说调查结论由应急局出，后者称不在监管范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33046338",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 15时13分]"
-        },
-        {
           "title": "降息预期升温！美司法部终止调查鲍威尔 沃什接任障碍解除",
           "url": "https://www.cls.cn/detail/2355528",
           "source": "财联社热门",
@@ -313,8 +328,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 16时51分]"
+        },
+        {
+          "title": "美司法部撤销对鲍威尔的刑事调查，为沃什提名铺路，两年期美债收益率跌幅扩大",
+          "url": "https://wallstreetcn.com/articles/3770852",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时13分]"
+          "time_info": "[13时10分 ~ 16时51分]"
         },
         {
           "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
@@ -330,15 +357,16 @@
           "time_info": "[07时38分 ~ 15时13分]"
         },
         {
-          "title": "美司法部撤销对鲍威尔的刑事调查，为沃什提名铺路，两年期美债收益率跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3770852",
-          "source": "华尔街见闻",
+          "title": "中国政府中东问题特使翟隽出席金砖国家中东事务副外长/特使磋商",
+          "url": "https://flash.jin10.com/detail/20260425143900106800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时13分]"
+          "time_info": "[15时13分 ~ 16时51分]"
         },
         {
           "title": "白宫：对美联储主席鲍威尔的调查仍在进行中。 美联储的案件不一定会被撤销。",
@@ -376,17 +404,6 @@
           "time_info": "[02时49分 ~ 02时50分]"
         },
         {
-          "title": "中国政府中东问题特使翟隽出席金砖国家中东事务副外长/特使磋商",
-          "url": "https://flash.jin10.com/detail/20260425143900106800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "巴西财政部长：巴西一直在努力恢复委内瑞拉与国际货币基金组织的关系。",
           "url": "https://flash.jin10.com/detail/20260425000236340800",
           "source": "金十数据",
@@ -418,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "中国与赞比亚签署《中赞政府发展合作协定》",
+          "url": "https://flash.jin10.com/detail/20260425151438651800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "巴西财政部长：巴西认为让委内瑞拉进入国际机构是推动基础设施投资的一种方式，并希望巴西企业在其中发挥作用。",
@@ -514,7 +542,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -522,8 +550,19 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "“山东岱庙有个摊”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B1%B1%E4%B8%9C%E5%B2%B1%E5%BA%99%E6%9C%89%E4%B8%AA%E6%91%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
         {
           "title": "山东诞生新首富",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%AF%9E%E7%94%9F%E6%96%B0%E9%A6%96%E5%AF%8C",
