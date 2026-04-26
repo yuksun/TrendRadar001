@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:35:54.684752+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-04-26T13:38:31.277341+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "官方通报女子劝阻男子灭烟引争执：涉事男子被行政罚款",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时38分]"
         },
         {
           "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
@@ -29,11 +29,24 @@
           "ranks": [
             8,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时38分]"
+        },
+        {
+          "title": "官方通报深圳公交车站女子劝阻男子吸烟泼饮料引争执，双方和解、男子被行政处罚，从法律角度如何解读？",
+          "url": "https://www.zhihu.com/question/2031197523432453026",
+          "source": "知乎",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时38分]"
         },
         {
           "title": "多部门回应女老师两点一线脱单难",
@@ -49,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时38分]"
         },
         {
           "title": "青岛警方通报一道路立杆装满监控",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时36分 ~ 07时37分]"
-        },
-        {
-          "title": "官方通报深圳公交车站女子劝阻男子吸烟泼饮料引争执，双方和解、男子被行政处罚，从法律角度如何解读？",
-          "url": "https://www.zhihu.com/question/2031197523432453026",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 10时35分]"
         },
         {
           "title": "降息预期升温！美司法部终止调查鲍威尔 沃什接任障碍解除",
@@ -159,6 +161,19 @@
           "time_info": "[04时37分 ~ 07时37分]"
         },
         {
+          "title": "日本政府拟修改自卫队“官阶”名称引质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时38分]"
+        },
+        {
           "title": "据伊朗官方媒体Press TV：伊朗外长将于周日晚上再次返回伊斯兰堡。",
           "url": "https://flash.jin10.com/detail/20260426034333094800",
           "source": "金十数据",
@@ -197,16 +212,15 @@
           "time_info": "[05时35分 ~ 07时37分]"
         },
         {
-          "title": "日本政府拟修改自卫队“官阶”名称引质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053555",
+          "title": "男子投诉救护车迟到致幼子身亡？官方通报：已成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053441",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 10时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时38分]"
         },
         {
           "title": "劝阻吸烟事件警方执法存瑕疵？媒体解读",
@@ -218,6 +232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "稀土公司副总经理成某，受金钱诱惑，将我国稀土7项机密非法提供给境外！还有人用塑料模特藏稀土偷运出境，国家安全机关提醒",
+          "url": "https://wallstreetcn.com/articles/3770890",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时38分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：赞赏伊朗的持续参与，包括由外交部长率领的高级代表团访问伊斯兰堡。",
@@ -255,6 +281,30 @@
           "time_info": "[01时37分 ~ 02时51分]"
         },
         {
+          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
+          "url": "https://wallstreetcn.com/livenews/3094420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时38分]"
+        },
+        {
+          "title": "媒体调查“深圳一女子劝阻吸烟引发争执”：公交站台吸烟该罚吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056309",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时38分]"
+        },
+        {
           "title": "官方通报女子劝阻男子吸烟引争执",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -266,35 +316,13 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "男子投诉救护车迟到致幼子身亡？官方通报：已成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053441",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "稀土公司副总经理成某，受金钱诱惑，将我国稀土7项机密非法提供给境外！还有人用塑料模特藏稀土偷运出境，国家安全机关提醒",
-          "url": "https://wallstreetcn.com/articles/3770890",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "官方辟谣警察围观铲车掩埋村民",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%AD%A6%E5%AF%9F%E5%9B%B4%E8%A7%82%E9%93%B2%E8%BD%A6%E6%8E%A9%E5%9F%8B%E6%9D%91%E6%B0%91",
           "source": "百度热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -310,37 +338,26 @@
           "time_info": "02时51分"
         },
         {
-          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
-          "url": "https://wallstreetcn.com/livenews/3094420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "《哀鸿：城破十日记》官方更 IF 线真结局，能否挽回剧情争议口碑？你怎么看待这种「亡羊补牢」行为？",
           "url": "https://www.zhihu.com/question/2031076720053368502",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "媒体调查“深圳一女子劝阻吸烟引发争执”：公交站台吸烟该罚吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056309",
-          "source": "澎湃新闻",
+          "title": "西班牙人士：必须高度警惕日本政府放宽武器出口限制等举动",
+          "url": "https://flash.jin10.com/detail/20260426112749025800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "13时38分"
         },
         {
           "title": "伊朗外交部长：分享了伊朗关于可行框架以永久结束对伊朗战争的立场。",
@@ -415,7 +432,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -435,8 +452,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 10时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 13时38分]"
         },
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
@@ -447,8 +464,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 13时38分]"
         },
         {
           "title": "山东将迎强对流天气",
