@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T21:49:50.098536+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-27T23:46:50.652059+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 57,
+      "match_count": 75,
       "titles": [
         {
           "title": "男子从内地偷运51公斤盒饭回澳门被查",
@@ -88,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 21时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 23时46分]"
         },
         {
           "title": "高市政府越过“最后一根红线”",
@@ -127,6 +127,33 @@
           "time_info": "[01时37分 ~ 10时37分]"
         },
         {
+          "title": "网友举报虐猫群聊后被造谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 23时46分]"
+        },
+        {
+          "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060555",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 23时46分]"
+        },
+        {
           "title": "马里国防部长卡马拉遭袭丧生",
           "url": "https://www.toutiao.com/trending/7633024788683820598/",
           "source": "今日头条",
@@ -141,17 +168,6 @@
           "time_info": "[00时40分 ~ 05时37分]"
         },
         {
-          "title": "网友举报虐猫群聊后被造谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 21时49分]"
-        },
-        {
           "title": "湖南男子投诉医院救护车延误 21 分钟后才发车，致一岁幼子身亡，当地已成立调查组，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2031648694152294657",
           "source": "知乎",
@@ -162,20 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 13时53分]"
-        },
-        {
-          "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060555",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时49分]"
         },
         {
           "title": "欧洲央行调查：欧元区企业短期通胀预期上升，但薪资压力缓和",
@@ -210,6 +212,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 05时37分]"
+        },
+        {
+          "title": "UP主因监督环保登上央视",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9B%A0%E7%9B%91%E7%9D%A3%E7%8E%AF%E4%BF%9D%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A7%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "路透调查：预计2026年铂金平均价格为2067美元盎司，此前调查为2400美元/盎司。",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时45分 ~ 06时37分]"
+        },
+        {
+          "title": "官方通报中学教师跳楼轻生事件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部长阿拉格齐在伊斯兰堡举行磋商后，已离开巴基斯坦前往莫斯科。",
@@ -346,6 +370,42 @@
           "time_info": "[16时22分 ~ 21时49分]"
         },
         {
+          "title": "2026 青岛马拉松有选手边跑边跳绳，如何评价这种行为？官方禁赛 2 年，罚重了吗？",
+          "url": "https://www.zhihu.com/question/2031014158049567038",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
+          "title": "顺德一外卖后厨人员在锅里洗扫把吐口水？停业整顿，立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060288",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
+          "title": "教师跳楼轻生 官方：已脱离生命危险",
+          "url": "https://www.toutiao.com/trending/7633330264475877430/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
           "title": "生态园竟变豪华“住宅式”墓地，售价200万元！央媒调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33062055",
           "source": "澎湃新闻",
@@ -356,6 +416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 21时49分]"
+        },
+        {
+          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
         },
         {
           "title": "金门官员民代赴大陆考察团遭降级",
@@ -370,6 +442,30 @@
           "time_info": "[10时37分 ~ 16时22分]"
         },
         {
+          "title": "姚高员辞任杭州市市长",
+          "url": "https://www.toutiao.com/trending/7633424552789282323/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
+          "title": "马鞍山一中学多名学生研学就餐后拉肚子，有孩子称吃的鸡腿是臭的，官方通报涉事酒店停业整顿，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2030646477731489020",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
           "title": "金门官员民代赴大陆考察团遭降级",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%97%A8%E5%AE%98%E5%91%98%E6%B0%91%E4%BB%A3%E8%B5%B4%E5%A4%A7%E9%99%86%E8%80%83%E5%AF%9F%E5%9B%A2%E9%81%AD%E9%99%8D%E7%BA%A7",
           "source": "百度热搜",
@@ -381,15 +477,16 @@
           "time_info": "[13时52分 ~ 13时53分]"
         },
         {
-          "title": "2026 青岛马拉松有选手边跑边跳绳，如何评价这种行为？官方禁赛 2 年，罚重了吗？",
-          "url": "https://www.zhihu.com/question/2031014158049567038",
-          "source": "知乎",
+          "title": "村民匿名举报污染遭精准定位施压",
+          "url": "https://www.toutiao.com/trending/7633270398431264774/",
+          "source": "今日头条",
           "ranks": [
-            6
+            26,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
         },
         {
           "title": "德国总理默茨：整个国家正受到伊朗领导层的羞辱，尤其是所谓的革命卫队。",
@@ -403,15 +500,59 @@
           "time_info": "19时02分"
         },
         {
-          "title": "教师跳楼轻生 官方：已脱离生命危险",
-          "url": "https://www.toutiao.com/trending/7633330264475877430/",
-          "source": "今日头条",
+          "title": "联合国秘书长古特雷斯：现在是需要克制、对话和通过联合国宪章实现和平解决的时候。",
+          "url": "https://flash.jin10.com/detail/20260427232026706800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "官方通报中学教师坠楼事件",
+          "url": "https://www.douyin.com/hot/2481460",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：超过2万名海员被困在海上，这些平民的安全和权利必须始终得到保护。",
+          "url": "https://flash.jin10.com/detail/20260427231802964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "姚高员辞去杭州市市长职务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063758",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时46分"
         },
         {
           "title": "马里过渡政府发言人、领土管理部长伊萨·奥斯曼·库利巴利26日晚证实，马里国防和退伍军人事务部长萨迪奥·卡马拉在前一天针对马里多地军事目标的袭击中遇害。",
@@ -447,6 +588,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "联合国秘书长古特雷斯：必须根据安理会第2817号决议尊重霍尔木兹海峡的航行自由。",
+          "url": "https://flash.jin10.com/detail/20260427231752489800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "受贿数额特别巨大，国家铁路局原党组书记、局长费东斌被提起公诉",
           "url": "https://wallstreetcn.com/livenews/3094647",
           "source": "华尔街见闻-快讯",
@@ -456,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "姚高员辞去杭州市市长职务",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%9A%E9%AB%98%E5%91%98%E8%BE%9E%E5%8E%BB%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E8%81%8C%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "路透调查：预计2026年黄金价格平均为4916美元/盎司，2027年为5100美元/盎司。",
@@ -475,9 +638,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "姚高员辞去杭州市市长职务",
+          "url": "https://www.douyin.com/hot/2481487",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "欧洲央行企业融资渠道调查：企业报告银行贷款利率和其他贷款条件进一步收紧；企业利润继续恶化。",
@@ -530,20 +704,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
         {
-          "title": "顺德一外卖后厨人员在锅里洗扫把吐口水？停业整顿，立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060288",
-          "source": "澎湃新闻",
+          "title": "十四届全国人大常委会第二十二次会议在京举行 审议社会救助法草案、农业法修订草案等 赵乐际主持",
+          "url": "https://wallstreetcn.com/livenews/3095111",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时46分"
+        },
+        {
+          "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
+          "url": "https://www.zhihu.com/question/2031819380355502254",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "官方通报“厨师往炒菜锅吐口水”",
@@ -557,26 +742,37 @@
           "time_info": "16时22分"
         },
         {
-          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "马鞍山一中学多名学生研学就餐后拉肚子，有孩子称吃的鸡腿是臭的，官方通报涉事酒店停业整顿，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2030646477731489020",
-          "source": "知乎",
+          "title": "以色列国防部长：黎巴嫩政府必须确保真主党解除武装，首先是在利塔尼河以南地区，随后在整个黎巴嫩境内。",
+          "url": "https://flash.jin10.com/detail/20260427230658994800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时46分"
+        },
+        {
+          "title": "以色列国防部长：如果黎巴嫩政府继续躲在真主党恐怖组织的阴影下，战火将烧毁真主党和整个黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260427230620983800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "法国总统马克龙：我将在结束对Andorra的访问之后接触伊朗（政府官员）。",
+          "url": "https://wallstreetcn.com/livenews/3095105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "河南发布领导干部任职前公示",
@@ -596,7 +792,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -607,7 +803,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -621,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "以色列国防部长：黎巴嫩总统约瑟夫·奥恩在拿黎巴嫩的未来赌博。不可能出现黎巴嫩停火的同时，我们的部队和加利利地区的社区却遭受火力的局面。",
+          "url": "https://flash.jin10.com/detail/20260427230539550800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "三部门发文规范慈善组织募捐成本支出",
@@ -645,17 +852,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "村民匿名举报污染遭精准定位施压",
-          "url": "https://www.toutiao.com/trending/7633270398431264774/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
           "title": "伊朗官员：伊朗石油产业链具备足够抗压能力",
           "url": "https://wallstreetcn.com/livenews/3094797",
           "source": "华尔街见闻-快讯",
@@ -667,6 +863,28 @@
           "time_info": "16时22分"
         },
         {
+          "title": "官方通报中学教师坠楼事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "俄总统新闻秘书：重启战端不符合伊朗、霍尔木兹海峡沿岸国家和全球经济体利益",
+          "url": "https://wallstreetcn.com/livenews/3095094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "俄罗斯国防部长抵达朝鲜",
           "url": "https://www.toutiao.com/trending/7632053299101057067/",
           "source": "今日头条",
@@ -676,17 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
-        },
-        {
-          "title": "姚高员辞任杭州市市长",
-          "url": "https://www.toutiao.com/trending/7633424552789282323/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         }
       ]
     },
@@ -707,6 +914,18 @@
           "time_info": "[00时41分 ~ 06时37分]"
         },
         {
+          "title": "「山东文旅让山东人沉默了」是什么梗？",
+          "url": "https://www.zhihu.com/question/639208884",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
           "title": "青岛海牛4:1山东泰山",
           "url": "https://www.douyin.com/hot/2479963",
           "source": "抖音",
@@ -717,17 +936,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "「山东文旅让山东人沉默了」是什么梗？",
-          "url": "https://www.zhihu.com/question/639208884",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "探访山东老头乐车展",
