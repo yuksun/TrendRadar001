@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-28T13:58:27.922856+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-04-28T16:31:55.547386+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 57,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "姚高员辞去杭州市市长职务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063758",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 16时31分]"
+        },
         {
           "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060555",
@@ -34,18 +46,6 @@
           "time_info": "[01时20分 ~ 10时45分]"
         },
         {
-          "title": "姚高员辞去杭州市市长职务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063758",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 13时58分]"
-        },
-        {
           "title": "网友举报虐猫群聊后被造谣",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
           "source": "贴吧",
@@ -53,11 +53,12 @@
             4,
             6,
             8,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 13时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 16时31分]"
         },
         {
           "title": "如何看待马里国防部长卡马拉遭袭丧生？如何解读目前当地的局势？",
@@ -79,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 16时31分]"
         },
         {
           "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
@@ -121,18 +122,6 @@
           "time_info": "[01时20分 ~ 10时45分]"
         },
         {
-          "title": "4000万粉丝网红白冰偷税被查",
-          "url": "https://search.bilibili.com/all?keyword=4000%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时58分]"
-        },
-        {
           "title": "2026 青岛马拉松有选手边跑边跳绳，如何评价这种行为？官方禁赛 2 年，罚重了吗？",
           "url": "https://www.zhihu.com/question/2031014158049567038",
           "source": "知乎",
@@ -147,6 +136,41 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 10时45分]"
+        },
+        {
+          "title": "「探店」网红白冰偷税被查，追缴并罚款共计超 1891 万元，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2032399785731306001",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
+        },
+        {
+          "title": "4000万粉丝网红白冰偷税被查",
+          "url": "https://search.bilibili.com/all?keyword=4000%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 16时31分]"
+        },
+        {
+          "title": "伊朗政府发言人：应对海上封锁的必要措施均已预先制定",
+          "url": "https://wallstreetcn.com/livenews/3095589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "顺德一外卖后厨人员在锅里洗扫把吐口水？停业整顿，立案调查",
@@ -216,6 +240,19 @@
           "time_info": "[01时20分 ~ 07时52分]"
         },
         {
+          "title": "人社部门辟谣“国资委46号令重新核算养老金”：文件与社保毫无关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063474",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 16时31分]"
+        },
+        {
           "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
           "url": "https://www.zhihu.com/question/2031819380355502254",
           "source": "知乎",
@@ -231,15 +268,26 @@
           "time_info": "[01时21分 ~ 07时52分]"
         },
         {
-          "title": "「探店」网红白冰偷税被查，追缴并罚款共计超 1891 万元，有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/2032399785731306001",
-          "source": "知乎",
+          "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+          "url": "https://wallstreetcn.com/articles/3771084",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时31分"
+        },
+        {
+          "title": "乌克兰第一副总理兼能源部长：爱沙尼亚已向乌克兰能源支持基金捐款260万欧元。",
+          "url": "https://flash.jin10.com/detail/20260428161958363800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
@@ -251,6 +299,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+          "url": "https://www.cls.cn/detail/2357832",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "乌克兰第一副总理兼能源部长：与爱沙尼亚能源与环境部长会面，讨论了加强乌克兰能源韧性以应对即将到来的冬季的具体解决方案，以及就战略技术合作的领域进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260428161943485800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "官方通报中学教师坠楼事件",
@@ -278,19 +348,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 06时02分]"
-        },
-        {
-          "title": "人社部门辟谣“国资委46号令重新核算养老金”：文件与社保毫无关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063474",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 13时58分]"
         },
         {
           "title": "姚高员辞去杭州市市长职务",
@@ -365,6 +422,41 @@
           "time_info": "[01时20分 ~ 06时02分]"
         },
         {
+          "title": "“探店”网红白冰偷税超900万元被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068237",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
+        },
+        {
+          "title": "气象部门回应湛江疑似出现龙卷风",
+          "url": "https://www.douyin.com/hot/2481286",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
+        },
+        {
+          "title": "马上评｜“为举报人保密”不该沦为纸面规定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068184",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
+        },
+        {
           "title": "生态园变豪华墓地 市长赶赴现场",
           "url": "https://www.toutiao.com/trending/7633415823634071598/",
           "source": "今日头条",
@@ -375,6 +467,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 13时58分]"
+        },
+        {
+          "title": "国防动员法修订草案提请全国人大常委会会议审议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063123",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
         },
         {
           "title": "奥地利财政部长：针对超过100万欧元的盈利，企业税将从目前的23%上调至24%。",
@@ -390,6 +494,18 @@
         },
         {
           "title": "白冰回应偷税被查",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%86%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时31分]"
+        },
+        {
+          "title": "白冰回应偷税被查",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
@@ -398,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "日本央行决议罕见上演十年来最大分歧：多达三位反对票官员支持加息！",
+          "url": "https://www.cls.cn/detail/2357809",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "委内瑞拉副部长：必须加快天然气基础设施的恢复工作。",
@@ -411,15 +538,37 @@
           "time_info": "06时02分"
         },
         {
-          "title": "“探店”网红白冰偷税超900万元被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068237",
-          "source": "澎湃新闻",
+          "title": "欧元区国债收益率普遍上涨3-4个基点，此前欧洲央行调查显示消费者3月大幅上修通胀预期",
+          "url": "https://wallstreetcn.com/livenews/3095580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "外资收购Manus项目被禁止，外交部：中国政府依法依规审查并作出决定",
+          "url": "https://www.cls.cn/detail/2358019",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时31分"
+        },
+        {
+          "title": "在欧洲央行调查显示消费者在三月份大幅提高通胀预期后，欧元区债券收益率上涨3-4个基点。",
+          "url": "https://flash.jin10.com/detail/20260428161612703800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "官方通报学生水杯被同学投异物",
@@ -428,7 +577,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -472,20 +621,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
         {
-          "title": "马上评｜“为举报人保密”不该沦为纸面规定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068184",
+          "title": "成都警方通报一泳池遭投火锅底料：8人被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068504",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时31分"
         },
         {
           "title": "《不扩散核武器条约》审议大会开幕，联合国秘书长警告核风险上升",
@@ -516,18 +665,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "气象部门回应湛江疑似出现龙卷风",
-          "url": "https://www.douyin.com/hot/2481286",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -538,7 +676,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -565,6 +703,28 @@
           "time_info": "06时02分"
         },
         {
+          "title": "余华吐槽有些领导没事就爱看摄像头",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E5%8D%8E%E5%90%90%E6%A7%BD%E6%9C%89%E4%BA%9B%E9%A2%86%E5%AF%BC%E6%B2%A1%E4%BA%8B%E5%B0%B1%E7%88%B1%E7%9C%8B%E6%91%84%E5%83%8F%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "欧洲央行调查：受中东战事影响，欧元区银行收紧信贷准入",
+          "url": "https://flash.jin10.com/detail/20260428160941819800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "“探店”网红白冰偷税被查 追缴并罚款共计超1891万元",
           "url": "https://wallstreetcn.com/livenews/3095352",
           "source": "华尔街见闻-快讯",
@@ -576,15 +736,15 @@
           "time_info": "10时45分"
         },
         {
-          "title": "国防动员法修订草案提请全国人大常委会会议审议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063123",
-          "source": "澎湃新闻",
+          "title": "举报二手烟后失去朋友和推荐信",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E4%BA%8C%E6%89%8B%E7%83%9F%E5%90%8E%E5%A4%B1%E5%8E%BB%E6%9C%8B%E5%8F%8B%E5%92%8C%E6%8E%A8%E8%8D%90%E4%BF%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时31分"
         },
         {
           "title": "花旗/YOUGOV调查：英国未来一年通胀预期在四月为5%，而三月为5.4%。",
@@ -598,17 +758,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "白冰回应偷税被查",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%86%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "联合国秘书长敦促开放霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260428015846348800",
           "source": "金十数据",
@@ -618,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "黑龙江大庆三天内两任原公安局长落马",
+          "url": "https://www.toutiao.com/trending/7633046332849209394/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "探店网红白冰偷税被查",
@@ -653,6 +813,28 @@
           "time_info": "10时45分"
         },
         {
+          "title": "欧洲央行银行信贷调查：未来一年经济增长预期为-2.1%，一个月前为-0.9%。",
+          "url": "https://flash.jin10.com/detail/20260428160338072800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "尹锡悦夫人金建希涉操纵股价及受贿案二审宣判 获刑4年",
+          "url": "https://wallstreetcn.com/livenews/3095547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "村民匿名举报污染遭精准定位施压",
           "url": "https://www.toutiao.com/trending/7633270398431264774/",
           "source": "今日头条",
@@ -675,6 +857,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "欧洲央行银行信贷调查：第一季度贷款需求略微走低，早前预期为增长。",
+          "url": "https://flash.jin10.com/detail/20260428160304138800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "人民币兑美元中间价报6.8589，下调10点；上一交易日中间价6.8579，上一交易日官方收盘价6.8239，上日夜盘报收6.8275。",
           "url": "https://wallstreetcn.com/livenews/3095329",
           "source": "华尔街见闻-快讯",
@@ -684,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "欧洲央行银行信贷调查：由于信心减弱、投资减少和耐用品支出下降，预计第二季度企业和家庭贷款需求将下降。",
+          "url": "https://flash.jin10.com/detail/20260428160204648800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
