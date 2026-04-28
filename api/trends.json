@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:52:44.775459+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-28T10:45:42.395025+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 47,
       "titles": [
         {
           "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
@@ -26,11 +26,37 @@
           "ranks": [
             2,
             3,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
+        },
+        {
+          "title": "姚高员辞去杭州市市长职务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063758",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
+        },
+        {
+          "title": "网友举报虐猫群聊后被造谣",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
         },
         {
           "title": "如何看待马里国防部长卡马拉遭袭丧生？如何解读目前当地的局势？",
@@ -45,28 +71,42 @@
           "time_info": "[03时19分 ~ 07时52分]"
         },
         {
-          "title": "网友举报虐猫群聊后被造谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353787&amp;topic_name=%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%90%E7%8C%AB%E7%BE%A4%E8%81%8A%E5%90%8E%E8%A2%AB%E9%80%A0%E8%B0%A3",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
-        },
-        {
-          "title": "姚高员辞去杭州市市长职务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063758",
+          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            1
+            13,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
+        },
+        {
+          "title": "官方通报中学教师跳楼轻生事件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
+        },
+        {
+          "title": "国人大闹机舱,丑闻传遍东南亚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353745&amp;topic_name=%E5%9B%BD%E4%BA%BA%E5%A4%A7%E9%97%B9%E6%9C%BA%E8%88%B1%2C%E4%B8%91%E9%97%BB%E4%BC%A0%E9%81%8D%E4%B8%9C%E5%8D%97%E4%BA%9A",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 10时45分]"
         },
         {
           "title": "2026 青岛马拉松有选手边跑边跳绳，如何评价这种行为？官方禁赛 2 年，罚重了吗？",
@@ -77,11 +117,34 @@
             16,
             12,
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 10时45分]"
+        },
+        {
+          "title": "“探店”网红白冰偷税超900万元被查",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8E%A2%E5%BA%97%E2%80%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%B6%85900%E4%B8%87%E5%85%83%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "4000万粉丝网红白冰偷税被查",
+          "url": "https://search.bilibili.com/all?keyword=4000%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "顺德一外卖后厨人员在锅里洗扫把吐口水？停业整顿，立案调查",
@@ -136,18 +199,6 @@
           "time_info": "[01时20分 ~ 07时52分]"
         },
         {
-          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
-        },
-        {
           "title": "教师跳楼轻生 官方：已脱离生命危险",
           "url": "https://www.toutiao.com/trending/7633330264475877430/",
           "source": "今日头条",
@@ -163,27 +214,15 @@
           "time_info": "[01时20分 ~ 07时52分]"
         },
         {
-          "title": "官方通报中学教师跳楼轻生事件",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
+          "title": "多位省委书记省长会见王传福",
+          "url": "https://www.toutiao.com/trending/7632519522750152740/",
+          "source": "今日头条",
           "ranks": [
-            21
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
-        },
-        {
-          "title": "国人大闹机舱,丑闻传遍东南亚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353745&amp;topic_name=%E5%9B%BD%E4%BA%BA%E5%A4%A7%E9%97%B9%E6%9C%BA%E8%88%B1%2C%E4%B8%91%E9%97%BB%E4%BC%A0%E9%81%8D%E4%B8%9C%E5%8D%97%E4%BA%9A",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "网购、外卖、出行频繁捆绑信贷分期，八部门出台新规全面整治，白条、月付面临调整，释放了哪些监管信号？",
@@ -201,15 +240,39 @@
           "time_info": "[01时21分 ~ 07时52分]"
         },
         {
+          "title": "多位省委书记省长会见王传福",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%BD%8D%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%BC%9A%E8%A7%81%E7%8E%8B%E4%BC%A0%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "深圳市委书记靳磊到华为、比亚迪等走访调研",
           "url": "https://wallstreetcn.com/livenews/3095287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "官方通报中学教师坠楼事件",
+          "url": "https://www.douyin.com/hot/2481460",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 10时45分]"
         },
         {
           "title": "姚高员辞任杭州市市长",
@@ -251,18 +314,6 @@
         },
         {
           "title": "官方通报中学教师坠楼事件",
-          "url": "https://www.douyin.com/hot/2481460",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时01分]"
-        },
-        {
-          "title": "官方通报中学教师坠楼事件",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
@@ -272,6 +323,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 06时02分]"
+        },
+        {
+          "title": "人社部门辟谣“国资委46号令重新核算养老金”：文件与社保毫无关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063474",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时45分]"
+        },
+        {
+          "title": "云南姚安县一中学老师坠楼，县教体局：生命体征平稳，已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33061173",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时45分]"
         },
         {
           "title": "奥地利财政部长：针对超过100万欧元的盈利，企业税将从目前的23%上调至24%。",
@@ -284,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "白冰回应偷税被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "委内瑞拉副部长：必须加快天然气基础设施的恢复工作。",
@@ -303,7 +389,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -319,15 +405,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "人社部门辟谣“国资委46号令重新核算养老金”：文件与社保毫无关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063474",
-          "source": "澎湃新闻",
+          "title": "蓝白今将确定新北市长候选人，李四川胜出可能性高",
+          "url": "https://news.ifeng.com/c/8sgXaC16nJE",
+          "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "10时45分"
         },
         {
           "title": "《不扩散核武器条约》审议大会开幕，联合国秘书长警告核风险上升",
@@ -352,17 +438,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "云南姚安县一中学老师坠楼，县教体局：生命体征平稳，已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061173",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "联合国秘书长敦促开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3095170",
           "source": "华尔街见闻-快讯",
@@ -383,6 +458,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "“探店”网红白冰偷税被查 追缴并罚款共计超1891万元",
+          "url": "https://wallstreetcn.com/livenews/3095352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "生态园变豪华墓地 市长赶赴现场",
+          "url": "https://www.toutiao.com/trending/7633415823634071598/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "花旗/YOUGOV调查：英国未来一年通胀预期在四月为5%，而三月为5.4%。",
@@ -407,6 +504,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "探店网红白冰偷税被查",
+          "url": "https://www.douyin.com/hot/2481708",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "《不扩散核武器条约》审议大会开幕 联合国秘书长警告核风险上升",
           "url": "https://flash.jin10.com/detail/20260428001247088800",
           "source": "金十数据",
@@ -416,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗外交部长：我们欢迎俄罗斯对外交的支持。",
+          "url": "https://flash.jin10.com/detail/20260428100859227800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "村民匿名举报污染遭精准定位施压",
@@ -438,12 +557,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8589，下调10点；上一交易日中间价6.8579，上一交易日官方收盘价6.8239，上日夜盘报收6.8275。",
+          "url": "https://wallstreetcn.com/livenews/3095329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "「山东文旅让山东人沉默了」是什么梗？",
@@ -456,6 +586,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 03时19分]"
+        },
+        {
+          "title": "港股黄金股连日走低，灵宝黄金(03330.HK)、紫金黄金国际(02259.HK)双双跌超4%，潼关黄金(00340.HK)、山东黄金(01787.HK)、招金矿业(01818.HK)、紫金矿业(02899.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260428100809844800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
