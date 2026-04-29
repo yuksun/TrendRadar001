@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:56:03.050004+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-04-29T20:17:12.560816+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
         {
           "title": "成都警方通报一泳池遭投火锅底料：8人被采取刑事强制措施",
@@ -110,6 +110,46 @@
           "time_info": "[00时50分 ~ 10时45分]"
         },
         {
+          "title": "官方通报“女子被冒名注册5家公司”：已组成联合调查组开展核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072323",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 20时17分]"
+        },
+        {
+          "title": "南京“五一”假期免费开放超5万个车位，10家省级机关参与",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071530",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 20时17分]"
+        },
+        {
+          "title": "霸王茶姬奶茶中喝出水银？官方通报",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%A5%B6%E8%8C%B6%E4%B8%AD%E5%96%9D%E5%87%BA%E6%B0%B4%E9%93%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
+        },
+        {
           "title": "出轨女被情人杀害案发细节曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E5%A5%B3%E8%A2%AB%E6%83%85%E4%BA%BA%E6%9D%80%E5%AE%B3%E6%A1%88%E5%8F%91%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -161,39 +201,29 @@
           "time_info": "[07时56分 ~ 16时14分]"
         },
         {
-          "title": "官方通报“女子被冒名注册5家公司”：已组成联合调查组开展核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33072323",
+          "title": "张柱任农业农村部党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            6,
-            3
+            19,
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 20时17分]"
         },
         {
           "title": "官宣！奥运冠军张军被查",
           "url": "https://www.toutiao.com/trending/7633366107047280676/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
-          "title": "霸王茶姬奶茶中喝出水银？官方通报",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%A5%B6%E8%8C%B6%E4%B8%AD%E5%96%9D%E5%87%BA%E6%B0%B4%E9%93%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
         },
         {
           "title": "意大利总理梅洛尼：司法部长目前不会辞职。",
@@ -205,20 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "南京“五一”假期免费开放超5万个车位，10家省级机关参与",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071530",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 18时56分]"
         },
         {
           "title": "内塔尼亚胡出席涉腐败案听证会",
@@ -287,7 +303,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -301,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "羽协主席张军被查",
+          "url": "https://www.douyin.com/hot/2483526",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 20时17分]"
         },
         {
           "title": "黎巴嫩官员：以色列对黎巴嫩南部民防成员的攻击是‘新的战争罪’。",
@@ -336,17 +363,28 @@
           "time_info": "16时14分"
         },
         {
-          "title": "张柱任农业农村部党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
+          "title": "大连警方通报“两名民警被举报违规吃喝”：不属实，两举报人因诬告被行拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33070701",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20,
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时55分 ~ 18时56分]"
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "中国羽毛球协会主席张军被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
         },
         {
           "title": "受贿数额特别巨大！蓝天立被公诉",
@@ -361,6 +399,18 @@
           "time_info": "[13时54分 ~ 16时14分]"
         },
         {
+          "title": "狐假虎威?南京舰漫展硬蹭官方",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353875&amp;topic_name=%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81%3F%E5%8D%97%E4%BA%AC%E8%88%B0%E6%BC%AB%E5%B1%95%E7%A1%AC%E8%B9%AD%E5%AE%98%E6%96%B9",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
+        },
+        {
           "title": "霸王茶姬回应「顾客喝出水银」事件，称正配合警方及市监局调查，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2032477693019517178",
           "source": "知乎",
@@ -373,6 +423,18 @@
           "time_info": "[13时54分 ~ 16时14分]"
         },
         {
+          "title": "中国羽毛球协会主席张军被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
+        },
+        {
           "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
           "url": "https://flash.jin10.com/detail/20260429045410077800",
           "source": "金十数据",
@@ -383,6 +445,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时57分]"
+        },
+        {
+          "title": "老师批注学生「你的字和你一样丑」，算语言暴力吗？伤害了谁？涉事教师、学校、校长均被通报，处理力度怎样？",
+          "url": "https://www.zhihu.com/question/2032538810135864794",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 20时17分]"
+        },
+        {
+          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
         },
         {
           "title": "官方辟谣老人迫于生计景区卖花",
@@ -408,28 +496,16 @@
           "time_info": "[00时50分 ~ 06时57分]"
         },
         {
-          "title": "羽协主席张军被查",
-          "url": "https://www.douyin.com/hot/2483526",
-          "source": "抖音",
+          "title": "公职人员4万购入黄永玉假画卖180万",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%984%E4%B8%87%E8%B4%AD%E5%85%A5%E9%BB%84%E6%B0%B8%E7%8E%89%E5%81%87%E7%94%BB%E5%8D%96180%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            8
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时56分]"
-        },
-        {
-          "title": "老师批注学生「你的字和你一样丑」，算语言暴力吗？伤害了谁？涉事教师、学校、校长均被通报，处理力度怎样？",
-          "url": "https://www.zhihu.com/question/2032538810135864794",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时17分]"
         },
         {
           "title": "张柱任农业农村部党组书记",
@@ -441,18 +517,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时17分]"
-        },
-        {
-          "title": "大连警方通报“两名民警被举报违规吃喝”：不属实，两举报人因诬告被行拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33070701",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时56分]"
         },
         {
           "title": "新党副秘书长：台湾主流民意觉醒",
@@ -479,39 +543,6 @@
           "time_info": "[16时14分 ~ 18时56分]"
         },
         {
-          "title": "中国羽毛球协会主席张军被查",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
-          "title": "狐假虎威?南京舰漫展硬蹭官方",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353875&amp;topic_name=%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81%3F%E5%8D%97%E4%BA%AC%E8%88%B0%E6%BC%AB%E5%B1%95%E7%A1%AC%E8%B9%AD%E5%AE%98%E6%96%B9",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
-          "title": "中国羽毛球协会主席张军被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
           "title": "副校长工作群发亲密信息 校方：误发",
           "url": "https://www.baidu.com/s?wd=%E5%89%AF%E6%A0%A1%E9%95%BF%E5%B7%A5%E4%BD%9C%E7%BE%A4%E5%8F%91%E4%BA%B2%E5%AF%86%E4%BF%A1%E6%81%AF+%E6%A0%A1%E6%96%B9%EF%BC%9A%E8%AF%AF%E5%8F%91",
           "source": "百度热搜",
@@ -524,15 +555,15 @@
           "time_info": "[13时54分 ~ 16时14分]"
         },
         {
-          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
-          "source": "澎湃新闻",
+          "title": "官方通报「霸王茶姬奶茶喝出水银」，奶茶中异物系购买人投放，涉案人员已被控制，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2032477693019517178",
+          "source": "知乎",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 20时17分]"
         },
         {
           "title": "中共中央政治局召开会议，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -545,6 +576,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 13时54分]"
+        },
+        {
+          "title": "受贿4643万余元，国家药监局原副局长陈时飞一审获刑14年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078833",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
         },
         {
           "title": "意大利总理梅洛妮在赦免前总理贝鲁斯科尼的盟友Nicole Minetti方面支持司法部长。",
@@ -593,15 +635,26 @@
           "time_info": "[13时54分 ~ 16时14分]"
         },
         {
-          "title": "公职人员4万购入黄永玉假画卖180万",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%984%E4%B8%87%E8%B4%AD%E5%85%A5%E9%BB%84%E6%B0%B8%E7%8E%89%E5%81%87%E7%94%BB%E5%8D%96180%E4%B8%87",
-          "source": "百度热搜",
+          "title": "天津消防是政务宣传的显眼包吧",
+          "url": "https://www.douyin.com/hot/2483145",
+          "source": "抖音",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "山西定襄县委书记赵亚静被查",
+          "url": "https://www.toutiao.com/trending/7634107582471323674/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
         },
         {
           "title": "伊朗战争丨伊官员：霍尔木兹海峡仅对美以有关船只关闭",
@@ -648,17 +701,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "官方通报「霸王茶姬奶茶喝出水银」，奶茶中异物系购买人投放，涉案人员已被控制，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2032477693019517178",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "多位省委书记省长会见王传福",
           "url": "https://www.toutiao.com/trending/7632519522750152740/",
           "source": "今日头条",
@@ -703,6 +745,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "阿联酋官员：目前正在审查多边关系，但尚未考虑进一步退出区域组织",
+          "url": "https://flash.jin10.com/detail/20260429194102328800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "几内亚铝土矿产量飙升25%，政府拟实施出口限制",
           "url": "https://wallstreetcn.com/livenews/3095985",
           "source": "华尔街见闻-快讯",
@@ -725,13 +778,24 @@
           "time_info": "04时15分"
         },
         {
+          "title": "科威特首相将与石油内阁部门讨论阿联酋退出欧佩克的影响。",
+          "url": "https://flash.jin10.com/detail/20260429194100667800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受纪律审查和监察调查，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032853610086789195",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -745,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "乌克兰外交部长宣布，乌克兰已要求以色列在以色列港口扣押一艘俄罗斯船只。",
+          "url": "https://flash.jin10.com/detail/20260429194030611800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "官方数据显示，圭亚那3月份石油日产量平均为91万桶。",
@@ -808,7 +883,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -874,7 +949,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -918,7 +993,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -940,7 +1015,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -951,7 +1026,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -973,7 +1048,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
