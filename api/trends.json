@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:17:12.560816+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-04-29T23:12:14.792746+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
         {
           "title": "成都警方通报一泳池遭投火锅底料：8人被采取刑事强制措施",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 07时56分]"
+        },
+        {
+          "title": "官方通报“女子被冒名注册5家公司”：已组成联合调查组开展核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072323",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 23时12分]"
         },
         {
           "title": "甘肃榆中山洪灾害调查评估报告公布",
@@ -110,20 +125,6 @@
           "time_info": "[00时50分 ~ 10时45分]"
         },
         {
-          "title": "官方通报“女子被冒名注册5家公司”：已组成联合调查组开展核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33072323",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 20时17分]"
-        },
-        {
           "title": "南京“五一”假期免费开放超5万个车位，10家省级机关参与",
           "url": "https://m.thepaper.cn/newsDetail_forward_33071530",
           "source": "澎湃新闻",
@@ -143,11 +144,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%A5%B6%E8%8C%B6%E4%B8%AD%E5%96%9D%E5%87%BA%E6%B0%B4%E9%93%B6%EF%BC%9F%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时12分]"
         },
         {
           "title": "出轨女被情人杀害案发细节曝光",
@@ -177,6 +179,19 @@
           "time_info": "[02时16分 ~ 07时56分]"
         },
         {
+          "title": "官宣！奥运冠军张军被查",
+          "url": "https://www.toutiao.com/trending/7633366107047280676/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时12分]"
+        },
+        {
           "title": "五一劳动奖表彰坚持面向基层一线",
           "url": "https://www.toutiao.com/trending/7632992020432473663/",
           "source": "今日头条",
@@ -186,6 +201,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 16时14分]"
+        },
+        {
+          "title": "羽协主席张军被查",
+          "url": "https://www.douyin.com/hot/2483526",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时14分 ~ 23时12分]"
         },
         {
           "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
@@ -214,16 +241,44 @@
           "time_info": "[07时55分 ~ 20时17分]"
         },
         {
-          "title": "官宣！奥运冠军张军被查",
-          "url": "https://www.toutiao.com/trending/7633366107047280676/",
-          "source": "今日头条",
+          "title": "狐假虎威?南京舰漫展硬蹭官方",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353875&amp;topic_name=%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81%3F%E5%8D%97%E4%BA%AC%E8%88%B0%E6%BC%AB%E5%B1%95%E7%A1%AC%E8%B9%AD%E5%AE%98%E6%96%B9",
+          "source": "贴吧",
           "ranks": [
-            4,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时12分]"
+        },
+        {
+          "title": "中国羽毛球协会主席张军被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时12分]"
+        },
+        {
+          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时12分]"
         },
         {
           "title": "意大利总理梅洛尼：司法部长目前不会辞职。",
@@ -319,17 +374,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "羽协主席张军被查",
-          "url": "https://www.douyin.com/hot/2483526",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 20时17分]"
-        },
-        {
           "title": "黎巴嫩官员：以色列对黎巴嫩南部民防成员的攻击是‘新的战争罪’。",
           "url": "https://flash.jin10.com/detail/20260429034443988800",
           "source": "金十数据",
@@ -375,18 +419,6 @@
           "time_info": "[16时14分 ~ 20时17分]"
         },
         {
-          "title": "中国羽毛球协会主席张军被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 20时17分]"
-        },
-        {
           "title": "受贿数额特别巨大！蓝天立被公诉",
           "url": "https://www.toutiao.com/trending/7633995126952329258/",
           "source": "今日头条",
@@ -397,18 +429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 16时14分]"
-        },
-        {
-          "title": "狐假虎威?南京舰漫展硬蹭官方",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353875&amp;topic_name=%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81%3F%E5%8D%97%E4%BA%AC%E8%88%B0%E6%BC%AB%E5%B1%95%E7%A1%AC%E8%B9%AD%E5%AE%98%E6%96%B9",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 20时17分]"
         },
         {
           "title": "霸王茶姬回应「顾客喝出水银」事件，称正配合警方及市监局调查，具体是怎么回事？",
@@ -461,16 +481,16 @@
           "time_info": "[13时54分 ~ 20时17分]"
         },
         {
-          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
+          "title": "受贿4643万余元，国家药监局原副局长陈时飞一审获刑14年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078833",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            11
+            14,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时55分 ~ 20时17分]"
+          "time_info": "[20时16分 ~ 23时12分]"
         },
         {
           "title": "官方辟谣老人迫于生计景区卖花",
@@ -506,6 +526,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时55分 ~ 20时17分]"
+        },
+        {
+          "title": "官方通报「霸王茶姬奶茶喝出水银」，奶茶中异物系购买人投放，涉案人员已被控制，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2032477693019517178",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时12分]"
         },
         {
           "title": "张柱任农业农村部党组书记",
@@ -555,15 +587,15 @@
           "time_info": "[13时54分 ~ 16时14分]"
         },
         {
-          "title": "官方通报「霸王茶姬奶茶喝出水银」，奶茶中异物系购买人投放，涉案人员已被控制，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2032477693019517178",
-          "source": "知乎",
+          "title": "安徽砀山通报“霸王茶姬奶茶中喝出水银”：异物系购买人投放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078894",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时17分]"
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "中共中央政治局召开会议，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -576,17 +608,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 13时54分]"
-        },
-        {
-          "title": "受贿4643万余元，国家药监局原副局长陈时飞一审获刑14年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078833",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时16分 ~ 20时17分]"
         },
         {
           "title": "意大利总理梅洛妮在赦免前总理贝鲁斯科尼的盟友Nicole Minetti方面支持司法部长。",
@@ -655,6 +676,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "呼伦贝尔市委书记王旺盛被查",
+          "url": "https://www.toutiao.com/trending/7634154613192527401/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "伊朗战争丨伊官员：霍尔木兹海峡仅对美以有关船只关闭",
@@ -751,7 +783,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -784,7 +816,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -817,7 +849,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1029,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "压线通过！沃什提名获美参议院银行委员会“放行”",
+          "url": "https://flash.jin10.com/detail/20260429224923916800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "河南省委省政府与国家烟草专卖局在京举行工作会谈",
