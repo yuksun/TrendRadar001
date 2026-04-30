@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T16:25:28.005736+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-04-30T18:54:32.931473+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时27分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 18时54分]"
         },
         {
           "title": "2026世界市长对话西安",
@@ -69,11 +69,12 @@
             12,
             14,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时27分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 18时54分]"
         },
         {
           "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
@@ -84,11 +85,12 @@
             12,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时55分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[06时55分 ~ 18时54分]"
         },
         {
           "title": "成功率在70%以上！国铁集团公布官方候补攻略",
@@ -100,8 +102,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 18时54分]"
+        },
+        {
+          "title": "鲍威尔“最后一舞”：将留任美联储理事、不当影子主席，四票反对反映委员会重心趋于中性（附全文）",
+          "url": "https://wallstreetcn.com/articles/3771306",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 18时54分]"
         },
         {
           "title": "官宣！奥运冠军张军被查",
@@ -117,16 +131,15 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "鲍威尔“最后一舞”：将留任美联储理事、不当影子主席，四票反对反映委员会重心趋于中性（附全文）",
-          "url": "https://wallstreetcn.com/articles/3771306",
-          "source": "华尔街见闻",
+          "title": "2026世界市长对话活动举办",
+          "url": "https://www.douyin.com/hot/2484569",
+          "source": "抖音",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 16时25分]"
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 18时54分]"
         },
         {
           "title": "法国能源部长：法国拥有1亿桶储备，目前已释放不到2%的战略储备。",
@@ -138,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "第十四届全国人民代表大会常务委员会第二十二次会议决定：批准2025年6月17日由中华人民共和国代表在阿斯塔纳签署的《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3097421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "韩俊被免去农业农村部部长职务",
@@ -162,17 +186,6 @@
           "time_info": "13时57分"
         },
         {
-          "title": "2026世界市长对话活动举办",
-          "url": "https://www.douyin.com/hot/2484569",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "张柱任农业农村部部长",
           "url": "https://www.toutiao.com/trending/7634353711157874186/",
           "source": "今日头条",
@@ -182,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "十四届全国政协经济委员会原副主任易会满被“双开”",
+          "url": "https://www.cls.cn/detail/2361136",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "国家药监局局长黄果在北京调研检查节前药品监管工作",
@@ -232,6 +256,19 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
+          "title": "张柱任农业农村部部长",
+          "url": "https://www.douyin.com/hot/2484030",
+          "source": "抖音",
+          "ranks": [
+            8,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 18时54分]"
+        },
+        {
           "title": "受贿数额特别巨大！蓝天立被公诉",
           "url": "https://www.toutiao.com/trending/7633995126952329258/",
           "source": "今日头条",
@@ -244,17 +281,30 @@
           "time_info": "[03时23分 ~ 07时55分]"
         },
         {
-          "title": "张柱任农业农村部部长",
-          "url": "https://www.douyin.com/hot/2484030",
-          "source": "抖音",
+          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            12,
-            10
+            15,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时47分 ~ 16时25分]"
+          "time_info": "[13时57分 ~ 18时54分]"
+        },
+        {
+          "title": "澎湃漫评｜“无证泡茶”遭举报，如此打假合理吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078195",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时54分]"
         },
         {
           "title": "邱靖雅宣布参选竹北市长",
@@ -281,28 +331,28 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
-          "source": "澎湃新闻",
+          "title": "湖南一医院职工举报院长儿子「吃空饷」，涉及金额或超百万元，要求提级调查，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2033129171799335416",
+          "source": "知乎",
           "ranks": [
-            15,
-            10
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 18时54分]"
         },
         {
-          "title": "澎湃漫评｜“无证泡茶”遭举报，如此打假合理吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078195",
+          "title": "马上评｜谁在纵容院长儿子“吃空饷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083022",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 18时54分]"
         },
         {
           "title": "无证开无牌车被查，老人拒不认错挥拳打交警被行拘",
@@ -347,20 +397,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
         {
-          "title": "湖南一医院职工举报院长儿子「吃空饷」，涉及金额或超百万元，要求提级调查，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2033129171799335416",
-          "source": "知乎",
+          "title": "第十四届全国人民代表大会常务委员会第二十二次会议决定：批准2025年4月23日由中华人民共和国代表在北京签署的《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3097411",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "18时54分"
         },
         {
           "title": "法国能源部长：我们要求道达尔能源在其加油站维持燃油价格上限。",
@@ -418,6 +468,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+          "url": "https://wallstreetcn.com/livenews/3097405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "戴安娜接管识质存在官方社媒",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%B4%E5%AE%89%E5%A8%9C%E6%8E%A5%E7%AE%A1%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%E5%AE%98%E6%96%B9%E7%A4%BE%E5%AA%92",
           "source": "bilibili 热搜",
@@ -446,18 +507,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "马上评｜谁在纵容院长儿子“吃空饷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -468,7 +518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -512,9 +562,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "全国人民代表大会常务委员会批准《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》。",
+          "url": "https://flash.jin10.com/detail/20260430182735528800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "三星电子：系统LSI部门预计Exynos 2700将扩大市场份额。",
@@ -526,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "两部门：进一步优化黄金及黄金制品进出口准许证“非一批一证”管理",
+          "url": "https://wallstreetcn.com/livenews/3097388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "成都通报竹子学校罗某某不当言论",
@@ -567,7 +639,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
