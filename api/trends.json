@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:15:16.472102+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-04-30T23:09:02.200610+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 66,
+      "match_count": 72,
       "titles": [
         {
           "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
@@ -78,6 +78,18 @@
           "time_info": "[06时55分 ~ 20时15分]"
         },
         {
+          "title": "鲍威尔“最后一舞”：将留任美联储理事、不当影子主席，四票反对反映委员会重心趋于中性（附全文）",
+          "url": "https://wallstreetcn.com/articles/3771306",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 23时09分]"
+        },
+        {
           "title": "狐假虎威?南京舰漫展硬蹭官方",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353875&amp;topic_name=%E7%8B%90%E5%81%87%E8%99%8E%E5%A8%81%3F%E5%8D%97%E4%BA%AC%E8%88%B0%E6%BC%AB%E5%B1%95%E7%A1%AC%E8%B9%AD%E5%AE%98%E6%96%B9",
           "source": "贴吧",
@@ -87,11 +99,12 @@
             17,
             19,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时27分 ~ 20时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时27分 ~ 23时09分]"
         },
         {
           "title": "成功率在70%以上！国铁集团公布官方候补攻略",
@@ -107,16 +120,16 @@
           "time_info": "[10时47分 ~ 20时15分]"
         },
         {
-          "title": "鲍威尔“最后一舞”：将留任美联储理事、不当影子主席，四票反对反映委员会重心趋于中性（附全文）",
-          "url": "https://wallstreetcn.com/articles/3771306",
-          "source": "华尔街见闻",
+          "title": "十四届全国政协经济委员会原副主任易会满被“双开”",
+          "url": "https://www.cls.cn/detail/2361136",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 23时09分]"
         },
         {
           "title": "2026世界市长对话活动举办",
@@ -143,15 +156,19 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "十四届全国政协经济委员会原副主任易会满被“双开”",
-          "url": "https://www.cls.cn/detail/2361136",
-          "source": "财联社热门",
+          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            15,
+            10,
+            9,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 20时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 23时09分]"
         },
         {
           "title": "法国能源部长：法国拥有1亿桶储备，目前已释放不到2%的战略储备。",
@@ -198,6 +215,31 @@
           "time_info": "13时57分"
         },
         {
+          "title": "白宫顾问哈塞特：美联储监察官的调查是对美联储独立性的“尊重”。",
+          "url": "https://wallstreetcn.com/livenews/3097596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "湖南一医院职工举报院长儿子「吃空饷」，涉及金额或超百万元，要求提级调查，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2033129171799335416",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 23时09分]"
+        },
+        {
           "title": "张柱任农业农村部部长",
           "url": "https://www.toutiao.com/trending/7634353711157874186/",
           "source": "今日头条",
@@ -215,7 +257,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -256,6 +298,20 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
+          "title": "马上评｜谁在纵容院长儿子“吃空饷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 23时09分]"
+        },
+        {
           "title": "羽协主席张军被查",
           "url": "https://www.douyin.com/hot/2483526",
           "source": "抖音",
@@ -268,18 +324,16 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
-          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
-          "source": "澎湃新闻",
+          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+          "url": "https://www.cls.cn/detail/2361259",
+          "source": "财联社热门",
           "ranks": [
-            15,
             10,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 20时15分]"
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时09分]"
         },
         {
           "title": "张柱任农业农村部部长",
@@ -321,30 +375,16 @@
           "time_info": "[03时23分 ~ 07时55分]"
         },
         {
-          "title": "湖南一医院职工举报院长儿子「吃空饷」，涉及金额或超百万元，要求提级调查，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2033129171799335416",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 20时15分]"
-        },
-        {
-          "title": "马上评｜谁在纵容院长儿子“吃空饷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083022",
+          "title": "十四届全国政协经济委员会原副主任易会满被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084421",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            14,
-            13
+            15,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 20时15分]"
+          "time_info": "[20时15分 ~ 23时09分]"
         },
         {
           "title": "邱靖雅宣布参选竹北市长",
@@ -371,6 +411,17 @@
           "time_info": "[01时27分 ~ 07时55分]"
         },
         {
+          "title": "国防部长遇害、两大敌对势力合流：马里或再现“大乱斗”场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078865",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "无证开无牌车被查，老人拒不认错挥拳打交警被行拘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33078663",
           "source": "澎湃新闻",
@@ -393,6 +444,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 16时25分]"
+        },
+        {
+          "title": "沃什下任美联储主席提名获美参议院银行委员会批准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079473",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "在上海，找到创作主场！市委网信办启动“互联网优质内容创作活动月”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078229",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "呼伦贝尔市委书记王旺盛被查",
@@ -440,6 +513,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "以色列国防部长卡茨：我们可能很快需要再次采取行动，以确保我们在伊朗的目标得以实现。",
+          "url": "https://flash.jin10.com/detail/20260430225705264800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "阿根廷内阁首席部长否认非法敛财",
           "url": "https://flash.jin10.com/detail/20260430101023474800",
           "source": "金十数据",
@@ -462,17 +546,6 @@
           "time_info": "07时55分"
         },
         {
-          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
-          "url": "https://www.cls.cn/detail/2361259",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
           "title": "美联储主席鲍威尔：对点阵图或经济预测报告进行大幅调整在委员会中并未获得广泛支持。",
           "url": "https://flash.jin10.com/detail/20260430025939094800",
           "source": "金十数据",
@@ -493,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "以色列国防部长卡茨：黎巴嫩真主党在过去遭受了非常沉重的打击，我们必须完成任务，以确保消除对北部居民和以色列的威胁。",
+          "url": "https://flash.jin10.com/detail/20260430225517924800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -523,7 +607,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -537,17 +621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "十四届全国政协经济委员会原副主任易会满被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         },
         {
           "title": "S佳通：因公司涉嫌信息披露违法违规，中国证券监督管理委员会决定对公司立案。",
@@ -589,7 +662,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -688,7 +761,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -710,7 +783,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -743,7 +816,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -754,7 +827,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
