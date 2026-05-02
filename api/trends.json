@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:45:03.783901+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-05-02T23:44:44.768416+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -47,8 +47,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 22时45分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 23时44分]"
         },
         {
           "title": "“五一”假期，全国多地推出机关大院免费停车服务",
@@ -73,6 +73,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 10时34分]"
+        },
+        {
+          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时04分 ~ 23时44分]"
         },
         {
           "title": "储户1800万被转走 金融监管部门介入",
@@ -117,21 +132,6 @@
           "time_info": "[00时57分 ~ 10时34分]"
         },
         {
-          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时04分 ~ 22时45分]"
-        },
-        {
           "title": "县长当场公布自己手机号",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
           "source": "百度热搜",
@@ -144,6 +144,54 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 07时51分]"
+        },
+        {
+          "title": "伊拉克石油部门副部长：两艘油轮已准备就绪，另外两艘将视霍尔木兹海峡局势而定。霍尔木兹危机（解除后），伊拉克可在7天内将石油产量和出口恢复至正常水平。",
+          "url": "https://flash.jin10.com/detail/20260502230435401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "以色列称将把扣押的2名活动人士移交执法部门",
+          "url": "https://wallstreetcn.com/livenews/3098142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            17,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 23时44分]"
+        },
+        {
+          "title": "伊拉克石油部门副部长：通过杰伊汉出口量为20万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260502230327995800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊拉克石油部门副部长：石油产量为150万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260502225538294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "东航通报飞机与廊桥局部碰擦",
@@ -169,20 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时42分 ~ 19时43分]"
-        },
-        {
-          "title": "以色列称将把扣押的2名活动人士移交执法部门",
-          "url": "https://wallstreetcn.com/livenews/3098142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时45分]"
         },
         {
           "title": "非盟委员会主席：没有南非的G20峰会将“毫无意义”",
@@ -363,6 +397,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
+          "url": "https://flash.jin10.com/detail/20260502223414841800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "热饭菜里的城市温度丨湖北赤壁机关食堂对外开放：“五菜一汤”18元，米饭免费续",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092762",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "德国国防部长：在未来的所有任务中，我们将与盟友紧密协调，例如在五国集团内，包括英国、法国、波兰和意大利。",
