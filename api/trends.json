@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T02:57:36.386211+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-03T03:56:00.979845+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
@@ -15,8 +15,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时56分]"
+        },
+        {
+          "title": "热饭菜里的城市温度丨湖北赤壁机关食堂对外开放：“五菜一汤”18元，米饭免费续",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092762",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时56分]"
+        },
+        {
+          "title": "官方出手!异环BUG党全遭殃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353924&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%21%E5%BC%82%E7%8E%AFBUG%E5%85%9A%E5%85%A8%E9%81%AD%E6%AE%83",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时56分]"
         },
         {
           "title": "黎巴嫩军方在一份声明中表示，黎巴嫩军队总司令与停火监督委员会主席在贝鲁特就安全局势召开特别会议。",
@@ -45,38 +67,17 @@
           "time_info": "[00时44分 ~ 02时57分]"
         },
         {
-          "title": "热饭菜里的城市温度丨湖北赤壁机关食堂对外开放：“五菜一汤”18元，米饭免费续",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092762",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时57分]"
-        },
-        {
-          "title": "官方出手!异环BUG党全遭殃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353924&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%21%E5%BC%82%E7%8E%AFBUG%E5%85%9A%E5%85%A8%E9%81%AD%E6%AE%83",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时57分]"
-        },
-        {
           "title": "巴菲特：伯克希尔·哈撒韦公司在新管理层的领导下“一切运作良好”。",
           "url": "https://flash.jin10.com/detail/20260503004956637800",
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时56分]"
         },
         {
           "title": "伊拉克石油部门副部长：通过杰伊汉出口量为20万桶/日。",
@@ -103,6 +104,30 @@
           "time_info": "[00时44分 ~ 01时42分]"
         },
         {
+          "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
+          "url": "https://flash.jin10.com/detail/20260503012408499800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时56分]"
+        },
+        {
+          "title": "福大毕业生称 211 高校学生盗用其毕业作品参赛获奖，合肥工业大学通报「已开除学籍」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2033304713714562887",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时56分]"
+        },
+        {
           "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
           "url": "https://flash.jin10.com/detail/20260502223414841800",
           "source": "金十数据",
@@ -115,26 +140,15 @@
           "time_info": "[00时44分 ~ 01时42分]"
         },
         {
-          "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
-          "url": "https://flash.jin10.com/detail/20260503012408499800",
-          "source": "金十数据",
+          "title": "合肥工业大学通报学生获奖疑抄袭",
+          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%A5%96%E7%96%91%E6%8A%84%E8%A2%AD",
+          "source": "百度热搜",
           "ranks": [
-            12
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "福大毕业生称 211 高校学生盗用其毕业作品参赛获奖，合肥工业大学通报「已开除学籍」，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2033304713714562887",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
         }
       ]
     }
