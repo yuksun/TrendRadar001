@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T21:07:51.542512+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-05-02T22:45:03.783901+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             23,
             24,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 21时07分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 22时45分]"
         },
         {
           "title": "“五一”假期，全国多地推出机关大院免费停车服务",
@@ -116,6 +117,21 @@
           "time_info": "[00时57分 ~ 10时34分]"
         },
         {
+          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时04分 ~ 22时45分]"
+        },
+        {
           "title": "县长当场公布自己手机号",
           "url": "https://www.baidu.com/s?wd=%E5%8E%BF%E9%95%BF%E5%BD%93%E5%9C%BA%E5%85%AC%E5%B8%83%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7",
           "source": "百度热搜",
@@ -128,31 +144,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 07时51分]"
-        },
-        {
-          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时04分 ~ 21时07分]"
-        },
-        {
-          "title": "伊朗政府：伊朗外长和韩国外长进行了电话会谈，讨论了德黑兰与首尔的关系及地区发展，并就结束美以对伊朗战争的外交倡议进行了交流。",
-          "url": "https://flash.jin10.com/detail/20260502205648109800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "东航通报飞机与廊桥局部碰擦",
@@ -180,6 +171,20 @@
           "time_info": "[15时42分 ~ 19时43分]"
         },
         {
+          "title": "以色列称将把扣押的2名活动人士移交执法部门",
+          "url": "https://wallstreetcn.com/livenews/3098142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时45分]"
+        },
+        {
           "title": "非盟委员会主席：没有南非的G20峰会将“毫无意义”",
           "url": "https://flash.jin10.com/detail/20260502165438427800",
           "source": "金十数据",
@@ -191,19 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时05分 ~ 19时43分]"
-        },
-        {
-          "title": "以色列称将把扣押的2名活动人士移交执法部门",
-          "url": "https://wallstreetcn.com/livenews/3098142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时07分]"
         },
         {
           "title": "德国国防部长：我们欧洲人必须对我们的安全承担更大责任。",
@@ -228,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 17时05分]"
+        },
+        {
+          "title": "伊朗政府：伊朗外长和韩国外长进行了电话会谈，讨论了德黑兰与首尔的关系及地区发展，并就结束美以对伊朗战争的外交倡议进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260502205648109800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时45分]"
         },
         {
           "title": "NPC擦边互动惹争议 景区通报整改",
