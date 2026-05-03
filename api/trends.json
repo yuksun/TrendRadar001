@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T21:06:52.323065+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-05-03T22:47:25.448778+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
@@ -100,9 +100,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "科威特石油部长：预计该国6月份的原油产量将达到262.8万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3098295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "巴菲特：伯克希尔·哈撒韦公司在新管理层的领导下“一切运作良好”。",
@@ -244,6 +255,32 @@
           "time_info": "[13时58分 ~ 16时06分]"
         },
         {
+          "title": "“来逛吃，车停市委大院，免费！”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%A5%E9%80%9B%E5%90%83%EF%BC%8C%E8%BD%A6%E5%81%9C%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%EF%BC%8C%E5%85%8D%E8%B4%B9%EF%BC%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时47分]"
+        },
+        {
+          "title": "英国政府拟允许航空公司合并航班，以应对油价飙升",
+          "url": "https://wallstreetcn.com/livenews/3098269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时47分]"
+        },
+        {
           "title": "合肥工业大学通报学生获奖疑抄袭",
           "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%A5%96%E7%96%91%E6%8A%84%E8%A2%AD",
           "source": "百度热搜",
@@ -374,30 +411,6 @@
           "time_info": "[00时44分 ~ 01时42分]"
         },
         {
-          "title": "英国政府拟允许航空公司合并航班，以应对油价飙升",
-          "url": "https://wallstreetcn.com/livenews/3098269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时06分]"
-        },
-        {
-          "title": "“来逛吃，车停市委大院，免费！”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9D%A5%E9%80%9B%E5%90%83%EF%BC%8C%E8%BD%A6%E5%81%9C%E5%B8%82%E5%A7%94%E5%A4%A7%E9%99%A2%EF%BC%8C%E5%85%8D%E8%B4%B9%EF%BC%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时06分]"
-        },
-        {
           "title": "严军回应网传出轨",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%86%9B%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%87%BA%E8%BD%A8&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -409,6 +422,50 @@
           "time_info": "[10时44分 ~ 10时45分]"
         },
         {
+          "title": "官方：“全国电动自行车淘汰赛”系谣言 已买车辆不强制淘汰",
+          "url": "https://wallstreetcn.com/livenews/3098293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "林园投资被查，事出违规打新",
+          "url": "https://www.cls.cn/detail/2362348",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "阿联酋国务部长访问格鲁吉亚",
+          "url": "https://flash.jin10.com/detail/20260503220953389800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "科威特石油部长：预计科威特6月份的产量将达到262.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260503215909318800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "水果我只吃不出轨的",
           "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%9E%9C%E6%88%91%E5%8F%AA%E5%90%83%E4%B8%8D%E5%87%BA%E8%BD%A8%E7%9A%84&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -418,12 +475,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "科威特外交部：巴林的安全被视为科威特及海湾合作委员会成员国安全不可分割的一部分。",
+          "url": "https://flash.jin10.com/detail/20260503212630042800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "乌克兰内政部长顾问：俄罗斯和白俄罗斯缺席此次峰会。",
+          "url": "https://flash.jin10.com/detail/20260503212454541800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "乌克兰内政部长顾问：乌克兰总统泽连斯基目前正在访问亚美尼亚。",
+          "url": "https://flash.jin10.com/detail/20260503212443253800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东舰辽宁舰双航母编队强硬回击",
@@ -448,6 +538,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时05分 ~ 18时03分]"
+        },
+        {
+          "title": "山东男篮季后赛首次淘汰辽篮",
+          "url": "https://www.toutiao.com/trending/7635633510753206291/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     }
