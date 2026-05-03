@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:41:39.929855+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-05-04T05:40:33.825911+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时40分]"
         },
         {
           "title": "江西九江多地倡议干部带头缴物业费",
@@ -28,11 +29,12 @@
             23,
             5,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 05时40分]"
         },
         {
           "title": "科威特石油部长：预计该国6月份的原油产量将达到262.8万桶/日。",
@@ -40,22 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时41分]"
-        },
-        {
-          "title": "波兰国防部长：目前尚未收到任何表明“爱国者”防空系统交付将推迟的消息。",
-          "url": "https://flash.jin10.com/detail/20260504041241723800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时40分]"
         },
         {
           "title": "官方：“全国电动自行车淘汰赛”系谣言 已买车辆不强制淘汰",
@@ -63,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时40分]"
         },
         {
           "title": "以总理要求政府所有部长不得就伊朗问题接受媒体采访",
@@ -76,11 +69,26 @@
           "ranks": [
             2,
             7,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 05时40分]"
+        },
+        {
+          "title": "据以色列第14频道：以色列高级官员表示，恢复在伊朗的战斗是必要的。这不是一个会不会发生的问题，而是一个何时发生的问题。",
+          "url": "https://flash.jin10.com/detail/20260504014901659800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 05时40分]"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -96,17 +104,16 @@
           "time_info": "[00时49分 ~ 02时58分]"
         },
         {
-          "title": "据以色列第14频道：以色列高级官员表示，恢复在伊朗的战斗是必要的。这不是一个会不会发生的问题，而是一个何时发生的问题。",
-          "url": "https://flash.jin10.com/detail/20260504014901659800",
+          "title": "波兰国防部长：目前尚未收到任何表明“爱国者”防空系统交付将推迟的消息。",
+          "url": "https://flash.jin10.com/detail/20260504041241723800",
           "source": "金十数据",
           "ranks": [
             3,
-            8,
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时41分]"
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
         },
         {
           "title": "英国政府拟允许航空公司合并航班，以应对油价飙升",
@@ -120,6 +127,18 @@
           "time_info": "[00时49分 ~ 03时55分]"
         },
         {
+          "title": "以色列总理：要求政府所有部长不得就伊朗问题接受媒体采访",
+          "url": "https://wallstreetcn.com/livenews/3098307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
           "title": "男子从行驶车辆中探身拍摄 网友举报",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BB%8E%E8%A1%8C%E9%A9%B6%E8%BD%A6%E8%BE%86%E4%B8%AD%E6%8E%A2%E8%BA%AB%E6%8B%8D%E6%91%84+%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5",
           "source": "百度热搜",
@@ -130,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时41分]"
-        },
-        {
-          "title": "以色列总理：要求政府所有部长不得就伊朗问题接受媒体采访",
-          "url": "https://wallstreetcn.com/livenews/3098307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美联储的自主性，通常被称为其独立性，源于国会的机构设立，国会创建了一个由官员组成的委员会，这些官员任期较长且错开，享有免于被罢免的保护，并赋予该机构对其预算（和建筑物）的完全控制权。",
@@ -169,8 +177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 05时40分]"
         }
       ]
     }
