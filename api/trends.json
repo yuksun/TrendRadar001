@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:17:14.960024+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-05-04T19:47:52.273835+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "林园投资被查，事出违规打新",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 19时47分]"
         },
         {
           "title": "江西九江多地倡议干部带头缴物业费",
@@ -56,6 +56,18 @@
           "time_info": "[00时49分 ~ 07时43分]"
         },
         {
+          "title": "官方：“全国电动自行车淘汰赛”系谣言，已买车辆不强制淘汰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095434",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 19时47分]"
+        },
+        {
           "title": "官方：“全国电动自行车淘汰赛”系谣言 已买车辆不强制淘汰",
           "url": "https://wallstreetcn.com/livenews/3098293",
           "source": "华尔街见闻-快讯",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时43分]"
-        },
-        {
-          "title": "官方：“全国电动自行车淘汰赛”系谣言，已买车辆不强制淘汰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095434",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
@@ -108,15 +108,37 @@
           "time_info": "[14时11分 ~ 17时17分]"
         },
         {
+          "title": "伊朗战争丨伊朗称两枚导弹击中美军舰，美官员否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "南非政府宣布，5月份汽油价格将上涨3.27兰特/升。5月份批发柴油价格将上涨6.19兰特/升。",
           "url": "https://flash.jin10.com/detail/20260504165311093800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "官方辟谣“西藏一地熊吃人事件”",
+          "url": "https://www.toutiao.com/trending/7635162405345181759/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 19时47分]"
         },
         {
           "title": "北约秘书长：我们已准备好在战争结束后进入下一阶段，调动必要的舰艇和扫雷舰在霍尔木兹海峡行动。",
@@ -136,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -167,17 +189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 05时40分]"
-        },
-        {
-          "title": "官方辟谣“西藏一地熊吃人事件”",
-          "url": "https://www.toutiao.com/trending/7635162405345181759/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -220,6 +231,20 @@
           "time_info": "[04时41分 ~ 07时43分]"
         },
         {
+          "title": "医生提醒女性勿过度防晒，失眠抑郁的人大都缺维生素 D，怎样防晒才刚好？",
+          "url": "https://www.zhihu.com/question/1906828518555350720",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 19时47分]"
+        },
+        {
           "title": "英国政府拟允许航空公司合并航班，以应对油价飙升",
           "url": "https://wallstreetcn.com/livenews/3098269",
           "source": "华尔街见闻-快讯",
@@ -229,19 +254,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 03时55分]"
-        },
-        {
-          "title": "医生提醒女性勿过度防晒，失眠抑郁的人大都缺维生素 D，怎样防晒才刚好？",
-          "url": "https://www.zhihu.com/question/1906828518555350720",
-          "source": "知乎",
-          "ranks": [
-            10,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
@@ -308,7 +320,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -352,7 +364,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -374,7 +386,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -418,9 +430,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们将在本周发布关于航空公司航空燃料的指导。",
+          "url": "https://flash.jin10.com/detail/20260504184627311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会无法获取关于航空燃料商业合同的信息。",
+          "url": "https://flash.jin10.com/detail/20260504184443959800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "韩国央行官员称，是时候考虑加息了。（韩联社）",
@@ -462,9 +496,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "欧洲央行管委Villeroy：加息需谨慎并做好准备",
+          "url": "https://wallstreetcn.com/livenews/3098453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "广西投资集团总经理刘明洪被查",
+          "url": "https://www.toutiao.com/trending/7635960836167925802/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
@@ -476,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：6月加息“几乎不可避免”",
+          "url": "https://wallstreetcn.com/livenews/3098452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
@@ -495,7 +562,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
