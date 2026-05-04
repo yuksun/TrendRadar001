@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:43:23.408032+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-04T10:42:59.211113+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "林园投资被查，事出违规打新",
@@ -16,11 +16,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 10时42分]"
         },
         {
           "title": "江西九江多地倡议干部带头缴物业费",
@@ -124,6 +125,18 @@
           "time_info": "[04时41分 ~ 06时39分]"
         },
         {
+          "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095444",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 10时42分]"
+        },
+        {
           "title": "以色列总理：要求政府所有部长不得就伊朗问题接受媒体采访",
           "url": "https://wallstreetcn.com/livenews/3098307",
           "source": "华尔街见闻-快讯",
@@ -185,26 +198,114 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
+          "title": "官方：“全国电动自行车淘汰赛”系谣言，已买车辆不强制淘汰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095434",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "鲍威尔留任理事的双刃剑：每一票都被政治解读，还可能成为政府靶子",
+          "url": "https://flash.jin10.com/detail/20260504102302266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "国家外汇局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
+          "url": "https://wallstreetcn.com/livenews/3098364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美联航一客机降落时撞上路灯杆 联邦航空管理局展开调查",
           "url": "https://flash.jin10.com/detail/20260504065038662800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
         {
-          "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095444",
-          "source": "澎湃新闻",
+          "title": "医生提醒女性勿过度防晒，失眠抑郁的人大都缺维生素 D，怎样防晒才刚好？",
+          "url": "https://www.zhihu.com/question/1906828518555350720",
+          "source": "知乎",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "10时42分"
+        },
+        {
+          "title": "官方辟谣“西藏一地熊吃人事件”",
+          "url": "https://www.toutiao.com/trending/7635162405345181759/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "中国人民银行副行长、国家外汇管理局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
+          "url": "https://flash.jin10.com/detail/20260504100844716800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "韩国央行官员称，是时候考虑加息了。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3098350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
+          "url": "https://flash.jin10.com/detail/20260504094831597800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
+          "url": "https://flash.jin10.com/detail/20260504094810391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美联储的自主性，通常被称为其独立性，源于国会的机构设立，国会创建了一个由官员组成的委员会，这些官员任期较长且错开，享有免于被罢免的保护，并赋予该机构对其预算（和建筑物）的完全控制权。",
@@ -216,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：就霍尔木兹海峡冲击模型而言，没有任何信息暗示存在反射性的紧缩倾向。",
+          "url": "https://flash.jin10.com/detail/20260504094755879800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     },
@@ -231,11 +343,12 @@
             5,
             8,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 10时42分]"
         }
       ]
     }
