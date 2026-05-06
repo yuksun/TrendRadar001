@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:04:08.087218+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-05-06T10:40:39.865470+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "目瑙纵歌全网爆火 播放突破20亿次",
@@ -19,6 +19,19 @@
           "time_info": "[00时43分 ~ 07时04分]"
         },
         {
+          "title": "假期要闻汇总：林园投资被查，事出违规打新；豆包将推出付费订阅版本",
+          "url": "https://www.cls.cn/detail/2362843",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 10时40分]"
+        },
+        {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -30,16 +43,17 @@
           "time_info": "[00时43分 ~ 07时04分]"
         },
         {
-          "title": "假期要闻汇总：林园投资被查，事出违规打新；豆包将推出付费订阅版本",
-          "url": "https://www.cls.cn/detail/2362843",
-          "source": "财联社热门",
+          "title": "长沙市委市政府：对浏阳烟花厂爆炸极为痛心、无比自责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099084",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            2
+            7,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 10时40分]"
         },
         {
           "title": "如何看待中山大学杰青康铁邦 Nature 子刊论文被「耿同学讲故事」举报数据造假，校方已启动调查程序？",
@@ -68,16 +82,16 @@
           "time_info": "[00时43分 ~ 07时04分]"
         },
         {
-          "title": "长沙市委市政府：对浏阳烟花厂爆炸极为痛心、无比自责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099084",
-          "source": "澎湃新闻",
+          "title": "国务院将成立浏阳烟花事故调查组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 10时40分]"
         },
         {
           "title": "浏阳爆炸事故将成立国务院调查组",
@@ -108,16 +122,15 @@
           "time_info": "[00时43分 ~ 07时04分]"
         },
         {
-          "title": "国务院将成立浏阳烟花事故调查组",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "bilibili 热搜",
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 07时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "以色列外长：我们将与黎巴嫩政府合作，共同探索通往和平与关系正常化的道路。",
@@ -149,7 +162,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -171,7 +184,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -209,6 +222,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "Xbox领导层重组",
+          "url": "https://search.bilibili.com/all?keyword=Xbox%E9%A2%86%E5%AF%BC%E5%B1%82%E9%87%8D%E7%BB%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "沙特下调6月销往亚洲的原油官方售价，但仍处历史高位",
           "url": "https://flash.jin10.com/detail/20260506033123506800",
           "source": "金十数据",
@@ -240,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "重庆动物园通报大熊猫食用发霉竹子",
+          "url": "https://www.toutiao.com/trending/7636247546785185830/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "消息人士：G7商讨设立关键矿产常设机构，秘书处或落户巴黎IEA或OECD",
@@ -286,6 +321,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "人民币兑美元中间价报6.8562，创2023年3月24日以来新高，上调66点；上一交易日中间价6.8628，上一交易日官方收盘价6.8335，上日夜盘报收6.8310。",
+          "url": "https://wallstreetcn.com/livenews/3099028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "罗马尼亚总统启动新政府组建磋商",
           "url": "https://flash.jin10.com/detail/20260506010621174800",
           "source": "金十数据",
@@ -295,6 +341,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "澳大利亚财政部长：我们宣布将提供超过100亿澳元，以确保澳大利亚近期的燃料和肥料安全，建立一个约10亿升的永久政府拥有的澳大利亚燃料安全储备，并将每种燃料的最低库存义务提高约10天。",
+          "url": "https://flash.jin10.com/detail/20260506095618765800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "澳大利亚财政部长：我们将资助一个政府拥有的燃料储备，并确保50天的燃料供应。 下周的联邦预算将包括一项澳大利亚燃料安全与韧性计划，以保护我们国家的能源利益。",
+          "url": "https://flash.jin10.com/detail/20260506095607431800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "【伊朗总统办公室官员否认总统辞职传闻】据伊朗学生通讯社5日报道，伊朗总统办公室一名官员否认有关伊朗总统佩泽希齐扬可能辞职的传闻。这名官员表示，相关说法不属实，当前局势下并不存在考虑此类问题的必要性。报道还说，相关说法为部分媒体在缺乏话题情况下制造的谣言。（新华社）",
@@ -319,11 +387,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时07分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[04时07分 ~ 10时40分]"
         },
         {
           "title": "山东泰山4比1大胜上海申花",
