@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:51:56.566097+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-05-10T23:53:17.255758+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
@@ -151,6 +151,19 @@
           "time_info": "[10时47分 ~ 19时50分]"
         },
         {
+          "title": "西班牙官员：“洪迪厄斯”号船上人员均无症状，预计明日完成遣返工作",
+          "url": "https://wallstreetcn.com/livenews/3101136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时53分]"
+        },
+        {
           "title": "世卫官员：建议对涉疫邮轮人员监测42天，公众风险仍然低",
           "url": "https://wallstreetcn.com/livenews/3101105",
           "source": "华尔街见闻-快讯",
@@ -164,6 +177,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时20分 ~ 21时15分]"
+        },
+        {
+          "title": "毛焦尔宣誓就职匈牙利总理，候任卫生部长跳舞庆祝",
+          "url": "https://news.ifeng.com/c/8t0t9taCyV2",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时53分]"
+        },
+        {
+          "title": "湖南省委书记沈晓明主持召开烟花爆竹领域专家座谈会",
+          "url": "https://wallstreetcn.com/livenews/3101132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时53分]"
         },
         {
           "title": "西班牙政府称接收涉疫邮轮工作“一切准备就绪”",
@@ -189,31 +227,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 19时50分]"
-        },
-        {
-          "title": "西班牙官员：“洪迪厄斯”号船上人员均无症状，预计明日完成遣返工作",
-          "url": "https://wallstreetcn.com/livenews/3101136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时51分]"
-        },
-        {
-          "title": "毛焦尔宣誓就职匈牙利总理，候任卫生部长跳舞庆祝",
-          "url": "https://news.ifeng.com/c/8t0t9taCyV2",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 22时51分]"
         },
         {
           "title": "卡塔尔外交部长：利用霍尔木兹海峡作为施压工具只会加深危机。",
@@ -249,19 +262,6 @@
             4,
             17,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时51分]"
-        },
-        {
-          "title": "湖南省委书记沈晓明主持召开烟花爆竹领域专家座谈会",
-          "url": "https://wallstreetcn.com/livenews/3101132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -336,6 +336,30 @@
           "time_info": "[19时50分 ~ 21时15分]"
         },
         {
+          "title": "河北省委常委常斌任唐山市委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149382",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
           "title": "上海市监局通报糖果制品中检出伟哥",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%B3%96%E6%9E%9C%E5%88%B6%E5%93%81%E4%B8%AD%E6%A3%80%E5%87%BA%E4%BC%9F%E5%93%A5",
           "source": "百度热搜",
@@ -376,7 +400,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -458,17 +482,6 @@
           "time_info": "18时13分"
         },
         {
-          "title": "河北省委常委常斌任唐山市委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149382",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "伊官员：伊朗将继续行使自卫权 警惕美方敌对行动",
           "url": "https://flash.jin10.com/detail/20260510083218523800",
           "source": "金十数据",
@@ -478,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "奇葩文案本该被问责的企业悄然退场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%91%A9%E6%96%87%E6%A1%88%E6%9C%AC%E8%AF%A5%E8%A2%AB%E9%97%AE%E8%B4%A3%E7%9A%84%E4%BC%81%E4%B8%9A%E6%82%84%E7%84%B6%E9%80%80%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "日本经济产业省：日本考虑最快5月底向俄罗斯派遣官员",
@@ -491,6 +515,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美能源部长：政府对暂停征收燃油税持开放态度",
+          "url": "https://flash.jin10.com/detail/20260510225453708800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "官方称正调查「4 只皮皮虾 1035 元」事件中司机是否带客吃回扣，若属实商家和司机会受到怎样的处罚？",
           "url": "https://www.zhihu.com/question/2036542942957892446",
           "source": "知乎",
@@ -500,17 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
-        },
-        {
-          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "西班牙卫生部长：预计最后起飞的航班将是澳大利亚的航班，该航班将于明天下午起飞。",
@@ -577,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "成都市委政法委原副书记王振声逝世",
+          "url": "https://www.toutiao.com/trending/7638222060025741331/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     }
