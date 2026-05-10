@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:15:25.345422+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-10T22:51:56.566097+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
@@ -196,11 +196,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时51分]"
+        },
+        {
+          "title": "毛焦尔宣誓就职匈牙利总理，候任卫生部长跳舞庆祝",
+          "url": "https://news.ifeng.com/c/8t0t9taCyV2",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 22时51分]"
         },
         {
           "title": "卡塔尔外交部长：利用霍尔木兹海峡作为施压工具只会加深危机。",
@@ -208,11 +221,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时51分]"
         },
         {
           "title": "西班牙官员：“洪迪厄斯”号船上人员均无症状 预计明日完成遣返工作",
@@ -220,11 +234,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时51分]"
         },
         {
           "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
@@ -232,11 +247,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时51分]"
         },
         {
           "title": "湖南省委书记沈晓明主持召开烟花爆竹领域专家座谈会",
@@ -244,11 +260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时51分]"
         },
         {
           "title": "国常会：研究推进地方政府债务风险化解有关工作",
@@ -282,18 +299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 03时59分]"
-        },
-        {
-          "title": "毛焦尔宣誓就职匈牙利总理，候任卫生部长跳舞庆祝",
-          "url": "https://news.ifeng.com/c/8t0t9taCyV2",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时15分]"
         },
         {
           "title": "李强主持召开国常会：推进地方政府债务风险化解 加强矿产资源全链条管理",
@@ -363,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)在东非的数据中心选址因与肯尼亚政府就公司要求的保证付款存在分歧而延迟。",
+          "url": "https://flash.jin10.com/detail/20260510213825805800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "为什么我们越来越不尊敬领导了？",
@@ -442,6 +458,17 @@
           "time_info": "18时13分"
         },
         {
+          "title": "河北省委常委常斌任唐山市委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149382",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "伊官员：伊朗将继续行使自卫权 警惕美方敌对行动",
           "url": "https://flash.jin10.com/detail/20260510083218523800",
           "source": "金十数据",
@@ -473,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "西班牙卫生部长：预计最后起飞的航班将是澳大利亚的航班，该航班将于明天下午起飞。",
