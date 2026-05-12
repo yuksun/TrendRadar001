@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-13T05:18:49.454041+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-13T07:01:14.873331+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
         {
           "title": "玩家互咬,乙游擦边遭举报",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354221&amp;topic_name=%E7%8E%A9%E5%AE%B6%E4%BA%92%E5%92%AC%2C%E4%B9%99%E6%B8%B8%E6%93%A6%E8%BE%B9%E9%81%AD%E4%B8%BE%E6%8A%A5",
@@ -26,8 +15,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "南京审计大学回应学生涉嫌偷拍：将依据调查结果严肃处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33163707",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
         },
         {
           "title": "印度政府调整黄金和白银进口关税。",
@@ -39,6 +51,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "漫展开盒乙游coser被查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354195&amp;topic_name=%E6%BC%AB%E5%B1%95%E5%BC%80%E7%9B%92%E4%B9%99%E6%B8%B8coser%E8%A2%AB%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "重庆一大桥底现巨大佛头？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%BA%95%E7%8E%B0%E5%B7%A8%E5%A4%A7%E4%BD%9B%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            22,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "当地回应偷拍裙底男生已拟录公务员",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95%E7%94%B7%E7%94%9F%E5%B7%B2%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "偷拍男生拟录公务员？江苏税务回应",
+          "url": "https://www.toutiao.com/trending/7639009717288979978/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "fifa硬刚,官方中文换韩文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354191&amp;topic_name=fifa%E7%A1%AC%E5%88%9A%2C%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E6%8D%A2%E9%9F%A9%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "戴口罩男子从背后撞倒女子后逃离，南昌警方：15岁违法行为人正接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33161630",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时01分]"
         },
         {
           "title": "澎湃回声｜云南砚山：一个月内完成整改，并对相关责任人追责问责",
@@ -63,6 +149,30 @@
           "time_info": "01时10分"
         },
         {
+          "title": "老人被判断死亡后仍有呼吸 当地通报",
+          "url": "https://www.toutiao.com/trending/7638789442043579942/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 07时01分]"
+        },
+        {
+          "title": "内塔尼亚胡和摩萨德局长吵起来了",
+          "url": "https://news.ifeng.com/c/8t4bHycsVxq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
           "title": "伊朗官员：波斯湾溢油事件可能由油轮排污引起",
           "url": "https://wallstreetcn.com/livenews/3102481",
           "source": "华尔街见闻-快讯",
@@ -75,30 +185,6 @@
           "time_info": "[03时50分 ~ 05时18分]"
         },
         {
-          "title": "南京审计大学回应学生涉嫌偷拍：将依据调查结果严肃处置",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33163707",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "漫展开盒乙游coser被查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354195&amp;topic_name=%E6%BC%AB%E5%B1%95%E5%BC%80%E7%9B%92%E4%B9%99%E6%B8%B8coser%E8%A2%AB%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
           "title": "南审通报男子偷拍事件",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%A1%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%81%B7%E6%8B%8D%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -106,43 +192,6 @@
             9,
             26,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "当地回应偷拍裙底男生已拟录公务员",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95%E7%94%B7%E7%94%9F%E5%B7%B2%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "偷拍男生拟录公务员？江苏税务回应",
-          "url": "https://www.toutiao.com/trending/7639009717288979978/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "重庆一大桥底现巨大佛头？官方回应",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%BA%95%E7%8E%B0%E5%B7%A8%E5%A4%A7%E4%BD%9B%E5%A4%B4%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            22,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -162,39 +211,28 @@
           "time_info": "[01时10分 ~ 05时18分]"
         },
         {
-          "title": "fifa硬刚,官方中文换韩文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354191&amp;topic_name=fifa%E7%A1%AC%E5%88%9A%2C%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E6%8D%A2%E9%9F%A9%E6%96%87",
-          "source": "贴吧",
+          "title": "美法相继通报感染汉坦病毒病例",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%B3%95%E7%9B%B8%E7%BB%A7%E9%80%9A%E6%8A%A5%E6%84%9F%E6%9F%93%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%97%85%E4%BE%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            16
+            26,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
+          "time_info": "[01时10分 ~ 07时01分]"
         },
         {
-          "title": "戴口罩男子从背后撞倒女子后逃离，南昌警方：15岁违法行为人正接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161630",
-          "source": "澎湃新闻",
+          "title": "当地回应偷拍裙底男生已拟录公务员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95%E7%94%B7%E7%94%9F%E5%B7%B2%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            16
+            27,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "内塔尼亚胡和摩萨德局长吵起来了",
-          "url": "https://news.ifeng.com/c/8t4bHycsVxq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时18分]"
+          "time_info": "[03时49分 ~ 07时01分]"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
@@ -231,39 +269,26 @@
           "time_info": "[01时10分 ~ 03时50分]"
         },
         {
-          "title": "老人被判断死亡后仍有呼吸 当地通报",
-          "url": "https://www.toutiao.com/trending/7638789442043579942/",
-          "source": "今日头条",
+          "title": "南京审计大学通报学生偷拍他人隐私调查进展：情况属实情节严重，决定开除其学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33167020",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            26
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时49分 ~ 05时18分]"
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "美法相继通报感染汉坦病毒病例",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%B3%95%E7%9B%B8%E7%BB%A7%E9%80%9A%E6%8A%A5%E6%84%9F%E6%9F%93%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%97%85%E4%BE%8B",
-          "source": "bilibili 热搜",
+          "title": "涉偷拍男生与拟录公务员姓名院校一致",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%89%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E4%B8%8E%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98%E5%A7%93%E5%90%8D%E9%99%A2%E6%A0%A1%E4%B8%80%E8%87%B4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            26,
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时10分 ~ 05时18分]"
-        },
-        {
-          "title": "当地回应偷拍裙底男生已拟录公务员",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95%E7%94%B7%E7%94%9F%E5%B7%B2%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
+          "time_info": "[07时00分 ~ 07时01分]"
         },
         {
           "title": "智利铜业委员会：智利科亚瓦西铜矿3月产量同比下降10.80%，至3.14万吨。",
@@ -343,6 +368,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "墨西哥安全部长回应此前CNN报道时表示，墨西哥坚决反对任何试图将外国机构在墨西哥领土上开展致命、秘密或单边行动正常化、合理化或暗示其存在的做法。",
+          "url": "https://flash.jin10.com/detail/20260513063020550800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "巴西政府：对自9月3日起被移出获准向欧盟出口动物产品国家名单的消息感到意外。",
           "url": "https://flash.jin10.com/detail/20260513030046517800",
           "source": "金十数据",
@@ -420,6 +456,28 @@
           "time_info": "03时50分"
         },
         {
+          "title": "巴西政府：总统卢拉将签署行政命令，取消针对低价值进口商品的联邦税。",
+          "url": "https://flash.jin10.com/detail/20260513055431830800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "巴西农业部贸易与国际关系秘书Luis Rua：巴西被移出欧盟供应商名单令我们感到有些意外。 巴西一直在提供信息。 对于其中的许多蛋白质产品，我们在去年 10 月就提交了数据，并期待就我们发送的内容是否充分得到反馈。 此前的讨论一直集中在牛肉上，但现在的决定延伸到了巴西所有的动物蛋白领域。 巴西是一个有着40年出口经验的可信赖伙伴，优秀的伙伴应该得到相应的对待。 我们将提供一切必要的保证，以尽快在所有这些动物蛋白产业链中扭转这一局面。",
+          "url": "https://wallstreetcn.com/livenews/3102528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "俄经济发展部部长：过去三年俄经济增长10%",
           "url": "https://flash.jin10.com/detail/20260513022123487800",
           "source": "金十数据",
@@ -437,9 +495,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "巴西农业部、贸易部和外交部联合声明：巴西政府将“迅速采取一切必要措施撤销这一决定”。 巴西驻欧盟代表团团长已预约周三与欧盟卫生当局会面，寻求对该决定的解释。",
+          "url": "https://wallstreetcn.com/livenews/3102527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "印度政府将黄金和白银基本进口税从5%上调至10%",
@@ -448,7 +517,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
