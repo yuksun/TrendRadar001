@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-12T10:57:42.863377+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-05-12T14:25:54.766903+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "给5A体个检｜澎湃暗访广府古城水域乱象，官方回应数日内完成整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33155673",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时25分]"
+        },
         {
           "title": "受贿数额特别巨大，中巡组原副部级巡视专员许传智被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33154566",
@@ -20,19 +34,6 @@
           "time_info": "[00时32分 ~ 07时57分]"
         },
         {
-          "title": "给5A体个检｜澎湃暗访广府古城水域乱象，官方回应数日内完成整改",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155673",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 10时57分]"
-        },
-        {
           "title": "影子调查｜5.56公里高标准农田沟渠的来回“折腾”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33155200",
           "source": "澎湃新闻",
@@ -40,11 +41,24 @@
             11,
             9,
             8,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时25分]"
+        },
+        {
+          "title": "台媒：民进党13日将征召“台独”顽固分子沈伯洋出战台北市长",
+          "url": "https://news.ifeng.com/c/8t36mzW4BHF",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时32分 ~ 10时57分]"
+          "time_info": "[00时32分 ~ 14时25分]"
         },
         {
           "title": "扬州12345投诉工单遭泄露？官方：工作人员违反工作流程",
@@ -60,16 +74,16 @@
           "time_info": "[00时32分 ~ 10时57分]"
         },
         {
-          "title": "台媒：民进党13日将征召“台独”顽固分子沈伯洋出战台北市长",
-          "url": "https://news.ifeng.com/c/8t36mzW4BHF",
-          "source": "凤凰网",
+          "title": "如何看待耿同学举报上海大学转化医学院院长苏某最新 Nature 子刊论文数据造假？究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2037418739952521787",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 10时57分]"
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时25分]"
         },
         {
           "title": "警方通报女子遭15岁男生冲撞倒地",
@@ -85,6 +99,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 07时57分]"
+        },
+        {
+          "title": "漫展开盒乙游coser被查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354195&amp;topic_name=%E6%BC%AB%E5%B1%95%E5%BC%80%E7%9B%92%E4%B9%99%E6%B8%B8coser%E8%A2%AB%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "乌反腐机构称破获洗钱团伙 总统办前主任涉嫌其中",
@@ -104,7 +129,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -115,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -131,15 +156,37 @@
           "time_info": "06时06分"
         },
         {
-          "title": "如何看待耿同学举报上海大学转化医学院院长苏某最新 Nature 子刊论文数据造假？究竟是怎么回事？",
-          "url": "https://www.zhihu.com/question/2037418739952521787",
-          "source": "知乎",
+          "title": "财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期",
+          "url": "https://www.cls.cn/detail/2368750",
+          "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "英国政府高级大臣琼斯：首相未来可能做什么或可能不做什么，将由首相自己决定。",
+          "url": "https://flash.jin10.com/detail/20260512140611668800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "把企业拍成这样，领导让我别干了，困惑问题出在哪里？",
@@ -181,6 +228,42 @@
           "time_info": "[02时58分 ~ 06时06分]"
         },
         {
+          "title": "fifa硬刚,官方中文换韩文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354191&amp;topic_name=fifa%E7%A1%AC%E5%88%9A%2C%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E6%8D%A2%E9%9F%A9%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时25分]"
+        },
+        {
+          "title": "澎湃回声｜云南砚山：一个月内完成整改，并对相关责任人追责问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33158602",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时25分]"
+        },
+        {
+          "title": "重庆巫山通报服农药中毒老人救治情况，对涉嫌延误诊治医护人员立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33158233",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时25分]"
+        },
+        {
           "title": "官方回应“广东地震局短信”",
           "url": "https://www.douyin.com/hot/2494945",
           "source": "抖音",
@@ -193,15 +276,59 @@
           "time_info": "[00时32分 ~ 02时58分]"
         },
         {
-          "title": "fifa硬刚,官方中文换韩文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354191&amp;topic_name=fifa%E7%A1%AC%E5%88%9A%2C%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E6%8D%A2%E9%9F%A9%E6%96%87",
-          "source": "贴吧",
+          "title": "老人被判断死亡后仍有呼吸 当地通报",
+          "url": "https://www.toutiao.com/trending/7638789442043579942/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时25分]"
+        },
+        {
+          "title": "英国政府高级大臣琼斯：我无法预判英国首相斯塔默可能做出的任何决定。",
+          "url": "https://flash.jin10.com/detail/20260512140528448800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "莫迪呼吁民众不买黄金后，印度政府要出手了",
+          "url": "https://finance.ifeng.com/c/8t3jW8AcgGi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "英国政府高级大臣琼斯：对于首相来说，目前的一切都还没有结束。",
+          "url": "https://flash.jin10.com/detail/20260512140514771800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "美法相继通报感染汉坦病毒病例",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%B3%95%E7%9B%B8%E7%BB%A7%E9%80%9A%E6%8A%A5%E6%84%9F%E6%9F%93%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%97%85%E4%BE%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "哥伦比亚总检察长：哥伦比亚国家石油公司负责人里卡多·罗阿因在佩特罗总统竞选期间涉嫌费用报告不当而接受调查。",
@@ -215,15 +342,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "澎湃回声｜云南砚山：一个月内完成整改，并对相关责任人追责问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33158602",
-          "source": "澎湃新闻",
+          "title": "挪威政府预计，2026年非石油GDP增长1.7%，去年10月份预测为2.1%。预计2026年核心通胀将为3.2%，去年10月份预期为2.5%。",
+          "url": "https://flash.jin10.com/detail/20260512140224786800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时25分"
         },
         {
           "title": "乌克兰反腐败机构：泽连斯基前幕僚长收到正式涉嫌违法告知书。",
@@ -237,15 +364,15 @@
           "time_info": "02时58分"
         },
         {
-          "title": "重庆巫山通报服农药中毒老人救治情况，对涉嫌延误诊治医护人员立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33158233",
-          "source": "澎湃新闻",
+          "title": "挪威政府预计，2026年结构性非石油预算赤字为5790亿挪威克朗，而去年10月份预计为5794亿挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20260512140158421800",
+          "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时25分"
         },
         {
           "title": "美得州总检察长起诉奈飞，指控存在监控及成瘾性功能设计",
@@ -257,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "挪威政府提议，2026年动用主权财富基金的2.7%，而去年10月份预计为2.8%。",
+          "url": "https://flash.jin10.com/detail/20260512140140926800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "媒体援引伊朗消息人士报道称，伊朗拒绝将铀转移到境外，并准备在国际原子能机构的监督下进行铀浓。 伊朗准备将高浓缩铀稀释至3.7%和20%的浓度。",
@@ -281,15 +419,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "老人被判断死亡后仍有呼吸 当地通报",
-          "url": "https://www.toutiao.com/trending/7638789442043579942/",
-          "source": "今日头条",
+          "title": "国家药监局局长黄果会见新加坡卫生科学局局长蔡瑞文并签署合作备忘录",
+          "url": "https://wallstreetcn.com/livenews/3102038",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时25分"
         },
         {
           "title": "老人被判断死亡后仍有呼吸 当地通报",
@@ -298,7 +436,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -320,7 +458,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
