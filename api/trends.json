@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T04:45:56.201353+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-14T06:10:23.489263+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "给5A体个检｜澎湃暗访九华山景区曝光餐馆厕所陈放食材，官方回应",
@@ -15,19 +15,53 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时10分]"
+        },
+        {
+          "title": "官方慌神?洛手急聘游戏策划",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时10分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄军推进速度极为缓慢，乌军正在扩大“杀伤区”。普京也正在被误导。",
           "url": "https://flash.jin10.com/detail/20260514042127264800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 06时10分]"
+        },
+        {
+          "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
+          "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时10分]"
+        },
+        {
+          "title": "偷税超900万被查的网红白冰：前员工坑我几千万，还要把我送进去",
+          "url": "https://news.ifeng.com/c/8t63jd7c4F9",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时10分]"
         },
         {
           "title": "菲军方称向参议院派兵负责安保执勤，开枪事件仍在调查",
@@ -42,39 +76,6 @@
           "time_info": "[02时56分 ~ 04时45分]"
         },
         {
-          "title": "官方慌神?洛手急聘游戏策划",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时45分]"
-        },
-        {
-          "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
-          "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时45分]"
-        },
-        {
-          "title": "偷税超900万被查的网红白冰：前员工坑我几千万，还要把我送进去",
-          "url": "https://news.ifeng.com/c/8t63jd7c4F9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时45分]"
-        },
-        {
           "title": "玩家互咬,乙游擦边遭举报",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354221&amp;topic_name=%E7%8E%A9%E5%AE%B6%E4%BA%92%E5%92%AC%2C%E4%B9%99%E6%B8%B8%E6%93%A6%E8%BE%B9%E9%81%AD%E4%B8%BE%E6%8A%A5",
           "source": "贴吧",
@@ -82,8 +83,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时10分]"
         },
         {
           "title": "【又一艘邮轮暴发聚集性病例：出现“数十例疑似肠胃炎病例”】5月13日，法国西南部新阿基坦大区政府禁止一艘停靠波尔多的邮轮上人员下船。据了解，这艘邮轮上出现了“数十例疑似肠胃炎病例”。新阿基坦大区卫生部门在声明中表示，禁止乘客和船员下船的措施是临时性的，目前在等待医学检测结果——不过“没有理由将其与近日‘洪迪厄斯’邮轮上出现的汉坦病毒聚集性病例联系起来”。（CCTV国际时讯）",
@@ -102,22 +103,46 @@
           "url": "https://wallstreetcn.com/livenews/3103204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 06时10分]"
         },
         {
           "title": "“喂110吗 我举报我赌博”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%96%82110%E5%90%97+%E6%88%91%E4%B8%BE%E6%8A%A5%E6%88%91%E8%B5%8C%E5%8D%9A%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 06时10分]"
+        },
+        {
+          "title": "据Business Insider：亚马逊(AMZN.O)本周进一步裁员，涉及其销售伙伴服务部门。",
+          "url": "https://flash.jin10.com/detail/20260514044918509800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "06时10分"
+        },
+        {
+          "title": "阿联酋外交部：这些关系并非建立在保密基础之上，因此，任何有关“未公开访问”或相关安排的说法，除非由阿联酋官方正式发布，否则均毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260514043037748800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "报道：巴西政府将宣布汽油补贴措施",
@@ -203,7 +228,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
@@ -225,7 +250,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
