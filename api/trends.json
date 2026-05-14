@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T02:59:39.973988+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-05-15T04:39:58.128657+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "据以色列N12频道：一名安全部门的消息人士称，以色列的海军突击队将在“加沙自由船队”抵达目标之前予以夺取。",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时39分]"
         },
         {
           "title": "男子偷拍女生裙底是否会被清出公务员拟录用名单？江苏税务局回应",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时39分]"
         },
         {
           "title": "马上评｜公示期届满，偷拍者顾某某还能当公务员吗？",
@@ -95,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时39分]"
         },
         {
           "title": "日本薯片包装“黑白化”引不安背后：政府宣称石脑油充足，生产一线却告急",
@@ -104,11 +104,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时39分]"
         },
         {
           "title": "官方慌神?洛手急聘游戏策划",
@@ -118,8 +119,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时39分]"
+        },
+        {
+          "title": "据知情人士透露，英国首相斯塔默不会寻求阻挠曼彻斯特市长Burnham竞选议员。（BBC）",
+          "url": "https://wallstreetcn.com/livenews/3103855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时39分]"
         },
         {
           "title": "官方认证的短剧片单含金量",
@@ -134,26 +147,37 @@
           "time_info": "[01时00分 ~ 02时59分]"
         },
         {
-          "title": "据知情人士透露，英国首相斯塔默不会寻求阻挠曼彻斯特市长Burnham竞选议员。（BBC）",
-          "url": "https://wallstreetcn.com/livenews/3103855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
           "url": "https://flash.jin10.com/detail/20260515021140763800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "唐宁街：英国首相斯塔默任命James Murray为卫生与社会保障大臣。 任命Lucy Rigby为财政部首席秘书。",
+          "url": "https://wallstreetcn.com/livenews/3103868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "英国唐宁街：斯塔默任命Lucy Rigby为财政部首席秘书。",
+          "url": "https://flash.jin10.com/detail/20260515034151068800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "英国议员乔什·西蒙斯辞职，为大曼彻斯特市市长安迪·伯纳姆参加议会补选扫清了道路。",
@@ -173,9 +197,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们警告敌人，如果他们犯下错误，破坏我们的安全，我们将在世界任何地方剥夺他们的安全。",
+          "url": "https://flash.jin10.com/detail/20260515032535829800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
+          "url": "https://flash.jin10.com/detail/20260515031448900800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     }
