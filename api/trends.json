@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T04:47:59.699169+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-20T06:15:50.781532+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "普京访华俄方代表团名单公布，含 5 位副总理 8 位部长，高规格阵容释放了哪些信号？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -27,8 +27,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "欧洲央行管委：若霍尔木兹海峡持续关闭 6月加息将不可避免",
+          "url": "https://flash.jin10.com/detail/20260520055501543800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "如何评价小米 YU7 GT 刷新纽北 SUV 圈速纪录，任周灿成为首个获得纽北官方圈速认证的中国车手？",
@@ -50,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "高校招聘被疑「萝卜岗」，36 名入围者中 14 人系本校人员，招聘流程中如何保障考生的知情权与监督权？",
@@ -63,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "普京访华团含5位副总理和8位部长",
@@ -73,11 +84,12 @@
           "ranks": [
             19,
             16,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "武汉调查村庄62人患癌事件",
@@ -85,11 +97,35 @@
           "source": "抖音",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "武汉市联合调查组发布情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B8%82%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时15分]"
+        },
+        {
+          "title": "医生听小说开错患者信息？医院通报",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%90%AC%E5%B0%8F%E8%AF%B4%E5%BC%80%E9%94%99%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF%EF%BC%9F%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时15分]"
         },
         {
           "title": "普京携5位副总理8位部长访华",
@@ -114,15 +150,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "武汉市联合调查组发布情况通报",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B8%82%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "06时15分"
         },
         {
           "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
@@ -131,7 +167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -153,7 +189,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -213,15 +249,26 @@
           "time_info": "02时59分"
         },
         {
-          "title": "医生听小说开错患者信息？医院通报",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%90%AC%E5%B0%8F%E8%AF%B4%E5%BC%80%E9%94%99%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF%EF%BC%9F%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "警方通报中学女生跑操后死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E5%A5%B3%E7%94%9F%E8%B7%91%E6%93%8D%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "日本央行行长植田和男：将在日本国债市场形势上配合政府。",
