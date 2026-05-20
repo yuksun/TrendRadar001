@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T03:24:09.662574+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-21T05:52:10.442406+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "以色列部长羞辱加沙援助船被扣人员",
+          "url": "https://flash.jin10.com/detail/20260521053842541800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
         {
           "title": "英国政府：英国皇家空军一架战机上月在黑海上空拦截了一架未武装飞机。",
           "url": "https://flash.jin10.com/detail/20260521000450786800",
@@ -47,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -57,11 +68,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 05时52分]"
         },
         {
           "title": "福建漳州通报“泡药杨梅”：已追回问题杨梅540公斤，5人被刑拘",
@@ -69,11 +81,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 05时52分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -84,19 +97,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 05时52分]"
         },
         {
-          "title": "官方通报“儿童乳膏添加违禁成分”",
-          "url": "https://news.ifeng.com/c/8tHxUN7Tnpb",
-          "source": "凤凰网",
+          "title": "“100%椰子水”再调查",
+          "url": "https://www.toutiao.com/trending/7641162685245816874/",
+          "source": "今日头条",
           "ranks": [
-            11
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 05时52分]"
         },
         {
           "title": "铁路部门回应“3岁女童高铁座位与母亲相隔8节车厢”：持续优化相关功能，提升用户体验",
@@ -106,19 +120,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 05时52分]"
         },
         {
-          "title": "“100%椰子水”再调查",
-          "url": "https://www.toutiao.com/trending/7641162685245816874/",
-          "source": "今日头条",
+          "title": "官方通报“儿童乳膏添加违禁成分”",
+          "url": "https://news.ifeng.com/c/8tHxUN7Tnpb",
+          "source": "凤凰网",
           "ranks": [
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 05时52分]"
+        },
+        {
+          "title": "玻利维亚总统帕斯20日宣布将重组内阁，并成立经济社会委员会，以应对当前政治危机和社会紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260521052243047800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "英国声明：与海湾合作委员会达成贸易协议。",
@@ -138,7 +163,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -149,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
