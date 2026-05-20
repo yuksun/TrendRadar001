@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-21T05:52:10.442406+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-21T07:11:58.063347+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "福建漳州通报“泡药杨梅”：已追回问题杨梅540公斤，5人被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时11分]"
+        },
         {
           "title": "以色列部长羞辱加沙援助船被扣人员",
           "url": "https://flash.jin10.com/detail/20260521053842541800",
@@ -14,9 +28,46 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
+          "url": "https://flash.jin10.com/detail/20260521070434459800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "官方通报福建漳州“泡药杨梅”事件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%A6%8F%E5%BB%BA%E6%BC%B3%E5%B7%9E%E2%80%9C%E6%B3%A1%E8%8D%AF%E6%9D%A8%E6%A2%85%E2%80%9D%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时11分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时11分]"
         },
         {
           "title": "英国政府：英国皇家空军一架战机上月在黑海上空拦截了一架未武装飞机。",
@@ -63,42 +114,16 @@
           "time_info": "03时24分"
         },
         {
-          "title": "官方通报福建漳州“泡药杨梅”事件",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%A6%8F%E5%BB%BA%E6%BC%B3%E5%B7%9E%E2%80%9C%E6%B3%A1%E8%8D%AF%E6%9D%A8%E6%A2%85%E2%80%9D%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时52分]"
-        },
-        {
-          "title": "福建漳州通报“泡药杨梅”：已追回问题杨梅540公斤，5人被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204245",
+          "title": "铁路部门回应“3岁女童高铁座位与母亲相隔8节车厢”：持续优化相关功能，提升用户体验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204168",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时52分]"
-        },
-        {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时52分]"
+          "time_info": "[03时23分 ~ 07时11分]"
         },
         {
           "title": "“100%椰子水”再调查",
@@ -106,22 +131,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 05时52分]"
-        },
-        {
-          "title": "铁路部门回应“3岁女童高铁座位与母亲相隔8节车厢”：持续优化相关功能，提升用户体验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204168",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 07时11分]"
         },
         {
           "title": "官方通报“儿童乳膏添加违禁成分”",
@@ -131,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 07时11分]"
         },
         {
           "title": "玻利维亚总统帕斯20日宣布将重组内阁，并成立经济社会委员会，以应对当前政治危机和社会紧张局势。",
@@ -141,7 +156,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -166,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
+          "url": "https://flash.jin10.com/detail/20260521064008184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "西班牙首相桑切斯：以色列部长羞辱“全球坚韧船队”成员的画面是不可接受的。",
