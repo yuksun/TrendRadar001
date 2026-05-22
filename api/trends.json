@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-22T07:02:23.245861+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-22T11:31:19.392897+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "关于影片《监狱来的妈妈》，上海市电影局最新通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205205",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 11时31分]"
+        },
         {
           "title": "独家专访｜7成国土遭受荒漠化，蒙古国森林局长谈中蒙如何联手治沙",
           "url": "https://m.thepaper.cn/newsDetail_forward_33203791",
@@ -14,18 +27,6 @@
           "ranks": [
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "关于影片《监狱来的妈妈》，上海市电影局最新通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205205",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -43,6 +44,42 @@
           "time_info": "[01时56分 ~ 07时02分]"
         },
         {
+          "title": "司法部：重点纠治乱罚款、趋利性执法，对罚没收入增20%以上地方重点关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204720",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 11时31分]"
+        },
+        {
+          "title": "官方致歉:深海迷航2确认优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354471&amp;topic_name=%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89%3A%E6%B7%B1%E6%B5%B7%E8%BF%B7%E8%88%AA2%E7%A1%AE%E8%AE%A4%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 11时31分]"
+        },
+        {
+          "title": "路透调查显示，27位经济学家中有14位预计到第三季度末新西兰联储将把官方现金利率提高至2.50%或更高；年末官方现金利率预测中值为2.75%（相比于4月份调查的2.50%）。29位经济学家中有28位预计新西兰联储将在5月27日将现金利率维持在2.25%。",
+          "url": "https://flash.jin10.com/detail/20260522111728122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "土耳其金融稳定性委员会将于周五开会。",
           "url": "https://wallstreetcn.com/livenews/3107599",
           "source": "华尔街见闻-快讯",
@@ -52,18 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        },
-        {
-          "title": "司法部：重点纠治乱罚款、趋利性执法，对罚没收入增20%以上地方重点关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204720",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 07时02分]"
         },
         {
           "title": "官方通报税务局职工上班玩手游",
@@ -85,17 +110,6 @@
           "source": "抖音",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "官方致歉:深海迷航2确认优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354471&amp;topic_name=%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89%3A%E6%B7%B1%E6%B5%B7%E8%BF%B7%E8%88%AA2%E7%A1%AE%E8%AE%A4%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -151,6 +165,39 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
+          "title": "官方辟谣高校招百余名印度留学生",
+          "url": "https://www.douyin.com/hot/2507741",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "以色列部长羞辱加沙援助船被扣人员，高喊“这里我们说了算”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205066",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "台官员否认美不支持“台独”时宕机",
+          "url": "https://www.toutiao.com/trending/7642211421933080106/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "中考“体测神药”热销 新华社调查",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E2%80%9C%E4%BD%93%E6%B5%8B%E7%A5%9E%E8%8D%AF%E2%80%9D%E7%83%AD%E9%94%80+%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -161,6 +208,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时52分]"
+        },
+        {
+          "title": "沈奕斐被举报警惕家校零和博弈",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%A5%95%E6%96%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E8%AD%A6%E6%83%95%E5%AE%B6%E6%A0%A1%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "蒋文定任宜春市委书记",
+          "url": "https://www.toutiao.com/trending/7642528703641030153/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "坚持一个中国原则 瑙鲁出台公务规范",
+          "url": "https://www.toutiao.com/trending/7641930441401991209/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "海口市税务局被曝一职工上班脚翘桌上玩手游，官方通报批评并调离原岗，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2040833142357845729",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "如果领导很笨，又很有主见，我们该怎么办？",
+          "url": "https://www.zhihu.com/question/2037251604072673550",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "波兰将以色列国家安全部长列为“不受欢迎的人”",
@@ -213,7 +315,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
