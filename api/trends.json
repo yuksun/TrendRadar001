@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:51:24.869682+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-23T19:09:58.743479+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
@@ -101,6 +101,18 @@
           "time_info": "[00时24分 ~ 08时06分]"
         },
         {
+          "title": "英伟达重组,游戏部门other",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时09分]"
+        },
+        {
           "title": "30多万名不符合条件执法人员被清退",
           "url": "https://www.toutiao.com/trending/7642050776567316522/",
           "source": "今日头条",
@@ -142,27 +154,16 @@
           "time_info": "[00时24分 ~ 08时06分]"
         },
         {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
+          "title": "正部级徐留平被查",
+          "url": "https://www.toutiao.com/trending/7642993841829855268/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 17时51分]"
-        },
-        {
-          "title": "徐留平被查",
-          "url": "https://www.douyin.com/hot/2509580",
-          "source": "抖音",
-          "ranks": [
+            4,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
         },
         {
           "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
@@ -173,19 +174,64 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 19时09分]"
         },
         {
-          "title": "正部级徐留平被查",
-          "url": "https://www.toutiao.com/trending/7642993841829855268/",
-          "source": "今日头条",
+          "title": "针对山西通洲集团留神峪煤矿瓦斯爆炸事故 国务院事故调查组将较真碰硬开展事故调查",
+          "url": "https://wallstreetcn.com/livenews/3108346",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "国务院调查组将就煤矿事故开展调查",
+          "url": "https://www.douyin.com/hot/2509726",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "王文涛部长会见世贸组织总干事伊维拉",
+          "url": "https://flash.jin10.com/detail/20260523183156189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "商务部部长王文涛：中方支持在MC14工作基础上 尽快推动世贸组织改革进入实质磋商阶段",
+          "url": "https://wallstreetcn.com/livenews/3108343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "手机点单 举报抽烟",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E7%82%B9%E5%8D%95%20%E4%B8%BE%E6%8A%A5%E6%8A%BD%E7%83%9F&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 19时09分]"
         },
         {
           "title": "商务部部长王文涛在苏州会见老挝工贸部长玛莱通",
@@ -197,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "三部门向广西增加调拨5000件中央救灾物资",
+          "url": "https://flash.jin10.com/detail/20260523181407016800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
@@ -235,6 +292,43 @@
           "time_info": "[02时53分 ~ 04时42分]"
         },
         {
+          "title": "徐留平被查",
+          "url": "https://www.douyin.com/hot/2509580",
+          "source": "抖音",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
+          "title": "「耿同学」称有头衔学者的研究应接受更严格的监督，举报不为了赚钱，已与 MCN 解约，这种体面打假能长久吗？",
+          "url": "https://www.zhihu.com/question/2041475698045498466",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
+          "title": "商务部部长王文涛会见马来西亚投资、贸易和工业部部长佐哈里",
+          "url": "https://wallstreetcn.com/livenews/3108320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 19时09分]"
+        },
+        {
           "title": "上班被领导兜底的含金量",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E8%A2%AB%E9%A2%86%E5%AF%BC%E5%85%9C%E5%BA%95%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -246,30 +340,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 04时42分]"
-        },
-        {
-          "title": "手机点单 举报抽烟",
-          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E7%82%B9%E5%8D%95%20%E4%B8%BE%E6%8A%A5%E6%8A%BD%E7%83%9F&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 17时51分]"
-        },
-        {
-          "title": "商务部部长王文涛会见马来西亚投资、贸易和工业部部长佐哈里",
-          "url": "https://wallstreetcn.com/livenews/3108320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 17时51分]"
         },
         {
           "title": "巴基斯坦航天员需学中文吗 官方回答",
@@ -297,6 +367,54 @@
           "time_info": "[12时39分 ~ 17时51分]"
         },
         {
+          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
+          "url": "https://wallstreetcn.com/livenews/3108327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
+          "title": "中华全国总工会党组书记徐留平被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E5%85%A8%E5%9B%BD%E6%80%BB%E5%B7%A5%E4%BC%9A%E5%85%9A%E7%BB%84%E4%B9%A6%E8%AE%B0%E5%BE%90%E7%95%99%E5%B9%B3%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
+          "title": "老虎国际澄清：并未“硬刚监管”，将严格按照监管部门的指导整改",
+          "url": "https://wallstreetcn.com/livenews/3108325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
+          "title": "徐留平被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%95%99%E5%B9%B3%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
           "title": "广西警方通报一起持刀伤人案件",
           "url": "https://www.douyin.com/hot/2508288",
           "source": "抖音",
@@ -318,6 +436,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
+          "url": "https://flash.jin10.com/detail/20260523160305213800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
         },
         {
           "title": "黎家盈曾在香港特区政府警务处工作",
@@ -342,6 +472,17 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
+          "title": "警方通报挂车尾部出现不雅低俗标语",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%8C%82%E8%BD%A6%E5%B0%BE%E9%83%A8%E5%87%BA%E7%8E%B0%E4%B8%8D%E9%9B%85%E4%BD%8E%E4%BF%97%E6%A0%87%E8%AF%AD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时09分]"
+        },
+        {
           "title": "马刺官方恭喜文班入选最佳防守一阵",
           "url": "https://www.toutiao.com/trending/7642102361976963113/",
           "source": "今日头条",
@@ -351,50 +492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
-          "url": "https://wallstreetcn.com/livenews/3108327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "「耿同学」称有头衔学者的研究应接受更严格的监督，举报不为了赚钱，已与 MCN 解约，这种体面打假能长久吗？",
-          "url": "https://www.zhihu.com/question/2041475698045498466",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "中华全国总工会党组书记徐留平被查",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%8E%E5%85%A8%E5%9B%BD%E6%80%BB%E5%B7%A5%E4%BC%9A%E5%85%9A%E7%BB%84%E4%B9%A6%E8%AE%B0%E5%BE%90%E7%95%99%E5%B9%B3%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "老虎国际澄清：并未“硬刚监管”，将严格按照监管部门的指导整改",
-          "url": "https://wallstreetcn.com/livenews/3108325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）",
@@ -408,17 +505,6 @@
           "time_info": "08时06分"
         },
         {
-          "title": "徐留平被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%95%99%E5%B9%B3%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "以色列军方：在上加利利地区的基里亚特·什蒙纳附近发现无人机坠落，具体情况正在调查中。",
           "url": "https://flash.jin10.com/detail/20260523140650414800",
           "source": "金十数据",
@@ -428,6 +514,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "欧洲央行管委：为维持可信度 欧洲央行可能不得不在6月加息",
+          "url": "https://flash.jin10.com/detail/20260523173344308800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "全总党组书记、副主席、书记处第一书记徐留平任上被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219505",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "商务部部长王文涛会见马来西亚投资、贸易和工业部部长佐哈里",
@@ -480,7 +588,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -507,17 +615,6 @@
           "time_info": "15时31分"
         },
         {
-          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
-          "url": "https://flash.jin10.com/detail/20260523160305213800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "伊朗外长与联合国秘书长通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3108240",
           "source": "华尔街见闻-快讯",
@@ -527,6 +624,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "适老化改造变“敛财工程”，四川两地成立工作组调查督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214687",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "云南省委书记接待信访群众：多办成一件实事，群众的获得感就增色一成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33213994",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "伊朗外交部发言人：来自卡塔尔的代表团目前正在与伊朗外交部长进行会谈，但巴基斯坦方面仍是谈判中的调解方。",
@@ -584,24 +703,13 @@
           "time_info": "12时39分"
         },
         {
-          "title": "警方通报挂车尾部出现不雅低俗标语",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%8C%82%E8%BD%A6%E5%B0%BE%E9%83%A8%E5%87%BA%E7%8E%B0%E4%B8%8D%E9%9B%85%E4%BD%8E%E4%BF%97%E6%A0%87%E8%AF%AD",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "老虎国际澄清：并未“硬刚监管”，将严格按照监管部门的指导整改",
           "url": "https://flash.jin10.com/detail/20260523153317229800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
