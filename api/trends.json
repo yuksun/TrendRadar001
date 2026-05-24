@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-25T04:04:20.720814+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-05-25T05:55:18.185365+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "华裔白宫通讯主任怒喷蓬佩奥，甚至爆了粗口",
+          "url": "https://news.ifeng.com/c/8tNwnLtqWBs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
         {
           "title": "山西省委书记唐登杰、省长卢东亮赶赴长治市沁源县煤矿瓦斯爆炸事故现场指挥应急处置工作",
           "url": "https://m.thepaper.cn/newsDetail_forward_33221679",
@@ -20,26 +31,15 @@
           "time_info": "[00时59分 ~ 02时03分]"
         },
         {
-          "title": "华裔白宫通讯主任怒喷蓬佩奥，甚至爆了粗口",
-          "url": "https://news.ifeng.com/c/8tNwnLtqWBs",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "阿联酋等八国发表联合声明，谴责以色列国家安全部长",
-          "url": "https://wallstreetcn.com/livenews/3108537",
+          "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
+          "url": "https://wallstreetcn.com/livenews/3108549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "05时55分"
         },
         {
           "title": "官方通报小区马匹受惊致女童死亡",
@@ -47,11 +47,12 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
         },
         {
           "title": "凌晨3点村支书一声吼：雨前必须抢完",
@@ -62,8 +63,100 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "多地领导干部深入井下生产一线，督导检查安全生产工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33224841",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "官方辟谣蜱虫咬死多人",
+          "url": "https://www.toutiao.com/trending/7643246078560587291/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "高铁行李架掉下条蛇？铁路部门辟谣",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E6%9E%B6%E6%8E%89%E4%B8%8B%E6%9D%A1%E8%9B%87%EF%BC%9F%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "个别政府采购价格虚高，山西要求各级采购人线上线下全方位比价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33223601",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "68岁男子出轨90后生子称妻子同意",
+          "url": "https://www.baidu.com/s?wd=68%E5%B2%81%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A890%E5%90%8E%E7%94%9F%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%90%8C%E6%84%8F",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "市监总局通报检出40批次不合格食品，涉添加剂超标、标签不符等",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33222212",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "英伟达重组,游戏部门other",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "68岁男子出轨90后生子称妻子同意",
+          "url": "https://www.toutiao.com/trending/7642397405191995433/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
         },
         {
           "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
@@ -78,96 +171,16 @@
           "time_info": "[02时03分 ~ 04时04分]"
         },
         {
-          "title": "多地领导干部深入井下生产一线，督导检查安全生产工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33224841",
-          "source": "澎湃新闻",
+          "title": "阿联酋等八国发表联合声明，谴责以色列国家安全部长",
+          "url": "https://wallstreetcn.com/livenews/3108537",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "官方辟谣蜱虫咬死多人",
-          "url": "https://www.toutiao.com/trending/7643246078560587291/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "高铁行李架掉下条蛇？铁路部门辟谣",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%A1%8C%E6%9D%8E%E6%9E%B6%E6%8E%89%E4%B8%8B%E6%9D%A1%E8%9B%87%EF%BC%9F%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "个别政府采购价格虚高，山西要求各级采购人线上线下全方位比价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33223601",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "68岁男子出轨90后生子称妻子同意",
-          "url": "https://www.baidu.com/s?wd=68%E5%B2%81%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A890%E5%90%8E%E7%94%9F%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%90%8C%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "市监总局通报检出40批次不合格食品，涉添加剂超标、标签不符等",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33222212",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "68岁男子出轨90后生子称妻子同意",
-          "url": "https://www.toutiao.com/trending/7642397405191995433/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 05时55分]"
         },
         {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
@@ -175,11 +188,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
         },
         {
           "title": "马英九基金会三人小组公布调查结果，萧旭岑：还我清白",
@@ -189,8 +203,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "68岁男子出轨90后生子称妻子同意",
+          "url": "https://s.weibo.com/weibo?q=%2368%E5%B2%81%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A890%E5%90%8E%E7%94%9F%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%90%8C%E6%84%8F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时55分]"
         },
         {
           "title": "国务院调查组将就煤矿事故开展调查",
@@ -215,18 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "68岁男子出轨90后生子称妻子同意",
-          "url": "https://s.weibo.com/weibo?q=%2368%E5%B2%81%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A890%E5%90%8E%E7%94%9F%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%90%8C%E6%84%8F%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时04分]"
         },
         {
           "title": "黎巴嫩真主党秘书长：如果黎巴嫩政府无法保护主权，就应该下台。",
@@ -264,13 +279,35 @@
           "time_info": "02时03分"
         },
         {
+          "title": "据Politico：欧盟委员会主席冯德莱恩将与各国元首和政府首脑举行会谈，访问将聚焦于加强联合防御能力。",
+          "url": "https://flash.jin10.com/detail/20260525043420301800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
+          "url": "https://flash.jin10.com/detail/20260525041510534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "挪威政府已与乌克兰总统泽连斯基和乌克兰总理取得联系，表达我们的支持。",
           "url": "https://flash.jin10.com/detail/20260525015637755800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -281,9 +318,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "三部门向重庆调拨1万件中央救灾物资",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E5%90%91%E9%87%8D%E5%BA%86%E8%B0%83%E6%8B%A81%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%A4%AE%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -300,8 +348,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时55分]"
         }
       ]
     }
