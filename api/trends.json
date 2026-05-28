@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-29T02:11:09.503788+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-29T05:07:10.975130+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "甘孜通报稻城亚丁景区违规封堵省道",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AD%9C%E9%80%9A%E6%8A%A5%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E8%BF%9D%E8%A7%84%E5%B0%81%E5%A0%B5%E7%9C%81%E9%81%93%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
         },
         {
           "title": "美官员称美伊谈判代表已就谅解备忘录达成一致",
@@ -25,20 +26,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "危地马拉政府表示，未有任何协议授权外国在危地马拉境内进行军事行动。",
-          "url": "https://flash.jin10.com/detail/20260529013003169800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时07分]"
         },
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -47,7 +37,18 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时07分]"
+        },
+        {
+          "title": "危地马拉政府表示，未有任何协议授权外国在危地马拉境内进行军事行动。",
+          "url": "https://flash.jin10.com/detail/20260529013003169800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -59,8 +60,44 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
+        },
+        {
+          "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
+          "url": "https://www.zhihu.com/question/2042685981472584608",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "time_info": "[02时11分 ~ 05时07分]"
+        },
+        {
+          "title": "男子录像买6瓶酒后举报假酒 法院判了",
+          "url": "https://www.toutiao.com/trending/7644811094061547526/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
+        },
+        {
+          "title": "稻城亚丁通报违规封堵省道问题",
+          "url": "https://www.toutiao.com/trending/7643959069270786089/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
         },
         {
           "title": "四川甘孜通报：提级整治稻城亚丁景区问题",
@@ -70,30 +107,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
-        },
-        {
-          "title": "稻城亚丁通报违规封堵省道问题",
-          "url": "https://www.toutiao.com/trending/7643959069270786089/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
         },
         {
           "title": "“杨梅第一大省”浙江多地主要领导为本地杨梅“站台”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33255352",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
+        },
+        {
+          "title": "官方通报亚丁景区封堵省道收费",
+          "url": "https://www.douyin.com/hot/2515751",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
+        },
+        {
+          "title": "杭州查封小区代孕窝点：立案调查",
+          "url": "https://www.toutiao.com/trending/7643990312188251690/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 05时07分]"
         },
         {
           "title": "官方通报稻城亚丁封堵省道收费",
@@ -107,48 +157,37 @@
           "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "男子录像买6瓶酒后举报假酒 法院判了",
-          "url": "https://www.toutiao.com/trending/7644811094061547526/",
+          "title": "当地通报城管车辆当街拖行犬只致死",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%9F%8E%E7%AE%A1%E8%BD%A6%E8%BE%86%E5%BD%93%E8%A1%97%E6%8B%96%E8%A1%8C%E7%8A%AC%E5%8F%AA%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 05时07分]"
+        },
+        {
+          "title": "如何看待黄仁勋加入清华顾问委员会",
+          "url": "https://www.toutiao.com/trending/7644921525111361030/",
           "source": "今日头条",
           "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "time_info": "[05时06分 ~ 05时07分]"
         },
         {
-          "title": "官方通报亚丁景区封堵省道收费",
-          "url": "https://www.douyin.com/hot/2515751",
-          "source": "抖音",
+          "title": "加拿大政府间事务部长多米尼克·勒布朗：在过去几个月里，我和我的同事们与行业代表以及各省和地区进行了会晤，以确保达成一项符合加拿大企业和工人最佳利益的协议。",
+          "url": "https://flash.jin10.com/detail/20260529044359915800",
+          "source": "金十数据",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
-        },
-        {
-          "title": "杭州查封小区代孕窝点：立案调查",
-          "url": "https://www.toutiao.com/trending/7643990312188251690/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
-        },
-        {
-          "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
-          "url": "https://www.zhihu.com/question/2042685981472584608",
-          "source": "知乎",
-          "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "05时07分"
         },
         {
           "title": "【深圳电网电力负荷超过历史最高值，本次负荷创新高较去年提前40天】从深圳供电局了解到，2026年5月28日13时45分，深圳电网电力负荷超过历史最高值，达2424.18万千瓦，较去年最高负荷（2401.12万千瓦）增加23万千瓦，增幅1%。本次负荷创新高较去年提前40天。 当日（5月28日）用电负荷持续攀升，17时10分，深圳电网电力负荷再次创历史新高，达2430.19万千瓦，较去年最高负荷（2401.12万千瓦）增加29万千瓦，增幅1.21%。 据电力部门预测，今年深圳电网最高负荷或将达2620万千瓦，较去年最高负荷增长9.1%。（每经网）",
@@ -157,9 +196,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "据以色列i24新闻台中东高级记者：伊朗非官方媒体报道，伊朗革命卫队海军对四艘“违规船只”发射了警告炮弹，这些船只试图在未协调的情况下通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260529040828475800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "联合国秘书长发言人：秘书长办公室仍然向以色列代表开放",
+          "url": "https://wallstreetcn.com/livenews/3110904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         }
       ]
     }
