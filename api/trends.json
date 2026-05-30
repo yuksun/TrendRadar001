@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-30T10:53:32.617123+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-05-30T14:22:50.898366+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "丁向群任国家金融监督管理总局党委书记",
+          "url": "https://www.cls.cn/detail/2385674",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 14时22分]"
+        },
         {
           "title": "江西赣州公布一轿车追尾致3死事故调查报告：事发前司机激活智驾并双手脱离方向盘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33262014",
@@ -14,18 +27,6 @@
           "ranks": [
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 10时53分]"
-        },
-        {
-          "title": "丁向群任国家金融监督管理总局党委书记",
-          "url": "https://www.cls.cn/detail/2385674",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 07时10分]"
+        },
+        {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 14时22分]"
         },
         {
           "title": "印度政府警告宝莱坞不得阴阳中国",
@@ -73,20 +86,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
         {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
+          "title": "郝军辉已任中央组织部副部长",
+          "url": "https://www.toutiao.com/trending/7645537374864916543/",
+          "source": "今日头条",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "14时22分"
         },
         {
           "title": "幼童被幼儿园老师用热熔胶烫嘴虐待，公安部门立案调查，此类虐童事件为何屡禁不止？背后哪些问题值得反思？",
@@ -95,9 +108,47 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 14时22分]"
+        },
+        {
+          "title": "国务院国资委主任张玉卓履新工程院党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267107",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 14时22分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 14时22分]"
         },
         {
           "title": "湖北一社区书记多看一眼救下128人",
@@ -111,42 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 07时10分]"
-        },
-        {
-          "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 10时53分]"
-        },
-        {
-          "title": "国务院国资委主任张玉卓履新工程院党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33267107",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 10时53分]"
-        },
-        {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 10时53分]"
         },
         {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
@@ -189,7 +204,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -200,7 +215,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -211,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -222,9 +237,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "深圳网约车市场已饱和，官方发布风险提示",
+          "url": "https://wallstreetcn.com/livenews/3111729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "丁向群任国家金融监管总局党委书记",
@@ -238,15 +264,59 @@
           "time_info": "07时10分"
         },
         {
+          "title": "黎巴嫩文化部长谴责以色列空袭破坏文化古迹",
+          "url": "https://wallstreetcn.com/livenews/3111722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "关志鸥任湖北省委书记，王忠林另有任用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33270678",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "印政府警告宝莱坞：不得抨击中国",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E5%AE%9D%E8%8E%B1%E5%9D%9E%EF%BC%9A%E4%B8%8D%E5%BE%97%E6%8A%A8%E5%87%BB%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "集采百元一盒药，药店竟卖3960元，央视调查“高价药”疑云",
+          "url": "https://wallstreetcn.com/livenews/3111718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
+          "url": "https://flash.jin10.com/detail/20260530110114810800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "这些行为涉嫌“数据犯罪”！国安机关最新提示",
@@ -255,9 +325,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "工信部装备工业发展中心主任瞿国春：我国高端装备产业国际竞争力显著提升",
+          "url": "https://wallstreetcn.com/livenews/3111714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "印度政府警告宝莱坞",
@@ -269,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "班主任集体打开车灯送高三学子",
+          "url": "https://www.baidu.com/s?wd=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%9B%86%E4%BD%93%E6%89%93%E5%BC%80%E8%BD%A6%E7%81%AF%E9%80%81%E9%AB%98%E4%B8%89%E5%AD%A6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }
