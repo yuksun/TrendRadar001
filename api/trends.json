@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-05-31T07:08:52.362084+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-31T11:38:24.379852+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 38,
       "titles": [
         {
           "title": "南开大学通报生科院院长学术造假，​免去其院长职务，解除论文第一作者与学校聘用关系，具有哪些警示意义？",
           "url": "https://www.zhihu.com/question/2044143412916351211",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 11时38分]"
+        },
+        {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 11时38分]"
         },
         {
           "title": "南开大学通报论文数据存疑问题",
@@ -32,27 +46,49 @@
           "time_info": "[01时02分 ~ 07时08分]"
         },
         {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时08分]"
-        },
-        {
           "title": "官方出手,AI吸附遭刑事打击",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 11时38分]"
+        },
+        {
+          "title": "农机手襄阳抢收小麦遇「割四赔五」，被农户索赔五百元报警，村干部后为农户补贴，为啥一件好事会变成糊涂账？",
+          "url": "https://www.zhihu.com/question/2043322622432260534",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "27部门出手对这两类儿童全力守护",
+          "url": "https://s.weibo.com/weibo?q=%2327%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B%E5%AF%B9%E8%BF%99%E4%B8%A4%E7%B1%BB%E5%84%BF%E7%AB%A5%E5%85%A8%E5%8A%9B%E5%AE%88%E6%8A%A4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "七部门发文大力发展工厂游",
+          "url": "https://www.douyin.com/hot/2518221",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "中山大学通报论文图片及数据存疑，多人被处理，如何看待这一处理结果？有何警示意义？",
@@ -65,6 +101,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时02分 ~ 07时08分]"
+        },
+        {
+          "title": "中国华能原总会计师王益华被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273188",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "高价销售集采药调查：供货商已降价补差 但药店仍高价销售",
+          "url": "https://flash.jin10.com/detail/20260531103051176800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "中国5月官方综合PMI 50.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3111868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "土耳其资本市场委员会（TCMB）：将卖空者禁令延长至6月12日。",
@@ -120,6 +189,19 @@
           "time_info": "[03时11分 ~ 06时01分]"
         },
         {
+          "title": "巴西正调查一起埃博拉疑似病例，该刚果（金）男子近期有过非洲旅行史",
+          "url": "https://wallstreetcn.com/livenews/3111847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 11时38分]"
+        },
+        {
           "title": "印度政府：国内消费的汽油和柴油现行消费税税率不变。",
           "url": "https://flash.jin10.com/detail/20260531033934084800",
           "source": "金十数据",
@@ -131,6 +213,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 07时08分]"
+        },
+        {
+          "title": "印度政府：用于国内消费结关的汽油和柴油现行消费税税率保持不变",
+          "url": "https://wallstreetcn.com/livenews/3111843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 11时38分]"
         },
         {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
@@ -185,40 +280,17 @@
           "time_info": "[04时54分 ~ 07时08分]"
         },
         {
-          "title": "巴西正调查一起埃博拉疑似病例，该刚果（金）男子近期有过非洲旅行史",
-          "url": "https://wallstreetcn.com/livenews/3111847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
-        },
-        {
-          "title": "印度政府：用于国内消费结关的汽油和柴油现行消费税税率保持不变",
-          "url": "https://wallstreetcn.com/livenews/3111843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
-        },
-        {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
           "url": "https://wallstreetcn.com/livenews/3111846",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时08分]"
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 11时38分]"
         },
         {
           "title": "据英国《太阳报》：英国大曼彻斯特市长Burnham若成功当选，预计将进行大规模内阁改组。",
@@ -244,6 +316,50 @@
           "time_info": "01时02分"
         },
         {
+          "title": "国务院留神峪煤矿事故调查组公告",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "国家文物局局长调研应县木塔，逐层检视木塔保存状况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273719",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "央媒调查稻城亚丁“道路设卡摆渡收费”：收的什么费？景区有权设卡吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274725",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "深圳网约车市场已饱和，官方发布风险提示",
+          "url": "https://wallstreetcn.com/livenews/3111860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "据英国《太阳报》：英国大曼彻斯特市长Burnham考虑如果成为首相，将任命现内政大臣沙巴娜·马哈茂德为他的财政大臣。Burnham及其团队已开始制定他当选首相的首个月的计划。",
           "url": "https://flash.jin10.com/detail/20260531013901856800",
           "source": "金十数据",
@@ -264,6 +380,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "国家统计局：5月官方制造业PMI为50.0%，我国经济总体产出保持扩张",
+          "url": "https://flash.jin10.com/detail/20260531093247274800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "中国5月官方制造业PMI 50，预期50，前值50.3。",
+          "url": "https://flash.jin10.com/detail/20260531093030837800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "湖北省召开全省领导干部会议，宣布中央关于省委主要负责同志调整决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33271205",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "中山大学通报论文图片及数据存疑：多人被处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273177",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "中国5月官方制造业PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260531092000003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议",
