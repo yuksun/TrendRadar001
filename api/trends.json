@@ -1,22 +1,48 @@
 {
-  "generated_at": "2026-06-03T07:01:59.814518+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-03T11:55:28.512750+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
+          "url": "https://www.zhihu.com/question/2045166684776789812",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
+        },
         {
           "title": "矿难致82死后当地县委书记落马",
           "url": "https://www.toutiao.com/trending/7646785410631352356/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
+        },
+        {
+          "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291689",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
         },
         {
           "title": "网暴救灾村支书戴“金耳环”涉事人员被处罚",
@@ -30,29 +56,18 @@
           "time_info": "[01时21分 ~ 07时01分]"
         },
         {
-          "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
-          "url": "https://www.zhihu.com/question/2045166684776789812",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
-        },
-        {
-          "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33291689",
+          "title": "山西长治市沁源县委书记赵永进接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294084",
           "source": "澎湃新闻",
           "ranks": [
+            9,
+            5,
             4,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
         },
         {
           "title": "山西长治市沁源县委书记赵永进被查",
@@ -66,17 +81,17 @@
           "time_info": "[01时21分 ~ 07时01分]"
         },
         {
-          "title": "山西长治市沁源县委书记赵永进接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33294084",
-          "source": "澎湃新闻",
+          "title": "网暴救灾村支书戴「金耳环」的涉事人员被处罚，这是「大快人心」的结局吗？如何看待当前网络暴力的治理难点？",
+          "url": "https://www.zhihu.com/question/2045125886844859183",
+          "source": "知乎",
           "ranks": [
-            9,
-            5,
-            4
+            16,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
         },
         {
           "title": "公示治理完成，复核水体仍为重度黑臭！中央环保督察通报4省份典型案例",
@@ -104,17 +119,29 @@
           "time_info": "[01时21分 ~ 07时01分]"
         },
         {
-          "title": "网暴救灾村支书戴「金耳环」的涉事人员被处罚，这是「大快人心」的结局吗？如何看待当前网络暴力的治理难点？",
-          "url": "https://www.zhihu.com/question/2045125886844859183",
-          "source": "知乎",
+          "title": "官方通报“女大学生被家人骗入戒网瘾学校”：已责令涉事公司停止违规行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33290447",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            8,
-            5
+            13,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
+        },
+        {
+          "title": "山西长治沁源县委书记赵永进被查",
+          "url": "https://www.douyin.com/hot/2521599",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 11时55分]"
         },
         {
           "title": "韩国“鸟叔”已被移交检察机关",
@@ -147,29 +174,6 @@
           "ranks": [
             15,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
-        },
-        {
-          "title": "山西长治沁源县委书记赵永进被查",
-          "url": "https://www.douyin.com/hot/2521599",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 07时01分]"
-        },
-        {
-          "title": "官方通报“女大学生被家人骗入戒网瘾学校”：已责令涉事公司停止违规行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33290447",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -210,6 +214,39 @@
           "time_info": "01时21分"
         },
         {
+          "title": "泰国司法部长：前总理他信将被特赦",
+          "url": "https://www.toutiao.com/trending/7646801001048129555/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "山西煤矿爆炸致 82 死，当地县委书记被查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2045257311883454150",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "内蒙古医科大学党委书记赵云山被查",
           "url": "https://www.toutiao.com/trending/7646779947087826486/",
           "source": "今日头条",
@@ -219,6 +256,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "马来西亚国家石油公司文件显示，将5月马来西亚原油官方售价设定为每桶升水126.80美元。",
+          "url": "https://flash.jin10.com/detail/20260603111642153800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "纪检部门回应一公务员被曝脚踏两条船",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E6%A3%80%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E5%85%AC%E5%8A%A1%E5%91%98%E8%A2%AB%E6%9B%9D%E8%84%9A%E8%B8%8F%E4%B8%A4%E6%9D%A1%E8%88%B9%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "黄金替代美元成官方储备第一大资产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E6%9B%BF%E4%BB%A3%E7%BE%8E%E5%85%83%E6%88%90%E5%AE%98%E6%96%B9%E5%82%A8%E5%A4%87%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B5%84%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "澳大利亚前高官发起一项针对美英澳合作的公开调查",
@@ -238,7 +308,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -249,7 +319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -263,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "受贿数额特别巨大 内蒙古自治区政府原主席王莉霞被提起公诉",
+          "url": "https://wallstreetcn.com/livenews/3113430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
