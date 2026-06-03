@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-06-03T11:55:28.512750+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-06-03T16:54:41.271721+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291689",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 16时54分]"
+        },
+        {
+          "title": "山西长治市沁源县委书记赵永进接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294084",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 16时54分]"
+        },
         {
           "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
           "url": "https://www.zhihu.com/question/2045166684776789812",
@@ -26,23 +54,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 11时55分]"
-        },
-        {
-          "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33291689",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 11时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 16时54分]"
         },
         {
           "title": "网暴救灾村支书戴“金耳环”涉事人员被处罚",
@@ -54,20 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 07时01分]"
-        },
-        {
-          "title": "山西长治市沁源县委书记赵永进接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33294084",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 11时55分]"
         },
         {
           "title": "山西长治市沁源县委书记赵永进被查",
@@ -180,6 +183,30 @@
           "time_info": "[01时21分 ~ 07时01分]"
         },
         {
+          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时54分]"
+        },
+        {
+          "title": "山西煤矿爆炸致 82 死，当地县委书记被查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2045257311883454150",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时54分]"
+        },
+        {
           "title": "大理通报执法队与商户发生肢体冲突",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E9%80%9A%E6%8A%A5%E6%89%A7%E6%B3%95%E9%98%9F%E4%B8%8E%E5%95%86%E6%88%B7%E5%8F%91%E7%94%9F%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81",
           "source": "百度热搜",
@@ -214,37 +241,37 @@
           "time_info": "01时21分"
         },
         {
+          "title": "日本央行行长植田和男：私人消费有望继续受到工资增长和政府措施的支撑。 没有迹象显示过去的加息正在抑制企业资金需求。 宽松的金融环境正在支持经济活动。 不仅大型企业，较小企业也同意了大约5%的工资增长率。",
+          "url": "https://wallstreetcn.com/livenews/3113651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "泰国司法部长：前总理他信将被特赦",
           "url": "https://www.toutiao.com/trending/7646801001048129555/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
         {
-          "title": "山西煤矿爆炸致 82 死，当地县委书记被查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2045257311883454150",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296448",
+          "title": "受贿数额特别巨大，内蒙古自治区政府原主席王莉霞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33297312",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "16时54分"
         },
         {
           "title": "内蒙古医科大学党委书记赵云山被查",
@@ -264,7 +291,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -275,9 +302,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7720，较上一交易日官方收盘价跌98点，较上日夜盘收盘跌70点。",
+          "url": "https://wallstreetcn.com/livenews/3113639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "多地教育考试部门提醒：高考考生如戴眼镜，入场前须接受查验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292612",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "黄金替代美元成官方储备第一大资产",
@@ -286,9 +335,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "村支书为大龄未婚男青年数量犯愁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E4%B8%BA%E5%A4%A7%E9%BE%84%E6%9C%AA%E5%A9%9A%E7%94%B7%E9%9D%92%E5%B9%B4%E6%95%B0%E9%87%8F%E7%8A%AF%E6%84%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "澳大利亚前高官发起一项针对美英澳合作的公开调查",
@@ -313,6 +373,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "韩正会见下任联合国秘书长候选人巴切莱特",
+          "url": "https://wallstreetcn.com/livenews/3113629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "加拿大政府负责加美贸易的部长勒布朗：我们正在与墨西哥进行关于美墨加协定（USMCA）的双边讨论。",
           "url": "https://flash.jin10.com/detail/20260603052321066800",
           "source": "金十数据",
@@ -322,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "交通运输部原总工程师徐亚华被查",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%83%A8%E5%8E%9F%E6%80%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BE%90%E4%BA%9A%E5%8D%8E%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
@@ -341,7 +423,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
