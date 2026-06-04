@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T11:50:26.556584+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-06-04T16:20:04.521458+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "女子花2万查丈夫出轨揪出辅警内鬼",
@@ -85,11 +85,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 16时20分]"
         },
         {
           "title": "中国海警岱山舰编队位中国台湾岛以东海域依法开展执法巡查，剑指日菲炒作「划界谈判」，哪些信息值得关注？",
@@ -98,9 +99,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "专访因耳环被网暴的女村支书：我格局很大的，从不计较、从不内耗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303813",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时20分]"
         },
         {
           "title": "湖南警方通报“男子街头殴打路人”",
@@ -127,6 +140,51 @@
           "time_info": "[02时22分 ~ 07时42分]"
         },
         {
+          "title": "花500万改造体育场，跑道多处破损？河南泌阳通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33305399",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时20分]"
+        },
+        {
+          "title": "英国达美乐官方嘲讽战神劳菲",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BD%E8%BE%BE%E7%BE%8E%E4%B9%90%E5%AE%98%E6%96%B9%E5%98%B2%E8%AE%BD%E6%88%98%E7%A5%9E%E5%8A%B3%E8%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "校长强制教师买劣质西装被停职",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E9%95%BF%E5%BC%BA%E5%88%B6%E6%95%99%E5%B8%88%E4%B9%B0%E5%8A%A3%E8%B4%A8%E8%A5%BF%E8%A3%85%E8%A2%AB%E5%81%9C%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
           "title": "五部门联合发文保障超龄劳动者权益",
           "url": "https://www.toutiao.com/trending/7647086282906026026/",
           "source": "今日头条",
@@ -149,26 +207,15 @@
           "time_info": "02时22分"
         },
         {
-          "title": "专访因耳环被网暴的女村支书：我格局很大的，从不计较、从不内耗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303813",
-          "source": "澎湃新闻",
+          "title": "王毅会见下任联合国秘书长候选人巴切莱特",
+          "url": "https://wallstreetcn.com/livenews/3114283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "花500万改造体育场，跑道多处破损？河南泌阳通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33305399",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "16时20分"
         },
         {
           "title": "老挝人革党中央总书记、国家主席通伦抵达北京",
@@ -177,7 +224,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -199,7 +246,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -221,7 +268,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -232,7 +279,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
