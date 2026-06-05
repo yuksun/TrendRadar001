@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T08:05:58.196513+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-06-05T13:15:44.150669+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "最后一堂课 班主任签永久假条后泪崩",
@@ -60,9 +60,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "印度取消对外国投资政府债券的税收，进一步开放债券市场供外国投资者购买，并提供掉期与对冲工具。",
+          "url": "https://wallstreetcn.com/livenews/3114820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "浙江省人大常委会原副主任高兴夫被提起公诉",
@@ -89,6 +100,17 @@
           "time_info": "[01时45分 ~ 06时20分]"
         },
         {
+          "title": "官方辟谣广西隆林天生桥发生泥石流",
+          "url": "https://www.toutiao.com/trending/7647437127042629673/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时15分]"
+        },
+        {
           "title": "王毅会见下任联合国秘书长候选人",
           "url": "https://www.toutiao.com/trending/7646991570785304614/",
           "source": "今日头条",
@@ -98,6 +120,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 04时04分]"
+        },
+        {
+          "title": "网警护航高考 | 况某谎称售卖“2026高考题”实施诈骗被查",
+          "url": "https://www.toutiao.com/trending/7646951952911237166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "网民谎称售卖2026高考题诈骗被查",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%B0%8E%E7%A7%B0%E5%94%AE%E5%8D%962026%E9%AB%98%E8%80%83%E9%A2%98%E8%AF%88%E9%AA%97%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
@@ -111,15 +155,15 @@
           "time_info": "01时45分"
         },
         {
-          "title": "官方辟谣广西隆林天生桥发生泥石流",
-          "url": "https://www.toutiao.com/trending/7647437127042629673/",
-          "source": "今日头条",
+          "title": "印度央行：政策立场维持中性。 货币政策委员会（MPC）指出全球环境已经恶化。 相比4月的政策会议，上调了通胀预测。 CPI通胀率仍低于目标水平。 MPC认为经济增长将放缓且通胀将上升。 CPI通胀预测正趋向预期区间的上限。 预计供应链冲击的影响将从第四季度起减弱。 因西南季风低于常年水平，前景蒙上阴影。 高能源价格和供应限制对经济产生不利影响。 食品前景仍具不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3114811",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "13时15分"
         },
         {
           "title": "阿根廷央行市场预期调查显示，预计2026年底GDP增长为2.9%（较此前预测上调0.1个百分点），通胀率为30.5%。",
@@ -150,7 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -164,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "NBA中国携手阿里巴巴上线首个官方大模型“NBA Chat”",
+          "url": "https://wallstreetcn.com/livenews/3114799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "叙利亚外交部表示，叙利亚外长与阿尔及利亚能源部长举行会谈，双方讨论加强油气和能源领域合作，包括推进联合项目和完善能源基础设施。",
@@ -183,9 +238,53 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "印度对外国机构投资者在出售、交换或转让政府证券时免征资本利得税。",
+          "url": "https://flash.jin10.com/detail/20260605123925243800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "印度对外国机构投资者免征政府证券利息的资本利得税。",
+          "url": "https://flash.jin10.com/detail/20260605123909634800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "为什么有的人大早晨就馊了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E5%A4%A7%E6%97%A9%E6%99%A8%E5%B0%B1%E9%A6%8A%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "金融市场动荡之际 印尼否认财政部长Purbaya将辞职",
+          "url": "https://wallstreetcn.com/livenews/3114789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         }
       ]
     }
