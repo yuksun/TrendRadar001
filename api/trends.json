@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T04:10:53.521881+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-08T06:03:14.504489+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "山西沁源应急管理局局长孙晓晔被查",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
         },
         {
           "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
         },
         {
           "title": "据以色列第15频道：以色列总理内塔尼亚胡与国防部长今日因伊朗威胁召开会议。",
@@ -41,6 +41,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "官方辟谣游客三亚拍照遭拦路收费",
+          "url": "https://www.toutiao.com/trending/7647381702306775086/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
+        },
+        {
+          "title": "武汉一民警被女子指控索要钱物受处分，涉猥亵举报未认定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314672",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
+        },
+        {
+          "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329942",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
         },
         {
           "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
@@ -68,40 +104,18 @@
           "time_info": "[00时14分 ~ 04时10分]"
         },
         {
-          "title": "官方辟谣游客三亚拍照遭拦路收费",
-          "url": "https://www.toutiao.com/trending/7647381702306775086/",
-          "source": "今日头条",
+          "title": "医生举报科室拿回扣遭开除，称法院判「解聘无效」返岗后遭打压报复，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2046003460785397931",
+          "source": "知乎",
           "ranks": [
-            11
+            10,
+            9,
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时10分]"
-        },
-        {
-          "title": "武汉一民警被女子指控索要钱物受处分，涉猥亵举报未认定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314672",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时10分]"
-        },
-        {
-          "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329942",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "主任医师吃“见手青”中毒昏迷两天",
@@ -115,19 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 04时10分]"
-        },
-        {
-          "title": "医生举报科室拿回扣遭开除，称法院判「解聘无效」返岗后遭打压报复，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2046003460785397931",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时10分]"
         },
         {
           "title": "00后班主任感慨：7年前我在这里高考",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "伊拉克外交部长Fuad Hussein：如果伊朗战争持续下去、霍尔木兹海峡持续关闭，伊拉克将在7月份无法支付公务员工资。",
+          "url": "https://wallstreetcn.com/livenews/3115640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "据Axios援引以色列官员：对贝鲁特南郊的空袭是对黎巴嫩真主党近期火箭弹袭击的回应。",
@@ -181,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -197,15 +209,37 @@
           "time_info": "00时14分"
         },
         {
+          "title": "英国政府置评英国首相斯塔默、法国总统马克龙、德国总理默茨、乌克兰总统泽连斯基开会。 英国声称：欧洲首脑们呼吁俄罗斯总统普京同意停火。 欧洲安全利益必须在任何协议中得到保障。 首脑们敦促直接对话。",
+          "url": "https://wallstreetcn.com/livenews/3115630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "据以色列第13频道援引一名高级官员的话报道，从伊朗向以色列领土开火意味着重启战争的宣示。",
           "url": "https://flash.jin10.com/detail/20260608030612709800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "以色列政府领土活动协调处：在伊朗对以色列发动导弹袭击后，关闭进入加沙地带的过境点。",
+          "url": "https://flash.jin10.com/detail/20260608050757494800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：各方在加沙的和平委员会文件条款上达成一致，唯独在解除武装条款上存在分歧。 #事件_紧急",
@@ -236,9 +270,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "德国慕尼黑机场：消防部门采取应对措施后，航班运行于当地时间晚上10点15分恢复。",
+          "url": "https://flash.jin10.com/detail/20260608045210202800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "乌称乏核燃料贮存设施遭袭 国际原子能机构将进行调查",
@@ -250,6 +295,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "英国政府：首相斯塔默、法国总统马克龙、德国总理默茨于6月7日会见了乌克兰总统泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20260608044203410800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）",
+          "url": "https://wallstreetcn.com/livenews/3115616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     }
