@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T18:28:43.365199+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-06-07T20:20:23.640006+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "台湾岛东部海域海上交通专项执法行动启动",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 20时20分]"
         },
         {
           "title": "北京市政协党组书记、主席魏小东被查",
@@ -122,6 +122,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "据半岛电视台： 一位巴勒斯坦领导消息人士表示，以色列拒绝回应调解方停止在加沙的攻击并遵守承诺的要求。",
+          "url": "https://flash.jin10.com/detail/20260607195224144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "“欧佩克+”第41次部长级会议在线举行",
           "url": "https://flash.jin10.com/detail/20260607110132711800",
           "source": "金十数据",
@@ -131,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "乌称乏核燃料贮存设施遭袭 国际原子能机构将进行调查",
+          "url": "https://wallstreetcn.com/livenews/3115554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：巴基斯坦内政部长抵达伊朗。",
@@ -166,6 +188,20 @@
           "time_info": "15时54分"
         },
         {
+          "title": "“欧佩克+”第41次部长级会议在线举行",
+          "url": "https://wallstreetcn.com/livenews/3115519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 20时20分]"
+        },
+        {
           "title": "四省被通报 党政“一把手”赶赴现场",
           "url": "https://www.toutiao.com/trending/7647839697686839332/",
           "source": "今日头条",
@@ -177,6 +213,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 07时03分]"
+        },
+        {
+          "title": "欧盟国防部长非正式会议将在塞浦路斯举行",
+          "url": "https://wallstreetcn.com/livenews/3115518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 20时20分]"
         },
         {
           "title": "矿难致82死后当地应急管理局局长被查",
@@ -205,6 +255,20 @@
           "time_info": "[03时20分 ~ 11时42分]"
         },
         {
+          "title": "俄罗斯文化部长：俄方计划扩大与中方在电影领域合作规模",
+          "url": "https://wallstreetcn.com/livenews/3115516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 20时20分]"
+        },
+        {
           "title": "北京市政协主席被查 北京市委表态",
           "url": "https://www.toutiao.com/trending/7648219847150538282/",
           "source": "今日头条",
@@ -218,55 +282,54 @@
           "time_info": "[03时20分 ~ 07时03分]"
         },
         {
-          "title": "“欧佩克+”第41次部长级会议在线举行",
-          "url": "https://wallstreetcn.com/livenews/3115519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 18时28分]"
-        },
-        {
-          "title": "欧盟国防部长非正式会议将在塞浦路斯举行",
-          "url": "https://wallstreetcn.com/livenews/3115518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 18时28分]"
-        },
-        {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
           "url": "https://wallstreetcn.com/livenews/3115527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 18时28分]"
-        },
-        {
-          "title": "俄罗斯文化部长：俄方计划扩大与中方在电影领域合作规模",
-          "url": "https://wallstreetcn.com/livenews/3115516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
+            8,
             19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 18时28分]"
+          "time_info": "[15时54分 ~ 20时20分]"
+        },
+        {
+          "title": "山西沁源应急管理局局长孙晓晔被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33328025",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时20分]"
+        },
+        {
+          "title": "官方辟谣游客三亚拍照遭拦路收费",
+          "url": "https://www.toutiao.com/trending/7647381702306775086/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时20分]"
+        },
+        {
+          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时20分]"
         },
         {
           "title": "台湾岛东部海域海上交通专项执法行动启动",
@@ -297,39 +360,17 @@
           "time_info": "[01时12分 ~ 07时03分]"
         },
         {
-          "title": "山西沁源应急管理局局长孙晓晔被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33328025",
-          "source": "澎湃新闻",
+          "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2046366435539260174",
+          "source": "知乎",
           "ranks": [
-            12,
-            10
+            13,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时28分]"
-        },
-        {
-          "title": "官方辟谣游客三亚拍照遭拦路收费",
-          "url": "https://www.toutiao.com/trending/7647381702306775086/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时28分]"
-        },
-        {
-          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时28分]"
+          "time_info": "[15时54分 ~ 20时20分]"
         },
         {
           "title": "冰雹后县委书记蹲田埂查看受灾情况",
@@ -380,16 +421,16 @@
           "time_info": "[03时20分 ~ 05时03分]"
         },
         {
-          "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2046366435539260174",
+          "title": "医生举报科室拿回扣遭开除，称法院判「解聘无效」返岗后遭打压报复，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2046003460785397931",
           "source": "知乎",
           "ranks": [
-            13,
-            10
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 20时20分]"
         },
         {
           "title": "湖南针对“湘雅二院招标有关问题”成立调查组",
@@ -549,6 +590,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "小男孩商场偶遇班主任超惊讶",
+          "url": "https://www.toutiao.com/trending/7648267856685826084/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "女子举报虐猫遭“开盒”续：称遭暴力威胁，警方已介入",
           "url": "https://m.thepaper.cn/newsDetail_forward_33319460",
           "source": "澎湃新闻",
@@ -560,17 +612,6 @@
           "time_info": "11时42分"
         },
         {
-          "title": "医生举报科室拿回扣遭开除，称法院判「解聘无效」返岗后遭打压报复，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2046003460785397931",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "以军称正调查以方袭击黎政府军车辆事件",
           "url": "https://flash.jin10.com/detail/20260606221242118800",
           "source": "金十数据",
@@ -580,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "加沙地带卫生部门：过去24小时，加沙地带各医院共接收了10名遇难者遗体和36名伤员。自2025年10月11日停火以来，加沙地带共记录遇难者961人、伤者3020人。",
+          "url": "https://flash.jin10.com/detail/20260607182750157800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "据福克斯新闻：印度破获H-1B签证诈骗团伙，当局查获逾10万份假学位证书，H-1B诈骗调查揭露印度数千份伪造学历。",
@@ -599,7 +651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -610,7 +662,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
