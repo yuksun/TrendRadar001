@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T13:49:24.911953+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-06-08T18:50:38.802044+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "山西沁源应急管理局局长孙晓晔被查",
@@ -21,18 +21,6 @@
           "time_info": "[00时13分 ~ 08时06分]"
         },
         {
-          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 06时03分]"
-        },
-        {
           "title": "武汉一民警被女子指控索要钱物受处分，涉猥亵举报未认定",
           "url": "https://m.thepaper.cn/newsDetail_forward_33314672",
           "source": "澎湃新闻",
@@ -40,11 +28,12 @@
             17,
             11,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 13时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 18时50分]"
         },
         {
           "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
@@ -55,11 +44,24 @@
             13,
             12,
             8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 18时50分]"
+        },
+        {
+          "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 13时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时03分]"
         },
         {
           "title": "官方辟谣游客三亚拍照遭拦路收费",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "全国公安机关严查严打涉高考网络谣言",
+          "url": "https://wallstreetcn.com/livenews/3116102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "发现外星生命须立即通报联合国",
@@ -159,6 +172,18 @@
           "time_info": "[00时13分 ~ 04时10分]"
         },
         {
+          "title": "财联社C50风向指数调查：6月资金面或延续平稳，近七成机构对债市谨慎乐观",
+          "url": "https://www.cls.cn/detail/2393176",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 18时50分]"
+        },
+        {
           "title": "广西河池市委常委、秘书长张联松被查",
           "url": "https://www.toutiao.com/trending/7648575410188091433/",
           "source": "今日头条",
@@ -203,15 +228,15 @@
           "time_info": "08时06分"
         },
         {
-          "title": "财联社C50风向指数调查：6月资金面或延续平稳，近七成机构对债市谨慎乐观",
-          "url": "https://www.cls.cn/detail/2393176",
-          "source": "财联社热门",
+          "title": "以色列央行会议纪要：货币政策委员会全体成员于5月25日投票决定将基准利率下调至3.75%。",
+          "url": "https://flash.jin10.com/detail/20260608183053100800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "18时50分"
         },
         {
           "title": "人民的名义里边李达康这样无情无义的干部是真的好干部吗？",
@@ -220,7 +245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -297,7 +322,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -308,7 +333,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -330,7 +355,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -385,9 +410,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "三星电子芯片部门主管：与英伟达黄仁勋讨论了在HBM4和晶圆代工领域的短期合作。 正在合作开发用于4纳米和8纳米节点的自动驾驶芯片，以及英伟达的加速器芯片。 讨论了下一代芯片的晶圆代工合作。 还就长期合作进行了广泛讨论，包括HBM4E、晶圆代工业务、HBM5以及其他未来技术。",
+          "url": "https://wallstreetcn.com/livenews/3116060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "英国政府：首相斯塔默、法国总统马克龙、德国总理默茨于6月7日会见了乌克兰总统泽连斯基。",
@@ -401,6 +437,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "儿子涉嫌吃空饷医院院长放弃人才考察",
+          "url": "https://www.toutiao.com/trending/7648869096797700146/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）",
           "url": "https://wallstreetcn.com/livenews/3115616",
           "source": "华尔街见闻-快讯",
@@ -410,6 +457,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东两员小将入选中国女排18人名单",
+          "url": "https://www.toutiao.com/trending/7648103672121376778/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     }
