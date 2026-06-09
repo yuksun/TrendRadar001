@@ -1,143 +1,12 @@
 {
-  "generated_at": "2026-06-09T23:54:00.621009+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-06-10T02:02:45.014954+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "金融监管总局党委召开扩大会议 研究部署近期重点工作",
-          "url": "https://www.cls.cn/detail/2393701",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时25分]"
-        },
-        {
-          "title": "单笔受贿超11亿元 白天辉的死刑不冤",
-          "url": "https://www.toutiao.com/trending/7649358861907988006/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "官方辟谣“人造大米有毒”",
-          "url": "https://www.douyin.com/hot/2527859",
-          "source": "抖音",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "国资委副部级干部潘良被开除党籍",
-          "url": "https://www.douyin.com/hot/2527429",
-          "source": "抖音",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "四川00后班主任返还三年暂扣物品",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D00%E5%90%8E%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%BF%94%E8%BF%98%E4%B8%89%E5%B9%B4%E6%9A%82%E6%89%A3%E7%89%A9%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "魏晓奎任福建省委常委、省纪委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331996",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "黑龙江同江市委书记送考被喊学霸，鼓励考生考得比哈工大更好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331897",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "仙剑3动画完结,官方狂包饺子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355007&amp;topic_name=%E4%BB%99%E5%89%913%E5%8A%A8%E7%94%BB%E5%AE%8C%E7%BB%93%2C%E5%AE%98%E6%96%B9%E7%8B%82%E5%8C%85%E9%A5%BA%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 23时54分]"
-        },
-        {
-          "title": "ADP周度就业报告：截至2026年5月23日的四周里，私人部门雇主平均每周增加29000个就业岗位。",
-          "url": "https://flash.jin10.com/detail/20260609201519348800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "中国即将发行或正在发行的地方政府债",
-          "url": "https://wallstreetcn.com/livenews/3116400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "据伊朗媒体：机场官员称，德黑兰霍梅尼机场航班已恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260609060442174800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
         {
           "title": "如何看待曾获「非洲最佳裁判」的索马里籍世界杯裁判被美移民部门禁止入境并遣返，只能遗憾错过世界杯？",
           "url": "https://www.zhihu.com/question/2047615049951175918",
@@ -145,414 +14,108 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "02时02分"
         },
         {
-          "title": "欧洲央行管委穆兰：欧洲需要拥有安全的欧元资产。",
-          "url": "https://flash.jin10.com/detail/20260609201415773800",
-          "source": "金十数据",
+          "title": "单笔受贿超11亿元 白天辉的死刑不冤",
+          "url": "https://www.toutiao.com/trending/7649358861907988006/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时02分"
         },
         {
-          "title": "安徽滁州女刑警诈骗案调查：以招待名义向15人赊购700万烟茶酒，有个体户持“公章合同”追债",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333017",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时40分]"
-        },
-        {
-          "title": "新任陕西省委常委李钧已任省委秘书长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33337524",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时36分]"
-        },
-        {
-          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
-          "url": "https://www.cls.cn/detail/2394324",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 17时40分]"
-        },
-        {
-          "title": "台湾岛东部海域执法行动画面",
-          "url": "https://www.douyin.com/hot/2526967",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时25分]"
-        },
-        {
-          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
-          "url": "https://www.zhihu.com/question/2043797160312010091",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 08时05分]"
-        },
-        {
-          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
-          "url": "https://www.zhihu.com/question/2045458377795433050",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 23时54分]"
-        },
-        {
-          "title": "国务院国资委原副部长级干部潘良被开除党籍：作风败坏，大肆敛财",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333692",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 13时04分]"
-        },
-        {
-          "title": "新疆维吾尔自治区党委原常委、自治区政府原副主席陈伟俊被双开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333678",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 13时04分]"
-        },
-        {
-          "title": "单笔受贿11.03亿 白天辉的死刑不冤",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E7%AC%94%E5%8F%97%E8%B4%BF11.03%E4%BA%BF+%E7%99%BD%E5%A4%A9%E8%BE%89%E7%9A%84%E6%AD%BB%E5%88%91%E4%B8%8D%E5%86%A4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "湖南建设投资集团党委书记、董事长蔡典维被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33340186",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "台湾岛东部海域海上交通专项执法行动直击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33330883",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        },
-        {
-          "title": "当校长挑选教室地板时",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%A0%A1%E9%95%BF%E6%8C%91%E9%80%89%E6%95%99%E5%AE%A4%E5%9C%B0%E6%9D%BF%E6%97%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "卫健委回应儿子涉嫌吃空饷院长情况",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E6%B6%89%E5%AB%8C%E5%90%83%E7%A9%BA%E9%A5%B7%E9%99%A2%E9%95%BF%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：法国央行将上调通胀预测。",
-          "url": "https://flash.jin10.com/detail/20260609201236941800",
+          "title": "据英国金融时报：英国首相斯塔默计划要求内阁成员，如果他们在工党领袖竞选中支持安迪·伯纳姆或其他竞争对手，就必须辞职；此举可能会使他的政府陷入混乱。",
+          "url": "https://flash.jin10.com/detail/20260610012415340800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时02分"
         },
         {
-          "title": "欧洲央行管委穆兰：不宜对法国GDP疲弱下过多结论。",
-          "url": "https://flash.jin10.com/detail/20260609201225288800",
+          "title": "美媒：美官员称伊朗无人机致美军直升机坠毁 但尚未确认是否为蓄意攻击",
+          "url": "https://flash.jin10.com/detail/20260610012352245800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时02分"
         },
         {
-          "title": "保加利亚新一届政府表示，将不向乌克兰提供武器。",
-          "url": "https://flash.jin10.com/detail/20260609233542156800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "欧洲央行管委、法国央行行长Moulin：欧洲需要更多货币和支付主权。 提升欧元地位存在“明显机遇”。 不会对法国GDP疲弱做过多解读。 法国央行将上调通胀预期。 欧洲需要拥有欧元安全资产。",
-          "url": "https://wallstreetcn.com/livenews/3116820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "联合国秘书长：对中东局势再次升级深感担忧",
-          "url": "https://wallstreetcn.com/livenews/3116352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "国家矿山安监局局长给山西作专题报告",
-          "url": "https://www.toutiao.com/trending/7649071592445722633/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "印度外交部长苏杰生将于6月10日至11日访问保加利亚和芬兰。",
-          "url": "https://flash.jin10.com/detail/20260609201000462800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：提升欧元地位的机会非常明显。",
-          "url": "https://flash.jin10.com/detail/20260609200723086800",
-          "source": "金十数据",
+          "title": "遭美拒签裁判无缘执法世界杯：感谢国际足联支持，将专注未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33341639",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时02分"
         },
         {
-          "title": "印尼财政部长：财政政策与货币政策之间的协同将是管理通胀、稳定商品价格的必要条件。",
-          "url": "https://flash.jin10.com/detail/20260609122517383800",
-          "source": "金十数据",
+          "title": "湖南建设投资集团党委书记、董事长蔡典维被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33340186",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "02时02分"
         },
         {
-          "title": "欧洲央行管委穆兰：欧洲需要更多的货币和支付主权。",
-          "url": "https://flash.jin10.com/detail/20260609200535343800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7702，较上一交易日官方收盘价涨142点，较上日夜盘收盘涨140点。",
-          "url": "https://wallstreetcn.com/livenews/3116678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "为什么你一开口，领导就觉得你还不成熟？",
-          "url": "https://www.zhihu.com/question/2042568347083134280",
+          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
+          "url": "https://www.zhihu.com/question/2045458377795433050",
           "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时02分"
         },
         {
-          "title": "“巨贪”白天辉单笔受贿高达11.03亿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B7%A8%E8%B4%AA%E2%80%9D%E7%99%BD%E5%A4%A9%E8%BE%89%E5%8D%95%E7%AC%94%E5%8F%97%E8%B4%BF%E9%AB%98%E8%BE%BE11.03%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
-          "url": "https://wallstreetcn.com/livenews/3116523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "欧盟委员会要求Meta Platforms(META.O)在5个工作日内遵守命令。",
-          "url": "https://flash.jin10.com/detail/20260609232139576800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "廖岷与巴西财政部副部长阿伦卡斯特罗共同主持中巴（西）财金分委会第十二次会议",
-          "url": "https://wallstreetcn.com/livenews/3116674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "电影一个部门的诞生定档",
-          "url": "https://www.douyin.com/hot/2528271",
-          "source": "抖音",
+          "title": "仙剑3动画完结,官方狂包饺子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355007&amp;topic_name=%E4%BB%99%E5%89%913%E5%8A%A8%E7%94%BB%E5%AE%8C%E7%BB%93%2C%E5%AE%98%E6%96%B9%E7%8B%82%E5%8C%85%E9%A5%BA%E5%AD%90",
+          "source": "贴吧",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "02时02分"
         },
         {
-          "title": "澳洲国民银行：不再预计澳洲联储将在8月加息25个基点。 官方现金利率的下一步举措可能是在未来下调，但具体时间尚不确定。 现预计到2027年底，官方现金利率将降至3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3116516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "以色列国防军：因敌方飞机侵入埃文·梅纳赫姆和肖梅拉的领空，已启动防空警报，具体情况正在调查中。",
-          "url": "https://flash.jin10.com/detail/20260609050144097800",
-          "source": "金十数据",
+          "title": "多位书记省长会见泰国首富谢国民",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%BD%8D%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E9%A6%96%E5%AF%8C%E8%B0%A2%E5%9B%BD%E6%B0%91",
+          "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "02时02分"
         },
         {
-          "title": "调查：经济学家预计美联储今年将按兵不动，因战争引发的通胀持续",
-          "url": "https://wallstreetcn.com/livenews/3116905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "西安人大常委会原主任韩松被公诉",
-          "url": "https://www.toutiao.com/trending/7649209787875344420/",
-          "source": "今日头条",
+          "title": "当校长挑选教室地板时",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%A0%A1%E9%95%BF%E6%8C%91%E9%80%89%E6%95%99%E5%AE%A4%E5%9C%B0%E6%9D%BF%E6%97%B6",
+          "source": "bilibili 热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "日本自民党或建议政府进一步大幅增加防卫费",
-          "url": "https://wallstreetcn.com/livenews/3116793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时02分"
         }
       ]
     }
