@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-06-13T06:24:03.704424+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-13T08:19:48.457442+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "影子暗访｜催眠的鱼饵：非法“地西泮”饵料产销链调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33348048",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 08时19分]"
         },
         {
           "title": "中国软件因恶意串通被禁止参加政府采购活动一年|速读公告",
           "url": "https://www.cls.cn/detail/2398836",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 06时24分]"
-        },
-        {
-          "title": "跟领导坐一辆车下乡，连司机共三人，领导问我「听说办公室主任人缘不好，你有听说吗？」，我该怎么回答？",
-          "url": "https://www.zhihu.com/question/1918426062053966645",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 08时19分]"
         },
         {
           "title": "澎湃回声｜“地西泮”鱼饵产销链曝光后：多平台紧急下架，加工场所被查处",
@@ -47,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 08时19分]"
         },
         {
           "title": "城管干部被指夜晚醉驾公车致多人伤，河南项城：事发去年，认定7人受伤，纪委已作处理",
@@ -60,11 +51,25 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 08时19分]"
+        },
+        {
+          "title": "跟领导坐一辆车下乡，连司机共三人，领导问我「听说办公室主任人缘不好，你有听说吗？」，我该怎么回答？",
+          "url": "https://www.zhihu.com/question/1918426062053966645",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 08时19分]"
         },
         {
           "title": "官方通报女大学生入院输液后身亡",
@@ -96,11 +101,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33368905",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时19分]"
+        },
+        {
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "time_info": "[06时24分 ~ 08时19分]"
         },
         {
           "title": "湖南省副省长陈竞任长沙市委书记",
@@ -126,15 +144,26 @@
           "time_info": "[01时38分 ~ 04时08分]"
         },
         {
-          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3119085",
-          "source": "华尔街见闻-快讯",
+          "title": "女大学生入院6小时后死亡，官方通报已启动行政调解，家属发声",
+          "url": "https://news.ifeng.com/c/8tuArYW37Sy",
+          "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "08时19分"
+        },
+        {
+          "title": "央企中层干部被指抄袭高中同学作品，研究生就读院校正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33366024",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
         },
         {
           "title": "巴西女子被查时从内裤掏出手枪",
