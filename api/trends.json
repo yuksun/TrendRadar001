@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T21:59:24.416013+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-06-14T23:51:40.700596+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国人保集团原党委委员、副总裁俞小平被查",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 23时51分]"
         },
         {
           "title": "中国软件因恶意串通被禁止参加政府采购活动一年|速读公告",
@@ -73,6 +73,19 @@
           "time_info": "[01时21分 ~ 11时53分]"
         },
         {
+          "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
+          "url": "https://www.zhihu.com/question/2049225127036990849",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 23时51分]"
+        },
+        {
           "title": "市场消息：以色列国防部长卡茨已任命希沙姆·易卜拉欣准将为其下一任军事秘书。",
           "url": "https://flash.jin10.com/detail/20260614160703393800",
           "source": "金十数据",
@@ -84,17 +97,15 @@
           "time_info": "16时15分"
         },
         {
-          "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
-          "url": "https://www.zhihu.com/question/2049225127036990849",
-          "source": "知乎",
+          "title": "伊朗总统：战争和谈判的决定权在伊领导层",
+          "url": "https://wallstreetcn.com/livenews/3119261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            4,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 21时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "据第13频道援引以色列高级官员：以色列在（美伊协议）这一问题上的影响力有限。",
@@ -266,6 +277,30 @@
           "time_info": "[19时29分 ~ 21时59分]"
         },
         {
+          "title": "据知情人士透露，德国安联加入竞购汇丰控股旗下新加坡保险部门的行列，目前在竞购中处于领先地位。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时51分]"
+        },
+        {
+          "title": "以官员警告美军机占用大量民用机场空间，担心航空与旅游业将遭重创",
+          "url": "https://wallstreetcn.com/livenews/3119231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时51分]"
+        },
+        {
           "title": "河南省委书记刘宁到三门峡调研检查安全生产工作",
           "url": "https://m.thepaper.cn/newsDetail_forward_33375584",
           "source": "澎湃新闻",
@@ -300,15 +335,15 @@
           "time_info": "16时15分"
         },
         {
-          "title": "据知情人士透露，德国安联加入竞购汇丰控股旗下新加坡保险部门的行列，目前在竞购中处于领先地位。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119234",
+          "title": "瑞士政府：选民拒绝1000万人口上限方案。 公投结果表明，54.2%选民拒绝（该方案），45.8%选民支持。",
+          "url": "https://wallstreetcn.com/livenews/3119254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "23时51分"
         },
         {
           "title": "利比亚总统委员会主席：愿推动利中关系迈向更高水平",
@@ -333,26 +368,48 @@
           "time_info": "11时53分"
         },
         {
-          "title": "以官员警告美军机占用大量民用机场空间，担心航空与旅游业将遭重创",
-          "url": "https://wallstreetcn.com/livenews/3119231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "渔船倾覆致8死2失踪 36人被问责",
           "url": "https://www.toutiao.com/trending/7651220478173908489/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "伊朗总统：国家安全委员会的决定是已采纳的标准，并已达成共识，认为有必要走谈判的道路。",
+          "url": "https://flash.jin10.com/detail/20260614232026776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗总统：官方电视台讨论的内容并不反映最高领袖和国家安全委员会的指示。",
+          "url": "https://flash.jin10.com/detail/20260614231558672800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗总统：战争和谈判的决定权在伊领导层",
+          "url": "https://flash.jin10.com/detail/20260614231212857800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "科威特将7月对亚洲的石油出口官方销售价格（OSP）定在较阿曼/迪拜均价溢价/升水5.25美元/桶。 将7月销往亚洲的超级轻质石油OSP定在较阿曼/迪拜均价溢价/升水5.25美元/桶。",
@@ -361,9 +418,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "辽绥渔35261船倾覆事故致8人遇难2人失踪，36人被追责问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378677",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "校书记给毕业生布置最后三道作业",
@@ -377,6 +445,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "甘肃张掖成立联合调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%BC%A0%E6%8E%96%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：约旦安全部门称，今天早上由于技术故障，警报器自动响起。",
           "url": "https://flash.jin10.com/detail/20260614140517447800",
           "source": "金十数据",
@@ -386,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "卡塔尔将7月海洋原油官方售价定为阿曼/迪拜均价升水6.00美元/桶；陆地原油官方售价定为阿曼/迪拜均价升水6.50美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260614230554999800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -394,24 +484,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "山东阳谷一化工企业石蜡料场起火致3人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376095",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时51分]"
+        },
+        {
           "title": "山东医药大学通报男子称学位证失效，学位证系非正当获取，2 人被处理，如何评价校方通报？哪些问题值得深思？",
           "url": "https://www.zhihu.com/question/2048884098957931703",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "山东阳谷一化工企业石蜡料场起火致3人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376095",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
