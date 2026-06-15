@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T12:05:31.082574+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-06-15T18:54:07.354280+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
         {
           "title": "纯为爱发电,汉化组被查后无恙",
@@ -15,11 +15,12 @@
             3,
             4,
             5,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 12时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 18时54分]"
         },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 05时10分]"
+        },
+        {
+          "title": "五部门：开展重点行业节能降碳改造攻坚三年行动",
+          "url": "https://www.cls.cn/detail/2399720",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据伊朗国家媒体报道，伊朗最高联合军事指挥部表示，在最高领袖莫杰塔巴·哈梅内伊的领导下，伊朗的军事能力已变得更加强大。",
@@ -143,6 +155,18 @@
           "time_info": "[01时20分 ~ 07时08分]"
         },
         {
+          "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时05分 ~ 18时54分]"
+        },
+        {
           "title": "伊朗总统：战争和谈判的决定权在伊领导层",
           "url": "https://wallstreetcn.com/livenews/3119261",
           "source": "华尔街见闻-快讯",
@@ -154,6 +178,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 05时10分]"
+        },
+        {
+          "title": "比尔盖茨自曝出轨20多次",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%87%AA%E6%9B%9D%E5%87%BA%E8%BD%A820%E5%A4%9A%E6%AC%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "你买的粽子安全吗？官方抽检出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E4%B9%B0%E7%9A%84%E7%B2%BD%E5%AD%90%E5%AE%89%E5%85%A8%E5%90%97%EF%BC%9F%E5%AE%98%E6%96%B9%E6%8A%BD%E6%A3%80%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "重庆市监通报23起假劣肉制品典型案件：多家店铺用鸭肉、猪肉等冒充牛肉被罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380681",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "连人大附中的学霸也用千问选志愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%BA%E5%A4%A7%E9%99%84%E4%B8%AD%E7%9A%84%E5%AD%A6%E9%9C%B8%E4%B9%9F%E7%94%A8%E5%8D%83%E9%97%AE%E9%80%89%E5%BF%97%E6%84%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "据AXIOS网站记者报道，伊朗官员尚未确认今天将签署协议。",
@@ -178,17 +246,6 @@
           "time_info": "07时08分"
         },
         {
-          "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
           "title": "伊朗议会国家安全委员会主席：在以色列对贝鲁特南郊的袭击后，'强有力的回应即将到来'。",
           "url": "https://flash.jin10.com/detail/20260615001736327800",
           "source": "金十数据",
@@ -198,6 +255,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "土耳其外交部长：在通话中，土耳其希望进一步的谈判能取得积极成果。",
+          "url": "https://flash.jin10.com/detail/20260615181541053800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "土耳其外交部长与伊朗外长通话，讨论美伊协议。",
+          "url": "https://flash.jin10.com/detail/20260615181447169800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "广东省政府与南方电网公司签署“十五五”全面深化战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260615181441061800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书就以色列袭击黎巴嫩事件表示：各方团结形成了捍卫地区安全的链条。黎巴嫩是我们的灵魂，侵犯伊朗的红线将不会被容忍。",
@@ -261,7 +351,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -272,9 +362,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "阿里菜鸟要解散？最新官方回复“假的，纯属谣言”",
+          "url": "https://wallstreetcn.com/livenews/3119598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "联合国秘书长古特雷斯强烈谴责以色列空袭贝鲁特",
@@ -294,7 +395,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -308,6 +409,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "2名“骑士”存在多项交通违法被查",
+          "url": "https://www.toutiao.com/trending/7651523484925050922/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "印度政府官员：上周油轮“Bochem Marengo”号发生事故，全体印度船员安全。",
+          "url": "https://flash.jin10.com/detail/20260615180017540800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "媒体：G7该从“领导者幻觉”中醒醒了",
+          "url": "https://www.toutiao.com/trending/7651398565142560822/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "印度政府官员：16艘运载化肥前往印度的船只正位于霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260615175826128800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
