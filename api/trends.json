@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T11:55:17.397167+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-16T17:25:41.343597+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
@@ -46,13 +46,27 @@
           "time_info": "[00时17分 ~ 11时55分]"
         },
         {
+          "title": "纯为爱发电,汉化组被查后无恙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355155&amp;topic_name=%E7%BA%AF%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%2C%E6%B1%89%E5%8C%96%E7%BB%84%E8%A2%AB%E6%9F%A5%E5%90%8E%E6%97%A0%E6%81%99",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 17时25分]"
+        },
+        {
           "title": "河南南阳市市长路红卫被查",
           "url": "https://www.toutiao.com/trending/7651808671860526619/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -64,19 +78,6 @@
             9,
             19,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 11时55分]"
-        },
-        {
-          "title": "纯为爱发电,汉化组被查后无恙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355155&amp;topic_name=%E7%BA%AF%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%2C%E6%B1%89%E5%8C%96%E7%BB%84%E8%A2%AB%E6%9F%A5%E5%90%8E%E6%97%A0%E6%81%99",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            21
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -120,37 +121,72 @@
           "time_info": "[00时17分 ~ 04时25分]"
         },
         {
-          "title": "重庆市委书记：全面彻底肃清流毒影响",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%85%A8%E9%9D%A2%E5%BD%BB%E5%BA%95%E8%82%83%E6%B8%85%E6%B5%81%E6%AF%92%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
+          "title": "澎湃回声｜襄阳樊城区通报蕲艾“养生烟”涉嫌虚假宣传等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384692",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 17时25分]"
         },
         {
           "title": "打虎！“内鬼”姜宏伟被查",
           "url": "https://www.toutiao.com/trending/7651436375388979243/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 17时25分]"
+        },
+        {
+          "title": "重庆市委书记：全面彻底肃清流毒影响",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%85%A8%E9%9D%A2%E5%BD%BB%E5%BA%95%E8%82%83%E6%B8%85%E6%B5%81%E6%AF%92%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
         {
-          "title": "澎湃回声｜襄阳樊城区通报蕲艾“养生烟”涉嫌虚假宣传等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33384692",
-          "source": "澎湃新闻",
+          "title": "八部门：力争到2030年我国多式联运1小时换装率超90%",
+          "url": "https://wallstreetcn.com/livenews/3120196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "匹克官方直播间自曝欠薪",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%B9%E5%85%8B%E5%AE%98%E6%96%B9%E7%9B%B4%E6%92%AD%E9%97%B4%E8%87%AA%E6%9B%9D%E6%AC%A0%E8%96%AA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "17时25分"
+        },
+        {
+          "title": "国防部：在台岛以东执法巡查正当必要",
+          "url": "https://www.toutiao.com/trending/7650822131362365446/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "搞“政绩工程”‍、盲目招商引资……五起政绩观偏差典型案件公开通报",
@@ -159,9 +195,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "佛得角官方曾感谢中国帮圆梦世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%AE%98%E6%96%B9%E6%9B%BE%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%9C%86%E6%A2%A6%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美官员称美伊已签署电子谅解备忘录，是否意味战争落幕？哪些条款可能会进入最终协议？",
@@ -170,9 +217,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "工作量大的部门一般氛围很好",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E9%87%8F%E5%A4%A7%E7%9A%84%E9%83%A8%E9%97%A8%E4%B8%80%E8%88%AC%E6%B0%9B%E5%9B%B4%E5%BE%88%E5%A5%BD&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "河南项城“城管干部醉驾肇事致7人伤”续：伤者家属称肇事者受同事委托开车回局里充电，事后弃车逃离",
@@ -181,7 +239,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -192,9 +250,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "武汉市委书记会见雷军",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%BC%9A%E8%A7%81%E9%9B%B7%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "重庆市委书记：全面彻底肃清流毒影响，持续修复净化政治生态",
@@ -203,9 +272,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "重庆市树立和践行正确政绩观学习教育工作成果交流会举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "巴基斯坦财政部长：计划额外发行欧元债、美元和与卢比挂钩的美元结算债券，具体金额尚待决定。",
@@ -214,9 +294,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "黑龙江省纪委副书记、省监委副主任姜宏伟任上被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7574，较上一交易日官方收盘价跌2点，较上日夜盘收盘跌6点。",
+          "url": "https://wallstreetcn.com/livenews/3120184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "比尔盖茨自曝出轨20多次",
@@ -236,7 +338,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -269,9 +371,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "王毅会见下任联合国秘书长候选人格林斯潘",
+          "url": "https://wallstreetcn.com/livenews/3120181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "伊朗外长与黎巴嫩官员通话 通报伊美谅解备忘录细节",
@@ -291,7 +404,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -307,13 +420,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "佛得角官方感谢中国帮圆梦世界杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E5%AE%98%E6%96%B9%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%9C%86%E6%A2%A6%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "泰国男学生不满被批评持刀追杀班主任",
           "url": "https://www.toutiao.com/trending/7651429129682993179/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -324,7 +448,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -339,11 +463,12 @@
           "url": "https://www.zhihu.com/question/2048445327317758278",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 17时25分]"
         }
       ]
     }
