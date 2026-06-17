@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T05:04:05.443708+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-18T07:22:48.429411+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谅解备忘录14点内容披露，官方尚未证实",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "沈阳酒商称宜宾珙县警方跨省扣走159瓶茅台3年后出现缺失或空瓶，宜宾市公安局督审支队：正内部调查",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时04分]"
-        },
-        {
-          "title": "美媒：美官员公布美伊谅解备忘录文本",
-          "url": "https://wallstreetcn.com/livenews/3121175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "“领导送考冲卡被拦”系谣言",
@@ -48,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "中国政府发布关于全球治理的白皮书",
@@ -61,8 +50,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时22分]"
+        },
+        {
+          "title": "美媒：美官员公布美伊谅解备忘录文本",
+          "url": "https://wallstreetcn.com/livenews/3121175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "吉林省委书记：摒弃劳民伤财的折腾",
@@ -88,15 +88,59 @@
           "time_info": "[05时03分 ~ 05时04分]"
         },
         {
+          "title": "综合一份文件与三名石油官员的信息得知，伊拉克南部多个油田的石油产量增长大约50万桶/日，至日产150万桶/日。 目前，抵达（伊拉克）多个石油出口枢纽的油轮增加。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3121290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "当地政府称，俄罗斯向基辅发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260618062854286800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "美官员披露美伊谅解备忘录14项条款",
           "url": "https://flash.jin10.com/detail/20260618040634980800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "巴西央行连续三次降息，委员会Copom一致决定将基准Selic利率下调25个基点至14.25%，创2025年5月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3121280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "巴西央行：委员会重申在货币政策实施中保持冷静和谨慎。",
+          "url": "https://flash.jin10.com/detail/20260618060133853800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美官员宣读美伊谅解备忘录文本 与此前媒体披露版本基本一致",
@@ -108,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
+          "url": "https://wallstreetcn.com/livenews/3121265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -123,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     }
