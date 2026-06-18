@@ -1,497 +1,121 @@
 {
-  "generated_at": "2026-06-18T20:24:33.957857+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-06-19T00:35:52.776760+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 42,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美伊谅解备忘录14点内容披露，官方尚未证实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396487",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 11时43分]"
-        },
-        {
-          "title": "沈阳酒商称宜宾珙县警方跨省扣走159瓶茅台3年后出现缺失或空瓶，宜宾市公安局督审支队：正内部调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397843",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 11时43分]"
-        },
-        {
-          "title": "北京密云养老院洪灾致32死 问责17人",
-          "url": "https://www.toutiao.com/trending/7652497112878350399/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "北京密云养老院洪灾致32死 问责17人",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB+%E9%97%AE%E8%B4%A317%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "以色列外交部长：我别无选择，只能与欧盟外交与安全政策高级代表卡拉斯断绝一切联系，直到她撤回对世界唯一犹太国家的血腥诽谤。",
-          "url": "https://flash.jin10.com/detail/20260618164423081800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "“领导送考冲卡被拦”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%A2%86%E5%AF%BC%E9%80%81%E8%80%83%E5%86%B2%E5%8D%A1%E8%A2%AB%E6%8B%A6%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时22分]"
-        },
-        {
-          "title": "中国政府发布关于全球治理的白皮书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396495",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时22分]"
-        },
-        {
-          "title": "福建寿宁通报“当街抬棺送葬”事件",
-          "url": "https://www.toutiao.com/trending/7652373313246953481/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "蔡奇兼任国家行政学院院长",
-          "url": "https://www.toutiao.com/trending/7652684371732086790/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
           "url": "https://www.cls.cn/detail/2403573",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "美媒：美官员公布美伊谅解备忘录文本",
-          "url": "https://wallstreetcn.com/livenews/3121175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
-          "url": "https://www.cls.cn/detail/2403507",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 20时24分]"
-        },
-        {
-          "title": "吉林省委书记：摒弃劳民伤财的折腾",
-          "url": "https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E6%91%92%E5%BC%83%E5%8A%B3%E6%B0%91%E4%BC%A4%E8%B4%A2%E7%9A%84%E6%8A%98%E8%85%BE",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 05时04分]"
-        },
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
-          "url": "https://www.cls.cn/detail/2403340",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 20时24分]"
-        },
-        {
-          "title": "澎湃回声｜河南项城城管干部醉驾公车撞伤7人，51岁伤者家属：医药费获解决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405470",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 20时24分]"
-        },
-        {
-          "title": "原国务院特区办公室副主任赵云栋逝世",
-          "url": "https://www.toutiao.com/trending/7652306407278297098/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时04分]"
-        },
-        {
-          "title": "伊、美官员：两国已远程签署谅解备忘录（附全文）",
-          "url": "https://www.cls.cn/detail/2402991",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "综合一份文件与三名石油官员的信息得知，伊拉克南部多个油田的石油产量增长大约50万桶/日，至日产150万桶/日。 目前，抵达（伊拉克）多个石油出口枢纽的油轮增加。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3121290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7623，较上一交易日官方收盘价跌54点，较上日夜盘收盘涨7点。",
-          "url": "https://wallstreetcn.com/livenews/3121562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "中国驻菲大使馆通报：70名被扣中国公民已全部获释",
-          "url": "https://news.ifeng.com/c/8u3oZxTlYTk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "欧洲央行管委Kocher称伊朗协议后 通胀仍将在一段时间内维持较高水平",
-          "url": "https://wallstreetcn.com/livenews/3121560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "我国开展台湾岛以东海域海洋环境调查",
-          "url": "https://www.toutiao.com/trending/7652659376448421898/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "福建寿宁通报“当街抬棺送葬”事件",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%AF%BF%E5%AE%81%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BD%93%E8%A1%97%E6%8A%AC%E6%A3%BA%E9%80%81%E8%91%AC%E2%80%9D%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "当地政府称，俄罗斯向基辅发射导弹。",
-          "url": "https://flash.jin10.com/detail/20260618062854286800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "北京暴雨致养老院32死 17人被问责",
-          "url": "https://www.douyin.com/hot/2539577",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "美官员披露美伊谅解备忘录14项条款",
-          "url": "https://flash.jin10.com/detail/20260618040634980800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "国家发改委：将会同有关部门印发实施现代物流领域“十五五”专项规划",
-          "url": "https://wallstreetcn.com/livenews/3121384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "82死矿难后山西沁源迎新书记、代县长",
-          "url": "https://www.toutiao.com/trending/7652604342414872091/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "巴西央行连续三次降息，委员会Copom一致决定将基准Selic利率下调25个基点至14.25%，创2025年5月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3121280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "水井坊新总经理上任一周就被举报",
-          "url": "https://www.toutiao.com/trending/7652252911657402404/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "密云养老院洪灾致32死 问责17人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB%20%E9%97%AE%E8%B4%A317%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "英国央行：货币政策委员会一致认为，如果价格逐步走高，适当的政策反应应当是果断有力的。 投票支持维持利率不变的七名成员警告称，存在第二轮效应风险。 需求和劳动力市场疲软可能会削弱第二轮效应的强度。 最新就业数据“与劳动力市场逐步放松相一致”。 认为第一季度基础增长率为0.2%，第二季度将保持在类似水平。 能源价格风险仍偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3121667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "崔峥岭任长治市委常委、沁源县委书记，郭立东任代理县长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33406814",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "日本外务省：日本首相高市早苗与欧盟委员会主席冯德莱恩进行了会谈。 双方一致同意在防卫产业合作、先进技术领域合作以及强化包括重要矿物在内的关键物资供应链等方面加深合作。",
-          "url": "https://flash.jin10.com/detail/20260618105059818800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "00时35分"
         },
         {
           "title": "落马市委书记留下33个烂尾工程",
           "url": "https://www.toutiao.com/trending/7652609213639327780/",
           "source": "今日头条",
           "ranks": [
-            22
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "00时35分"
         },
         {
-          "title": "巴西央行：委员会重申在货币政策实施中保持冷静和谨慎。",
-          "url": "https://flash.jin10.com/detail/20260618060133853800",
+          "title": "GTA6官方封面预告",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%98%E6%96%B9%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "五部门开展新能源汽车下乡活动",
+          "url": "https://www.douyin.com/hot/2539139",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "德国国防部长：关于北约危机应对部队，关键在于避免出现危险的能力缺口，并制定相应的路线图。",
+          "url": "https://flash.jin10.com/detail/20260619000823548800",
           "source": "金十数据",
           "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "00时35分"
         },
         {
-          "title": "美官员宣读美伊谅解备忘录文本 与此前媒体披露版本基本一致",
-          "url": "https://flash.jin10.com/detail/20260618013902372800",
+          "title": "12岁男孩偷开邻居的车上高速，“一路上慢慢学”行驶了6小时，被查后谎称是成年人有矮小症",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405412",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "乌克兰国防部长：乌克兰获盟友10亿美元战时援助承诺。",
+          "url": "https://flash.jin10.com/detail/20260619000545063800",
           "source": "金十数据",
           "ranks": [
-            23
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "00时35分"
         },
         {
-          "title": "居民当街抬棺送葬多名公职人员被处理",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BD%93%E8%A1%97%E6%8A%AC%E6%A3%BA%E9%80%81%E8%91%AC%E5%A4%9A%E5%90%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%A4%84%E7%90%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "澎湃回声｜河南项城城管干部醉驾公车撞伤7人，51岁伤者家属：医药费获解决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405470",
+          "source": "澎湃新闻",
           "ranks": [
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "媒体调查：90%经济学家预计日本央行年底前将再次加息",
-          "url": "https://wallstreetcn.com/livenews/3121265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "欧盟最高外交官员回应以色列外长断联决定",
-          "url": "https://flash.jin10.com/detail/20260618195638228800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "00时35分"
         },
         {
           "title": "西北富豪被查 家族财富达125亿",
           "url": "https://www.toutiao.com/trending/7651885764322115626/",
           "source": "今日头条",
           "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济宁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东3亿北斗工程现“脆皮底座”，官方组成联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396010",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "张柱会见德国联邦农业、食品和国土部部长阿洛伊斯·赖纳",
+          "url": "https://flash.jin10.com/detail/20260618235819605800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
