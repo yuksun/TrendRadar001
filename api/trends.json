@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T06:09:03.628533+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-19T08:25:36.391792+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "西北富豪被查 家族财富达125亿",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            1
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 08时25分]"
         },
         {
           "title": "落马市委书记留下33个烂尾工程",
@@ -49,9 +50,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "日本央行4月27-28日货币政策会议纪要：委员们称，将继续加息，以应对经济和物价进展。 委员们称，密切关注中东局势的影响，权衡利率调整步伐。 一位委员表示，日本央行应维持宽松的货币政策，如果日本面临严重的供应链中断，应避免加息。 一位委员表示，日本央行在货币政策中不以汇率为目标，汇率应由市场决定。 内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本经济强劲增长，物价稳定，希望日本央行按照与政府的联合声明指导政策。",
+          "url": "https://wallstreetcn.com/livenews/3121937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "伊拉克石油部长：油田已准备好恢复生产运营。",
@@ -60,9 +72,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "GTA6官方封面预告",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%98%E6%96%B9%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 08时25分]"
         },
         {
           "title": "阿根廷统计局：5月贸易顺差为35.04亿美元（路透社调查预期为22亿美元）。",
@@ -82,20 +106,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
         {
-          "title": "GTA6官方封面预告",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%98%E6%96%B9%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
+          "title": "12岁男孩偷开邻居的车上高速，“一路上慢慢学”行驶了6小时，被查后谎称是成年人有矮小症",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405412",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            11,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 08时25分]"
         },
         {
           "title": "五部门开展新能源汽车下乡活动",
@@ -107,42 +133,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时09分]"
-        },
-        {
-          "title": "12岁男孩偷开邻居的车上高速，“一路上慢慢学”行驶了6小时，被查后谎称是成年人有矮小症",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405412",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 08时25分]"
         },
         {
           "title": "澎湃回声｜河南项城城管干部醉驾公车撞伤7人，51岁伤者家属：医药费获解决",
           "url": "https://m.thepaper.cn/newsDetail_forward_33405470",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 08时25分]"
         },
         {
           "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
           "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 06时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 08时25分]"
         },
         {
           "title": "德国国防部长：关于北约危机应对部队，关键在于避免出现危险的能力缺口，并制定相应的路线图。",
@@ -233,6 +249,28 @@
           "time_info": "03时37分"
         },
         {
+          "title": "日本央行会议纪要：内阁办公室表示希望日本央行的政策指引与政府的联合声明保持一致。",
+          "url": "https://flash.jin10.com/detail/20260619075956420800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "酒商称被扣走159瓶茅台3年后出现缺失或空瓶，宜宾警方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412203",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
           "title": "伊朗最高国家安全委员会：已责成波斯湾海峡管理局尽快发放通行许可。",
           "url": "https://flash.jin10.com/detail/20260619024735217800",
           "source": "金十数据",
@@ -250,7 +288,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -261,7 +299,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -272,7 +310,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -294,9 +332,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "伊拉克石油部长：原油产量正逐步恢复至战前水平",
+          "url": "https://wallstreetcn.com/livenews/3121913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东一男子上夜班关闭空调和门窗，高烧至 41°C 患热射病，抢救无效去世，为啥这么严重？热射病如何预防？",
+          "url": "https://www.zhihu.com/question/2047329194447745310",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         }
       ]
     }
