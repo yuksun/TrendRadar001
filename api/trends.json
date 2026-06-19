@@ -1,22 +1,91 @@
 {
-  "generated_at": "2026-06-20T01:56:01.040387+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T03:47:50.454872+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "因违停等违法行为被北京警方通报处罚，艺人黄子韬致歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33416833",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "3名中国裁判同场执法世界杯",
+          "url": "https://www.baidu.com/s?wd=3%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E5%90%8C%E5%9C%BA%E6%89%A7%E6%B3%95%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "河南正阳有村民反映用河水浇灌后蔬菜枯萎，生态环境部门介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416847",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "北京警方通报：黄子韬因违停等违法行为被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416507",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "中国移动董事、党组副书记王利民履新司法部党组成员、政治部主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33414584",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "北京警方通报黄子韬违停",
+          "url": "https://www.douyin.com/hot/2540589",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "脱口秀演员房主任患肠梗阻",
+          "url": "https://www.toutiao.com/trending/7652972872687816230/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时47分]"
         },
         {
           "title": "河南省委书记冒雨察看水库运行情况",
@@ -30,81 +99,16 @@
           "time_info": "[01时55分 ~ 01时56分]"
         },
         {
-          "title": "河南正阳有村民反映用河水浇灌后蔬菜枯萎，生态环境部门介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33416847",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "北京警方通报：黄子韬因违停等违法行为被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33416507",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "中国移动董事、党组副书记王利民履新司法部党组成员、政治部主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33414584",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "北京警方通报黄子韬违停",
-          "url": "https://www.douyin.com/hot/2540589",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "脱口秀演员房主任患肠梗阻",
-          "url": "https://www.toutiao.com/trending/7652972872687816230/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
-          "url": "https://flash.jin10.com/detail/20260620005722575800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
           "title": "英国政府中长期融资成本涨超8个基点，投资者对该国政治局势的担忧情绪重燃",
           "url": "https://wallstreetcn.com/livenews/3122157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时47分]"
         },
         {
           "title": "警方通报「黄子韬违停、非法改装车辆被罚」，他将承担哪些具体的法律责任？",
@@ -113,9 +117,43 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时47分]"
+        },
+        {
+          "title": "英国大曼彻斯特市长伯纳姆（Andy Burnham）料将于下周一前往伦敦，会见议员们。（英国卫报）",
+          "url": "https://wallstreetcn.com/livenews/3122146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
+          "url": "https://flash.jin10.com/detail/20260620005722575800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "乌克兰外交部长：波兰决定撤销乌克兰总统泽连斯基的荣誉勋章是一个“战略错误”。",
+          "url": "https://flash.jin10.com/detail/20260620023402653800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "伊朗能源部副部长：俄方已准备好派遣专家前往伊朗，以加快核电站2号和3号机组的建设。",
@@ -124,20 +162,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
         {
-          "title": "英国大曼彻斯特市长伯纳姆（Andy Burnham）料将于下周一前往伦敦，会见议员们。（英国卫报）",
-          "url": "https://wallstreetcn.com/livenews/3122146",
-          "source": "华尔街见闻-快讯",
+          "title": "当地通报“龙舟在转弯时发生侧翻”",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E2%80%9C%E9%BE%99%E8%88%9F%E5%9C%A8%E8%BD%AC%E5%BC%AF%E6%97%B6%E5%8F%91%E7%94%9F%E4%BE%A7%E7%BF%BB%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "据黎巴嫩官方媒体及医疗领域人士透露，黎巴嫩南部在停火协议生效后发生的无人机袭击事件造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20260620014641889800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：新的贸易工具不针对特定国家（对所有国家一视同仁）。 该工具将支持企业更快地降低风险。",
@@ -146,7 +195,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -163,20 +212,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时47分]"
         },
         {
           "title": "山东一男子上夜班关闭空调和门窗，高烧至 41°C 患热射病，抢救无效去世，为啥这么严重？热射病如何预防？",
           "url": "https://www.zhihu.com/question/2047329194447745310",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时47分]"
         }
       ]
     }
