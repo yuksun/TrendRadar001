@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T15:38:48.710531+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-06-24T18:47:55.769326+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 42,
       "titles": [
         {
           "title": "受贿1.39亿余元，上海市委原常委朱芝松一审被判死缓",
@@ -45,19 +45,6 @@
           "time_info": "[01时51分 ~ 15时38分]"
         },
         {
-          "title": "四川多地教师凌晨到校验菜问题获官方回应，“不得已”背后如何改进",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436756",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时51分 ~ 15时38分]"
-        },
-        {
           "title": "马宁担任法国对阵挪威第四官员",
           "url": "https://www.douyin.com/hot/2545232",
           "source": "抖音",
@@ -66,6 +53,19 @@
             12,
             17,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 18时47分]"
+        },
+        {
+          "title": "四川多地教师凌晨到校验菜问题获官方回应，“不得已”背后如何改进",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436756",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -95,6 +95,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时51分 ~ 11时25分]"
+        },
+        {
+          "title": "中国银行逃税23.67亿被审计署通报",
+          "url": "https://www.toutiao.com/trending/7654836186216841257/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "全国政协十四届常委会第十七次会议举行全体会议 围绕“坚持高质量发展，推动经济持续健康发展和社会全面进步”进行大会发言 王沪宁出席",
+          "url": "https://wallstreetcn.com/livenews/3123970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "日本公平交易委员会拟放宽关键领域并购规则。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "国防科工局副局长卞志刚被查",
@@ -133,6 +166,30 @@
           "time_info": "[01时51分 ~ 07时08分]"
         },
         {
+          "title": "狗啃食材被举报,网红店翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 18时47分]"
+        },
+        {
+          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 18时47分]"
+        },
+        {
           "title": "巴西对外贸易委员会执行管理委员会：巴西将维持对进口电动和混合动力汽车的关税上调计划，对整车及半拆解电动车征收35%的进口关税，该措施将于2026年7月生效；而对完全拆解状态进口的车辆，也将从2027年1月1日起适用同样的税率。",
           "url": "https://flash.jin10.com/detail/20260624045054703800",
           "source": "金十数据",
@@ -157,24 +214,13 @@
           "time_info": "[05时48分 ~ 07时08分]"
         },
         {
-          "title": "狗啃食材被举报,网红店翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
           "title": "领导八万六的沙发是我的奖金",
           "url": "https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E5%85%AB%E4%B8%87%E5%85%AD%E7%9A%84%E6%B2%99%E5%8F%91%E6%98%AF%E6%88%91%E7%9A%84%E5%A5%96%E9%87%91&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -201,6 +247,28 @@
           "time_info": "04时01分"
         },
         {
+          "title": "商务部部长助理张力会见沙特国际电力和水务公司董事长阿布纳扬",
+          "url": "https://wallstreetcn.com/livenews/3123956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "商务部：发挥举报对出口管制违法违规行为的监督作用是国际通行做法",
+          "url": "https://wallstreetcn.com/livenews/3123954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "巴西对外贸易委员会执行管理委员会：决定自7月1日起实施额外的零关税进口配额，适用于拆解和半拆解电动车。",
           "url": "https://flash.jin10.com/detail/20260624044636557800",
           "source": "金十数据",
@@ -210,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "【五部门联合启动工业5G独立专网试点】工业和信息化部今天（24日）联合国务院国资委等五部门共同启动工业5G独立专网试点，通过机制创新支持5G深度赋能关键行业领域。工业5G独立专网是指由工业企业主导建设接入网、核心网等关键设施，可不依赖于公共网络独立运行的企业专属5G网络。试点工作将支持原材料、装备制造、消费品、电子信息、国防科技、能源交通等行业领域的大型特大型企业建设独立专网，鼓励“5G+工业互联网”融合应用城市试点率先开展独立专网建设工作。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "平台通报李金铭假婆婆事件",
@@ -223,15 +302,26 @@
           "time_info": "11时25分"
         },
         {
-          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
-          "source": "澎湃新闻",
+          "title": "商务部公布《产业链供应链安全调查工作办法》",
+          "url": "https://www.cls.cn/detail/2408005",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "中国银行逃税23.67亿元被审计署通报",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E9%80%83%E7%A8%8E23.67%E4%BA%BF%E5%85%83%E8%A2%AB%E5%AE%A1%E8%AE%A1%E7%BD%B2%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时38分"
+          "time_info": "18时47分"
         },
         {
           "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
@@ -267,6 +357,50 @@
           "time_info": "11时25分"
         },
         {
+          "title": "贵州卫健委原副主任田艳受贿案宣判：非法收受财物逾1726万元，判11年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33442584",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "商务部等7部门：整治违规出售报废机动车零部件行为",
+          "url": "https://wallstreetcn.com/livenews/3123930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "合肥网红卤味店食材放地面被狗啃食，官方通报：立案调查，责令停业整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438598",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "商务部等7部门：严厉打击非法回收拆解报废机动车活动，规范报废机动车回收企业经营行为",
+          "url": "https://wallstreetcn.com/livenews/3123929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "第十三届APEC旅游部长会议今起在澳门举行",
           "url": "https://wallstreetcn.com/livenews/3123732",
           "source": "华尔街见闻-快讯",
@@ -278,6 +412,39 @@
           "time_info": "11时25分"
         },
         {
+          "title": "商务部：任何组织和个人有权举报涉嫌违反相关法律法规出口战略矿产两用物项的行为",
+          "url": "https://wallstreetcn.com/livenews/3123921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "商务部公布《产业链供应链安全调查工作办法》",
+          "url": "https://wallstreetcn.com/livenews/3123920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "印度政府：双方重申了对一项平衡且具有商业意义的协议的承诺。",
+          "url": "https://flash.jin10.com/detail/20260624182315996800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "人民币兑美元中间价报6.8195，下调24点；上一交易日中间价6.8171，上一交易日官方收盘价6.7865，上日夜盘报收6.7938。",
           "url": "https://wallstreetcn.com/livenews/3123720",
           "source": "华尔街见闻-快讯",
@@ -287,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8052，较上一交易日官方收盘价跌187点，较上日夜盘收盘跌114点。",
+          "url": "https://wallstreetcn.com/livenews/3123914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "日政府出手为何还是挡不住日元跌势",
@@ -309,6 +487,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "习近平在山东德州考察时强调，以扎实举措推进农业农村现代化，用勤劳和智慧创造更加美好生活。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     }
