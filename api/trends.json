@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T11:25:31.648758+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-06-24T15:38:48.710531+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "受贿1.39亿余元，上海市委原常委朱芝松一审被判死缓",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 11时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 15时38分]"
         },
         {
           "title": "两部门：国产小客车将能“当天买车，当天上牌”",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 11时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 15时38分]"
         },
         {
           "title": "四川多地教师凌晨到校验菜问题获官方回应，“不得已”背后如何改进",
@@ -49,22 +50,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 11时25分]"
-        },
-        {
-          "title": "美媒：美财长因乌克兰协议称商务部长是“白痴”",
-          "url": "https://flash.jin10.com/detail/20260624110943244800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 15时38分]"
         },
         {
           "title": "马宁担任法国对阵挪威第四官员",
@@ -73,11 +64,23 @@
           "ranks": [
             13,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 11时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 15时38分]"
+        },
+        {
+          "title": "美媒：美财长因乌克兰协议称商务部长是“白痴”",
+          "url": "https://flash.jin10.com/detail/20260624110943244800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "献祭全班,做题家为绩点举报作弊",
@@ -100,7 +103,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -154,13 +157,35 @@
           "time_info": "[05时48分 ~ 07时08分]"
         },
         {
+          "title": "狗啃食材被举报,网红店翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "领导八万六的沙发是我的奖金",
+          "url": "https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E5%85%AB%E4%B8%87%E5%85%AD%E7%9A%84%E6%B2%99%E5%8F%91%E6%98%AF%E6%88%91%E7%9A%84%E5%A5%96%E9%87%91&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "三部门组织实施2026年首台（套）重大技术装备保险补偿政策",
           "url": "https://wallstreetcn.com/livenews/3123759",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -193,9 +218,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
@@ -215,7 +251,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -226,7 +262,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -237,7 +273,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -248,7 +284,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
