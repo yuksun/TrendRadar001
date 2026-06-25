@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-26T05:46:57.180169+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-26T07:17:43.609537+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英国官员：在白金汉宫翻修工程于明年完工后，查尔斯国王将不会入住白金汉宫。",
           "url": "https://flash.jin10.com/detail/20260626050214318800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时17分]"
         },
         {
           "title": "日政府拟参考执政党建议提出增加防卫费",
@@ -36,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "孕期出轨,剑3选手贴吧道歉",
@@ -48,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "狗啃食材被举报,网红店翻车",
@@ -60,11 +63,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "查分跳出“屏蔽” 班主任难掩激动",
@@ -72,11 +76,23 @@
           "source": "今日头条",
           "ranks": [
             28,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 07时17分]"
+        },
+        {
+          "title": "日政府拟参考执政党建议提出增加防卫费",
+          "url": "https://flash.jin10.com/detail/20260626053145838800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "加拿大央行：较年轻的调查参与者表示，他们已经放弃了将来拥有自己住房的念头。",
@@ -101,11 +117,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[03时58分 ~ 07时17分]"
         }
       ]
     }
