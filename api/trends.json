@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-26T03:58:18.251777+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-06-26T05:46:57.180169+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "英国官员：在白金汉宫翻修工程于明年完工后，查尔斯国王将不会入住白金汉宫。",
+          "url": "https://flash.jin10.com/detail/20260626050214318800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
         {
           "title": "日政府拟参考执政党建议提出增加防卫费",
           "url": "https://wallstreetcn.com/livenews/3124833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 05时46分]"
         },
         {
           "title": "河南淮滨县通报“投资600万加油站建成即被拆除”：未批先建，相关责任人已被问责",
@@ -27,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时46分]"
         },
         {
           "title": "孕期出轨,剑3选手贴吧道歉",
@@ -39,8 +51,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时46分]"
+        },
+        {
+          "title": "狗啃食材被举报,网红店翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时46分]"
         },
         {
           "title": "查分跳出“屏蔽” 班主任难掩激动",
@@ -55,25 +79,13 @@
           "time_info": "[01时11分 ~ 03时58分]"
         },
         {
-          "title": "狗啃食材被举报,网红店翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时58分]"
-        },
-        {
           "title": "加拿大央行：较年轻的调查参与者表示，他们已经放弃了将来拥有自己住房的念头。",
           "url": "https://flash.jin10.com/detail/20260626030130608800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         }
@@ -88,11 +100,12 @@
           "url": "https://www.toutiao.com/trending/7655221033615805962/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 05时46分]"
         }
       ]
     }
