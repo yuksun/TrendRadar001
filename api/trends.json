@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:50:10.301026+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-06-26T21:10:46.747069+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "常州官方调研：“苦脏累”标签化行业面临严重人员老龄化风险",
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 21时10分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 21时10分]"
         },
         {
           "title": "河南淮滨县通报“投资600万加油站建成即被拆除”：未批先建，相关责任人已被问责",
@@ -62,19 +76,6 @@
           "time_info": "[18时49分 ~ 18时50分]"
         },
         {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 18时50分]"
-        },
-        {
           "title": "媒体呼吁提级调查河南多地虹吸式执法",
           "url": "https://www.toutiao.com/trending/7655528528718266374/",
           "source": "今日头条",
@@ -111,15 +112,37 @@
           "time_info": "[01时11分 ~ 11时32分]"
         },
         {
+          "title": "陈宇剑被免去上海市副市长职务",
+          "url": "https://www.toutiao.com/trending/7655650487064084522/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "匈牙利财政部长：待财政标准确定后可就此问题进行讨论。",
           "url": "https://flash.jin10.com/detail/20260626182048992800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "公安通报低俗摆拍女子被关铁笼游街",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AE%89%E9%80%9A%E6%8A%A5%E4%BD%8E%E4%BF%97%E6%91%86%E6%8B%8D%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%85%B3%E9%93%81%E7%AC%BC%E6%B8%B8%E8%A1%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 21时10分]"
         },
         {
           "title": "匈牙利财政部长：满足加入欧元区标准面临的最大挑战，将是使财政赤字和政府债务回到适当的轨道上。",
@@ -128,7 +151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -150,20 +173,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
-        },
-        {
-          "title": "公安通报低俗摆拍女子被关铁笼游街",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AE%89%E9%80%9A%E6%8A%A5%E4%BD%8E%E4%BF%97%E6%91%86%E6%8B%8D%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%85%B3%E9%93%81%E7%AC%BC%E6%B8%B8%E8%A1%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 18时50分]"
         },
         {
           "title": "英国官员：在白金汉宫翻修工程于明年完工后，查尔斯国王将不会入住白金汉宫。",
@@ -214,6 +226,53 @@
           "time_info": "[11时31分 ~ 15时51分]"
         },
         {
+          "title": "“反腐少将”被查，朝鲜领导层重大调整",
+          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 21时10分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时10分]"
+        },
+        {
+          "title": "警方通报：黎某某在微博公然侮辱张桂梅、制造男女对立，被拘10日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33455049",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时10分]"
+        },
+        {
+          "title": "47天内24车“无主”冻货在南阳被查扣并拍卖？南阳市监局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459774",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时10分]"
+        },
+        {
           "title": "查分跳出“屏蔽” 班主任难掩激动",
           "url": "https://www.toutiao.com/trending/7655313117290921994/",
           "source": "今日头条",
@@ -227,48 +286,16 @@
           "time_info": "[01时11分 ~ 07时17分]"
         },
         {
-          "title": "“反腐少将”被查，朝鲜领导层重大调整",
-          "url": "https://news.ifeng.com/c/8uGvyTlL0MR",
-          "source": "凤凰网",
+          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2053616361088054056",
+          "source": "知乎",
           "ranks": [
-            6
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时50分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
-          "title": "警方通报：黎某某在微博公然侮辱张桂梅、制造男女对立，被拘10日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33455049",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
-          "title": "47天内24车“无主”冻货在南阳被查扣并拍卖？南阳市监局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459774",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "time_info": "[18时50分 ~ 21时10分]"
         },
         {
           "title": "苹果涨价iPhone未涨 官方回应",
@@ -310,7 +337,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -321,7 +348,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -332,9 +359,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击以色列，将“犯下最大的错误”。",
+          "url": "https://flash.jin10.com/detail/20260626203708830800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "警方通报男子恶意仅退款榴莲",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%81%B6%E6%84%8F%E4%BB%85%E9%80%80%E6%AC%BE%E6%A6%B4%E8%8E%B2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "湖北省委原书记王忠林履新",
+          "url": "https://www.toutiao.com/trending/7655666934683274815/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "匈牙利财政部长：将于本周末向政府通报预算审查结果。",
@@ -343,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -359,17 +419,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2053616361088054056",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "日政府拟参考执政党建议提出增加防卫费",
           "url": "https://flash.jin10.com/detail/20260626053145838800",
           "source": "金十数据",
@@ -381,13 +430,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "据委内瑞拉官方通报，委内瑞拉强震遇难人数升至589人，另有2980人受伤。",
+          "url": "https://flash.jin10.com/detail/20260626203032803800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "国家外汇管理局副局长、新闻发言人李斌就2026年3月末中国外债数据有关问题答记者问",
           "url": "https://flash.jin10.com/detail/20260626180508952800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -401,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "河南南阳通报无主冻货被查扣拍卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E9%80%9A%E6%8A%A5%E6%97%A0%E4%B8%BB%E5%86%BB%E8%B4%A7%E8%A2%AB%E6%9F%A5%E6%89%A3%E6%8B%8D%E5%8D%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "48 位开发者联名举报苹果税双重标准，背弃最惠国承诺，巴西整体成本更低，若查实苹果会面临什么处罚？",
@@ -423,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "德国商报：德国财政部长必须动用97亿欧元储备金中的相当一部分来应对2027年的财政需求。",
+          "url": "https://flash.jin10.com/detail/20260626201743389800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "加拿大央行：较年轻的调查参与者表示，他们已经放弃了将来拥有自己住房的念头。",
@@ -453,7 +535,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -467,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "火车霸座咬人大妈已找到",
+          "url": "https://www.toutiao.com/trending/7655256293783846953/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
