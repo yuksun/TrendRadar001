@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-06-26T07:17:43.609537+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-06-26T11:32:15.862722+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "常州官方调研：“苦脏累”标签化行业面临严重人员老龄化风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453177",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "河南淮滨县通报“投资600万加油站建成即被拆除”：未批先建，相关责任人已被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451374",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 11时32分]"
+        },
+        {
+          "title": "孕期出轨,剑3选手贴吧道歉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355627&amp;topic_name=%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%2C%E5%89%913%E9%80%89%E6%89%8B%E8%B4%B4%E5%90%A7%E9%81%93%E6%AD%89",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 11时32分]"
+        },
+        {
+          "title": "狗啃食材被举报,网红店翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 11时32分]"
+        },
         {
           "title": "英国官员：在白金汉宫翻修工程于明年完工后，查尔斯国王将不会入住白金汉宫。",
           "url": "https://flash.jin10.com/detail/20260626050214318800",
@@ -32,45 +85,6 @@
           "time_info": "[03时58分 ~ 05时46分]"
         },
         {
-          "title": "河南淮滨县通报“投资600万加油站建成即被拆除”：未批先建，相关责任人已被问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451374",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时17分]"
-        },
-        {
-          "title": "孕期出轨,剑3选手贴吧道歉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355627&amp;topic_name=%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%2C%E5%89%913%E9%80%89%E6%89%8B%E8%B4%B4%E5%90%A7%E9%81%93%E6%AD%89",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时17分]"
-        },
-        {
-          "title": "狗啃食材被举报,网红店翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时17分]"
-        },
-        {
           "title": "查分跳出“屏蔽” 班主任难掩激动",
           "url": "https://www.toutiao.com/trending/7655313117290921994/",
           "source": "今日头条",
@@ -84,15 +98,92 @@
           "time_info": "[01时11分 ~ 07时17分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "苹果涨价iPhone未涨 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "警方通报多人将两女子关铁笼游街",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%9A%E4%BA%BA%E5%B0%86%E4%B8%A4%E5%A5%B3%E5%AD%90%E5%85%B3%E9%93%81%E7%AC%BC%E6%B8%B8%E8%A1%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "加拿大贸易部长：中方希望我们把这个问题讲清楚",
+          "url": "https://news.ifeng.com/c/8uFn3rKFhmC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "四川多地教师被要求凌晨到校验菜，官方已责成整改，这是否符合食品安全管理要求？是否超出教师本职工作范围？",
+          "url": "https://www.zhihu.com/question/2053069303918999182",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "日政府拟参考执政党建议提出增加防卫费",
           "url": "https://flash.jin10.com/detail/20260626053145838800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "官员表示，以色列和黎巴嫩的谈判将于周五继续进行。",
+          "url": "https://wallstreetcn.com/livenews/3124993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "48 位开发者联名举报苹果税双重标准，背弃最惠国承诺，巴西整体成本更低，若查实苹果会面临什么处罚？",
+          "url": "https://www.zhihu.com/question/2052475532839801341",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "加拿大央行：较年轻的调查参与者表示，他们已经放弃了将来拥有自己住房的念头。",
@@ -104,6 +195,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "国家能源局局长王宏志：预计“十五五”能源重点项目和新业态投资总规模超20万亿元",
+          "url": "https://wallstreetcn.com/livenews/3124984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
+          "url": "https://wallstreetcn.com/livenews/3124978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
