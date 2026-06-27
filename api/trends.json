@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T18:06:52.558973+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-27T20:09:08.407606+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 62,
+      "match_count": 76,
       "titles": [
         {
           "title": "47天内24车“无主”冻货在南阳被查扣并拍卖？南阳市监局回应",
@@ -43,11 +43,26 @@
             12,
             17,
             20,
-            21
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 20时09分]"
+        },
+        {
+          "title": "王忠林任全国人大环境与资源保护委员会副主任委员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33461349",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时15分 ~ 18时06分]"
+          "time_info": "[00时15分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -89,19 +104,6 @@
           "time_info": "[00时15分 ~ 04时46分]"
         },
         {
-          "title": "王忠林任全国人大环境与资源保护委员会副主任委员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33461349",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 18时06分]"
-        },
-        {
           "title": "蔡朝晖已任中央政法委专职主任",
           "url": "https://www.toutiao.com/trending/7655902728484294190/",
           "source": "今日头条",
@@ -111,6 +113,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "中央社会工作部副部长贺志亮被查",
+          "url": "https://www.toutiao.com/trending/7656012552056815667/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "黎某某网上侮辱张桂梅校长被行拘",
+          "url": "https://www.toutiao.com/trending/7655353973922365483/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 20时09分]"
+        },
+        {
+          "title": "网民公然侮辱张桂梅校长被行拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%A0%A1%E9%95%BF%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 20时09分]"
         },
         {
           "title": "湖北省委原书记王忠林履新",
@@ -165,11 +200,12 @@
           "url": "https://www.toutiao.com/trending/7655986012111244863/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时09分]"
         },
         {
           "title": "布基纳法索通信部长称，布基纳法索将断绝与法国的外交关系。",
@@ -181,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "阿联酋外交大臣称赞黎巴嫩和以色列政府达成框架协议的努力。",
-          "url": "https://flash.jin10.com/detail/20260627173831195800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
@@ -217,28 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 18时06分]"
-        },
-        {
-          "title": "黎某某网上侮辱张桂梅校长被行拘",
-          "url": "https://www.toutiao.com/trending/7655353973922365483/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 18时06分]"
-        },
-        {
-          "title": "网民公然侮辱张桂梅校长被行拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E5%BC%A0%E6%A1%82%E6%A2%85%E6%A0%A1%E9%95%BF%E8%A2%AB%E8%A1%8C%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 18时06分]"
         },
         {
           "title": "网民公然侮辱张桂梅校长被行拘",
@@ -301,6 +304,18 @@
           "time_info": "[12时53分 ~ 15时48分]"
         },
         {
+          "title": "阿联酋外交大臣称赞黎巴嫩和以色列政府达成框架协议的努力。",
+          "url": "https://flash.jin10.com/detail/20260627173831195800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
           "title": "以官员披露三方框架协议细节：以军继续驻留黎南部“安全区”",
           "url": "https://wallstreetcn.com/livenews/3125430",
           "source": "华尔街见闻-快讯",
@@ -351,6 +366,18 @@
           "time_info": "[08时05分 ~ 12时53分]"
         },
         {
+          "title": "全国人民代表大会常务委员会公告〔十四届〕第十八号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33464086",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
           "title": "男子买榴莲仅退款后转卖 警方通报",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E6%A6%B4%E8%8E%B2%E4%BB%85%E9%80%80%E6%AC%BE%E5%90%8E%E8%BD%AC%E5%8D%96+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -375,6 +402,28 @@
           "time_info": "[00时15分 ~ 08时05分]"
         },
         {
+          "title": "班主任说要解散班级群",
+          "url": "https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%AF%B4%E8%A6%81%E8%A7%A3%E6%95%A3%E7%8F%AD%E7%BA%A7%E7%BE%A4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "人大博士肄业宅家六年靠父母供养",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%8D%9A%E5%A3%AB%E8%82%84%E4%B8%9A%E5%AE%85%E5%AE%B6%E5%85%AD%E5%B9%B4%E9%9D%A0%E7%88%B6%E6%AF%8D%E4%BE%9B%E5%85%BB%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "国商品期货交易委员会（CFTC）：6月23日当周，投机者所持NYMEX WTI原油净多头头寸下降12,491手合约，至88,486手合约。",
           "url": "https://wallstreetcn.com/livenews/3125442",
           "source": "华尔街见闻-快讯",
@@ -385,6 +434,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时12分]"
+        },
+        {
+          "title": "张主任跨圈加盟懂球大会",
+          "url": "https://www.douyin.com/hot/2549847",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "河南省提级调查处理驻马店市泌阳县等地“查扣冻品”问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33468287",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
         },
         {
           "title": "联合国官员：委内瑞拉强震后逾5万人失踪",
@@ -435,6 +506,17 @@
           "time_info": "[15时48分 ~ 18时06分]"
         },
         {
+          "title": "中央社会工作部副部长贺志亮被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%A4%BE%E4%BC%9A%E5%B7%A5%E4%BD%9C%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%B4%BA%E5%BF%97%E4%BA%AE%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "联合国官员称委强震超5万人失联，委官方未确认",
           "url": "https://wallstreetcn.com/livenews/3125527",
           "source": "华尔街见闻-快讯",
@@ -447,6 +529,17 @@
           "time_info": "[12时53分 ~ 15时48分]"
         },
         {
+          "title": "安徽淮北警方通报“一买家网购榴莲‘仅退款’后倒卖”：24岁男子被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33463319",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "官方通报饭馆天花板灭蝇贴粘满苍蝇",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%A5%AD%E9%A6%86%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%81%AD%E8%9D%87%E8%B4%B4%E7%B2%98%E6%BB%A1%E8%8B%8D%E8%9D%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -456,6 +549,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "人大博士肄业宅家六年靠父母供养",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E5%8D%9A%E5%A3%AB%E8%82%84%E4%B8%9A%E5%AE%85%E5%AE%B6%E5%85%AD%E5%B9%B4%E9%9D%A0%E7%88%B6%E6%AF%8D%E4%BE%9B%E5%85%BB",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "师徒杯S3选人大会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%88%E5%BE%92%E6%9D%AFS3%E9%80%89%E4%BA%BA%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
         },
         {
           "title": "巴西卢拉誓言将国防事宜纳入政府计划。",
@@ -513,6 +628,50 @@
           "time_info": "00时15分"
         },
         {
+          "title": "德国外交部长：我们支持以色列与黎巴嫩之间协议的实施，黎巴嫩国家对武力的垄断至关重要。",
+          "url": "https://flash.jin10.com/detail/20260627183057996800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "中央社会工作部副部长贺志亮被查",
+          "url": "https://wallstreetcn.com/livenews/3125584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "德国外交部长：以色列与黎巴嫩之间的协议增强了两国的安全，并为解决持续数十年的冲突提供了机会。",
+          "url": "https://flash.jin10.com/detail/20260627183030385800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "河南省提级调查处理驻马店市泌阳县等地“查扣冻品”问题",
+          "url": "https://wallstreetcn.com/livenews/3125582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "受权发布｜全国人民代表大会常务委员会关于批准2025年中央决算的决议",
           "url": "https://wallstreetcn.com/livenews/3125379",
           "source": "华尔街见闻-快讯",
@@ -557,6 +716,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "中央社会工作部副部长贺志亮涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+          "url": "https://flash.jin10.com/detail/20260627180723740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "委内瑞拉石油部长：石油作业正常，油井处于活跃状态，总产量为每天120万桶。",
           "url": "https://flash.jin10.com/detail/20260627040320882800",
           "source": "金十数据",
@@ -574,18 +744,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "全国人民代表大会常务委员会公告〔十四届〕第十八号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33464086",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -607,7 +766,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -618,7 +777,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -731,6 +890,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "山东曲阜一牌坊构件脱落致1死6伤",
+          "url": "https://www.toutiao.com/trending/7655947617947533318/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "山东曲阜尼山镇一牌坊倒塌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%9B%B2%E9%98%9C%E5%B0%BC%E5%B1%B1%E9%95%87%E4%B8%80%E7%89%8C%E5%9D%8A%E5%80%92%E5%A1%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
         }
       ]
     }
