@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T03:17:36.564593+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-06-29T05:00:47.848568+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时00分]"
         },
         {
           "title": "派出所集体去 KTV 招异性陪侍被纪委抓现行，事发两年未通报，涉事人员免职但均保留公职，暴露出哪些问题？",
@@ -27,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
-          "url": "https://flash.jin10.com/detail/20260629022704553800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 05时00分]"
         },
         {
           "title": "实习期把公司领导开除了",
@@ -48,7 +37,18 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时00分]"
+        },
+        {
+          "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
+          "url": "https://flash.jin10.com/detail/20260629022704553800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -61,20 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "人大博士肄业宅家六年靠父母供养，曾确诊焦虑症，为什么会出现这种情况？反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2054263250850669356",
-          "source": "知乎",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 05时00分]"
         },
         {
           "title": "中国社会科学院原常务副院长、厦门大学党委原书记王洛林逝世",
@@ -84,8 +72,21 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时00分]"
+        },
+        {
+          "title": "人大博士肄业宅家六年靠父母供养，曾确诊焦虑症，为什么会出现这种情况？反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2054263250850669356",
+          "source": "知乎",
+          "ranks": [
+            4,
+            16,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时17分]"
+          "time_info": "[01时09分 ~ 05时00分]"
         },
         {
           "title": "韩国队世界杯出局，李在明：感到震惊，非常困惑，展开调查",
@@ -95,8 +96,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 05时00分]"
+        },
+        {
+          "title": "李在明要调查韩国队出局原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A6%81%E8%B0%83%E6%9F%A5%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "time_info": "[04时59分 ~ 05时00分]"
         },
         {
           "title": "中央通报3起政绩观偏差问题",
@@ -108,6 +120,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "贵州一地村民房屋垮塌 镇政府回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%9C%B0%E6%9D%91%E6%B0%91%E6%88%BF%E5%B1%8B%E5%9E%AE%E5%A1%8C+%E9%95%87%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时00分]"
+        },
+        {
+          "title": "伊朗官员：受遭袭事件影响 伊方缺席28日的美伊技术性谈判",
+          "url": "https://flash.jin10.com/detail/20260629040447671800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "伊朗官员称伊朗未参加周日的谈判",
+          "url": "https://flash.jin10.com/detail/20260629033956153800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
