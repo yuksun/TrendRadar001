@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T06:09:10.866469+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-06-29T08:07:35.840403+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 08时07分]"
         },
         {
           "title": "实习期把公司领导开除了",
           "url": "https://s.weibo.com/weibo?q=%E5%AE%9E%E4%B9%A0%E6%9C%9F%E6%8A%8A%E5%85%AC%E5%8F%B8%E9%A2%86%E5%AF%BC%E5%BC%80%E9%99%A4%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 08时07分]"
         },
         {
           "title": "派出所集体去 KTV 招异性陪侍被纪委抓现行，事发两年未通报，涉事人员免职但均保留公职，暴露出哪些问题？",
@@ -35,22 +36,24 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 08时07分]"
         },
         {
           "title": "中国社会科学院原常务副院长、厦门大学党委原书记王洛林逝世",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470539",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 08时07分]"
         },
         {
           "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
@@ -89,6 +92,19 @@
           "time_info": "[01时09分 ~ 06时09分]"
         },
         {
+          "title": "李在明要调查韩国队出局原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A6%81%E8%B0%83%E6%9F%A5%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时59分 ~ 08时07分]"
+        },
+        {
           "title": "韩国队世界杯出局，李在明：感到震惊，非常困惑，展开调查",
           "url": "https://news.ifeng.com/c/8uKPcfbCdgM",
           "source": "凤凰网",
@@ -98,18 +114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 06时09分]"
-        },
-        {
-          "title": "李在明要调查韩国队出局原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A6%81%E8%B0%83%E6%9F%A5%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时59分 ~ 06时09分]"
         },
         {
           "title": "伊朗官员：受遭袭事件影响 伊方缺席28日的美伊技术性谈判",
@@ -156,6 +160,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时00分]"
+        },
+        {
+          "title": "3天内超额死亡约千人，法国政府警告",
+          "url": "https://news.ifeng.com/c/8uLJ1v61duZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "景顺调查：在地缘政治风险上升之际，71%的央行认为“韧性”与回报同样重要。",
+          "url": "https://flash.jin10.com/detail/20260629070242996800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美官员：美伊计划于30日在卡塔尔首都举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3125714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
+          "url": "https://wallstreetcn.com/livenews/3125716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
