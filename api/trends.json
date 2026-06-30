@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-01T01:52:13.360894+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T03:53:24.593722+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 12,
+      "match_count": 22,
       "titles": [
         {
           "title": "装空调被市长拆,法国真环保",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355763&amp;topic_name=%E8%A3%85%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%B8%82%E9%95%BF%E6%8B%86%2C%E6%B3%95%E5%9B%BD%E7%9C%9F%E7%8E%AF%E4%BF%9D",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时53分]"
         },
         {
           "title": "中国共产党党员队伍稳步壮大",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时53分]"
         },
         {
           "title": "中国共产党党员总数为10128.6万名",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时53分]"
         },
         {
           "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
@@ -47,9 +48,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 03时53分]"
         },
         {
           "title": "市场消息：巴西政府将逐步削减紧急燃料补贴。",
@@ -58,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -78,22 +79,24 @@
           "url": "https://www.toutiao.com/trending/7657202302045933097/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时53分]"
         },
         {
           "title": "涉案超3亿，河南省人大常委会原党组副书记刘满仓一审获无期",
           "url": "https://m.thepaper.cn/newsDetail_forward_33484980",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时53分]"
         },
         {
           "title": "两家生物医药公司实控人被查",
@@ -118,15 +121,81 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "欧洲央行管委Kazaks：继续加息的紧迫性已经显著下降。 当前无需采取强有力的通胀应对手段。 难以判断央行将在7月、9月采取什么行动。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3126958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "巴西计划部长Moretti：随着油价下跌，我们正撤销补贴政策。 随着油价下跌，我们可以针对其他燃油采取行动。 油价下跌还影响到政府税收。",
+          "url": "https://wallstreetcn.com/livenews/3126955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "巴西财政部长：正在重新评估液化天然气补贴政策，该部分调整影响相对较小。",
+          "url": "https://flash.jin10.com/detail/20260701032056323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "巴西财政部长：巴西愿意重新协商农村债务，但不能接受覆盖所有群体的“一刀切式”重组方案，尤其是不包含真实需求者的情况。强调农村债务重组与石油出口税并无关联。",
+          "url": "https://flash.jin10.com/detail/20260701031956638800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "巴西财政部长：我们正在仔细评估石油出口税。",
+          "url": "https://flash.jin10.com/detail/20260701031825868800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
           "title": "欧洲央行管委多伦茨：如果当前油价维持稳定，欧洲央行可能等到9月再决定是否需要进一步调整货币政策。目前尚未看到通胀出现明显的第二轮效应。",
           "url": "https://flash.jin10.com/detail/20260701005557351800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "欧洲央行管委Dolenc：下次货币政策会议之前，形势可能会瞬息万变。 与中东相关的不确定性仍然偏高。 鉴于当前数据，央行在7月按兵不动可能是适宜的。 如果能源价格持续受抑，不急于加息。",
+          "url": "https://wallstreetcn.com/livenews/3126946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "市场消息：以色列军方表示，已紧急出动两架战斗机，飞向一架在地中海上空飞行的民航客机；欧洲官员称，该机飞行员误发了劫机代码。",
@@ -135,9 +204,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：目前没有必要采取强有力的通胀应对措施。很难预测七月和九月会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260701031511938800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：如果情况好转，可能不会进一步加息。连续加息的紧迫性显著降低。",
+          "url": "https://flash.jin10.com/detail/20260701031455118800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "李常官已任民政部党组书记",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%B8%B8%E5%AE%98%E5%B7%B2%E4%BB%BB%E6%B0%91%E6%94%BF%E9%83%A8%E5%85%9A%E7%BB%84%E4%B9%A6%E8%AE%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "全网爆火哈兰德梗解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%BD%91%E7%88%86%E7%81%AB%E5%93%88%E5%85%B0%E5%BE%B7%E6%A2%97%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         }
       ]
     }
