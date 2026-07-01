@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T03:52:19.202351+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-02T05:27:02.953744+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "8名共产党员获颁党内最高荣誉“七一勋章”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时27分]"
         },
         {
           "title": "九部门：7月1日起新就业形态人员职业伤害保障试点向全国推开",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时27分]"
         },
         {
           "title": "真实的乡镇公务员是这样的",
@@ -35,11 +35,12 @@
           "source": "微博",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时27分]"
         },
         {
           "title": "装空调被市长拆,法国真环保",
@@ -50,8 +51,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时27分]"
         },
         {
           "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
@@ -60,7 +61,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -71,7 +72,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -82,9 +83,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "市场消息：乌克兰官员表示，防空系统正在拦截俄罗斯对基辅的无人机袭击，至少有两个地区发现无人机残骸落地。",
+          "url": "https://flash.jin10.com/detail/20260702043225260800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "墨西哥经济部长：我们在钢铁和铝关税问题上未达成一致，在汽车零部件的区域性成分不被纳入考虑以及农产品季节性等问题存在分歧。",
@@ -93,7 +105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -104,7 +116,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -126,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -148,7 +160,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
