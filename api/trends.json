@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T20:03:59.039237+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-07-01T23:40:52.557366+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 56,
       "titles": [
         {
           "title": "装空调被市长拆,法国真环保",
@@ -16,11 +16,12 @@
             2,
             10,
             14,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 20时03分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 23时40分]"
         },
         {
           "title": "中国共产党党员队伍稳步壮大",
@@ -59,6 +60,18 @@
           "time_info": "[01时51分 ~ 16时11分]"
         },
         {
+          "title": "8名共产党员获颁党内最高荣誉“七一勋章”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33491804",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 23时40分]"
+        },
+        {
           "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
           "url": "https://www.cls.cn/detail/2413124",
           "source": "财联社热门",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 07时11分]"
-        },
-        {
-          "title": "8名共产党员获颁党内最高荣誉“七一勋章”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33491804",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 20时03分]"
         },
         {
           "title": "8名共产党员获“七一勋章”",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时10分 ~ 20时03分]"
+        },
+        {
+          "title": "沃什邀请英国央行前行长默文·金领导美联储的沟通工作组",
+          "url": "https://flash.jin10.com/detail/20260701232315327800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
@@ -175,7 +188,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -186,11 +199,12 @@
           "ranks": [
             18,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 20时03分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 23时40分]"
         },
         {
           "title": "民政部部长陆治原履新职",
@@ -296,6 +310,18 @@
           "time_info": "[16时10分 ~ 16时11分]"
         },
         {
+          "title": "陆治原任中华全国总工会党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488740",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 23时40分]"
+        },
+        {
           "title": "两家生物医药公司实控人被查",
           "url": "https://www.toutiao.com/trending/7657169936598437430/",
           "source": "今日头条",
@@ -341,6 +367,28 @@
           "time_info": "[16时10分 ~ 16时11分]"
         },
         {
+          "title": "谷歌云确认在荷兰数据保护影响评估获得批准后，将为欧盟公共部门组织提供更安全的选择。",
+          "url": "https://flash.jin10.com/detail/20260701231456267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "科特迪瓦政府发言人：近期洪水已造成59人死亡。",
+          "url": "https://flash.jin10.com/detail/20260701230727460800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
           "url": "https://flash.jin10.com/detail/20260701112605647800",
           "source": "金十数据",
@@ -350,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "实施重组后，首开集团新的领导班子定了",
+          "url": "https://wallstreetcn.com/livenews/3127505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "巴西财政部长：正在重新评估液化天然气补贴政策，该部分调整影响相对较小。",
@@ -380,7 +439,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -407,6 +466,17 @@
           "time_info": "16时11分"
         },
         {
+          "title": "墨西哥央行调查：私营部门分析师预计基准利率将在2026年结束时达到6.50%，将在2027年结束时达到6.50%。",
+          "url": "https://flash.jin10.com/detail/20260701230336750800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "中学校长给老师披上“一被子”荣誉",
           "url": "https://www.toutiao.com/trending/7656641969008099347/",
           "source": "今日头条",
@@ -416,6 +486,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "墨西哥央行调查：私营部门分析师预计2026年底墨西哥比索兑美元汇率为17.88，预计2027年底墨西哥比索兑美元为18.50。",
+          "url": "https://flash.jin10.com/detail/20260701230320391800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "真实的乡镇公务员是这样的",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "墨西哥央行调查：私营部门分析师预计2026年墨西哥经济增长为1.10%，预计2027年墨西哥经济增长为1.80%。",
+          "url": "https://flash.jin10.com/detail/20260701230221855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "欧洲央行管委多伦茨：如果当前油价维持稳定，欧洲央行可能等到9月再决定是否需要进一步调整货币政策。目前尚未看到通胀出现明显的第二轮效应。",
@@ -429,6 +532,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "墨西哥央行调查：私营部门分析师预计2026年底整体通胀为4.20%，预计2027年底整体通胀为3.84%。预计2026年底核心通胀为4.18%，预计2027年底核心通胀为3.80%。",
+          "url": "https://flash.jin10.com/detail/20260701230154929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "欧洲央行管委Dolenc：下次货币政策会议之前，形势可能会瞬息万变。 与中东相关的不确定性仍然偏高。 鉴于当前数据，央行在7月按兵不动可能是适宜的。 如果能源价格持续受抑，不急于加息。",
           "url": "https://wallstreetcn.com/livenews/3126946",
           "source": "华尔街见闻-快讯",
@@ -438,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        },
-        {
-          "title": "陆治原任中华全国总工会党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33488740",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "墨西哥经济部长：我们不认为美墨加协定（USMCA）条约会被废除。",
@@ -468,7 +571,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -515,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "惠誉评级：持久的美伊停火对海湾合作委员会银行体系维持韧性至关重要。",
+          "url": "https://flash.jin10.com/detail/20260701225133795800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "陆治原任中华全国总工会党组书记",
