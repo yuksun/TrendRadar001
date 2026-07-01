@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T05:27:02.953744+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-02T07:13:53.919339+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "8名共产党员获颁党内最高荣誉“七一勋章”",
@@ -15,19 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时13分]"
         },
         {
           "title": "九部门：7月1日起新就业形态人员职业伤害保障试点向全国推开",
           "url": "https://m.thepaper.cn/newsDetail_forward_33494345",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时13分]"
+        },
+        {
+          "title": "装空调被市长拆,法国真环保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355763&amp;topic_name=%E8%A3%85%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%B8%82%E9%95%BF%E6%8B%86%2C%E6%B3%95%E5%9B%BD%E7%9C%9F%E7%8E%AF%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时13分]"
         },
         {
           "title": "真实的乡镇公务员是这样的",
@@ -37,18 +50,6 @@
             20,
             27,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时27分]"
-        },
-        {
-          "title": "装空调被市长拆,法国真环保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355763&amp;topic_name=%E8%A3%85%E7%A9%BA%E8%B0%83%E8%A2%AB%E5%B8%82%E9%95%BF%E6%8B%86%2C%E6%B3%95%E5%9B%BD%E7%9C%9F%E7%8E%AF%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -94,7 +95,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -152,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "石家庄一公职人员被指拒付525万元工程欠款，用人单位：离岗状态，工程与单位无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33492284",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
