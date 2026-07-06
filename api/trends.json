@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T00:19:48.797521+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-07T02:54:45.887987+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "受贿超22亿元，南京经开区管委会原常务副主任杨有林一审被判死刑",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "广西南宁通报受灾情况",
-          "url": "https://www.douyin.com/hot/2561179",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
         },
         {
           "title": "欧洲央行管委温施：工资发展似乎相当温和。",
@@ -74,6 +63,64 @@
           "time_info": "00时19分"
         },
         {
+          "title": "广西南宁通报受灾情况",
+          "url": "https://www.douyin.com/hot/2561179",
+          "source": "抖音",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
+        },
+        {
+          "title": "受贿超22亿元 南京经开区管委会原常务副主任杨有林一审被判死刑",
+          "url": "https://www.cls.cn/detail/2418098",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
+        },
+        {
+          "title": "广西南宁受灾情况通报",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
+        },
+        {
+          "title": "贵港发布通报澄清水库险情谣言",
+          "url": "https://www.douyin.com/hot/2560639",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
+        },
+        {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时54分]"
+        },
+        {
           "title": "美联储理事沃勒：FOMC官员们一直致力于实现2%通胀目标，这是一个可信的承诺。 劳动力市场似乎正趋于稳定。",
           "url": "https://wallstreetcn.com/livenews/3129480",
           "source": "华尔街见闻-快讯",
@@ -85,48 +132,37 @@
           "time_info": "00时19分"
         },
         {
-          "title": "受贿超22亿元 南京经开区管委会原常务副主任杨有林一审被判死刑",
-          "url": "https://www.cls.cn/detail/2418098",
-          "source": "财联社热门",
+          "title": "以色列官员：我们不打算在黎巴嫩南部安全区内建立永久性（军事）据点。",
+          "url": "https://wallstreetcn.com/livenews/3129515",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时54分"
         },
         {
-          "title": "广西南宁受灾情况通报",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "以官员：不计划在黎南建立永久据点",
+          "url": "https://flash.jin10.com/detail/20260707012753261800",
+          "source": "金十数据",
           "ranks": [
-            13
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时54分"
         },
         {
-          "title": "贵港发布通报澄清水库险情谣言",
-          "url": "https://www.douyin.com/hot/2560639",
-          "source": "抖音",
+          "title": "广西南宁通报水库灾情",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E9%80%9A%E6%8A%A5%E6%B0%B4%E5%BA%93%E7%81%BE%E6%83%85%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "02时54分"
         }
       ]
     }
