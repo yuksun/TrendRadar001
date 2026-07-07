@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T03:53:12.314216+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-07-08T06:59:46.406580+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。",
@@ -37,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：港口官员称，阿巴斯港鱼市后方冒出的黑烟，是“敌方炮弹”击中渔业码头、导致多艘民用渔船起火所致。",
+          "url": "https://flash.jin10.com/detail/20260708063907926800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
@@ -48,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -59,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -69,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "姆巴佩遭巴拉圭官员种族歧视",
@@ -84,8 +97,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "司晓迪拍私照实锤鹿晗出轨",
@@ -96,8 +109,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -108,19 +121,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2057930097039090211",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 06时59分]"
         },
         {
           "title": "甘肃省委书记胡昌升、省长任振鹤赴滑坡现场，指挥抢险救灾",
@@ -130,8 +144,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 06时59分]"
+        },
+        {
+          "title": "美官员：此次对伊打击力度比上次大四到五倍",
+          "url": "https://flash.jin10.com/detail/20260708062640530800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美官员称对伊朗打击是“惩罚” 不是对等回应",
+          "url": "https://flash.jin10.com/detail/20260708062058418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "甘肃天水市政府大楼被鉴定为D级危楼",
+          "url": "https://www.toutiao.com/trending/7659397328910827547/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，霍尔木兹海峡的航运通行正按照伊朗的安排进行。",
@@ -151,7 +198,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -195,9 +242,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "英国政府：英国将主导一项欧洲倡议，以增加对深度精确打击能力的资金支持。新倡议下，盟国将在未来10年内投资500亿美元，开发深度精确打击能力。",
+          "url": "https://flash.jin10.com/detail/20260708053432751800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "巴基斯坦官员称巴安全部队击毙15名恐怖分子",
