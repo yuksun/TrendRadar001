@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T07:05:46.634762+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-09T10:47:37.350152+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "据韩国媒体报道：韩国官员称，韩元疲软是暂时性的。",
@@ -14,9 +14,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "9部门支持加快零售业创新发展",
+          "url": "https://s.weibo.com/weibo?q=%239%E9%83%A8%E9%97%A8%E6%94%AF%E6%8C%81%E5%8A%A0%E5%BF%AB%E9%9B%B6%E5%94%AE%E4%B8%9A%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "两部门预拨款支持鄂陇抢险救灾",
+          "url": "https://www.douyin.com/hot/2563368",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "丈夫掐脖灌水致出轨妻子死亡获刑",
+          "url": "https://www.toutiao.com/trending/7660052066710372406/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 10时47分]"
         },
         {
           "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
@@ -44,15 +78,16 @@
           "time_info": "[01时29分 ~ 03时22分]"
         },
         {
-          "title": "丈夫掐脖灌水致出轨妻子死亡获刑",
-          "url": "https://www.toutiao.com/trending/7660052066710372406/",
-          "source": "今日头条",
+          "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
+          "url": "https://www.cls.cn/detail/2420995",
+          "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 07时05分]"
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 10时47分]"
         },
         {
           "title": "曝FBI调查阿根廷足协在美资金运作",
@@ -67,13 +102,35 @@
           "time_info": "[01时29分 ~ 03时22分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "9部门：支持符合条件的新型优质零售企业上市",
+          "url": "https://www.cls.cn/detail/2421081",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "墨总统称将升级回应墨移民遭美执法人员枪杀事件",
           "url": "https://flash.jin10.com/detail/20260709062320473800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -87,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
-          "url": "https://www.cls.cn/detail/2420995",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
         },
         {
           "title": "埃及足协向国际足联正式提出申诉，要求调查主裁判，预计会得到怎样的处理？对已完结比赛结果有多大实际作用？",
@@ -128,9 +174,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "FBI调查阿根廷足协在美资金运作",
+          "url": "https://s.weibo.com/weibo?q=%23FBI%E8%B0%83%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F%E5%9C%A8%E7%BE%8E%E8%B5%84%E9%87%91%E8%BF%90%E4%BD%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "美联储主席沃什将于7月15日出席参议院银行委员会听证会",
@@ -139,7 +196,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -156,11 +213,12 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 10时47分]"
         }
       ]
     }
