@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T14:43:33.732744+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-07-09T18:28:42.966233+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "两部门预拨款支持鄂陇抢险救灾",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "伊朗革命卫队指挥官：美以图谋在伊境内建立反政府组织",
+          "url": "https://wallstreetcn.com/livenews/3131288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
@@ -74,6 +85,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 10时47分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 18时28分]"
         },
         {
           "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
@@ -113,18 +137,6 @@
           "time_info": "[10时47分 ~ 14时43分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 14时43分]"
-        },
-        {
           "title": "曝FBI调查阿根廷足协在美资金运作",
           "url": "https://www.toutiao.com/trending/7660086048949616649/",
           "source": "今日头条",
@@ -137,13 +149,24 @@
           "time_info": "[01时29分 ~ 03时22分]"
         },
         {
+          "title": "财联社C50风向指数调查：7月资金面或维持中性偏松，政府债供给将迎加速",
+          "url": "https://www.cls.cn/detail/2421229",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "北约秘书长自夸：这一点，中国做不到",
           "url": "https://news.ifeng.com/c/8ubycb8nfbl",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -170,6 +193,50 @@
           "time_info": "03时22分"
         },
         {
+          "title": "越南外交部：越南部长将出席曼谷活动。",
+          "url": "https://flash.jin10.com/detail/20260709180210765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美称中方导弹试射通报晚 外交部回应",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E9%80%9A%E6%8A%A5%E6%99%9A+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美称中方导弹试射通报过晚 外交部回应",
+          "url": "https://www.toutiao.com/trending/7659316847728295945/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "72名欧洲议员联名呼吁调查FIFA主席",
+          "url": "https://www.toutiao.com/trending/7659676370661916714/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "埃及足协向国际足联正式提出申诉，要求调查主裁判，预计会得到怎样的处理？对已完结比赛结果有多大实际作用？",
           "url": "https://www.zhihu.com/question/2058142178803541183",
           "source": "知乎",
@@ -187,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -209,7 +276,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -225,13 +292,24 @@
           "time_info": "07时05分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：今天我们推出了一项针对移民走私者和贩运者的新制裁机制。",
+          "url": "https://flash.jin10.com/detail/20260709175530439800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "韩国一化工冶炼厂发生火灾 政府提醒民众警惕有毒气体泄漏",
           "url": "https://wallstreetcn.com/livenews/3131101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -245,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "深圳市委召开专题会议 研究部署工业投资重点项目推进等工作",
+          "url": "https://flash.jin10.com/detail/20260709175350781800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美联储主席沃什将于7月15日出席参议院银行委员会听证会",
