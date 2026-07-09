@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-10T00:26:49.023715+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-10T02:49:50.144914+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "欧洲央行管委Nagel：决策者谈论利率前景时需克制",
-          "url": "https://wallstreetcn.com/livenews/3131472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
+        },
+        {
+          "title": "欧洲央行管委Nagel：决策者谈论利率前景时需克制",
+          "url": "https://wallstreetcn.com/livenews/3131472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
         },
         {
           "title": "涉美伊，联合国秘书长：感到震惊",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
         },
         {
           "title": "近亿元高标准农田项目被拆分非法转包？河南社旗对14名干部启动问责",
@@ -59,19 +59,76 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
         },
         {
           "title": "河南社旗一高标准农田项目建成六年后多处设施“瘫痪”，14名干部被启动问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547915",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
+        },
+        {
+          "title": "长沙市体育局通报工作人员占他人车位引发纠纷：正开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33551327",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
+        },
+        {
+          "title": "美方称中方导弹试射通报晚且细节不足，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549427",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧盟政府必须采取行动来发展经济。 我们需要一种欧洲资产，这是“相当显而易见的”。 自从针对新冠疫情推出支持资金以来，形势已经变化。（EuroNews）",
+          "url": "https://wallstreetcn.com/livenews/3131503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时49分"
+        },
+        {
+          "title": "据叙利亚电视台：叙利亚内政部长表示，已逮捕两天前制造大马士革爆炸事件的团伙。",
+          "url": "https://flash.jin10.com/detail/20260710021734344800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "一条高铁开通 两省书记站台",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%AB%98%E9%93%81%E5%BC%80%E9%80%9A+%E4%B8%A4%E7%9C%81%E4%B9%A6%E8%AE%B0%E7%AB%99%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "玻利维亚能源部长：下周将成立工作组研究巴西石油公司重新进入玻利维亚的事宜。",
@@ -85,26 +142,26 @@
           "time_info": "00时26分"
         },
         {
-          "title": "长沙市体育局通报工作人员占他人车位引发纠纷：正开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33551327",
-          "source": "澎湃新闻",
+          "title": "欧洲央行行长拉加德：欧盟各国政府必须采取行动以发展经济。",
+          "url": "https://flash.jin10.com/detail/20260710020640295800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时49分"
         },
         {
-          "title": "美方称中方导弹试射通报晚且细节不足，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33549427",
-          "source": "澎湃新闻",
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：欧盟“安全资产”讨论并非新议题，当前仍具有相关性。",
+          "url": "https://flash.jin10.com/detail/20260710015956301800",
+          "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时49分"
         }
       ]
     },
@@ -120,8 +177,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时49分]"
         },
         {
           "title": "山东泰安：将泰山景区现有刀片式隔离网拆除或替代",
