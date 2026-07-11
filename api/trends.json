@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T15:52:35.779816+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-07-11T17:27:36.350721+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "涉数据造假、论文买卖等，28起医学论文造假违规案例被通报",
@@ -94,13 +94,24 @@
           "time_info": "[00时55分 ~ 07时08分]"
         },
         {
+          "title": "朝鲜通报特大腐败犯罪",
+          "url": "https://www.toutiao.com/trending/7661109323968282666/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "朝鲜通报朴喜哲为首特大腐败行为",
           "url": "https://www.toutiao.com/trending/7661109323968282666/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -144,11 +155,23 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 17时27分]"
+        },
+        {
+          "title": "朝鲜通报以朴喜哲为首的特大腐败行为",
+          "url": "https://news.ifeng.com/c/8ufbPECS3xm",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时52分]"
+          "time_info": "[13时39分 ~ 17时27分]"
         },
         {
           "title": "儿子出轨后婆婆上门硬刚替儿媳讨说法",
@@ -164,15 +187,52 @@
           "time_info": "[00时55分 ~ 04时21分]"
         },
         {
-          "title": "朝鲜通报以朴喜哲为首的特大腐败行为",
-          "url": "https://news.ifeng.com/c/8ufbPECS3xm",
-          "source": "凤凰网",
+          "title": "朝鲜通报腐败犯罪 金正恩强调廉洁",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%80%9A%E6%8A%A5%E8%85%90%E8%B4%A5%E7%8A%AF%E7%BD%AA+%E9%87%91%E6%AD%A3%E6%81%A9%E5%BC%BA%E8%B0%83%E5%BB%89%E6%B4%81",
+          "source": "百度热搜",
           "ranks": [
-            6
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时39分 ~ 15时52分]"
+          "time_info": "[15时52分 ~ 17时27分]"
+        },
+        {
+          "title": "德银：下周美联储官员密集讲话，需关注官员对CPI数据的解读与潜在加息倾向",
+          "url": "https://flash.jin10.com/detail/20260711145214157800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时27分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐抵达阿曼",
+          "url": "https://wallstreetcn.com/livenews/3132315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时27分]"
+        },
+        {
+          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时27分]"
         },
         {
           "title": "防御台风 台州市委书记作电视讲话",
@@ -198,24 +258,13 @@
           "time_info": "00时55分"
         },
         {
-          "title": "朝鲜通报腐败犯罪 金正恩强调廉洁",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E9%80%9A%E6%8A%A5%E8%85%90%E8%B4%A5%E7%8A%AF%E7%BD%AA+%E9%87%91%E6%AD%A3%E6%81%A9%E5%BC%BA%E8%B0%83%E5%BB%89%E6%B4%81",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "媒体：公职人员的私德真不是小事",
           "url": "https://www.toutiao.com/trending/7660500787226820662/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -242,17 +291,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "德银：下周美联储官员密集讲话，需关注官员对CPI数据的解读与潜在加息倾向",
-          "url": "https://flash.jin10.com/detail/20260711145214157800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
           "url": "https://wallstreetcn.com/livenews/3132224",
           "source": "华尔街见闻-快讯",
@@ -264,15 +302,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "伊朗外交部长阿拉格齐抵达阿曼",
-          "url": "https://wallstreetcn.com/livenews/3132315",
-          "source": "华尔街见闻-快讯",
+          "title": "长沙霸占车位公职人员被停职",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E5%81%9C%E8%81%8C",
+          "source": "百度热搜",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "17时27分"
         },
         {
           "title": "伊朗媒体Fars News援引官方消息称，德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关。",
@@ -281,7 +319,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -325,18 +363,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -413,7 +440,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
@@ -435,17 +462,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "山东启动防汛防台风三级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3132322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "巴威直奔山东",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -456,6 +472,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 13时39分]"
+        },
+        {
+          "title": "山东启动防汛防台风三级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 17时27分]"
         },
         {
           "title": "山东「六毛网吧」吃饭上网日均 25 元，为何会成为中年失意男人的「避难所」？",
