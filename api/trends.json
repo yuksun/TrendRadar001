@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T10:28:41.344070+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-07-11T13:39:19.078852+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "马上评｜副处长被指霸道停车，“八小时以外”也要管",
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 13时39分]"
         },
         {
           "title": "涉数据造假、论文买卖等，28起医学论文造假违规案例被通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33558076",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 13时39分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时22分]"
+        },
+        {
+          "title": "公职霸占车位,官媒怒斥特权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356087&amp;topic_name=%E5%85%AC%E8%81%8C%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D%2C%E5%AE%98%E5%AA%92%E6%80%92%E6%96%A5%E7%89%B9%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "“女干部霸占车位”事件双方和解",
@@ -98,7 +110,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -127,6 +139,18 @@
           "time_info": "[00时55分 ~ 04时21分]"
         },
         {
+          "title": "副处长被指霸道停车，检察日报刊文：“小恶难惩”把维权者逼向违法边缘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564339",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时39分]"
+        },
+        {
           "title": "防御台风 台州市委书记作电视讲话",
           "url": "https://www.toutiao.com/trending/7660886691405630985/",
           "source": "今日头条",
@@ -137,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时22分]"
+        },
+        {
+          "title": "朝鲜通报以朴喜哲为首的特大腐败行为",
+          "url": "https://news.ifeng.com/c/8ufbPECS3xm",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "伊拉克国家石油公司：伊拉克将8月销往亚洲的巴士拉中质原油官方售价设为较阿曼/迪拜均价贴水6.50美元/桶",
@@ -167,7 +202,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -194,26 +229,59 @@
           "time_info": "04时21分"
         },
         {
+          "title": "“人民英雄”陈薇任中国工程院副院长",
+          "url": "https://www.toutiao.com/trending/7661085054773755914/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3132272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
         {
-          "title": "副处长被指霸道停车，检察日报刊文：“小恶难惩”把维权者逼向违法边缘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564339",
-          "source": "澎湃新闻",
+          "title": "乌克兰基辅市市长：俄罗斯轰炸袭击了首都多个地区，造成6人受伤。",
+          "url": "https://flash.jin10.com/detail/20260711110937434800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "13时39分"
+        },
+        {
+          "title": "美官员称伊朗私下就近期袭击商船认错",
+          "url": "https://wallstreetcn.com/livenews/3132292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "2位高校党委书记任中国工程院副院长",
+          "url": "https://www.toutiao.com/trending/7661084366626635827/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "智利铜业委员会：智利埃斯孔迪达铜矿5月铜产量同比下降17.6%，至10.88万吨。智利科拉瓦西铜矿5月铜产量同比下降19.3%，至3.1万吨。",
@@ -225,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "媒体调查广西横州“蛇患”",
+          "url": "https://www.toutiao.com/trending/7661086393799544374/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "智利铜业委员会：智利国家铜业公司5月铜产量同比下降18.3%，至10.63万吨。",
@@ -241,19 +320,8 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "巴威直奔山东",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
         {
           "title": "巴威直奔山东",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C",
@@ -261,9 +329,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "巴威直奔山东",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时39分]"
         },
         {
           "title": "山东「六毛网吧」吃饭上网日均 25 元，为何会成为中年失意男人的「避难所」？",
@@ -277,13 +357,24 @@
           "time_info": "07时08分"
         },
         {
+          "title": "现在说巴威直奔山东有点早",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E8%AF%B4%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C%E6%9C%89%E7%82%B9%E6%97%A9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "台风巴威将影响山东",
           "url": "https://www.douyin.com/hot/2565580",
           "source": "抖音",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
