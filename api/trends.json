@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T16:14:27.927311+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-07-12T18:26:16.594759+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "副处长被指霸道停车，检察日报刊文：“小恶难惩”把维权者逼向违法边缘",
@@ -65,11 +65,27 @@
           "ranks": [
             13,
             17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 18时26分]"
+        },
+        {
+          "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566906",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            16,
+            19,
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[04时09分 ~ 18时26分]"
         },
         {
           "title": "朝鲜通报特大腐败犯罪",
@@ -100,20 +116,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 13时57分]"
-        },
-        {
-          "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566906",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时09分 ~ 16时14分]"
         },
         {
           "title": "河北张家口一路面深夜塌陷，当地通报：3车坠落，致1死1伤",
@@ -182,48 +184,39 @@
           "time_info": "[03时00分 ~ 06时45分]"
         },
         {
-          "title": "泽连斯基：乌官员须为武器库爆炸担责",
-          "url": "https://www.toutiao.com/trending/7660981203352289321/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "印度商务部长皮尤什·戈亚尔将于7月13日至17日率领高级商务代表团前往西班牙、比利时和芬兰。",
           "url": "https://flash.jin10.com/detail/20260712154047873800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
         {
-          "title": "官方通报国企老板办公室收礼：已免职",
-          "url": "https://www.toutiao.com/trending/7661475870533189673/",
+          "title": "泽连斯基：乌官员须为武器库爆炸担责",
+          "url": "https://www.toutiao.com/trending/7660981203352289321/",
           "source": "今日头条",
           "ranks": [
-            4
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时26分]"
         },
         {
           "title": "当地通报国企老板办公室收礼：已免职",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%9B%BD%E4%BC%81%E8%80%81%E6%9D%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%94%B6%E7%A4%BC%EF%BC%9A%E5%B7%B2%E5%85%8D%E8%81%8C",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时26分]"
         },
         {
           "title": "市场消息：在上诉法官缩短了此前对玛丽娜·勒庞的参选禁令，允许她第四次参加法国总统大选后，勒庞在明年四月法国总统大选前的选民民意调查中扩大了领先优势。",
@@ -236,6 +229,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时53分]"
+        },
+        {
+          "title": "伊拉克政府发言人：伊拉克总理将在访问华盛顿期间签署多项石油和天然气谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260712180907528800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "官方通报国企老板办公室收礼：已免职",
+          "url": "https://www.toutiao.com/trending/7661475870533189673/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时26分]"
         },
         {
           "title": "浙江台州262名干部进驻养老机构防台",
@@ -264,6 +280,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 05时47分]"
+        },
+        {
+          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2058201950458590326",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 18时26分]"
         },
         {
           "title": "俄罗斯官员表示，计划于7月中旬在叙利亚港口启动商业物流枢纽。",
@@ -305,16 +334,16 @@
           "time_info": "[00时55分 ~ 10时34分]"
         },
         {
-          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2058201950458590326",
-          "source": "知乎",
+          "title": "三部门调拨7万件中央救灾物资支持浙津皖等地救助工作",
+          "url": "https://wallstreetcn.com/livenews/3132391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 16时14分]"
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时26分]"
         },
         {
           "title": "14万日本人抗议高市政府：不许高市早苗胡作非为",
@@ -338,6 +367,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 16时14分]"
+        },
+        {
+          "title": "水泥罐车侧翻致6死，警方通报",
+          "url": "https://news.ifeng.com/c/8uhOrhFxC3V",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时26分]"
         },
         {
           "title": "占车位公务员不是知错了而是怕了",
@@ -375,6 +415,39 @@
           "time_info": "[00时55分 ~ 01时54分]"
         },
         {
+          "title": "密云局长买10亿Token手搓防汛APP",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%86%E4%BA%91%E5%B1%80%E9%95%BF%E4%B9%B010%E4%BA%BFToken%E6%89%8B%E6%90%93%E9%98%B2%E6%B1%9BAPP",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "少将“花天酒地”，朝鲜宣布对特大腐败分子的判决",
+          "url": "https://news.ifeng.com/c/8uhTuM4iwal",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "伊拉克政府发言人：伊拉克总理将于周一前往华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260712180330724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美高级官员称美军成功打击伊朗军事目标",
           "url": "https://flash.jin10.com/detail/20260712092650984800",
           "source": "金十数据",
@@ -386,15 +459,15 @@
           "time_info": "10时34分"
         },
         {
-          "title": "三部门调拨7万件中央救灾物资支持浙津皖等地救助工作",
-          "url": "https://wallstreetcn.com/livenews/3132391",
-          "source": "华尔街见闻-快讯",
+          "title": "香港展开亚太经合组织财政部长会议宣传工作",
+          "url": "https://flash.jin10.com/detail/20260712180046903800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "18时26分"
         },
         {
           "title": "小米分批持续裁员，涉及手机、汽车等多个业务部门，此举透露出哪些发展策略调整？",
@@ -406,17 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "水泥罐车侧翻致6死，警方通报",
-          "url": "https://news.ifeng.com/c/8uhOrhFxC3V",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
@@ -447,7 +509,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -469,7 +531,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -480,7 +542,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -497,7 +559,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
