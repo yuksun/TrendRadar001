@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:34:21.826978+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-07-12T13:57:09.623396+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "副处长被指霸道停车，检察日报刊文：“小恶难惩”把维权者逼向违法边缘",
@@ -67,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 10时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "朝鲜通报特大腐败犯罪",
@@ -93,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 10时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "河北张家口一路面深夜塌陷，当地通报：3车坠落，致1死1伤",
@@ -110,6 +111,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 06时45分]"
+        },
+        {
+          "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566906",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时09分 ~ 13时57分]"
         },
         {
           "title": "朝鲜通报以朴喜哲为首的特大腐败行为",
@@ -150,18 +164,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 05时47分]"
-        },
-        {
-          "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566906",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时09分 ~ 10时34分]"
         },
         {
           "title": "广西贵港原副市长潘汉胜被双开",
@@ -244,6 +246,41 @@
           "time_info": "[00时55分 ~ 10时34分]"
         },
         {
+          "title": "长沙通报体育局干部占车位事件",
+          "url": "https://www.douyin.com/hot/2567318",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时57分]"
+        },
+        {
+          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2058201950458590326",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 13时57分]"
+        },
+        {
+          "title": "占车位公务员不是知错了而是怕了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A0%E8%BD%A6%E4%BD%8D%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E6%98%AF%E7%9F%A5%E9%94%99%E4%BA%86%E8%80%8C%E6%98%AF%E6%80%95%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
           "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
           "url": "https://flash.jin10.com/detail/20260711221401757800",
           "source": "金十数据",
@@ -274,20 +311,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
         {
-          "title": "云南花 4950 万元建的政务 App「曲靖通」关停，仅运营 4 年多，为什么会这样？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2058201950458590326",
-          "source": "知乎",
+          "title": "14万日本人抗议高市政府：不许高市早苗胡作非为",
+          "url": "https://v.ifeng.com/c/8uhC3Wq7tsB",
+          "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "13时57分"
         },
         {
           "title": "小米分批持续裁员，涉及手机、汽车等多个业务部门，此举透露出哪些发展策略调整？",
@@ -296,9 +333,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "为接班当公务员，印度23岁女大学生花5万元雇凶杀母",
+          "url": "https://news.ifeng.com/c/8uhEWMA42Ky",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
@@ -307,7 +355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -321,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "长沙通报体育局干部占车位事件",
-          "url": "https://www.douyin.com/hot/2567318",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         },
         {
           "title": "印度女法学生弑母只为接班当公务员",
