@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T00:13:14.302123+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:02:21.011235+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时02分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时02分]"
+        },
+        {
+          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
+          "url": "https://www.zhihu.com/question/2060269141576233184",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "time_info": "[00时13分 ~ 02时02分]"
         },
         {
           "title": "AI生成图片被评摄影一等奖 官方通报",
@@ -41,15 +53,37 @@
           "time_info": "[00时12分 ~ 00时13分]"
         },
         {
-          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
-          "url": "https://www.zhihu.com/question/2060269141576233184",
-          "source": "知乎",
+          "title": "男子回应在妻子孕期出轨留亲密照",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%9C%A8%E5%A6%BB%E5%AD%90%E5%AD%95%E6%9C%9F%E5%87%BA%E8%BD%A8%E7%95%99%E4%BA%B2%E5%AF%86%E7%85%A7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "美商务部官员：芯片和AI监管措施即将出台",
+          "url": "https://flash.jin10.com/detail/20260715011025049800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时13分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗官方媒体：安迪梅什克爆炸声源于受控爆破，并非敌方发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260715010348604800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -65,19 +99,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时02分]"
         },
         {
           "title": "中共中央批准：刘强任山东省委副书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581546",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 02时02分]"
         }
       ]
     }
