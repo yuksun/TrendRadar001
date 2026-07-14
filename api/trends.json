@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T16:03:15.762616+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-07-14T18:07:09.310408+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -71,11 +71,12 @@
             13,
             12,
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 18时07分]"
         },
         {
           "title": "受贿4319万余元，天津市委原常委、组织部原部长周德睿一审获刑14年",
@@ -132,6 +133,19 @@
           "time_info": "[04时14分 ~ 13时28分]"
         },
         {
+          "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581179",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 18时07分]"
+        },
+        {
           "title": "中山大学通报222人取消录取资格",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5222%E4%BA%BA%E5%8F%96%E6%B6%88%E5%BD%95%E5%8F%96%E8%B5%84%E6%A0%BC%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -170,6 +184,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时16分 ~ 16时03分]"
+        },
+        {
+          "title": "美银调查：全球股票多头应考虑适当减仓 做多半导体股成最拥挤交易",
+          "url": "https://wallstreetcn.com/livenews/3133564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "检察机关依法对国家烟草专卖局原党组成员、副局长韩占武涉嫌受贿案提起公诉。（新华社）",
@@ -241,16 +266,28 @@
           "time_info": "[05时55分 ~ 07时53分]"
         },
         {
-          "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581179",
-          "source": "澎湃新闻",
+          "title": "大理百元豪车租赁乱象调查",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时28分 ~ 16时03分]"
+          "time_info": "[16时03分 ~ 18时07分]"
+        },
+        {
+          "title": "如何看待「一副局长自购 10 亿 token 月费 20 多，手搓防汛小程序」？",
+          "url": "https://www.zhihu.com/question/2059978972042092807",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 18时07分]"
         },
         {
           "title": "新西兰联储首席经济学家保罗·康威：上周货币政策委员会达成了一致意见，无需投票表决。",
@@ -275,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 04时14分]"
+        },
+        {
+          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
+          "url": "https://www.zhihu.com/question/2060269141576233184",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 18时07分]"
         },
         {
           "title": "打得更远了 中国海警列装新执法舰",
@@ -349,7 +398,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -365,15 +414,15 @@
           "time_info": "16时02分"
         },
         {
-          "title": "大理百元豪车租赁乱象调查",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
+          "url": "https://www.cls.cn/detail/2425511",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "18时07分"
         },
         {
           "title": "加拿大油砂联盟：联邦政府、艾伯塔省政府与相关企业已达成协议，将推进碳捕集与封存项目的实施路径。",
@@ -420,6 +469,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "月薪三万但厌恶领导，是否该为职业发展忍忍？",
+          "url": "https://www.zhihu.com/question/2059516907527594888",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "副局长自购10亿token月费20多",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E8%B4%AD10%E4%BA%BFtoken%E6%9C%88%E8%B4%B920%E5%A4%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -431,37 +491,26 @@
           "time_info": "13时28分"
         },
         {
-          "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
-          "url": "https://www.zhihu.com/question/2060269141576233184",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "如何看待「一副局长自购 10 亿 token 月费 20 多，手搓防汛小程序」？",
-          "url": "https://www.zhihu.com/question/2059978972042092807",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "俄罗斯当地政府称，Afipsky石油炼油厂火灾已扑灭。",
           "url": "https://flash.jin10.com/detail/20260714153750439800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "【*ST闻泰：预计2026年上半年净利润亏损4亿元-6亿元】*ST闻泰公告，预计2026年上半年净利润亏损4亿元-6亿元。上年同期归属于母公司所有者的净利润为4.74亿元。本报告期，公司归属于母公司所有者的净利润变动的主要原因是：于2025年第四季度，公司子公司安世半导体有限公司以及安世半导体控股有限公司（以下合称“安世”）收到荷兰经济事务与气候政策部下达的部长令和阿姆斯特丹上诉法院企业法庭的裁决。截至本报告期末，虽然上述部长令被宣布暂停，但企业法庭裁决依旧处于生效状态，公司对安世的控制权仍暂处于受限状态。安世境内业务虽处于逐步恢复中，但半导体业务规模较上年同期大幅下降仍对公司2026年上半年业绩造成较大影响。",
+          "url": "https://wallstreetcn.com/livenews/3133532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "A股脑机接口概念开盘活跃，力合科创涨停，翔宇医疗涨超10%，立方制药、倍益康、美好医疗涨幅居前，消息上，民政部等14部门联合公布《康复辅助器具产业扩能提质三年行动方案（2026—2028年）》，攻坚脑机接口、康养机器人、仿生假肢等前沿技术，推动我国康复辅具产业扩能提质。",
@@ -547,9 +596,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "欧洲委员会批准6.59亿欧元德国援助，支持四座半导体工厂建设",
+          "url": "https://flash.jin10.com/detail/20260714174943784800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "工信部部长称愿同沙特加强数字基础设施等领域的政策经验交流",
@@ -561,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "土耳其能源部长：土耳其与伊拉克讨论增加石油管道输送量。",
+          "url": "https://wallstreetcn.com/livenews/3133507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "村委会提前预判暴雨连夜转移村民",
@@ -610,7 +681,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "刘强任山东省委副书记",
@@ -626,13 +697,35 @@
           "time_info": "[13时28分 ~ 16时03分]"
         },
         {
+          "title": "山东人的“入伏”",
+          "url": "https://www.toutiao.com/trending/7662292105562374170/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "山东、辽宁遭遇持续暴雨，沈阳等多地停课、停业、停工，目前情况如何？台风巴威影响会持续多久？",
+          "url": "https://www.zhihu.com/question/2059967829823300240",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "刘强任山东省委副书记",
           "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%BB%BB%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0",
           "source": "百度热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
