@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:03:36.658558+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-07-15T07:52:57.455318+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时52分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时52分]"
         },
         {
           "title": "【伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声】据伊朗多家媒体报道，当地时间14日深夜，伊朗南部的格什姆岛、阿巴斯港、亨加姆岛，以及东南部班普尔市和西部阿瓦士市等地传出爆炸声。 伊朗布什尔核电站周边防空系统已启动。目前，伊朗官方尚未就此发表评论。 美军中央司令部14日在社交媒体发文说，其部队于美东时间当天15时对伊朗发动新一轮打击，16时恢复针对往返伊朗港口及沿海地区船只的海上封锁。（新华社）",
@@ -37,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -49,8 +50,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 07时52分]"
         },
         {
           "title": "男子回应在妻子孕期出轨留亲密照",
@@ -82,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -93,9 +94,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "酒厂世界杯停产、区长抢购中国空调：当欧洲“气候适应”赤字撞上选举周期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565550",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗地方政府：霍尔木兹海峡发生交火",
+          "url": "https://flash.jin10.com/detail/20260715064933426800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "Lucid集团：（与破产、私有化想法有关的）相关传言完全不实。 我司并没有针对相关选项组建董事会的特别委员会。 AlixPartners并没有建议我司申请破产，对方正协助改善执行情况。（彭博）",
@@ -107,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "大理通报“豪车低价租赁乱象”：涉事企业被责令停业，并立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586213",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美商务部官员：芯片和AI监管措施即将出台",
@@ -137,9 +171,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "日本金融厅（FSA）将围绕利率风险对诸多地区银行展开（问卷）调查。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3133902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
