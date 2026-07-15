@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:48:13.281509+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-07-15T20:14:03.176400+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
@@ -17,6 +17,33 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 10时13分]"
+        },
+        {
+          "title": "春秋笔法?长沙通报用词偏颇",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356194&amp;topic_name=%E6%98%A5%E7%A7%8B%E7%AC%94%E6%B3%95%3F%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E7%94%A8%E8%AF%8D%E5%81%8F%E9%A2%87",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时05分 ~ 20时14分]"
+        },
+        {
+          "title": "大理通报“豪车低价租赁乱象”：涉事企业被责令停业，并立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586213",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 20时14分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -34,16 +61,17 @@
           "time_info": "[00时12分 ~ 16时06分]"
         },
         {
-          "title": "春秋笔法?长沙通报用词偏颇",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356194&amp;topic_name=%E6%98%A5%E7%A7%8B%E7%AC%94%E6%B3%95%3F%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E7%94%A8%E8%AF%8D%E5%81%8F%E9%A2%87",
-          "source": "贴吧",
+          "title": "官方把房子定位为大宗消费品意味啥",
+          "url": "https://www.toutiao.com/trending/7662141975089627177/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            2
+            5,
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 18时48分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 20时14分]"
         },
         {
           "title": "西北大学通报贾浅浅论文抄袭",
@@ -60,20 +88,6 @@
           "time_info": "[10时12分 ~ 18时48分]"
         },
         {
-          "title": "大理通报“豪车低价租赁乱象”：涉事企业被责令停业，并立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586213",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 18时48分]"
-        },
-        {
           "title": "蔡赴朝被查",
           "url": "https://www.douyin.com/hot/2572220",
           "source": "抖音",
@@ -83,19 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "官方把房子定位为大宗消费品意味啥",
-          "url": "https://www.toutiao.com/trending/7662141975089627177/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 18时48分]"
         },
         {
           "title": "【伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声】据伊朗多家媒体报道，当地时间14日深夜，伊朗南部的格什姆岛、阿巴斯港、亨加姆岛，以及东南部班普尔市和西部阿瓦士市等地传出爆炸声。 伊朗布什尔核电站周边防空系统已启动。目前，伊朗官方尚未就此发表评论。 美军中央司令部14日在社交媒体发文说，其部队于美东时间当天15时对伊朗发动新一轮打击，16时恢复针对往返伊朗港口及沿海地区船只的海上封锁。（新华社）",
@@ -257,6 +258,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时29分 ~ 16时06分]"
+        },
+        {
+          "title": "31套房!主任受贿两千万获刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356203&amp;topic_name=31%E5%A5%97%E6%88%BF%21%E4%B8%BB%E4%BB%BB%E5%8F%97%E8%B4%BF%E4%B8%A4%E5%8D%83%E4%B8%87%E8%8E%B7%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "打虎！75岁正部蔡赴朝被查",
@@ -430,7 +442,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -463,9 +475,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/2060545155124441600",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "提醒：北京时间10:00将公布中国二季度GDP，1至6月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资，6月城镇调查失业率，国新办就国民经济运行情况举行新闻发布会。",
@@ -499,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "市场消息：南非开始对硅金属进口展开调查。",
+          "url": "https://flash.jin10.com/detail/20260715194554213800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "放射科主任伙同女友受贿2392万获刑",
