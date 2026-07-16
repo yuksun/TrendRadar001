@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:22:06.368134+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-07-16T18:07:26.918755+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "春秋笔法?长沙通报用词偏颇",
@@ -43,11 +43,12 @@
             10,
             11,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 15时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 18时07分]"
         },
         {
           "title": "四川一旅游车坠入河滩 多部门救援",
@@ -60,6 +61,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时01分]"
+        },
+        {
+          "title": "毕节纳雍县通报“一辆救护车凌晨在批发市场卸载水果”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592971",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 18时07分]"
+        },
+        {
+          "title": "官方辟谣九寨沟湖水染色",
+          "url": "https://www.toutiao.com/trending/7661929466034421802/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 18时07分]"
         },
         {
           "title": "救护车凌晨在市场卸载水果 官方通报",
@@ -121,29 +146,6 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
-          "title": "毕节纳雍县通报“一辆救护车凌晨在批发市场卸载水果”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592971",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 15时22分]"
-        },
-        {
-          "title": "官方辟谣九寨沟湖水染色",
-          "url": "https://www.toutiao.com/trending/7661929466034421802/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 15时22分]"
-        },
-        {
           "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
           "url": "https://www.zhihu.com/question/2060545155124441600",
           "source": "知乎",
@@ -179,6 +181,17 @@
           "time_info": "[00时21分 ~ 04时07分]"
         },
         {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时07分]"
+        },
+        {
           "title": "帕雷德斯举报凯恩捂嘴",
           "url": "https://www.baidu.com/s?wd=%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF%E4%B8%BE%E6%8A%A5%E5%87%AF%E6%81%A9%E6%8D%82%E5%98%B4",
           "source": "百度热搜",
@@ -203,15 +216,15 @@
           "time_info": "[05时59分 ~ 07时01分]"
         },
         {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
+          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
           "source": "凤凰网",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时22分]"
+          "time_info": "[15时22分 ~ 18时07分]"
         },
         {
           "title": "功夫女足公布偷漏瞒报票房举报方式",
@@ -269,26 +282,26 @@
           "time_info": "07时01分"
         },
         {
-          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
-          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "调查：多数经济学家预计拉加德将完成欧洲央行行长任期",
           "url": "https://flash.jin10.com/detail/20260716150602856800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "如果我的目标是当公务员，那么上 985 、 211 与上一本有什么区别？",
+          "url": "https://www.zhihu.com/question/1931818975265789556",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "韩国金融服务委员会负责人表示，将宣布有关单一ETF的措施。（韩联社）",
@@ -313,6 +326,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "克里姆林宫：正在关注乌克兰政府的变动，国防部长的选择不会产生影响。",
+          "url": "https://flash.jin10.com/detail/20260716174508084800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "美联储理事库克：由于政府调查数据回收不足，美联储仍有一些方法可以“填补数据空白”。",
           "url": "https://flash.jin10.com/detail/20260716013452036800",
           "source": "金十数据",
@@ -333,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "九寨沟湖水靠染色才呈现蓝色？官方辟谣并详解斑斓水色成因",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33596885",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "智利政府将2026年GDP增长预期从2.1%下调至1.8%。",
@@ -401,6 +436,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "贵州80后厅官徐刘蔚被查",
+          "url": "https://www.douyin.com/hot/2573132",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "乌克兰即将离任的国防部长费多罗夫表示，乌克兰成功进行了弹道导弹试验。",
           "url": "https://flash.jin10.com/detail/20260716031012694800",
           "source": "金十数据",
@@ -429,9 +475,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "李在明警示公职人员勿让年轻异性陪坐",
+          "url": "https://www.toutiao.com/trending/7662050785236860934/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "美联储主席沃什：预计工作组最快将于9月份通报结果。",
@@ -443,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7678，较上一交易日官方收盘价涨33点，较上日夜盘收盘涨19点。",
+          "url": "https://wallstreetcn.com/livenews/3134953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
