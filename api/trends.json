@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T02:04:58.815019+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-07-18T04:04:55.697089+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时04分]"
         },
         {
           "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
@@ -27,19 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时04分]"
         },
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
           "url": "https://www.cls.cn/detail/2429579",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时04分]"
         },
         {
           "title": "应急管理部部长率工作组赶赴重庆彭水山体垮塌现场",
@@ -50,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时04分]"
         },
         {
           "title": "赛罗粉喊停投票,官方没搭理",
@@ -62,8 +63,21 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时04分]"
+        },
+        {
+          "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
+          "url": "https://www.zhihu.com/question/2061409074185335802",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时04分]"
+          "time_info": "[00时14分 ~ 04时04分]"
         },
         {
           "title": "曲婉婷母亲贪污3.5亿元职工安置费",
@@ -99,18 +113,6 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
-          "url": "https://www.zhihu.com/question/2061409074185335802",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
-        },
-        {
           "title": "铁路部门试点提前60天预约购票服务",
           "url": "https://m.thepaper.cn/newsDetail_forward_33603794",
           "source": "澎湃新闻",
@@ -120,6 +122,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "深圳市委原常委王强主动投案被查",
+          "url": "https://www.toutiao.com/trending/7663427578069257747/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时04分]"
+        },
+        {
+          "title": "湖南警方通报男子因纠纷纵火致3死",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%A0%E7%BA%B7%E7%BA%B5%E7%81%AB%E8%87%B43%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时04分]"
+        },
+        {
+          "title": "英国政府拟通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038539763599266938",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "分析师：消费者信心调查对货币政策具有安抚作用",
@@ -142,28 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "深圳市委原常委王强主动投案被查",
-          "url": "https://www.toutiao.com/trending/7663427578069257747/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "湖南警方通报男子因纠纷纵火致3死",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%A0%E7%BA%B7%E7%BA%B5%E7%81%AB%E8%87%B43%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
         }
       ]
     }
