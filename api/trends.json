@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:52:31.869151+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-19T10:31:50.853092+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "上海足协发布对“禁足”人员申思的调查通报",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "足协通报申思祁宏参与青训",
@@ -71,19 +71,6 @@
           "time_info": "[00时56分 ~ 07时52分]"
         },
         {
-          "title": "媒体：县长硬刚首富背后是权力傲慢",
-          "url": "https://www.toutiao.com/trending/7662980260295852073/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时52分]"
-        },
-        {
           "title": "前国脚申思被举报掌掴小球员，中国足协：各地足管部门应落实对“禁足”人员的核查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33612810",
           "source": "澎湃新闻",
@@ -92,6 +79,19 @@
             12,
             11,
             14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时31分]"
+        },
+        {
+          "title": "媒体：县长硬刚首富背后是权力傲慢",
+          "url": "https://www.toutiao.com/trending/7662980260295852073/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -108,8 +108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "警方通报涉彭水山体崩塌谣言",
@@ -119,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "公安部原部长助理谭权已担任重庆市领导",
@@ -175,17 +175,6 @@
           "time_info": "[00时56分 ~ 07时52分]"
         },
         {
-          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
-          "url": "https://flash.jin10.com/detail/20260719055403527800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时52分]"
-        },
-        {
           "title": "遭终身禁足的前国脚申思被举报掌掴小球员，上海足协通报其所在俱乐部被警告罚款，申思可能面临哪些法律责任？",
           "url": "https://www.zhihu.com/question/2061692639876059528",
           "source": "知乎",
@@ -195,6 +184,51 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 06时47分]"
+        },
+        {
+          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "纽约市长：正认真研究在9月联大期间逮捕内塔尼亚胡",
+          "url": "https://news.ifeng.com/c/8ushtwWpTHY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 10时31分]"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省政府：截至目前，未记录到任何阿巴斯港遭导弹袭击的情况",
+          "url": "https://flash.jin10.com/detail/20260719093824929800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
@@ -287,9 +321,42 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时31分]"
+        },
+        {
+          "title": "“高考估分715查分299”？警方通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "10时31分"
+        },
+        {
+          "title": "中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260719081831238800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美官员：约旦美军基地5天遭4袭，表明伊导弹库存充足",
+          "url": "https://wallstreetcn.com/livenews/3136106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "警方通报高考估分715查分299",
@@ -298,7 +365,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
