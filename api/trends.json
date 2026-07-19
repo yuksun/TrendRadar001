@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:56:59.178026+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-07-19T21:14:52.367345+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
         {
           "title": "上海足协发布对“禁足”人员申思的调查通报",
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 06时47分]"
+        },
+        {
+          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 21时14分]"
         },
         {
           "title": "美CIA局长：中国5G与AI领先是大问题",
@@ -88,18 +100,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时52分]"
-        },
-        {
-          "title": "官方调查女子就餐遭服务员传话“黄总请你去包厢”：系误会已和解，涉事餐厅停业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614643",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 19时56分]"
         },
         {
           "title": "前国脚申思被举报掌掴小球员，中国足协：各地足管部门应落实对“禁足”人员的核查",
@@ -182,6 +182,19 @@
           "time_info": "[01时55分 ~ 06时47分]"
         },
         {
+          "title": "纽约市长：正认真研究在9月联大期间逮捕内塔尼亚胡",
+          "url": "https://news.ifeng.com/c/8ushtwWpTHY",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 21时14分]"
+        },
+        {
           "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
           "url": "https://www.zhihu.com/question/2061337736611734900",
           "source": "知乎",
@@ -194,17 +207,32 @@
           "time_info": "[00时56分 ~ 07时52分]"
         },
         {
-          "title": "纽约市长：正认真研究在9月联大期间逮捕内塔尼亚胡",
-          "url": "https://news.ifeng.com/c/8ushtwWpTHY",
-          "source": "凤凰网",
+          "title": "如何看待索尼宣布取消实体盘半个月后，官方账号沦陷，发什么都被冲，玩家愤怒不仅没减弱反而日益激烈？",
+          "url": "https://www.zhihu.com/question/2061350873901675318",
+          "source": "知乎",
           "ranks": [
+            8,
+            7,
             4,
-            6,
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时31分 ~ 19时56分]"
+          "time_info": "[13时50分 ~ 21时14分]"
+        },
+        {
+          "title": "“高考估分715查分299”？警方通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            14,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 21时14分]"
         },
         {
           "title": "遭终身禁足的前国脚申思被举报掌掴小球员，上海足协通报其所在俱乐部被警告罚款，申思可能面临哪些法律责任？",
@@ -218,6 +246,17 @@
           "time_info": "[00时56分 ~ 06时47分]"
         },
         {
+          "title": "据约旦国家新闻社援引军事官员的消息称，伊朗导弹坠落在约旦后未造成人员伤亡或重大损失。",
+          "url": "https://flash.jin10.com/detail/20260719205141551800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "纽约市长：内塔尼亚胡来美参加联大可能被捕",
           "url": "https://wallstreetcn.com/livenews/3136180",
           "source": "华尔街见闻-快讯",
@@ -229,19 +268,6 @@
           "time_info": "16时13分"
         },
         {
-          "title": "如何看待索尼宣布取消实体盘半个月后，官方账号沦陷，发什么都被冲，玩家愤怒不仅没减弱反而日益激烈？",
-          "url": "https://www.zhihu.com/question/2061350873901675318",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
-        },
-        {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
           "url": "https://wallstreetcn.com/livenews/3136147",
           "source": "华尔街见闻-快讯",
@@ -251,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
-          "url": "https://wallstreetcn.com/livenews/3136259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
         },
         {
           "title": "纽约市长：正研究逮捕内塔尼亚胡",
@@ -297,6 +312,19 @@
           "time_info": "18时26分"
         },
         {
+          "title": "官方玩梗挨罚,TES陀螺下架",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356310&amp;topic_name=%E5%AE%98%E6%96%B9%E7%8E%A9%E6%A2%97%E6%8C%A8%E7%BD%9A%2CTES%E9%99%80%E8%9E%BA%E4%B8%8B%E6%9E%B6",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 21时14分]"
+        },
+        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -309,6 +337,21 @@
           "time_info": "[06时47分 ~ 10时31分]"
         },
         {
+          "title": "国家开发银行原党委副书记、行长欧阳卫民通报被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615541",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 21时14分]"
+        },
+        {
           "title": "伊朗霍尔木兹甘省政府：截至目前，未记录到任何阿巴斯港遭导弹袭击的情况",
           "url": "https://flash.jin10.com/detail/20260719093824929800",
           "source": "金十数据",
@@ -318,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "国际原子能机构：国际原子能机构正在调查有关伊朗达尔霍温一处计划中的核电站施工现场遭遇夜间袭击的报告。",
+          "url": "https://flash.jin10.com/detail/20260719205005611800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "国开行原行长欧阳卫民被查",
@@ -332,17 +386,45 @@
           "time_info": "[13时50分 ~ 18时26分]"
         },
         {
-          "title": "“高考估分715查分299”？警方通报",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615734",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            16,
             11,
-            14,
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时31分 ~ 19时56分]"
+          "time_info": "[13时50分 ~ 21时14分]"
+        },
+        {
+          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 21时14分]"
+        },
+        {
+          "title": "女子身份信息被吸毒人员冒用，警方通报",
+          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 21时14分]"
         },
         {
           "title": "考生笔试第一却落选 官方最新通报",
@@ -358,18 +440,6 @@
           "time_info": "[16时13分 ~ 19时56分]"
         },
         {
-          "title": "官方玩梗挨罚,TES陀螺下架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356310&amp;topic_name=%E5%AE%98%E6%96%B9%E7%8E%A9%E6%A2%97%E6%8C%A8%E7%BD%9A%2CTES%E9%99%80%E8%9E%BA%E4%B8%8B%E6%9E%B6",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
-        },
-        {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
           "url": "https://flash.jin10.com/detail/20260719024347577800",
           "source": "金十数据",
@@ -382,18 +452,16 @@
           "time_info": "[03时02分 ~ 04时08分]"
         },
         {
-          "title": "国家开发银行原党委副书记、行长欧阳卫民通报被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615541",
-          "source": "澎湃新闻",
+          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
+          "url": "https://wallstreetcn.com/livenews/3136259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10,
-            8,
-            7
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时14分]"
         },
         {
           "title": "官方通报“笔试第一落选”始末",
@@ -420,45 +488,6 @@
           "time_info": "[00时56分 ~ 01时55分]"
         },
         {
-          "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615734",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
-        },
-        {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
-        },
-        {
-          "title": "女子身份信息被吸毒人员冒用，警方通报",
-          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时56分]"
-        },
-        {
           "title": "据纽约时报：美方官员称，伊朗对约旦境内美军基地发动的袭击造成多架美军直升机受损，数十名美军人员受伤。",
           "url": "https://flash.jin10.com/detail/20260719043816622800",
           "source": "金十数据",
@@ -469,6 +498,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 07时52分]"
+        },
+        {
+          "title": "纽约市长正研究逮捕内塔尼亚胡",
+          "url": "https://www.douyin.com/hot/2576823",
+          "source": "抖音",
+          "ranks": [
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时14分]"
+        },
+        {
+          "title": "官方辟谣：网传“韩红基金会向和田地区人民医院捐赠医疗设备”为不实信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615249",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时14分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯总统普京的支持率显著下降。",
@@ -495,6 +549,18 @@
           "time_info": "[03时02分 ~ 04时08分]"
         },
         {
+          "title": "加拿大政府称全员动员应对山火",
+          "url": "https://flash.jin10.com/detail/20260719192053532800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时14分]"
+        },
+        {
           "title": "印尼投资部部长：对中印尼投资合作未来充满信心",
           "url": "https://flash.jin10.com/detail/20260719011329980800",
           "source": "金十数据",
@@ -505,18 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时02分]"
-        },
-        {
-          "title": "纽约市长正研究逮捕内塔尼亚胡",
-          "url": "https://www.douyin.com/hot/2576823",
-          "source": "抖音",
-          "ranks": [
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时56分]"
         },
         {
           "title": "英国海上贸易行动办公室：军事当局已通报，涉事船只已被操纵驶入索马里领海。英国海事贸易行动办公室已将该事件重新归类为“劫船”事件。",
@@ -531,16 +585,16 @@
           "time_info": "[01时55分 ~ 03时02分]"
         },
         {
-          "title": "官方辟谣：网传“韩红基金会向和田地区人民医院捐赠医疗设备”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615249",
+          "title": "文盲老人被跨省开通证券账户，兴业银行合肥分行：严肃问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615640",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时56分]"
+          "time_info": "[19时56分 ~ 21时14分]"
         },
         {
           "title": "广东闹市区现巨蜥 官方：是标本",
@@ -565,15 +619,15 @@
           "time_info": "16时13分"
         },
         {
-          "title": "加拿大政府称全员动员应对山火",
-          "url": "https://flash.jin10.com/detail/20260719192053532800",
-          "source": "金十数据",
+          "title": "FIFA官方晒照：大力神杯已就位",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%AE%98%E6%96%B9%E6%99%92%E7%85%A7%EF%BC%9A%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E5%B7%B2%E5%B0%B1%E4%BD%8D",
+          "source": "百度热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时14分"
         },
         {
           "title": "约旦政府称亚喀巴国际机场和海港正常运营",
@@ -582,7 +636,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -637,9 +691,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "以色列埃拉特市政府发言人：不久前，以色列国防军发言人通报称，探测到从伊朗方向向约旦亚喀巴市（靠近以色列领土）发射的导弹。最近几分钟内听到的爆炸声，是约旦境内拦截行动所致。目前，后方司令部的指导方针没有变化，预计国内各地区不会发布警报。该地区所有部队均处于戒备状态并做好了准备，包括正在进行的演习和训练。如果局势评估出现任何进一步变化，我们将及时发布最新消息。",
+          "url": "https://flash.jin10.com/detail/20260719202428143800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "国家开发银行原党委副书记、行长欧阳卫民被查",
@@ -659,20 +724,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
         {
-          "title": "文盲老人被跨省开通证券账户，兴业银行合肥分行：严肃问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615640",
-          "source": "澎湃新闻",
+          "title": "美媒：美空军一名士兵在范登堡太空军基地死亡，相关调查工作已启动",
+          "url": "https://flash.jin10.com/detail/20260719201908384800",
+          "source": "金十数据",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时14分"
         },
         {
           "title": "中国商飞：公司与柬埔寨民航国务秘书处签署战略合作谅解备忘录",
@@ -692,7 +757,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -714,7 +779,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -725,9 +790,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "德国总理默茨：（盟友）斯潘的辞职可能是重新思考政府组成人员的一个契机。",
+          "url": "https://wallstreetcn.com/livenews/3136262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "约旦国家通讯社援引政府发言人的话报道称，约旦当局尚未发布任何关于疏散亚喀巴机场或海港的决定。约旦当局在过去几小时内未发现任何潜在威胁。",
@@ -736,7 +812,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
