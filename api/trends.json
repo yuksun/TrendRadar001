@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T06:55:28.402800+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-22T07:57:32.646483+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "影子调查｜花七百万建宗祠木材腐烂成严重损坏房，三人已被抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612075",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时57分]"
+        },
         {
           "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
@@ -19,15 +31,15 @@
           "time_info": "[01时29分 ~ 06时55分]"
         },
         {
-          "title": "影子调查｜花七百万建宗祠木材腐烂成严重损坏房，三人已被抓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612075",
-          "source": "澎湃新闻",
+          "title": "儿童独自坐高铁攻略刷屏 官方提醒",
+          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E7%8B%AC%E8%87%AA%E5%9D%90%E9%AB%98%E9%93%81%E6%94%BB%E7%95%A5%E5%88%B7%E5%B1%8F+%E5%AE%98%E6%96%B9%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "业主称饱受工业噪声困扰 官方回应",
@@ -40,6 +52,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 06时55分]"
+        },
+        {
+          "title": "媒体调查：韩国央行料将于10月再次加息，8月加息呼声渐涨",
+          "url": "https://wallstreetcn.com/livenews/3137761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时57分]"
         },
         {
           "title": "长沙“网推律所”乱象调查",
@@ -63,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "媒体调查：韩国央行料将于10月再次加息，8月加息呼声渐涨",
-          "url": "https://wallstreetcn.com/livenews/3137761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "空客调查该如何提高A330、A350飞机的产量。 调查产量将“显著”高于每个月生产12架飞机。",
