@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T08:01:57.160273+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-07-21T11:34:33.770154+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "菲方围顶冲撞中方巡逻艇、恶意攻击中方执法人员，中国海警局发声",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 11时34分]"
         },
         {
           "title": "中国海警回应菲方攻击中方执法人员",
@@ -50,11 +51,12 @@
             17,
             27,
             19,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 11时34分]"
         },
         {
           "title": "书记乡长骑摩托下乡视频走红",
@@ -187,6 +189,17 @@
           "time_info": "[06时59分 ~ 08时01分]"
         },
         {
+          "title": "新西兰外交部长：新西兰与菲律宾建立全面伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260721110328395800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "英国政府：约翰·希利议员获任命为英国财政大臣。",
           "url": "https://flash.jin10.com/detail/20260721011840088800",
           "source": "金十数据",
@@ -196,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "调查：韩国第二季度经济增长料放缓但仍具韧性",
+          "url": "https://flash.jin10.com/detail/20260721110324363800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
@@ -209,6 +233,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "英国政府将英钢强行收归国有，中企连续两天发声明索赔",
+          "url": "https://news.ifeng.com/c/8uvqdViOx74",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "沙特领导的也门联军表示，将对胡塞武装针对船只的威胁采取“武力”回应。",
           "url": "https://flash.jin10.com/detail/20260721042117356800",
           "source": "金十数据",
@@ -218,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "沙特领导的也门联军表示，将保障其商业船只在曼德海峡的航行安全。",
@@ -237,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -251,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "FIFA将调查西班牙阿根廷赛后冲突",
+          "url": "https://www.toutiao.com/trending/7664534512722411583/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "英国兰开斯特公爵郡事务大臣兼政府部门关系大臣达伦·琼斯退出伯纳姆内阁。",
