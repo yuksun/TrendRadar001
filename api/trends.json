@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T16:27:10.296256+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-22T19:08:22.363838+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "影子调查｜花七百万建宗祠木材腐烂成严重损坏房，三人已被抓",
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 19时08分]"
         },
         {
           "title": "菲律宾在仁爱礁蓄意挑衅，台外事部门竟谴责大陆，国台办抨击",
@@ -56,17 +57,6 @@
           "time_info": "[13时48分 ~ 16时27分]"
         },
         {
-          "title": "68元请香结账变952元 官方回应",
-          "url": "https://www.baidu.com/s?wd=68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "海钓10条鱼4条有病 当地渔业部门发声",
           "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E9%92%9310%E6%9D%A1%E9%B1%BC4%E6%9D%A1%E6%9C%89%E7%97%85+%E5%BD%93%E5%9C%B0%E6%B8%94%E4%B8%9A%E9%83%A8%E9%97%A8%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -76,6 +66,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "官方为救赛罗疑似下场控票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356395&amp;topic_name=%E5%AE%98%E6%96%B9%E4%B8%BA%E6%95%91%E8%B5%9B%E7%BD%97%E7%96%91%E4%BC%BC%E4%B8%8B%E5%9C%BA%E6%8E%A7%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 19时08分]"
         },
         {
           "title": "儿童独自坐高铁攻略刷屏 官方提醒",
@@ -90,18 +93,6 @@
           "time_info": "[07时57分 ~ 10时28分]"
         },
         {
-          "title": "官方为救赛罗疑似下场控票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356395&amp;topic_name=%E5%AE%98%E6%96%B9%E4%B8%BA%E6%95%91%E8%B5%9B%E7%BD%97%E7%96%91%E4%BC%BC%E4%B8%8B%E5%9C%BA%E6%8E%A7%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 16时27分]"
-        },
-        {
           "title": "基层干部下班送了两个多月外卖",
           "url": "https://www.baidu.com/s?wd=%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E4%B8%8B%E7%8F%AD%E9%80%81%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%A4%96%E5%8D%96",
           "source": "百度热搜",
@@ -114,6 +105,18 @@
           "time_info": "[13时48分 ~ 16时27分]"
         },
         {
+          "title": "68元请香结账变952元 官方回应",
+          "url": "https://www.baidu.com/s?wd=68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时08分]"
+        },
+        {
           "title": "儿童独自坐高铁攻略刷屏 官方辟谣",
           "url": "https://www.toutiao.com/trending/7664899507213172742/",
           "source": "今日头条",
@@ -123,6 +126,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时27分 ~ 16时27分]"
+        },
+        {
+          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 19时08分]"
         },
         {
           "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
@@ -137,16 +153,17 @@
           "time_info": "[10时28分 ~ 16时27分]"
         },
         {
-          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
-          "source": "澎湃新闻",
+          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+          "url": "https://www.zhihu.com/question/2062878068759160084",
+          "source": "知乎",
           "ranks": [
-            16,
-            15
+            17,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时48分 ~ 16时27分]"
+          "time_info": "[13时48分 ~ 19时08分]"
         },
         {
           "title": "业主称饱受工业噪声困扰 官方回应",
@@ -184,18 +201,6 @@
           "time_info": "[06时55分 ~ 07时57分]"
         },
         {
-          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
-          "url": "https://www.zhihu.com/question/2062878068759160084",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 16时27分]"
-        },
-        {
           "title": "大广赛部分作品被查实抄袭或购买，涉事高校称若学术不端将依规处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33627689",
           "source": "澎湃新闻",
@@ -217,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时19分]"
+        },
+        {
+          "title": "前外长跳槽中企后，匈牙利新政府宣布启动投资调查",
+          "url": "https://news.ifeng.com/c/8uyD6jI3Uwu",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "韩国政府称9月底前原油供应无虞",
@@ -258,7 +274,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -285,6 +301,28 @@
           "time_info": "01时29分"
         },
         {
+          "title": "贵州一村结婚随礼20-30元 村支书回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%9D%91%E7%BB%93%E5%A9%9A%E9%9A%8F%E7%A4%BC20-30%E5%85%83+%E6%9D%91%E6%94%AF%E4%B9%A6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "希腊财政部：希腊政府警告希腊籍船只在红海面临更高风险，建议与欧盟海军力量协调行动。",
+          "url": "https://flash.jin10.com/detail/20260722183138943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
           "url": "https://flash.jin10.com/detail/20260722002000799800",
           "source": "金十数据",
@@ -296,6 +334,39 @@
           "time_info": "01时29分"
         },
         {
+          "title": "金安国纪：与珠海市金湾区人民政府就公司在珠海市金湾区增资扩产项目的相关事项达成合作意向，签订《金安国纪增资扩产项目投资协议》，意向投资金额约20亿元人民币，以满足覆铜板及半固化片持续增长的市场需求。",
+          "url": "https://wallstreetcn.com/livenews/3138152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "伊拉克政府发言人：伊拉克总理将应伊朗总统邀请访问德黑兰，将于访问期间讨论天然气、能源和贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260722182925779800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "国家林业和草原局原党组成员、副局长李春良受贿、利用影响力受贿案一审宣判",
+          "url": "https://wallstreetcn.com/livenews/3138148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "因前员工举报上市受阻？小红书回应",
           "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E4%B8%8A%E5%B8%82%E5%8F%97%E9%98%BB%EF%BC%9F%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -305,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "伊拉克政府发言人：伊拉克总理将在本月底访问土耳其和叙利亚，但尚未确定具体日期。",
+          "url": "https://flash.jin10.com/detail/20260722182705032800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "英国官员：英国不会通过发行战争债券来筹集国防资金。",
@@ -338,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "郑丽文正式征召6位县市长拼连任",
+          "url": "https://www.toutiao.com/trending/7664922792452210742/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
