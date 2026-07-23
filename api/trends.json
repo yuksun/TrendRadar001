@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T20:23:31.395173+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-07-23T23:08:05.160078+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
@@ -80,6 +80,18 @@
           "time_info": "[01时16分 ~ 18时21分]"
         },
         {
+          "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642501",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 23时08分]"
+        },
+        {
           "title": "菲公务船侵闯中国黄岩岛 中方驱离",
           "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9%E4%BE%B5%E9%97%AF%E4%B8%AD%E5%9B%BD%E9%BB%84%E5%B2%A9%E5%B2%9B+%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB",
           "source": "百度热搜",
@@ -113,6 +125,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "APEC数字和人工智能部长会议通过成都声明",
+          "url": "https://wallstreetcn.com/livenews/3138953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "海湾合作委员会秘书长：伊朗的行为破坏了国际上努力实现稳定的行动。呼吁联合国安理会和国际社会制止伊朗的侵略和攻击。",
           "url": "https://flash.jin10.com/detail/20260723004714905800",
           "source": "金十数据",
@@ -122,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "中方驱离侵闯黄岩岛海域菲公务船",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "财政部部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
@@ -146,35 +158,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "龚正会见欧洲议会外事委员会代表团",
+          "url": "https://flash.jin10.com/detail/20260723224323261800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "欧洲央行：管理委员会随时准备调整各项工具。 能源冲击对通胀的影响尚未全面显现。 密切监测冲击的强度和持续时间。 不确定性依然很高。 不预先承诺特定的利率路径。",
           "url": "https://wallstreetcn.com/livenews/3138877",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642501",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "是否逮捕内塔尼亚胡？纽约市长再发声",
-          "url": "https://news.ifeng.com/c/8uzsmGsVuz4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -201,13 +202,25 @@
           "time_info": "08时10分"
         },
         {
+          "title": "中方驱离侵闯黄岩岛海域菲公务船",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 23时08分]"
+        },
+        {
           "title": "消息人士：印度政府已命令电信公司在新德里中心地区停用数据服务。",
           "url": "https://flash.jin10.com/detail/20260723195309634800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -221,6 +234,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 07时01分]"
+        },
+        {
+          "title": "是否逮捕内塔尼亚胡？纽约市长再发声",
+          "url": "https://news.ifeng.com/c/8uzsmGsVuz4",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时08分]"
         },
         {
           "title": "快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤？",
@@ -250,6 +275,19 @@
           "time_info": "[15时31分 ~ 20时23分]"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 23时08分]"
+        },
+        {
           "title": "韩国首尔市长吴世勋一审被判罚金",
           "url": "https://www.douyin.com/hot/2581283",
           "source": "抖音",
@@ -260,6 +298,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 15时32分]"
+        },
+        {
+          "title": "“处”改“科”、“科”改“股”，江苏多地党政机关规范内设机构名称",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33641737",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 23时08分]"
         },
         {
           "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
@@ -280,8 +330,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 23时08分]"
+        },
+        {
+          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 23时08分]"
         },
         {
           "title": "外交部长王毅在中国－东盟外长会提出四点建议",
@@ -296,28 +358,15 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "title": "财政部资产管理司副司长徐淑履新北京国家会计学院党委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33640178",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时23分]"
-        },
-        {
-          "title": "“处”改“科”、“科”改“股”，江苏多地党政机关规范内设机构名称",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33641737",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时23分]"
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "假拆迁办主任虚构安置房诈骗2683万元",
@@ -381,7 +430,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -397,6 +446,39 @@
           "time_info": "15时32分"
         },
         {
+          "title": "德国国防部长皮斯托里乌斯：考虑为联邦国防军建立太空发射场。",
+          "url": "https://flash.jin10.com/detail/20260723223404287800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "据悉欧洲央行官员做好在9月份加息的准备",
+          "url": "https://flash.jin10.com/detail/20260723223318076800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3138357",
           "source": "华尔街见闻-快讯",
@@ -408,24 +490,24 @@
           "time_info": "03时14分"
         },
         {
+          "title": "报道：欧洲央行官员们准备9月份加息",
+          "url": "https://wallstreetcn.com/livenews/3138938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "菲公务船侵闯黄岩岛海域画面公布",
           "url": "https://www.douyin.com/hot/2582433",
           "source": "抖音",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -458,9 +540,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "消息人士称，欧洲央行官员做好在9月份加息的准备。",
+          "url": "https://flash.jin10.com/detail/20260723221917709800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "吴伟任中国投资有限责任公司党委副书记",
@@ -469,7 +562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -491,7 +584,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -502,7 +595,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -520,11 +613,12 @@
             6,
             8,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 23时08分]"
         },
         {
           "title": "乒超联赛山东魏桥8:6山东鲁能",
