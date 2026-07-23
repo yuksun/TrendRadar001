@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-07-23T18:21:24.817840+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-23T20:23:31.395173+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 31,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33638589",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            9,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时16分 ~ 20时23分]"
+        },
         {
           "title": "王毅：强烈抗议菲方冲撞中方执法船只",
           "url": "https://www.toutiao.com/trending/7665361915622723126/",
@@ -33,22 +50,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时16分 ~ 15时32分]"
-        },
-        {
-          "title": "警方通报16岁男生死亡事件：案发地不属于涉黄场所，嫌犯非保安",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33638589",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时16分 ~ 18时21分]"
         },
         {
           "title": "贫困生每天喝9.9元咖啡被举报",
@@ -123,6 +124,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "中方驱离侵闯黄岩岛海域菲公务船",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "财政部部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
           "url": "https://flash.jin10.com/detail/20260723063350023800",
           "source": "金十数据",
@@ -132,6 +144,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "欧洲央行：管理委员会随时准备调整各项工具。 能源冲击对通胀的影响尚未全面显现。 密切监测冲击的强度和持续时间。 不确定性依然很高。 不预先承诺特定的利率路径。",
+          "url": "https://wallstreetcn.com/livenews/3138877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642501",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "是否逮捕内塔尼亚胡？纽约市长再发声",
+          "url": "https://news.ifeng.com/c/8uzsmGsVuz4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美情报机构调查俄罗斯是否协助伊朗锁定CIA海湾设施目标",
@@ -154,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "消息人士：印度政府已命令电信公司在新德里中心地区停用数据服务。",
+          "url": "https://flash.jin10.com/detail/20260723195309634800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "前外长跳槽中企后，匈牙利新政府宣布启动投资调查",
@@ -181,6 +237,19 @@
           "time_info": "[08时10分 ~ 18时21分]"
         },
         {
+          "title": "菲公务船侵闯黄岩岛海域 中方驱离",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F+%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时23分]"
+        },
+        {
           "title": "韩国首尔市长吴世勋一审被判罚金",
           "url": "https://www.douyin.com/hot/2581283",
           "source": "抖音",
@@ -204,16 +273,15 @@
           "time_info": "[01时16分 ~ 07时01分]"
         },
         {
-          "title": "菲公务船侵闯黄岩岛海域 中方驱离",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F+%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB",
-          "source": "百度热搜",
+          "title": "捷克众议长答凤凰记者：不会再有官方人员去台湾",
+          "url": "https://news.ifeng.com/c/8uzvKbvn4Kp",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时21分]"
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时23分]"
         },
         {
           "title": "外交部长王毅在中国－东盟外长会提出四点建议",
@@ -226,6 +294,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 03时14分]"
+        },
+        {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时23分]"
+        },
+        {
+          "title": "“处”改“科”、“科”改“股”，江苏多地党政机关规范内设机构名称",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33641737",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时23分]"
         },
         {
           "title": "假拆迁办主任虚构安置房诈骗2683万元",
@@ -248,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "捷克众议长答凤凰记者：不会再有官方人员去台湾",
-          "url": "https://news.ifeng.com/c/8uzvKbvn4Kp",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "中国财政部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
@@ -294,6 +375,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "言短意长｜县委书记、县长作报告，为何只写职务不列姓名？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643500",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "英国财政大臣希利：希望加深政府与企业的关系。",
           "url": "https://flash.jin10.com/detail/20260723151000930800",
           "source": "金十数据",
@@ -316,26 +408,26 @@
           "time_info": "03时14分"
         },
         {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
+          "title": "菲公务船侵闯黄岩岛海域画面公布",
+          "url": "https://www.douyin.com/hot/2582433",
+          "source": "抖音",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "20时23分"
         },
         {
-          "title": "“处”改“科”、“科”改“股”，江苏多地党政机关规范内设机构名称",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33641737",
+          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "20时23分"
         },
         {
           "title": "印度总理莫迪：已决定设立快速通道法庭，确保对考试泄题相关人员予以迅速且严厉的惩处。已指示有关部门和官员采取一切必要措施推进相关工作。",
@@ -360,6 +452,28 @@
           "time_info": "08时10分"
         },
         {
+          "title": "乌克兰总统泽连斯基：前国防部长费多罗夫被提议担任多个职位，包括负责国防创新的副总理。",
+          "url": "https://flash.jin10.com/detail/20260723193608731800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "吴伟任中国投资有限责任公司党委副书记",
+          "url": "https://wallstreetcn.com/livenews/3138848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "报道：英国政府正在撤回驻伊朗外交人员",
           "url": "https://wallstreetcn.com/livenews/3138374",
           "source": "华尔街见闻-快讯",
@@ -369,6 +483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "据国际文传电讯社：乌克兰总统泽连斯基称新的军事指挥官，国防部长将负责改善征兵工作。",
+          "url": "https://flash.jin10.com/detail/20260723193509198800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "警方通报一女子挡道指挥加塞",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8C%A1%E9%81%93%E6%8C%87%E6%8C%A5%E5%8A%A0%E5%A1%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -383,11 +519,24 @@
           "ranks": [
             6,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 20时23分]"
+        },
+        {
+          "title": "乒超联赛山东魏桥8:6山东鲁能",
+          "url": "https://www.douyin.com/hot/2582128",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时23分]"
         },
         {
           "title": "山东魏桥男团8-6战胜山东鲁能男团",
@@ -410,17 +559,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "乒超联赛山东魏桥8:6山东鲁能",
-          "url": "https://www.douyin.com/hot/2582128",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         }
       ]
     }
