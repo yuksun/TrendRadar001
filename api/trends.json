@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T13:53:31.643984+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-07-24T16:25:35.498704+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 39,
+      "match_count": 48,
       "titles": [
         {
           "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
@@ -113,13 +113,24 @@
           "time_info": "01时20分"
         },
         {
+          "title": "两部门：居民个人装入财产的离岸信托存续期间产生的收益 适用20%税率",
+          "url": "https://wallstreetcn.com/livenews/3139337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "欧洲央行管委Kocher：我们目前所处的立场允许我们观察未来几周的数据是否指向9月加息的方向。 我们尚未看到任何第二轮效应的确凿证据。 第二轮效应将主要与工资变化相关。 如果我知道，我会告诉你们9月加息是否是最可能的结果。",
           "url": "https://wallstreetcn.com/livenews/3139248",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -152,9 +163,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "两部门：个人将财产装入离岸信托以及通过离岸信托取得收益，应当按照规定申报缴纳个人所得税",
+          "url": "https://wallstreetcn.com/livenews/3139334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "动保举报拉狗车,救狗未果反害狗",
@@ -168,17 +190,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "女生午睡5小时遭领导训斥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "赛里木湖景区通报工作人员殴打司机",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -188,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "国务院成立六蓝水库溃坝调查组",
+          "url": "https://www.douyin.com/hot/2583257",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "是否逮捕内塔尼亚胡？纽约市长再发声",
@@ -212,6 +234,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 07时58分]"
+        },
+        {
+          "title": "女生午睡5小时遭领导训斥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时25分]"
         },
         {
           "title": "中方回应菲公务船侵闯黄岩岛",
@@ -249,13 +283,25 @@
           "time_info": "[10时58分 ~ 13时53分]"
         },
         {
+          "title": "国务院成立六蓝水库溃坝调查评估组",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时25分]"
+        },
+        {
           "title": "国务院成立六蓝水库溃坝灾害调查组",
           "url": "https://www.toutiao.com/trending/7665701311173804075/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -277,9 +323,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "澳大利亚工党大会上，中方官员愤然离席",
+          "url": "https://news.ifeng.com/c/8v1HrHUvp7G",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "新加坡政府投资公司GIC：截至3月底，股票投资组合占比为56%，一年前为51%。固定收益投资组合占比为22%，一年前为26%。实物资产投资组合占比为22%，一年前为23%。",
@@ -326,6 +383,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "欧洲央行管委科赫尔：欧洲央行关注点转向天然气、食品价格和工资",
+          "url": "https://flash.jin10.com/detail/20260724161304913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
           "url": "https://flash.jin10.com/detail/20260724055906399800",
           "source": "金十数据",
@@ -343,9 +411,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "两部门：由于离岸信托往往设立在信息透明度低、税负较低的国家和地区，部分个人利用其转移资产、隐匿财富及逃避税",
+          "url": "https://flash.jin10.com/detail/20260724161225903800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
@@ -359,17 +438,6 @@
           "time_info": "06时55分"
         },
         {
-          "title": "国务院成立六蓝水库溃坝调查评估组",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "巴西政府：将启动程序援引互惠法，并将该事项提交至世贸组织（WTO）争端解决机制。",
           "url": "https://flash.jin10.com/detail/20260724054335912800",
           "source": "金十数据",
@@ -379,6 +447,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：9月的会议将特别重要，届时我们将更了解能源市场发展对通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260724160825833800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：除了油价之外，关注的焦点正转向天然气市场、食品价格和欧元区薪资形势。",
+          "url": "https://flash.jin10.com/detail/20260724160807184800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "澳大利亚将额外投入32亿美元用于建造核动力潜艇。国防部长马尔斯表示，这笔投资是建立主权能力进程中的又一重要举措；澳大利亚需要这种能力，以建造、操作、维护并保障我们未来的潜艇舰队。",
@@ -409,9 +499,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "两部门：个人将财产装入离岸信托以及通过离岸信托取得收益，应当按照规定申报缴纳个人所得税",
+          "url": "https://flash.jin10.com/detail/20260724160630943800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
@@ -442,7 +543,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -453,7 +554,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -496,7 +597,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
