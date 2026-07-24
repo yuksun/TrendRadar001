@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T16:25:35.498704+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-07-24T19:06:17.667943+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 48,
+      "match_count": 58,
       "titles": [
         {
           "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
@@ -119,7 +119,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "李峻任中国电子信息产业集团有限公司董事、总经理、党组副书记",
+          "url": "https://wallstreetcn.com/livenews/3139438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "赛里木湖景区通报工作人员殴打司机",
@@ -174,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -190,6 +201,19 @@
           "time_info": "10时58分"
         },
         {
+          "title": "女生午睡5小时遭领导训斥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时06分]"
+        },
+        {
           "title": "赛里木湖景区通报工作人员殴打司机",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -199,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "国务院成立六蓝水库溃坝调查组",
-          "url": "https://www.douyin.com/hot/2583257",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "是否逮捕内塔尼亚胡？纽约市长再发声",
@@ -223,6 +236,18 @@
           "time_info": "[01时20分 ~ 07时58分]"
         },
         {
+          "title": "国务院成立六蓝水库溃坝调查组",
+          "url": "https://www.douyin.com/hot/2583257",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时06分]"
+        },
+        {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
           "url": "https://wallstreetcn.com/articles/3777740",
           "source": "华尔街见闻",
@@ -234,18 +259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 07时58分]"
-        },
-        {
-          "title": "女生午睡5小时遭领导训斥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时25分]"
         },
         {
           "title": "中方回应菲公务船侵闯黄岩岛",
@@ -283,6 +296,17 @@
           "time_info": "[10时58分 ~ 13时53分]"
         },
         {
+          "title": "澳大利亚工党大会上，中方官员愤然离席",
+          "url": "https://news.ifeng.com/c/8v1HrHUvp7G",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 19时06分]"
+        },
+        {
           "title": "国务院成立六蓝水库溃坝调查评估组",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
           "source": "百度热搜",
@@ -304,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "菲方公务船、海警舰、渔船非法聚集黄岩岛海域，中方出手",
+          "url": "https://news.ifeng.com/c/8v1Rs6omGYn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "沙特等八国外交部谴责以官员及定居者强闯阿克萨清真寺",
@@ -328,17 +363,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "澳大利亚工党大会上，中方官员愤然离席",
-          "url": "https://news.ifeng.com/c/8v1HrHUvp7G",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "新加坡政府投资公司GIC：截至3月底，股票投资组合占比为56%，一年前为51%。固定收益投资组合占比为22%，一年前为26%。实物资产投资组合占比为22%，一年前为23%。",
           "url": "https://flash.jin10.com/detail/20260724060004100800",
           "source": "金十数据",
@@ -359,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "欧洲央行管委Makhlouf：通胀压力并未消退。 9月将获得更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3139429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
@@ -389,9 +424,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：需要保持冷静头脑。 未出现第二轮效应迹象。 能源危机尚未结束。",
+          "url": "https://wallstreetcn.com/livenews/3139428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
@@ -422,7 +468,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -449,15 +495,48 @@
           "time_info": "06时55分"
         },
         {
+          "title": "欧洲央行管委Sleijpen：即使没有第二轮效应，9月仍可能加息。",
+          "url": "https://wallstreetcn.com/livenews/3139417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "Science 刊文揭露一位中国 6 岁女孩在基因编辑实验中死亡，涉事医学院称在调查，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063957060530738442",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "欧洲央行管委科赫尔：9月的会议将特别重要，届时我们将更了解能源市场发展对通胀的影响。",
           "url": "https://flash.jin10.com/detail/20260724160825833800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "欧元区私营部门活动升至五个月高点 但中东局势带来不确定性",
+          "url": "https://wallstreetcn.com/livenews/3139416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "欧洲央行管委科赫尔：除了油价之外，关注的焦点正转向天然气市场、食品价格和欧元区薪资形势。",
@@ -466,7 +545,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -510,7 +589,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -537,6 +616,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "欧洲央行管委马赫鲁夫：九月份将会有更多信息。",
+          "url": "https://flash.jin10.com/detail/20260724182934276800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组",
           "url": "https://wallstreetcn.com/livenews/3139216",
           "source": "华尔街见闻-快讯",
@@ -546,6 +636,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：过去六周显示了环境的不确定性。 每桶100美元的油价将给通胀带来影响。 通胀环境已经加剧。 通胀风险偏向上行。 现在急于做决定没有意义。 9月我们将再次获得更多通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3139399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "欧洲央行管委马赫鲁夫：通胀压力仍未消退。",
+          "url": "https://flash.jin10.com/detail/20260724182906841800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "国务院成立广西六蓝水库溃坝调查组",
