@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T10:58:25.596921+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-07-24T13:53:31.643984+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
@@ -29,8 +29,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 10时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 13时53分]"
+        },
+        {
+          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 13时53分]"
         },
         {
           "title": "中方驱离侵闯黄岩岛海域菲公务船",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 07时58分]"
-        },
-        {
-          "title": "江西龙南市一工厂试用期工资1块钱1小时？劳动监察部门赴涉事工厂了解情况",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642659",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 10时58分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -112,13 +113,24 @@
           "time_info": "01时20分"
         },
         {
+          "title": "欧洲央行管委Kocher：我们目前所处的立场允许我们观察未来几周的数据是否指向9月加息的方向。 我们尚未看到任何第二轮效应的确凿证据。 第二轮效应将主要与工资变化相关。 如果我知道，我会告诉你们9月加息是否是最可能的结果。",
+          "url": "https://wallstreetcn.com/livenews/3139248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "赛里木湖景区通报工作人员殴打司机",
           "url": "https://www.toutiao.com/trending/7665732992987349011/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -134,15 +146,37 @@
           "time_info": "01时20分"
         },
         {
+          "title": "欧洲央行管委内格尔：在九月会议之前不应对任何利率变动做出预先承诺。",
+          "url": "https://flash.jin10.com/detail/20260724131342586800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "动保举报拉狗车,救狗未果反害狗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356455&amp;topic_name=%E5%8A%A8%E4%BF%9D%E4%B8%BE%E6%8A%A5%E6%8B%89%E7%8B%97%E8%BD%A6%2C%E6%95%91%E7%8B%97%E6%9C%AA%E6%9E%9C%E5%8F%8D%E5%AE%B3%E7%8B%97",
           "source": "贴吧",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "女生午睡5小时遭领导训斥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "赛里木湖景区通报工作人员殴打司机",
@@ -151,7 +185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -203,6 +237,29 @@
           "time_info": "[03时13分 ~ 05时02分]"
         },
         {
+          "title": "男子采血后口吐白沫 当地成立调查组",
+          "url": "https://www.toutiao.com/trending/7665802541242105897/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 13时53分]"
+        },
+        {
+          "title": "国务院成立六蓝水库溃坝灾害调查组",
+          "url": "https://www.toutiao.com/trending/7665701311173804075/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "沙特等八国外交部谴责以官员及定居者强闯阿克萨清真寺",
           "url": "https://wallstreetcn.com/livenews/3139059",
           "source": "华尔街见闻-快讯",
@@ -212,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "男子有偿献血15次口吐白沫 当地通报",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9C%89%E5%81%BF%E7%8C%AE%E8%A1%8015%E6%AC%A1%E5%8F%A3%E5%90%90%E7%99%BD%E6%B2%AB+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "新加坡政府投资公司GIC：截至3月底，股票投资组合占比为56%，一年前为51%。固定收益投资组合占比为22%，一年前为26%。实物资产投资组合占比为22%，一年前为23%。",
@@ -242,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -269,6 +337,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "欧洲央行管委内格尔：欧洲央行处于良好位置，可以密切关注进一步的发展。",
+          "url": "https://flash.jin10.com/detail/20260724130104223800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
           "url": "https://flash.jin10.com/detail/20260724055905165800",
           "source": "金十数据",
@@ -278,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "国务院成立六蓝水库溃坝调查评估组",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "巴西政府：将启动程序援引互惠法，并将该事项提交至世贸组织（WTO）争端解决机制。",
@@ -297,7 +387,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -308,9 +398,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "董军同泰国国防部长举行会谈",
+          "url": "https://flash.jin10.com/detail/20260724125444555800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "人民币兑美元中间价报6.7939，下调33点；上一交易日中间价6.7906，上一交易日官方收盘价6.7706，上日夜盘报收6.7777。",
@@ -319,7 +420,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -335,21 +436,32 @@
           "time_info": "05时02分"
         },
         {
-          "title": "男子采血后口吐白沫 当地成立调查组",
-          "url": "https://www.toutiao.com/trending/7665802541242105897/",
-          "source": "今日头条",
+          "title": "国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组",
+          "url": "https://wallstreetcn.com/livenews/3139216",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "13时53分"
+        },
+        {
+          "title": "国务院成立广西六蓝水库溃坝调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%B9%BF%E8%A5%BF%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "笑不活,山东高中变奶龙乐园",
@@ -357,11 +469,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 10时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 13时53分]"
         },
         {
           "title": "山东一高速服务区设啤酒档口",
@@ -377,13 +490,24 @@
           "time_info": "[03时13分 ~ 07时58分]"
         },
         {
+          "title": "山东烟台市副市长李金涛主动投案",
+          "url": "https://www.toutiao.com/trending/7665917924346973715/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "上半年山东社会融资规模同比增长8.3%",
           "url": "https://flash.jin10.com/detail/20260724103225150800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
