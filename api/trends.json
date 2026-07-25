@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T06:54:34.988650+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-26T07:59:55.316148+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中纪委通报：上半年50名省部级及以上干部被立案",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
         },
         {
           "title": "印度总统府宣布：总统接受教育部长Pradhan的辞呈，由部长Joshi兼管教育部。",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
         },
         {
           "title": "如何看待郑州新东方暑期补课被查，要求清退学生？这波清查能有效打击学科培训机构吗？",
@@ -52,11 +52,12 @@
             8,
             7,
             3,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
         },
         {
           "title": "主办方通报李权哲高铁座位争议",
@@ -65,11 +66,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时59分]"
         },
         {
           "title": "广东省减灾委员会启动Ⅳ级救灾应急响应",
@@ -80,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
         },
         {
           "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
@@ -92,8 +94,80 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "国家数据局党组书记、局长刘烈宏赴上海市调研数据要素市场化配置改革工作",
+          "url": "https://wallstreetcn.com/livenews/3139769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "印尼官员：印尼对华发展长期合作伙伴关系承诺坚定",
+          "url": "https://wallstreetcn.com/livenews/3139767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "乌克兰基辅市长：基辅遭俄罗斯袭击，坠落的碎片在至少三个区引发火灾。",
+          "url": "https://flash.jin10.com/detail/20260726060000169800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时59分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -111,88 +185,18 @@
           "time_info": "[00时10分 ~ 05时54分]"
         },
         {
-          "title": "国家数据局党组书记、局长刘烈宏赴上海市调研数据要素市场化配置改革工作",
-          "url": "https://wallstreetcn.com/livenews/3139769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
-        },
-        {
-          "title": "印尼官员：印尼对华发展长期合作伙伴关系承诺坚定",
-          "url": "https://wallstreetcn.com/livenews/3139767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
-        },
-        {
-          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3139766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
-        },
-        {
-          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
-          "url": "https://wallstreetcn.com/livenews/3139765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3139764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
-        },
-        {
-          "title": "乌克兰基辅市长：基辅遭俄罗斯袭击，坠落的碎片在至少三个区引发火灾。",
-          "url": "https://flash.jin10.com/detail/20260726060000169800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
           "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
           "url": "https://flash.jin10.com/detail/20260726041034041800",
           "source": "金十数据",
           "ranks": [
             1,
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时59分]"
         },
         {
           "title": "巴勒斯坦外长：我们希望和平委员会在加沙地带发挥作用。",
@@ -208,6 +212,34 @@
           "time_info": "[03时08分 ~ 05时54分]"
         },
         {
+          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
+          "url": "https://flash.jin10.com/detail/20260726034612336800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时59分]"
+        },
+        {
+          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260726034033729800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时59分]"
+        },
+        {
           "title": "巴勒斯坦外长：我们的存在受到威胁，以色列对巴勒斯坦人实施恐怖主义。内塔尼亚胡政府是“法西斯”，利用定居者控制约旦河西岸。",
           "url": "https://flash.jin10.com/detail/20260726022925485800",
           "source": "金十数据",
@@ -219,32 +251,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时54分]"
-        },
-        {
-          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
-          "url": "https://flash.jin10.com/detail/20260726034612336800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时54分]"
-        },
-        {
-          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
-          "url": "https://flash.jin10.com/detail/20260726034033729800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时54分]"
         },
         {
           "title": "伊朗：美军伤亡数字远超官方口径",
@@ -269,6 +275,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时57分]"
+        },
+        {
+          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "叙利亚过渡政府总统与联合国秘书长在大马士革举行会晤",
@@ -331,8 +348,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时59分]"
         }
       ]
     }
