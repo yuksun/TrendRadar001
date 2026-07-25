@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-25T12:08:54.145684+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-25T15:13:50.907005+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 15时13分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -27,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时30分 ~ 15时13分]"
         },
         {
           "title": "菲公务船、海警舰非法聚集黄岩岛海域，中方出手",
@@ -40,6 +41,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时30分 ~ 08时03分]"
+        },
+        {
+          "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652237",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 15时13分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -77,30 +93,17 @@
           "time_info": "[01时29分 ~ 08时03分]"
         },
         {
-          "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652237",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时08分]"
-        },
-        {
           "title": "女生午睡5小时遭领导训斥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&amp;topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
           "source": "贴吧",
           "ranks": [
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 15时13分]"
         },
         {
           "title": "委内瑞拉正式通报联合国，决定退出国际刑事法院",
@@ -111,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 15时13分]"
         },
         {
           "title": "王小洪会见FBI局长帕特尔",
@@ -121,9 +124,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
         },
         {
           "title": "王小洪会见FBI局长帕特尔",
@@ -132,9 +135,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
+        },
+        {
+          "title": "两部门明确：居民个人装入离岸信托的财产及信托存续收益，均须依法缴纳个人所得税",
+          "url": "https://wallstreetcn.com/articles/3777868",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 15时13分]"
         },
         {
           "title": "巴西规划部长莫雷蒂：石油出口税收入表现强劲；预计四个月内将达到156亿雷亚尔。",
@@ -148,6 +164,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260725144545668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "巴西规划部长莫雷蒂：我们预计不会恢复每升柴油0.35雷亚尔的额外补贴。",
           "url": "https://flash.jin10.com/detail/20260725030354412800",
           "source": "金十数据",
@@ -157,17 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "澳大利亚工党大会上，中方官员愤然离席",
@@ -230,18 +246,6 @@
           "time_info": "[05时01分 ~ 08时03分]"
         },
         {
-          "title": "两部门明确：居民个人装入离岸信托的财产及信托存续收益，均须依法缴纳个人所得税",
-          "url": "https://wallstreetcn.com/articles/3777868",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时08分]"
-        },
-        {
           "title": "委内瑞拉正式通报联合国，决定退出国际刑事法院",
           "url": "https://wallstreetcn.com/livenews/3139660",
           "source": "华尔街见闻-快讯",
@@ -252,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 08时03分]"
+        },
+        {
+          "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3139711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
         },
         {
           "title": "澳大利亚工党大会中方官员愤然离席",
@@ -280,6 +296,18 @@
           "time_info": "[03时22分 ~ 08时03分]"
         },
         {
+          "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3139709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：沙特领导的联军表示，在也门境内摧毁的目标与对红海商业航运构成威胁的活动有关。",
           "url": "https://flash.jin10.com/detail/20260725050123322800",
           "source": "金十数据",
@@ -290,6 +318,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 08时03分]"
+        },
+        {
+          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
         },
         {
           "title": "据沙特阿拉比亚电视台：沙特领导的联军表示，已对也门荷台达省内的胡塞武装军事目标实施打击。此次行动未针对也门荷台达港，该省所有港口仍保持对航运开放。",
@@ -304,6 +344,42 @@
           "time_info": "[06时13分 ~ 08时03分]"
         },
         {
+          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
+        },
+        {
+          "title": "女子举报遭警察猥亵 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E8%AD%A6%E5%AF%9F%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
+        },
+        {
+          "title": "西南证券原二级专务彭世斌涉嫌严重违纪违法接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3139695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时13分]"
+        },
+        {
           "title": "巴西规划部长莫雷蒂：一旦布伦特原油相关指标再次缓解，政府将重新审视其关于石油出口税的立场。",
           "url": "https://flash.jin10.com/detail/20260725030350336800",
           "source": "金十数据",
@@ -315,24 +391,13 @@
           "time_info": "03时22分"
         },
         {
-          "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "特民防部门表示，延布的危险已经解除。",
           "url": "https://flash.jin10.com/detail/20260725111441300800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -343,7 +408,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -354,18 +419,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -381,24 +435,24 @@
           "time_info": "03时22分"
         },
         {
+          "title": "消息人士称，印度政府将德里市中心移动互联网的中断时间延长至周六午夜。",
+          "url": "https://flash.jin10.com/detail/20260725134628716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。",
           "url": "https://flash.jin10.com/detail/20260725110124305800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -420,7 +474,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -431,7 +485,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -447,26 +501,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "女子举报遭警察猥亵 警方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E8%AD%A6%E5%AF%9F%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "海南人大常委会原副主任被开除党籍",
+          "url": "https://www.toutiao.com/trending/7666295228383002678/",
+          "source": "今日头条",
           "ranks": [
-            18
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "西南证券原二级专务彭世斌涉嫌严重违纪违法接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3139695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "15时13分"
         },
         {
           "title": "外交部长王毅：面对世界何去何从的时代之问，中俄有着坚定清醒的答案",
@@ -486,7 +529,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -497,7 +540,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -514,7 +557,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
