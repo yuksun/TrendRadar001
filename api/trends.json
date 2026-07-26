@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:18:26.185233+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-26T21:17:18.539855+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "中纪委通报：上半年50名省部级及以上干部被立案",
@@ -217,6 +217,17 @@
           "time_info": "[00时10分 ~ 05时54分]"
         },
         {
+          "title": "甘肃省委书记省长赶赴山洪现场",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E8%B5%B6%E8%B5%B4%E5%B1%B1%E6%B4%AA%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
           "url": "https://flash.jin10.com/detail/20260726041034041800",
           "source": "金十数据",
@@ -229,28 +240,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时50分 ~ 07时59分]"
-        },
-        {
-          "title": "港版金秘书为何这样路透",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%AF%E7%89%88%E9%87%91%E7%A7%98%E4%B9%A6%E4%B8%BA%E4%BD%95%E8%BF%99%E6%A0%B7%E8%B7%AF%E9%80%8F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "据耶路撒冷邮报：以色列安全内阁预计将讨论由和平委员会（BoP）起草的新加沙提案。",
-          "url": "https://flash.jin10.com/detail/20260726181959734800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "副教授被举报 18 年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
@@ -317,6 +306,30 @@
           "time_info": "[04时50分 ~ 07时59分]"
         },
         {
+          "title": "港版金秘书为何这样路透",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%AF%E7%89%88%E9%87%91%E7%A7%98%E4%B9%A6%E4%B8%BA%E4%BD%95%E8%BF%99%E6%A0%B7%E8%B7%AF%E9%80%8F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时17分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：以色列安全内阁预计将讨论由和平委员会（BoP）起草的新加沙提案。",
+          "url": "https://flash.jin10.com/detail/20260726181959734800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时17分]"
+        },
+        {
           "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
           "url": "https://flash.jin10.com/detail/20260726034033729800",
           "source": "金十数据",
@@ -342,6 +355,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时54分]"
+        },
+        {
+          "title": "找准定位：多省份明确政府投资基金重点投资方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661440",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 21时17分]"
         },
         {
           "title": "院方通报女童接受基因编辑后死亡",
@@ -382,16 +408,16 @@
           "time_info": "[03时08分 ~ 04时50分]"
         },
         {
-          "title": "找准定位：多省份明确政府投资基金重点投资方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661440",
+          "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661692",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时18分]"
+          "time_info": "[19时18分 ~ 21时17分]"
         },
         {
           "title": "伊朗官员：镐山设施“目前是空的”",
@@ -428,6 +454,17 @@
           "time_info": "17时11分"
         },
         {
+          "title": "九寨沟景区通报泥石流致游客滞留",
+          "url": "https://www.toutiao.com/trending/7666413116233629738/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "官方数据显示，沙特5月进口额下降19.5%。沙特非石油出口（含转口贸易）较2025年5月下降了26.1%。",
           "url": "https://flash.jin10.com/detail/20260726134503677800",
           "source": "金十数据",
@@ -445,7 +482,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -472,15 +509,37 @@
           "time_info": "14时34分"
         },
         {
-          "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661692",
-          "source": "澎湃新闻",
+          "title": "两部门派工作组赴甘肃山洪现场",
+          "url": "https://www.toutiao.com/trending/7666791760722398762/",
+          "source": "今日头条",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "21时17分"
+        },
+        {
+          "title": "某演员高铁占座 铁路部门回应",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%90%E6%BC%94%E5%91%98%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7+%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "调查显示日本8月将有近1900种食品涨价",
+          "url": "https://wallstreetcn.com/livenews/3139839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
@@ -522,7 +581,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -547,6 +606,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "甘肃渭源一景区发生山洪 两部门已派出工作组赶赴现场",
+          "url": "https://flash.jin10.com/detail/20260726185540931800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "市长表示，戈尔洛夫卡的四名居民在乌克兰无人机袭击中遇难。",
+          "url": "https://flash.jin10.com/detail/20260726184834054800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "卡塔尔外交部：首相与外交部长强调确保霍尔木兹海峡航行自由和增强地区稳定的重要性。",
@@ -629,7 +710,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东一高速服务区设啤酒档口，工作人员称「已经过审批，卖两个月了」，如何看待这一档口设置？卖啤酒合理吗？",
@@ -644,6 +725,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 07时59分]"
+        },
+        {
+          "title": "山东一高中多名新生身高超1米85",
+          "url": "https://www.toutiao.com/trending/7665860465641340991/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "山东魏桥8比2汕头明润",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AD%8F%E6%A1%A58%E6%AF%942%E6%B1%95%E5%A4%B4%E6%98%8E%E6%B6%A6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     }
