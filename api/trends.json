@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T11:34:42.255281+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-07-26T14:34:50.092452+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "中纪委通报：上半年50名省部级及以上干部被立案",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 11时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 14时34分]"
         },
         {
           "title": "印度总统府宣布：总统接受教育部长Pradhan的辞呈，由部长Joshi兼管教育部。",
@@ -38,11 +39,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 11时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 14时34分]"
         },
         {
           "title": "主办方通报李权哲高铁座位争议",
@@ -53,11 +55,26 @@
             10,
             11,
             9,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 14时34分]"
+        },
+        {
+          "title": "广东省减灾委员会启动Ⅳ级救灾应急响应",
+          "url": "https://wallstreetcn.com/livenews/3139776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            19,
+            28
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时10分 ~ 11时34分]"
+          "time_info": "[00时11分 ~ 14时34分]"
         },
         {
           "title": "如何看待郑州新东方暑期补课被查，要求清退学生？这波清查能有效打击学科培训机构吗？",
@@ -75,19 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 07时59分]"
-        },
-        {
-          "title": "广东省减灾委员会启动Ⅳ级救灾应急响应",
-          "url": "https://wallstreetcn.com/livenews/3139776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 11时34分]"
         },
         {
           "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
@@ -179,6 +183,28 @@
           "time_info": "[06时54分 ~ 07时59分]"
         },
         {
+          "title": "院方通报女童接受基因编辑试验后死亡",
+          "url": "https://www.toutiao.com/trending/7666699971936947763/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "女童接受基因编辑试验死亡 院方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E6%8E%A5%E5%8F%97%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E6%AD%BB%E4%BA%A1+%E9%99%A2%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "马斯克：中国很有可能成AI领导者",
           "url": "https://www.toutiao.com/trending/7666381434109578761/",
           "source": "今日头条",
@@ -219,6 +245,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时54分]"
+        },
+        {
+          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 14时34分]"
         },
         {
           "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
@@ -262,18 +301,6 @@
           "time_info": "[03时08分 ~ 05时54分]"
         },
         {
-          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时34分]"
-        },
-        {
           "title": "伊朗：美军伤亡数字远超官方口径",
           "url": "https://flash.jin10.com/detail/20260726020929793800",
           "source": "金十数据",
@@ -298,26 +325,70 @@
           "time_info": "[00时11分 ~ 01时57分]"
         },
         {
-          "title": "中南大学已成立调查组",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "副教授被举报 18 年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
           "url": "https://www.zhihu.com/question/2064285506431725683",
           "source": "知乎",
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 14时34分]"
+        },
+        {
+          "title": "上海交大医学院全面调查网传临床研究",
+          "url": "https://flash.jin10.com/detail/20260726134923120800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "官方数据显示，沙特5月进口额下降19.5%。沙特非石油出口（含转口贸易）较2025年5月下降了26.1%。",
+          "url": "https://flash.jin10.com/detail/20260726134503677800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "中南大学已成立调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "院方通报女童接受基因编辑后死亡",
+          "url": "https://www.douyin.com/hot/2585727",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "官方数据显示，沙特5月商品出口增长3.9%。",
+          "url": "https://flash.jin10.com/detail/20260726134415804800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
@@ -326,7 +397,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -337,9 +408,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "马斯克说未来中国极可能成为AI领导者",
+          "url": "https://flash.jin10.com/detail/20260726131248112800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "叙利亚过渡政府总统与联合国秘书长在大马士革举行会晤",
@@ -359,9 +441,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "中南大学一硕士论文被指 13 页雷同，校方成立调查组，此前曾称暑假结束再受理举报，如何评价？暴露哪些问题？",
+          "url": "https://www.zhihu.com/question/2064146352787945024",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "卡塔尔外交部：首相与外交部长强调确保霍尔木兹海峡航行自由和增强地区稳定的重要性。",
@@ -397,15 +490,37 @@
           "time_info": "00时11分"
         },
         {
+          "title": "功夫女足官方用了迪丽热巴的BGM",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%AE%98%E6%96%B9%E7%94%A8%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84BGM%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "中南大学通报一硕士论文涉嫌抄袭",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "霍尔木兹海峡袭船通报里的“秘密”",
+          "url": "https://www.toutiao.com/trending/7666685186562244649/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
