@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T01:41:32.753659+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-28T03:24:55.798616+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "如何看待世界杯决赛执法阿根廷对西班牙的主裁判温契奇宣布退役？",
           "url": "https://www.zhihu.com/question/2065059989778076694",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -37,19 +38,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "河南回应三支一扶成绩争议：全面调查",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%9B%9E%E5%BA%94%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%88%90%E7%BB%A9%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%85%A8%E9%9D%A2%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
+        },
+        {
+          "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
+          "url": "https://www.cls.cn/detail/2438033",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
@@ -59,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "湖北省人大常委会原党组书记、副主任苏晓云逝世，享年75岁",
@@ -70,19 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
-          "url": "https://www.cls.cn/detail/2438033",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
@@ -92,19 +95,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "河南通报三支一扶高分争议",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E9%AB%98%E5%88%86%E4%BA%89%E8%AE%AE%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "沈阳一小区地库大面积塌陷，业主称11天未收到检测报告，相关部门记录诉求",
@@ -114,15 +106,60 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
         },
         {
           "title": "LVMH集团：二季度迪奥有机销售增速略微高于部门均值。",
           "url": "https://wallstreetcn.com/livenews/3140437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时24分]"
+        },
+        {
+          "title": "伊拉克总理媒体办公室声明：不会允许我国领土（领空）被用于对周边国家发动袭击。 正调查无人机袭击沙特一事。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3140465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊拉克政府已就“伊境内无人机袭击沙特”展开调查",
+          "url": "https://flash.jin10.com/detail/20260728022930230800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "海地选举委员会确定新的总统选举日期。首轮投票定于当地时间12月13日举行，次轮投票定于2月21日举行。",
+          "url": "https://flash.jin10.com/detail/20260728020935680800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "河南通报三支一扶高分争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E9%AB%98%E5%88%86%E4%BA%89%E8%AE%AE%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
