@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:00:45.720672+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-07-28T11:59:44.095686+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 21,
+      "match_count": 41,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -54,6 +54,52 @@
           "time_info": "[05时09分 ~ 07时00分]"
         },
         {
+          "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667338",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 11时59分]"
+        },
+        {
+          "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 11时59分]"
+        },
+        {
+          "title": "网红书记带货知了猴被指破坏生态",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B9%A6%E8%AE%B0%E5%B8%A6%E8%B4%A7%E7%9F%A5%E4%BA%86%E7%8C%B4%E8%A2%AB%E6%8C%87%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669203",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
           "url": "https://flash.jin10.com/detail/20260728044945651800",
           "source": "金十数据",
@@ -65,6 +111,28 @@
           "time_info": "05时09分"
         },
         {
+          "title": "日本财务大臣片山皋月：防止债券市场投机交易至关重要。 如果经济增长，日本国债将成为有吸引力的政府养老基金（GPIF）投资项目。",
+          "url": "https://wallstreetcn.com/livenews/3140711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "网红书记带货知了猴被指破坏生态",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E4%B9%A6%E8%AE%B0%E5%B8%A6%E8%B4%A7%E7%9F%A5%E4%BA%86%E7%8C%B4%E8%A2%AB%E6%8C%87%E7%A0%B4%E5%9D%8F%E7%94%9F%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "河南回应三支一扶成绩争议：全面调查",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%9B%9E%E5%BA%94%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%88%90%E7%BB%A9%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%85%A8%E9%9D%A2%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -72,18 +140,6 @@
             10,
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 07时00分]"
-        },
-        {
-          "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -127,17 +183,6 @@
           "time_info": "[01时41分 ~ 07时00分]"
         },
         {
-          "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667338",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时00分]"
-        },
-        {
           "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33664489",
           "source": "澎湃新闻",
@@ -157,8 +202,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 11时59分]"
         },
         {
           "title": "LVMH集团：二季度迪奥有机销售增速略微高于部门均值。",
@@ -195,6 +240,83 @@
           "time_info": "03时24分"
         },
         {
+          "title": "作为缔约国，中国海警赴北太平洋公海执法",
+          "url": "https://news.ifeng.com/c/8v7VoXw4SrJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：尚不确定澳洲联储加息幅度是否足以使CPI回落至目标区间。 如有需要，澳洲联储委员会将进一步提高现金利率。 此前加息的全部效果仍需时日方能显现。 澳洲联储致力于防止成本压力演变成固化通胀。 核心CPI走势大致符合预期，但依然过高。 各项指标显示二季度消费增长温和。 需求增长可能仍需进一步放缓。",
+          "url": "https://wallstreetcn.com/livenews/3140703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "六部门：禁止涉军队退役报废装备销售",
+          "url": "https://www.toutiao.com/trending/7667411754222960646/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669694",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "女童基因编辑治疗后死亡，卫健部门介入调查，还有哪些疑点待解？此次事故可能涉及哪些医疗违规或违法行为？",
+          "url": "https://www.zhihu.com/question/2065037308403737451",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "伊拉克政府已就“伊境内无人机袭击沙特”展开调查",
           "url": "https://flash.jin10.com/detail/20260728022930230800",
           "source": "金十数据",
@@ -204,6 +326,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
+          "url": "https://www.zhihu.com/question/2065354169976709358",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "官方回应河南三支一扶成绩争议",
+          "url": "https://www.douyin.com/hot/2587345",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日本首相高市早苗已延续在安倍政府期间签署的日本央行协议。",
+          "url": "https://flash.jin10.com/detail/20260728111744083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：政府与日本央行的关系正常且顺畅，货币政策操作交由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3140691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "吴伟任中国投资有限责任公司党委副书记，不再担任上海市委常委、委员职务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668412",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "海地选举委员会确定新的总统选举日期。首轮投票定于当地时间12月13日举行，次轮投票定于2月21日举行。",
@@ -228,6 +416,28 @@
           "time_info": "01时41分"
         },
         {
+          "title": "公职人员被举报侵吞8亿资产 官方调查",
+          "url": "https://www.toutiao.com/trending/7667186077138075675/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "衡水回应公职人员被举报侵吞8亿资产",
+          "url": "https://www.baidu.com/s?wd=%E8%A1%A1%E6%B0%B4%E5%9B%9E%E5%BA%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BE%B5%E5%90%9E8%E4%BA%BF%E8%B5%84%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "中冶沈勘一项目被实名举报",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%86%B6%E6%B2%88%E5%8B%98%E4%B8%80%E9%A1%B9%E7%9B%AE%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5",
           "source": "百度热搜",
@@ -248,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "衡水市成立联合调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E5%B8%82%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
