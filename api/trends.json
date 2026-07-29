@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:01:05.182475+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-07-30T07:04:16.551434+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩股暴跌！监管层接连道歉 青瓦台官员一句“无须救市”引爆舆论",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 07时04分]"
         },
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
@@ -29,19 +29,48 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 07时04分]"
         },
         {
           "title": "云南勐腊通报女生提醒同学勿睡觉被老师殴打：对涉事教师记过处分",
           "url": "https://m.thepaper.cn/newsDetail_forward_33680102",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时04分]"
+        },
+        {
+          "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
+          "url": "https://www.zhihu.com/question/2065709716009743417",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 07时04分]"
+        },
+        {
+          "title": "公职人员称遭单位领导私下打探病情",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A7%B0%E9%81%AD%E5%8D%95%E4%BD%8D%E9%A2%86%E5%AF%BC%E7%A7%81%E4%B8%8B%E6%89%93%E6%8E%A2%E7%97%85%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时01分]"
+          "time_info": "[02时05分 ~ 07时04分]"
         },
         {
           "title": "以色列国防部长：我们摧毁了加沙",
@@ -58,6 +87,31 @@
           "time_info": "[00时20分 ~ 06时01分]"
         },
         {
+          "title": "黄政民被曝出轨",
+          "url": "https://www.toutiao.com/trending/7667150492237414406/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时04分]"
+        },
+        {
+          "title": "官方通报女生提醒同学别睡觉被老师打",
+          "url": "https://www.toutiao.com/trending/7667760736063684654/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时11分 ~ 07时04分]"
+        },
+        {
           "title": "会议纪要：部分加拿大央行官员对经济增长与通胀预期感到担忧",
           "url": "https://wallstreetcn.com/livenews/3141814",
           "source": "华尔街见闻-快讯",
@@ -69,18 +123,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
-          "url": "https://www.zhihu.com/question/2065709716009743417",
-          "source": "知乎",
+          "title": "乌克兰基辅市长克利奇科：敌人正在用弹道导弹轰炸基辅，进一步袭击的威胁依然存在。请大家留在避难所。",
+          "url": "https://flash.jin10.com/detail/20260730062439672800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            16,
-            6,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "智驾“小蓝灯”将禁用？官方机构发声",
@@ -94,19 +145,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时12分]"
-        },
-        {
-          "title": "公职人员称遭单位领导私下打探病情",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A7%B0%E9%81%AD%E5%8D%95%E4%BD%8D%E9%A2%86%E5%AF%BC%E7%A7%81%E4%B8%8B%E6%89%93%E6%8E%A2%E7%97%85%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "公职人员称遭单位领导私下打探病情",
@@ -135,16 +173,16 @@
           "time_info": "[00时20分 ~ 04时12分]"
         },
         {
-          "title": "黄政民被曝出轨",
-          "url": "https://www.toutiao.com/trending/7667150492237414406/",
-          "source": "今日头条",
+          "title": "官方通报乒乓球运动员挥拳击打对手",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%8C%A5%E6%8B%B3%E5%87%BB%E6%89%93%E5%AF%B9%E6%89%8B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            29,
-            21
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "据英奇角航运服务公司（Inchcape Shipping Services）报告，埃及达米埃塔港（Damietta Port）的液化天然气（LNG）码头在卸货期间发生爆炸。 目前，发生爆炸的船只已被转移至远离港口的区域，相关部门计划夜间在其他码头和终端恢复港口运营。",
@@ -157,29 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "官方通报女生提醒同学别睡觉被老师打",
-          "url": "https://www.toutiao.com/trending/7667760736063684654/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时11分 ~ 06时01分]"
-        },
-        {
-          "title": "官方通报乒乓球运动员挥拳击打对手",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E6%8C%A5%E6%8B%B3%E5%87%BB%E6%89%93%E5%AF%B9%E6%89%8B%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时01分]"
         },
         {
           "title": "以色列官员：伊朗仍在镐山进行铀浓缩",
