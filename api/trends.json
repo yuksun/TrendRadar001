@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:51:33.215121+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-29T16:37:34.377250+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "中央军委装备发展部等六部门：禁止涉军队退役报废装备销售活动",
@@ -26,11 +26,27 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 16时37分]"
+        },
+        {
+          "title": "河南“三支一扶”高分成绩引争议，官方再回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33675257",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 16时37分]"
         },
         {
           "title": "Kimi K3官方教程来了",
@@ -41,25 +57,27 @@
             4,
             5,
             14,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 16时37分]"
         },
         {
-          "title": "河南“三支一扶”高分成绩引争议，官方再回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33675257",
+          "title": "警方通报：4辆越野车高速并排占道51秒，1人被行拘3人被罚款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33673720",
           "source": "澎湃新闻",
           "ranks": [
+            13,
             12,
-            10,
-            7,
-            5
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 16时37分]"
         },
         {
           "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
@@ -71,20 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 06时03分]"
-        },
-        {
-          "title": "警方通报：4辆越野车高速并排占道51秒，1人被行拘3人被罚款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33673720",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时51分]"
         },
         {
           "title": "乒乓小将失利后拳击对手 官方通报",
@@ -192,26 +196,50 @@
           "time_info": "[00时39分 ~ 07时57分]"
         },
         {
+          "title": "女子高铁叫嚣全家体制内 官方通报",
+          "url": "https://www.toutiao.com/trending/7667819721118764554/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时37分]"
+        },
+        {
           "title": "韩国财政部长：为单股杠杆ETF在未经过仔细考虑的情况下推出表示歉意。",
           "url": "https://flash.jin10.com/detail/20260729134011670800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
         {
-          "title": "官方通报女生提醒同学别睡觉被老师打",
-          "url": "https://www.toutiao.com/trending/7667760736063684654/",
+          "title": "少年被北大录取 当地政府送8万助学金",
+          "url": "https://www.toutiao.com/trending/7667617089053642259/",
           "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "警方通报4辆越野车高速并排占道",
@@ -228,6 +256,19 @@
           "time_info": "[00时39分 ~ 06时03分]"
         },
         {
+          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2065711565274177872",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时37分]"
+        },
+        {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
           "url": "https://www.cls.cn/detail/2439032",
           "source": "财联社热门",
@@ -239,28 +280,16 @@
           "time_info": "[00时40分 ~ 06时03分]"
         },
         {
-          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2065711565274177872",
-          "source": "知乎",
+          "title": "官方通报女生提醒同学别睡觉被老师打",
+          "url": "https://www.toutiao.com/trending/7667760736063684654/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            3
+            4,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时51分]"
-        },
-        {
-          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时51分]"
+          "time_info": "[13时51分 ~ 16时37分]"
         },
         {
           "title": "班主任称考上清北三分天赋七分努力",
@@ -287,6 +316,17 @@
           "time_info": "[02时13分 ~ 04时15分]"
         },
         {
+          "title": "官方通报网传玉米地有豹子",
+          "url": "https://www.douyin.com/hot/2588828",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 16时37分]"
+        },
+        {
           "title": "六部门：禁止涉军队退役报废装备销售",
           "url": "https://www.toutiao.com/trending/7667411754222960646/",
           "source": "今日头条",
@@ -297,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时03分]"
+        },
+        {
+          "title": "江苏乒协通报“14岁组比赛运动员输球后挥拳击打对手”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33676185",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 16时37分]"
         },
         {
           "title": "大领导进来办公室要站起来吗",
@@ -310,6 +362,18 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
+          "title": "如何看待房主任离婚选择净身出户后，现在申请独立户口遭拒一事及其在节目中的表现？",
+          "url": "https://www.zhihu.com/question/2059388918152304542",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 16时37分]"
+        },
+        {
           "title": "陆治原当选中华全国总工会副主席、书记处第一书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33674612",
           "source": "澎湃新闻",
@@ -319,6 +383,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "阿哲自制综艺六人大头杀来了",
+          "url": "https://www.douyin.com/hot/2589060",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 16时37分]"
+        },
+        {
+          "title": "黄政民被曝出轨",
+          "url": "https://www.toutiao.com/trending/7667150492237414406/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 16时37分]"
         },
         {
           "title": "职业索赔盯上基层小诊所",
@@ -354,6 +441,17 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
+          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
+          "url": "https://wallstreetcn.com/articles/3778200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "路透调查：2026年铂金均价预计为每盎司1925美元，上次调查为2067美元；2026年钯金均价预计为每盎司1483美元，上次调查为1583美元。",
           "url": "https://flash.jin10.com/detail/20260728235351742800",
           "source": "金十数据",
@@ -376,15 +474,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "官方通报网传玉米地有豹子",
-          "url": "https://www.douyin.com/hot/2588828",
-          "source": "抖音",
+          "title": "多部门联合发布《国家应对气候变化“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3141556",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "路透调查：分析师自2023年底以来首次下调金价预测，但料央行买盘将缓解跌势",
@@ -404,53 +502,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
         {
-          "title": "江苏乒协通报“14岁组比赛运动员输球后挥拳击打对手”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33676185",
-          "source": "澎湃新闻",
+          "title": "据英国《泰晤士报》：英国首相伯纳姆可能会考虑在政府公务员拟定的计划下，对收入征收新税，以资助社会护理服务。伯纳姆将在当地时间今天上午晚些时候举行成为首相后的首次新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260729162656605800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
-          "title": "如何看待房主任离婚选择净身出户后，现在申请独立户口遭拒一事及其在节目中的表现？",
-          "url": "https://www.zhihu.com/question/2059388918152304542",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "阿哲自制综艺六人大头杀来了",
-          "url": "https://www.douyin.com/hot/2589060",
-          "source": "抖音",
+          "title": "云南勐腊通报女生提醒同学勿睡觉被老师殴打：对涉事教师记过处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680102",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
-          "title": "黄政民被曝出轨",
-          "url": "https://www.toutiao.com/trending/7667150492237414406/",
-          "source": "今日头条",
+          "title": "女子高铁叫嚣全家体制内 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
@@ -484,6 +571,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "警方通报女子高铁上叫嚣全家体制内",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "【报道：光伏行业价格合规指导活动定于7月31日开展】今日，有市场消息称，国家市场监督管理总局价格监督检查和反不正当竞争局定于7月31日开展光伏行业价格合规指导活动，邀请参会单位包括中国光伏行业协会和相关光伏行业企业。 从一家光伏组件企业高管处获悉，确有此活动，将在江苏盐城举行。活动目的为指导光伏行业加强成本核算，落实《光伏行业成本核算模型通则》。另有业内人士向表示：“目前确实在筹备该活动，正在搜集参会人员的名单信息。”（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3141543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "伊朗外交部长：伊朗也不寻求局势升级，但任何针对我方公民或利益的攻击都是不可接受的，必须对损失进行赔偿。",
