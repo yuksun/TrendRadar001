@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:37:34.377250+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-07-29T19:24:57.373168+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "中央军委装备发展部等六部门：禁止涉军队退役报废装备销售活动",
@@ -42,11 +42,12 @@
             10,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 16时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 19时24分]"
         },
         {
           "title": "Kimi K3官方教程来了",
@@ -58,11 +59,12 @@
             5,
             14,
             16,
-            25
+            25,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 16时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 19时24分]"
         },
         {
           "title": "警方通报：4辆越野车高速并排占道51秒，1人被行拘3人被罚款",
@@ -160,6 +162,20 @@
           "time_info": "[00时39分 ~ 10时38分]"
         },
         {
+          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 19时24分]"
+        },
+        {
           "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
           "source": "澎湃新闻",
@@ -183,6 +199,17 @@
           "time_info": "[07时57分 ~ 13时51分]"
         },
         {
+          "title": "华锦股份：公司副总经理闫增辉被立案调查并实施留置措施",
+          "url": "https://flash.jin10.com/detail/20260729191819129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
           "source": "澎湃新闻",
@@ -196,28 +223,15 @@
           "time_info": "[00时39分 ~ 07时57分]"
         },
         {
-          "title": "女子高铁叫嚣全家体制内 官方通报",
-          "url": "https://www.toutiao.com/trending/7667819721118764554/",
+          "title": "南昌市市长高世文被罢免人大代表职务",
+          "url": "https://www.toutiao.com/trending/7667894097851452982/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "社会人士被举报冒充名校研究院副院长，涉事院长：学校未正式聘任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669088",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 16时37分]"
+          "time_info": "19时24分"
         },
         {
           "title": "韩国财政部长：为单股杠杆ETF在未经过仔细考虑的情况下推出表示歉意。",
@@ -237,9 +251,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "韩股暴跌！监管层接连道歉 青瓦台官员一句“无须救市”引爆舆论",
+          "url": "https://www.cls.cn/detail/2440253",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2065711565274177872",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 19时24分]"
         },
         {
           "title": "警方通报4辆越野车高速并排占道",
@@ -256,17 +295,16 @@
           "time_info": "[00时39分 ~ 06时03分]"
         },
         {
-          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2065711565274177872",
-          "source": "知乎",
+          "title": "女子高铁叫嚣全家体制内 官方通报",
+          "url": "https://www.toutiao.com/trending/7667819721118764554/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            3,
+            2,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 16时37分]"
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
@@ -278,6 +316,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 06时03分]"
+        },
+        {
+          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
+          "url": "https://wallstreetcn.com/articles/3778200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "官方通报女生提醒同学别睡觉被老师打",
@@ -292,6 +342,19 @@
           "time_info": "[13时51分 ~ 16时37分]"
         },
         {
+          "title": "江苏乒协通报“14岁组比赛运动员输球后挥拳击打对手”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33676185",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 19时24分]"
+        },
+        {
           "title": "班主任称考上清北三分天赋七分努力",
           "url": "https://www.toutiao.com/trending/7666378450546556964/",
           "source": "今日头条",
@@ -302,6 +365,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 06时03分]"
+        },
+        {
+          "title": "阿哲自制综艺六人大头杀来了",
+          "url": "https://www.douyin.com/hot/2589060",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 19时24分]"
+        },
+        {
+          "title": "黄政民被曝出轨",
+          "url": "https://www.toutiao.com/trending/7667150492237414406/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 19时24分]"
+        },
+        {
+          "title": "女子高铁叫嚣全家体制内 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "沙特批评从也门和伊拉克对其石油设施发动袭击的做法。 沙特称，伊拉克（政府）必须阻止从其境内发动袭击的做法。（沙特官方媒体SPA）",
@@ -339,16 +439,16 @@
           "time_info": "[04时15分 ~ 06时03分]"
         },
         {
-          "title": "江苏乒协通报“14岁组比赛运动员输球后挥拳击打对手”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33676185",
+          "title": "云南勐腊通报女生提醒同学勿睡觉被老师殴打：对涉事教师记过处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680102",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时37分]"
+          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "大领导进来办公室要站起来吗",
@@ -385,29 +485,6 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
-          "title": "阿哲自制综艺六人大头杀来了",
-          "url": "https://www.douyin.com/hot/2589060",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时37分]"
-        },
-        {
-          "title": "黄政民被曝出轨",
-          "url": "https://www.toutiao.com/trending/7667150492237414406/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时37分]"
-        },
-        {
           "title": "职业索赔盯上基层小诊所",
           "url": "https://s.weibo.com/weibo?q=%23%E8%81%8C%E4%B8%9A%E7%B4%A2%E8%B5%94%E7%9B%AF%E4%B8%8A%E5%9F%BA%E5%B1%82%E5%B0%8F%E8%AF%8A%E6%89%80%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -441,17 +518,6 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
-          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
-          "url": "https://wallstreetcn.com/articles/3778200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "路透调查：2026年铂金均价预计为每盎司1925美元，上次调查为2067美元；2026年钯金均价预计为每盎司1483美元，上次调查为1583美元。",
           "url": "https://flash.jin10.com/detail/20260728235351742800",
           "source": "金十数据",
@@ -474,13 +540,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "黄政民被曝出轨",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%94%BF%E6%B0%91%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "多部门联合发布《国家应对气候变化“十五五”规划》",
           "url": "https://wallstreetcn.com/livenews/3141556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -513,31 +590,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
         {
-          "title": "云南勐腊通报女生提醒同学勿睡觉被老师殴打：对涉事教师记过处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33680102",
+          "title": "女子高铁上喧哗被劝阻后叫嚣全家体制内，辽宁北票警方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680959",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "女子高铁叫嚣全家体制内 警方通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%8F%AB%E5%9A%A3%E5%85%A8%E5%AE%B6%E4%BD%93%E5%88%B6%E5%86%85+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "19时24分"
         },
         {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
@@ -579,7 +645,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -590,7 +656,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
