@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T03:22:41.931676+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-31T05:07:48.826046+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "陕西文旅厅：不存在“伪史论者”电话骚扰要求拆唐朝古迹情况，将调查追责",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "国际足联正式对阿根廷足协启动调查",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -46,11 +46,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "埃及总理：武装部队和情报部门已着手查明达米埃塔港袭击事件的起因。",
@@ -70,9 +71,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
+          "url": "https://flash.jin10.com/detail/20260731043732594800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3142645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "泰国部长称不欢迎给他人造成损害的游客",
@@ -80,11 +103,12 @@
           "source": "微博",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "一图世界｜七人角逐下任联合国秘书长，这次有何不同？",
@@ -94,8 +118,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "“祖辈所种百年古树被扣押后遭转赠”，官方已成立专项工作组核查",
@@ -105,8 +129,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "刘国洪任自然资源部党组书记",
@@ -116,19 +140,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "军嫂遇袭凶手无力赔偿 检察机关介入",
           "url": "https://www.toutiao.com/trending/7668154338812674084/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 05时07分]"
         },
         {
           "title": "雾影猎人官方CG",
@@ -148,7 +173,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -159,7 +184,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -170,7 +195,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -181,7 +206,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
