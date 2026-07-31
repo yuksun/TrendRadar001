@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T04:19:08.840811+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-08-01T06:03:41.140466+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "国家电网原董事长辛保安被查",
@@ -26,20 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
-        },
-        {
-          "title": "房主任被停演3个月",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%81%9C%E6%BC%943%E4%B8%AA%E6%9C%88%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
@@ -49,8 +37,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "房主任被停演3个月",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%81%9C%E6%BC%943%E4%B8%AA%E6%9C%88%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "国家电网原董事长辛保安被查",
@@ -58,11 +59,47 @@
           "source": "抖音",
           "ranks": [
             4,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "日本（政府）、日本央行再次干预日元外汇市场。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3143493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "日本政府正式设立“国家情报局”",
+          "url": "https://www.douyin.com/hot/2591419",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "【伊朗称已关闭霍尔木兹海峡，美中央司令部否认】7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。 7月31日稍早，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。（央视）",
@@ -76,30 +113,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "日本政府正式设立“国家情报局”",
-          "url": "https://www.douyin.com/hot/2591419",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
-        },
-        {
-          "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
-        },
-        {
           "title": "国家发改委：正会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688842",
           "source": "澎湃新闻",
@@ -107,8 +120,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "徐福记突发声明称拼多多店铺非官方自营，网传纠纷原因为个体商家为报复平台秒退款，具体什么情况？",
+          "url": "https://www.zhihu.com/question/2065846000862720837",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "国家电网原董事长辛保安被查",
@@ -117,11 +144,12 @@
           "ranks": [
             7,
             17,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "罗文任河北省委书记",
@@ -130,11 +158,12 @@
           "ranks": [
             26,
             11,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
@@ -145,8 +174,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "连云港一小区发生火灾母女两人不幸坠楼，相关部门还原救援过程",
@@ -157,8 +186,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "事关办理低龄未成年人严重暴力犯罪核准追诉案件，两部门联合发布规定",
@@ -168,8 +197,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "罗文任河北省委书记，倪岳峰另有任用",
@@ -179,8 +208,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "中共中央决定：罗文任河北省委书记",
@@ -190,8 +219,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "梅亦任江西南昌市副市长、代市长",
@@ -202,8 +231,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "重庆市委副书记陈新武任重庆市代市长",
@@ -214,8 +243,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "国家电网原党组书记、董事长辛保安接受审查调查",
@@ -226,21 +255,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时19分]"
-        },
-        {
-          "title": "徐福记突发声明称拼多多店铺非官方自营，网传纠纷原因为个体商家为报复平台秒退款，具体什么情况？",
-          "url": "https://www.zhihu.com/question/2065846000862720837",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "“韩国政府紧急出手应对，副总理致歉”",
@@ -251,8 +267,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 06时03分]"
         },
         {
           "title": "房主任户口问题已解决",
@@ -260,11 +276,23 @@
           "source": "微博",
           "ranks": [
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 06时03分]"
+        },
+        {
+          "title": "28人因四川马尔康红旗大桥垮塌被问责",
+          "url": "https://www.toutiao.com/trending/7668588729786699307/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "据以色列i24News：加沙和平委员会的一位高级官员当地时间周五透露，根据拟议的加沙框架，以色列需履行的义务仅限于后续阶段，且具有可逆性。此外，这些义务的履行还取决于哈马斯及其他武装组织能否首先履行其安全承诺。",
@@ -284,9 +312,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "辽宁凌晨炸街人员全被带走调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%87%8C%E6%99%A8%E7%82%B8%E8%A1%97%E4%BA%BA%E5%91%98%E5%85%A8%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "陈新武任重庆市代市长",
@@ -300,15 +339,48 @@
           "time_info": "00时44分"
         },
         {
+          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
+          "url": "https://flash.jin10.com/detail/20260801042118367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+          "url": "https://flash.jin10.com/detail/20260801041603854800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "加拿大政府批准了加拿大镍业公司（Canada Nickel）位于安大略省北部的克劳福德镍矿项目。",
           "url": "https://flash.jin10.com/detail/20260801021133896800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "以军称在加沙地带打死两名哈马斯官员",
+          "url": "https://flash.jin10.com/detail/20260801041256075800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     }
