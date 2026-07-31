@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T07:05:20.600161+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-31T10:37:05.869839+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 24,
+      "match_count": 38,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
         },
         {
           "title": "陕西文旅厅：不存在“伪史论者”电话骚扰要求拆唐朝古迹情况，将调查追责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33685094",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -40,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 10时37分]"
         },
         {
           "title": "国际足联正式对阿根廷足协启动调查",
@@ -53,6 +54,88 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 05时07分]"
+        },
+        {
+          "title": "一图世界｜七人角逐下任联合国秘书长，这次有何不同？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684851",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
+        },
+        {
+          "title": "“祖辈所种百年古树被扣押后遭转赠”，官方已成立专项工作组核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33685404",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
+        },
+        {
+          "title": "刘国洪任自然资源部党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33686758",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
+        },
+        {
+          "title": "国文清主动投案被查",
+          "url": "https://www.toutiao.com/trending/7668490416123936795/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "三部门向甘肃调拨5000件中央救灾物资",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%90%91%E7%94%98%E8%82%83%E8%B0%83%E6%8B%A85000%E4%BB%B6%E4%B8%AD%E5%A4%AE%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "1988元可抱抱亲亲 官方通报伴漂服务",
+          "url": "https://www.toutiao.com/trending/7668275160986239027/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "1988元伴漂可抱抱亲亲 当地通报",
+          "url": "https://www.baidu.com/s?wd=1988%E5%85%83%E4%BC%B4%E6%BC%82%E5%8F%AF%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
         },
         {
           "title": "埃及总理：武装部队和情报部门已着手查明达米埃塔港袭击事件的起因。",
@@ -94,7 +177,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -124,42 +207,6 @@
           "time_info": "[01时24分 ~ 07时05分]"
         },
         {
-          "title": "一图世界｜七人角逐下任联合国秘书长，这次有何不同？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684851",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
-        },
-        {
-          "title": "“祖辈所种百年古树被扣押后遭转赠”，官方已成立专项工作组核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33685404",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
-        },
-        {
-          "title": "刘国洪任自然资源部党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33686758",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
-        },
-        {
           "title": "军嫂遇袭凶手无力赔偿 检察机关介入",
           "url": "https://www.toutiao.com/trending/7668154338812674084/",
           "source": "今日头条",
@@ -173,6 +220,62 @@
           "time_info": "[01时24分 ~ 07时05分]"
         },
         {
+          "title": "国际足联正式调查阿根廷足协",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%AD%A3%E5%BC%8F%E8%B0%83%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 10时37分]"
+        },
+        {
+          "title": "罗文任河北省委书记",
+          "url": "https://www.toutiao.com/trending/7668499335776862271/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "罗文任河北省委书记",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%96%87%E4%BB%BB%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "男子高温天衣着严实被查涉诈资金10万",
+          "url": "https://www.toutiao.com/trending/7668251821677461540/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "“1个协会89名副会长”官方最新通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C1%E4%B8%AA%E5%8D%8F%E4%BC%9A89%E5%90%8D%E5%89%AF%E4%BC%9A%E9%95%BF%E2%80%9D%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
           "title": "雾影猎人官方CG",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%BE%E5%BD%B1%E7%8C%8E%E4%BA%BA%E5%AE%98%E6%96%B9CG",
           "source": "bilibili 热搜",
@@ -182,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 01时25分]"
+        },
+        {
+          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
+          "url": "https://www.zhihu.com/question/2066184696107643598",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
@@ -195,6 +309,28 @@
           "time_info": "03时22分"
         },
         {
+          "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+          "url": "https://wallstreetcn.com/livenews/3142820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "日元汇率一小时内暴拉近500点 市场猜测日本政府再度干预汇市",
+          "url": "https://www.cls.cn/detail/2441933",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "巴西财政部官员：政府考虑对支出上限进行潜在调整，以帮助平衡公共账户并实现已宣布的目标。",
           "url": "https://flash.jin10.com/detail/20260731022118876800",
           "source": "金十数据",
@@ -204,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "国际足联正式调查阿根廷足协",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%AD%A3%E5%BC%8F%E8%B0%83%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
         },
         {
           "title": "据阿拉比亚电视台：哈马斯表示，组织武器的清点与入库过程将耗时14天。一个直接与该组织对接的国际委员会将负责武器的清点与入库工作。重型武器将进行清点，并移交给加沙管理国家委员会。",
@@ -261,6 +386,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "中国7月官方综合PMI 49.3，前值 50.6。",
+          "url": "https://wallstreetcn.com/livenews/3142791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "中国7月官方制造业PMI 49.2，前值 50.3。",
+          "url": "https://wallstreetcn.com/livenews/3142790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "联合国安理会首次非正式民意调查显示，哥斯达黎加的丽贝卡·格林斯潘目前在联合国秘书长竞选中领先。",
           "url": "https://flash.jin10.com/detail/20260731005320835800",
           "source": "金十数据",
@@ -272,13 +419,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "中国7月官方非制造业PMI 49，前值 50.2。",
+          "url": "https://wallstreetcn.com/livenews/3142789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "智利政府宣布恢复与委内瑞拉的领事关系。",
           "url": "https://flash.jin10.com/detail/20260731054204999800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
