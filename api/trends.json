@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T10:37:05.869839+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-07-31T19:58:21.509324+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 38,
+      "match_count": 59,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -56,6 +56,19 @@
           "time_info": "[01时24分 ~ 05时07分]"
         },
         {
+          "title": "刘国洪任自然资源部党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33686758",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 19时58分]"
+        },
+        {
           "title": "一图世界｜七人角逐下任联合国秘书长，这次有何不同？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684851",
           "source": "澎湃新闻",
@@ -75,19 +88,6 @@
             17,
             15,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 10时37分]"
-        },
-        {
-          "title": "刘国洪任自然资源部党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33686758",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            19
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -138,6 +138,28 @@
           "time_info": "[10时36分 ~ 10时37分]"
         },
         {
+          "title": "加沙和平委员会：加沙第二阶段机制将在14天内准备完成。",
+          "url": "https://flash.jin10.com/detail/20260731195048795800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "陈新武任重庆市代市长",
+          "url": "https://www.toutiao.com/trending/7668638016357400626/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "埃及总理：武装部队和情报部门已着手查明达米埃塔港袭击事件的起因。",
           "url": "https://flash.jin10.com/detail/20260731012023872800",
           "source": "金十数据",
@@ -171,6 +193,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688472",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
           "url": "https://flash.jin10.com/detail/20260731064742988800",
           "source": "金十数据",
@@ -191,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：货币政策委员会并未逐步倾向于加息。 英国央行副行长Lombardelli已澄清，该决策并非势均力敌。",
+          "url": "https://wallstreetcn.com/livenews/3143250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "泰国部长称不欢迎给他人造成损害的游客",
@@ -287,15 +331,70 @@
           "time_info": "[01时24分 ~ 01时25分]"
         },
         {
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
           "url": "https://www.zhihu.com/question/2066184696107643598",
           "source": "知乎",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "住房城乡建设部部长倪虹率团访问印度尼西亚",
+          "url": "https://wallstreetcn.com/livenews/3143247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "“韩国政府紧急出手应对，副总理致歉”",
+          "url": "https://news.ifeng.com/c/8vCjbeqF7AP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "国家发改委：正会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688842",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
@@ -315,7 +414,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -326,7 +425,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -340,6 +439,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：货币政策委员会并未向加息靠拢。",
+          "url": "https://flash.jin10.com/detail/20260731194237373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "公司回应“房主任”停演3个月",
+          "url": "https://www.toutiao.com/trending/7668140723158351913/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "1988元可抱抱亲亲，其他服务可与伴漂女子详谈？贵州贵定县文旅局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688580",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "住房城乡建设部部长倪虹率团访问印度尼西亚",
+          "url": "https://flash.jin10.com/detail/20260731193837973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "罗文任河北省委书记，倪岳峰另有任用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688843",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "中共中央决定：罗文任河北省委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688575",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "据阿拉比亚电视台：哈马斯表示，组织武器的清点与入库过程将耗时14天。一个直接与该组织对接的国际委员会将负责武器的清点与入库工作。重型武器将进行清点，并移交给加沙管理国家委员会。",
@@ -364,6 +529,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "华恒生物：收到公司实际控制人郭恒华女士家属通知，郭恒华女士因涉嫌非法吸收公众存款罪被检察机关批准逮捕。",
+          "url": "https://wallstreetcn.com/livenews/3143235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "以色列国防部长：以色列将强有力地应对任何威胁。",
           "url": "https://flash.jin10.com/detail/20260731005933191800",
           "source": "金十数据",
@@ -373,6 +549,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "南充市委原书记古正举贪1.24亿获无期",
+          "url": "https://www.toutiao.com/trending/7668601537605668394/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "梅亦任江西南昌市副市长、代市长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688952",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "以色列国防部长：军队已做好充分准备，应对任何情况，无论是防御还是进攻。",
@@ -392,7 +590,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -403,9 +601,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "罗文任河北省委书记",
+          "url": "https://www.douyin.com/hot/2591497",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "联合国安理会首次非正式民意调查显示，哥斯达黎加的丽贝卡·格林斯潘目前在联合国秘书长竞选中领先。",
@@ -425,9 +634,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "国务院常务会议：学习贯彻习近平总书记关于上半年经济形势和做好下半年经济工作的重要讲话精神",
+          "url": "https://wallstreetcn.com/livenews/3143228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "智利政府宣布恢复与委内瑞拉的领事关系。",
@@ -439,6 +659,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "日本长崎、广岛市长呼吁防卫大臣正视核武器危害性",
+          "url": "https://wallstreetcn.com/livenews/3143214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济宁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乒超男团：山东魏桥vs北京一点心动",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%92%E8%B6%85%E7%94%B7%E5%9B%A2%EF%BC%9A%E5%B1%B1%E4%B8%9C%E9%AD%8F%E6%A1%A5vs%E5%8C%97%E4%BA%AC%E4%B8%80%E7%82%B9%E5%BF%83%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         }
       ]
     }
