@@ -1,44 +1,161 @@
 {
-  "generated_at": "2026-08-02T00:05:03.103608+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-02T01:59:18.604436+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "唐驳虎：欧盟官员没想到中国以牙还牙",
-          "url": "https://www.toutiao.com/trending/7669012174957710867/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
         {
           "title": "丈夫出轨做试管亲友劝原配接受现实",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%81%9A%E8%AF%95%E7%AE%A1%E4%BA%B2%E5%8F%8B%E5%8A%9D%E5%8E%9F%E9%85%8D%E6%8E%A5%E5%8F%97%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "以色列官员：紧张局势达到顶点，濒临爆发边缘",
+          "url": "https://flash.jin10.com/detail/20260802012400680800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "唐驳虎：欧盟官员没想到中国以牙还牙",
+          "url": "https://www.toutiao.com/trending/7669012174957710867/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
         },
         {
           "title": "房主任母女关系",
           "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "爆了!官方带头玩Bin梗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356697&amp;topic_name=%E7%88%86%E4%BA%86%21%E5%AE%98%E6%96%B9%E5%B8%A6%E5%A4%B4%E7%8E%A9Bin%E6%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694046",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694022",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693325",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "谭权任重庆市副市长、市公安局局长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692563",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "脱口秀演员房主任道歉",
+          "url": "https://www.douyin.com/hot/2592814",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "媒体：房主任道歉之后应看到真问题",
+          "url": "https://www.toutiao.com/trending/7669058717534391854/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
+        },
+        {
+          "title": "石破茂批高市政府：极其不负责任",
+          "url": "https://news.ifeng.com/c/8vEsUidGus8",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "time_info": "[00时05分 ~ 01时59分]"
         },
         {
           "title": "公职人员停车受阻撬他人停车位地锁",
@@ -52,114 +169,37 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "爆了!官方带头玩Bin梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356697&amp;topic_name=%E7%88%86%E4%BA%86%21%E5%AE%98%E6%96%B9%E5%B8%A6%E5%A4%B4%E7%8E%A9Bin%E6%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "老人戒指掉入高铁厕所、12306回复称不符合寻找条件？铁路部门回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694046",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "性别和情绪，房主任的两种舞台语法为什么在现实中失灵了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694022",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33693325",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "谭权任重庆市副市长、市公安局局长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692563",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "脱口秀演员房主任道歉",
-          "url": "https://www.douyin.com/hot/2592814",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "媒体：房主任道歉之后应看到真问题",
-          "url": "https://www.toutiao.com/trending/7669058717534391854/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "石破茂批高市政府：极其不负责任",
-          "url": "https://news.ifeng.com/c/8vEsUidGus8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
           "url": "https://www.zhihu.com/question/2066803381927146362",
           "source": "知乎",
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时59分]"
+        },
+        {
+          "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
+          "url": "https://flash.jin10.com/detail/20260802010107992800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时59分"
+        },
+        {
+          "title": "公职人员停车受阻暴力损坏地锁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%81%9C%E8%BD%A6%E5%8F%97%E9%98%BB%E6%9A%B4%E5%8A%9B%E6%8D%9F%E5%9D%8F%E5%9C%B0%E9%94%81%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
@@ -168,7 +208,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -179,7 +219,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -190,9 +230,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "戒指掉入高铁厕所无法寻找？官方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%88%92%E6%8C%87%E6%8E%89%E5%85%A5%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%97%A0%E6%B3%95%E5%AF%BB%E6%89%BE%EF%BC%9F%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         }
       ]
     },
@@ -208,8 +259,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时59分]"
         }
       ]
     }
