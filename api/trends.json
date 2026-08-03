@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:41:21.169803+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-08-03T21:40:04.908227+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 57,
+      "match_count": 66,
       "titles": [
         {
           "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
@@ -126,6 +126,30 @@
           "time_info": "[00时09分 ~ 07时57分]"
         },
         {
+          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708571",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 21时40分]"
+        },
+        {
+          "title": "华人大爷大妈摆摊卖菜占领纽约早市",
+          "url": "https://www.toutiao.com/trending/7669709533375348790/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
           "title": "湖南省足协通报湘超联赛漏判点球",
           "url": "https://www.douyin.com/hot/2594383",
           "source": "抖音",
@@ -175,6 +199,18 @@
           "time_info": "[00时09分 ~ 07时57分]"
         },
         {
+          "title": "两部门印发《新型电力系统建设“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2444177",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 21时40分]"
+        },
+        {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
           "url": "https://wallstreetcn.com/livenews/3143732",
           "source": "华尔街见闻-快讯",
@@ -209,7 +245,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -231,7 +267,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -247,24 +283,13 @@
           "time_info": "14时33分"
         },
         {
-          "title": "两部门印发《新型电力系统建设“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2444177",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：可能加强与摩洛哥在边境事务及财政支持方面的合作。",
           "url": "https://flash.jin10.com/detail/20260803181418931800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -304,18 +329,6 @@
           "time_info": "[03时23分 ~ 05时54分]"
         },
         {
-          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708571",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 18时41分]"
-        },
-        {
           "title": "伊拉克政府否认美军飞机降落阿萨德空军基地",
           "url": "https://flash.jin10.com/detail/20260803020101617800",
           "source": "金十数据",
@@ -340,6 +353,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 03时23分]"
+        },
+        {
+          "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
+          "url": "https://www.zhihu.com/question/2067534271393133838",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 21时40分]"
         },
         {
           "title": "国防部部长：当好祖国统一的稳固底牌",
@@ -379,16 +404,37 @@
           "time_info": "[10时48分 ~ 18时41分]"
         },
         {
-          "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
-          "url": "https://www.zhihu.com/question/2067534271393133838",
-          "source": "知乎",
+          "title": "官方回应加油站油枪空转自动跳表",
+          "url": "https://www.toutiao.com/trending/7669726400974700587/",
+          "source": "今日头条",
           "ranks": [
-            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "985博士后出轨被退站已入职新高校",
+          "url": "https://www.baidu.com/s?wd=985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%87%BA%E8%BD%A8%E8%A2%AB%E9%80%80%E7%AB%99%E5%B7%B2%E5%85%A5%E8%81%8C%E6%96%B0%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 18时41分]"
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "男子趴在行驶中轿车引擎盖上，重庆警方通报",
+          "url": "https://news.ifeng.com/c/8vI4QRJbRXl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 21时40分]"
         },
         {
           "title": "据以色列广播公司：以色列官员表示，目前大部分谈判集中在霍尔木兹海峡议题，其他问题的进展尚不清楚。",
@@ -427,6 +473,17 @@
           "time_info": "[03时23分 ~ 04时53分]"
         },
         {
+          "title": "上海交通执法开出首批网约车平台集中处罚决定书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710474",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
           "title": "俄莫斯科市长称餐厅爆炸事件为恐怖袭击",
           "url": "https://wallstreetcn.com/livenews/3143683",
           "source": "华尔街见闻-快讯",
@@ -437,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 02时01分]"
+        },
+        {
+          "title": "华人大爷大妈摆摊卖菜占领纽约早市",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%BA%BA%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E6%91%86%E6%91%8A%E5%8D%96%E8%8F%9C%E5%8D%A0%E9%A2%86%E7%BA%BD%E7%BA%A6%E6%97%A9%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "福建漳州通报抗生素牛蛙：全面核查",
@@ -456,18 +524,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "男子趴在行驶中轿车引擎盖上，重庆警方通报",
-          "url": "https://news.ifeng.com/c/8vI4QRJbRXl",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -478,9 +535,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
+          "url": "https://www.cls.cn/detail/2444220",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "武汉常务副市长陈劲超拟进一步使用",
@@ -500,7 +568,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -533,7 +601,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -544,7 +612,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -558,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：美联储主席沃什正在朝着积极的方向推动事态发展。我们尊重美联储的独立性。",
+          "url": "https://flash.jin10.com/detail/20260803204239706800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "伊朗外交部长：与阿曼就霍尔木兹海峡的谈判进入最后阶段。",
@@ -588,9 +667,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：最近的报告显示通胀数据非常出色。",
+          "url": "https://flash.jin10.com/detail/20260803203733098800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "以色列高级官员称并未同意停止袭击加沙",
@@ -610,9 +700,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：最近的报告显示通胀数据非常出色。 沃什正在推动积极的改变。",
+          "url": "https://wallstreetcn.com/livenews/3144160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "莫斯科市长：餐厅爆炸事件为恐怖袭击",
@@ -632,7 +733,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -654,7 +755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -665,7 +766,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -696,11 +797,12 @@
             19,
             20,
             21,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 14时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 21时40分]"
         },
         {
           "title": "山东高速：拟以1亿元-2亿元回购股份，回购股份价格不超过17.28元/股。",
@@ -709,7 +811,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
