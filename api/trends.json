@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:48:17.211137+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-03T14:33:51.545411+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "湖南衡阳通报公职人员损坏停车位地锁事件：依规依纪严肃处理",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 14时33分]"
         },
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -54,11 +55,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 14时33分]"
         },
         {
           "title": "官方辟谣女子酒店退房搬空用品",
@@ -207,9 +209,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "上海开展2026年政府采购领域“四类”违法违规行为专项整治工作",
+          "url": "https://wallstreetcn.com/livenews/3143936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "扫黑除恶专项斗争有哪些举报途径",
+          "url": "https://search.bilibili.com/all?keyword=%E6%89%AB%E9%BB%91%E9%99%A4%E6%81%B6%E4%B8%93%E9%A1%B9%E6%96%97%E4%BA%89%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BE%E6%8A%A5%E9%80%94%E5%BE%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "赛里木湖工作人员打人事件整改通报，7 人被行拘，优化自驾服务费，这样整改能治本吗？景区乱象问题出在哪？",
@@ -218,7 +242,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -310,6 +334,30 @@
           "time_info": "[03时23分 ~ 04时53分]"
         },
         {
+          "title": "官方通报赛里木湖打人事件处理结果",
+          "url": "https://www.douyin.com/hot/2595197",
+          "source": "抖音",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时33分]"
+        },
+        {
+          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698505",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 14时33分]"
+        },
+        {
           "title": "俄莫斯科市长称餐厅爆炸事件为恐怖袭击",
           "url": "https://wallstreetcn.com/livenews/3143683",
           "source": "华尔街见闻-快讯",
@@ -322,26 +370,48 @@
           "time_info": "[00时09分 ~ 02时01分]"
         },
         {
-          "title": "官方通报赛里木湖打人事件处理结果",
-          "url": "https://www.douyin.com/hot/2595197",
-          "source": "抖音",
+          "title": "福建漳州通报抗生素牛蛙：全面核查",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%BC%B3%E5%B7%9E%E9%80%9A%E6%8A%A5%E6%8A%97%E7%94%9F%E7%B4%A0%E7%89%9B%E8%9B%99%EF%BC%9A%E5%85%A8%E9%9D%A2%E6%A0%B8%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时33分"
         },
         {
-          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33698505",
+          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708571",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "武汉常务副市长陈劲超拟进一步使用",
+          "url": "https://www.toutiao.com/trending/7669647709846044726/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "社会团体分支机构规范称谓：“会长”“秘书长”等纷纷改名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698459",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "14时33分"
         },
         {
           "title": "OPEC+声明：OPEC+联合部长级监督委员会（JMMC）下次会议将于10月4日举行。",
@@ -353,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
+          "url": "https://www.zhihu.com/question/2067534271393133838",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "天津11部门联合出台意见 升级存量资产盘活政策",
@@ -375,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "前秘书批泽连斯基是“乌最大问题”",
+          "url": "https://www.toutiao.com/trending/7669399384968134710/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "以色列高级官员称并未同意停止袭击加沙",
@@ -416,7 +508,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
@@ -435,22 +527,24 @@
             26,
             19,
             20,
-            21
+            21,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 14时33分]"
         },
         {
           "title": "山东人吃到美食belike",
           "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 14时33分]"
         }
       ]
     }
