@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:36:48.526567+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-04T21:02:38.815125+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 46,
+      "match_count": 55,
       "titles": [
         {
           "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
@@ -36,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 21时02分]"
         },
         {
           "title": "2026年上半年1535名纪检监察干部被处分",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 21时02分]"
         },
         {
           "title": "新任江西省委常委张莹已任省委统战部部长",
@@ -66,8 +67,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时26分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[04时26分 ~ 21时02分]"
+        },
+        {
+          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 21时02分]"
         },
         {
           "title": "00后班主任被校长当学生罚站",
@@ -79,18 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 18时36分]"
         },
         {
           "title": "印度大量驳回对华反倾销调查建议",
@@ -105,13 +106,47 @@
           "time_info": "[12时12分 ~ 15时38分]"
         },
         {
+          "title": "申通快递被立案调查",
+          "url": "https://www.toutiao.com/trending/7670119765616689158/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "申通快递被立案调查",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B3%E9%80%9A%E5%BF%AB%E9%80%92%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 21时02分]"
+        },
+        {
           "title": "国务院成立彭水山体崩塌调查评估组",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -160,6 +195,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "国务院成立重庆山体崩塌调查评估组",
+          "url": "https://www.douyin.com/hot/2597381",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "“美联储传声筒”：鲍威尔或成为数十年来第四位完整履行14年美联储理事任期的官员",
           "url": "https://flash.jin10.com/detail/20260804023415900800",
           "source": "金十数据",
@@ -194,18 +240,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 08时07分]"
-        },
-        {
-          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 18时36分]"
         },
         {
           "title": "少年考取国防科大 高中校长送2万奖金",
@@ -257,6 +291,17 @@
           "time_info": "[02时50分 ~ 06时07分]"
         },
         {
+          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
+          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时02分]"
+        },
+        {
           "title": "女生们的握力在外网爆火",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%BB%AC%E7%9A%84%E6%8F%A1%E5%8A%9B%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -267,6 +312,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时07分]"
+        },
+        {
+          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
+          "url": "https://www.zhihu.com/question/2067904199212232854",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时02分]"
+        },
+        {
+          "title": "高压线断裂致村民身亡村委会一审被判担责九成，死者家属和村委会提出上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33712145",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 21时02分]"
         },
         {
           "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
@@ -327,26 +396,37 @@
           "time_info": "[15时37分 ~ 15时38分]"
         },
         {
-          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
-          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
           "title": "两部门维持对山西、黑龙江、云南、陕西防汛四级应急响应",
           "url": "https://flash.jin10.com/detail/20260804180819576800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "国家邮政局对申通立案调查",
+          "url": "https://www.douyin.com/hot/2597554",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "“和平委员会”改口，以军继续空袭加沙",
+          "url": "https://news.ifeng.com/c/8vJugFtCXbq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "调查显示超半数韩国年轻人不想谈恋爱",
@@ -360,6 +440,28 @@
           "time_info": "12时12分"
         },
         {
+          "title": "国家邮政局依法对申通快递有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33714700",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "以色列国防军：以军昨日（周日）在代尔拜拉赫地区发动袭击，消灭了哈马斯军事部门努赫巴部队指挥官阿卜杜拉·阿德南·塔哈·阿布·阿尔泰夫。",
           "url": "https://flash.jin10.com/detail/20260804022038753800",
           "source": "金十数据",
@@ -369,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "高压线断裂致村民身亡村委会一审被判担责九成，死者家属和村委会提出上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33712145",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -399,7 +490,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -410,7 +501,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -426,15 +517,15 @@
           "time_info": "02时50分"
         },
         {
-          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
-          "url": "https://www.zhihu.com/question/2067904199212232854",
+          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2067920572915216640",
           "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时36分"
+          "time_info": "21时02分"
         },
         {
           "title": "古巴政府：天气因素干扰到今天（当地时间8月3日）的电网的运行。",
@@ -468,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "申通回应被立案调查：全力配合",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B3%E9%80%9A%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%85%A8%E5%8A%9B%E9%85%8D%E5%90%88",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "法国6月政府预算 -1067.7亿欧元，前值-933.1亿欧元。",
@@ -574,7 +676,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
