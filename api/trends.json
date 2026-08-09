@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:27:02.035892+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-08-09T20:44:51.809075+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "美参议院通过临时拨款法案，暂缓政府“停摆”风险",
@@ -70,11 +70,12 @@
             24,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 20时44分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -114,22 +115,24 @@
             9,
             10,
             13,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 20时44分]"
         },
         {
           "title": "上门女婿出轨女邻居多年被判重婚罪",
           "url": "https://www.toutiao.com/trending/7671844544510377990/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时53分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 20时44分]"
         },
         {
           "title": "匈牙利执政党提名前最高法院院长为总统候选人",
@@ -159,15 +162,38 @@
           "time_info": "[00时31分 ~ 06时27分]"
         },
         {
+          "title": "也门政府媒体：霍代达省省长在胡塞武装的导弹袭击中幸存，导弹瞄准了他在阿尔霍赫的住所。",
+          "url": "https://flash.jin10.com/detail/20260809200853152800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "也门（政府军）发言人：Mocha Port港口遭袭造成七人死亡。",
+          "url": "https://wallstreetcn.com/livenews/3147086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "浙江省委书记：该停下的坚决停下来",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E8%AF%A5%E5%81%9C%E4%B8%8B%E7%9A%84%E5%9D%9A%E5%86%B3%E5%81%9C%E4%B8%8B%E6%9D%A5",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时44分]"
         },
         {
           "title": "美消防部门证实：犹他州消防直升机坠毁致两人遇难",
@@ -181,6 +207,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时28分]"
+        },
+        {
+          "title": "哈马斯高级官员巴塞姆·奈姆：我们仍然致力于与调解人和10天前在开罗的和平委员会代表达成的路线图。",
+          "url": "https://flash.jin10.com/detail/20260809200143936800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "土耳其外交部长：防务协议将设立部长级委员会及秘书长，类似北约架构。",
@@ -209,6 +246,19 @@
           "time_info": "[03时28分 ~ 05时28分]"
         },
         {
+          "title": "以安全部门消息人士称内塔尼亚胡顾问涉嫌泄密",
+          "url": "https://flash.jin10.com/detail/20260809182502617800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时44分]"
+        },
+        {
           "title": "土耳其外交部长：土耳其、巴基斯坦、沙特阿拉伯的防务协议在技术上与北约第五条相同。",
           "url": "https://flash.jin10.com/detail/20260809011549684800",
           "source": "金十数据",
@@ -233,18 +283,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
-          "title": "以安全部门消息人士称内塔尼亚胡顾问涉嫌泄密",
-          "url": "https://flash.jin10.com/detail/20260809182502617800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "也门政府武装部队：我们将在适当的时间和地点回应胡塞武装的攻击。",
@@ -273,6 +311,19 @@
           "time_info": "[03时28分 ~ 05时28分]"
         },
         {
+          "title": "据路透社/益普索调查，74%的共和党人和69%的民主党人支持社交媒体的年龄验证规则。",
+          "url": "https://flash.jin10.com/detail/20260809181231427800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时44分]"
+        },
+        {
           "title": "以色列能源部长：我们反对目前正在拟定中的加沙协议。据我评估，哈马斯正在策划一场欺骗。",
           "url": "https://flash.jin10.com/detail/20260809040050796800",
           "source": "金十数据",
@@ -298,18 +349,6 @@
           "time_info": "[02时34分 ~ 03时28分]"
         },
         {
-          "title": "据路透社/益普索调查，74%的共和党人和69%的民主党人支持社交媒体的年龄验证规则。",
-          "url": "https://flash.jin10.com/detail/20260809181231427800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
           "title": "以色列能源部长：我们不相信哈马斯提出的任何一纸协议。",
           "url": "https://flash.jin10.com/detail/20260809040038932800",
           "source": "金十数据",
@@ -328,11 +367,24 @@
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时44分]"
+        },
+        {
+          "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时27分]"
+          "time_info": "[19时26分 ~ 20时44分]"
         },
         {
           "title": "土耳其外交部长：埃及可能在某些技术问题解决后加入防务协议。",
@@ -345,6 +397,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时28分]"
+        },
+        {
+          "title": "以安全部门消息人士称内塔尼亚胡顾问涉嫌泄密",
+          "url": "https://wallstreetcn.com/livenews/3147069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时44分]"
         },
         {
           "title": "土耳其外交部长：红海航运安全关系到我们的利益，因此土耳其必须加入沙特主导的国际联盟。",
@@ -419,26 +483,37 @@
           "time_info": "[11时40分 ~ 14时53分]"
         },
         {
-          "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
-          "url": "https://www.baidu.com/s?wd=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
-          "title": "以安全部门消息人士称内塔尼亚胡顾问涉嫌泄密",
-          "url": "https://wallstreetcn.com/livenews/3147069",
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3147079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时44分"
+        },
+        {
+          "title": "消息人士称，4名也门政府军在胡塞武装的袭击中遇害。",
+          "url": "https://flash.jin10.com/detail/20260809195022691800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "男子承认出轨20万赠与第三者追不回",
@@ -450,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "印女子出轨被撞破与情夫一起遭毒打",
+          "url": "https://www.toutiao.com/trending/7671944826552057899/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "男子出轨离婚后留给妻子千万债务",
