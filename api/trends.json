@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:57:02.838567+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-08-10T23:59:35.488445+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊媒说议会国家安全委员会批准霍尔木兹海峡安全纲要",
@@ -20,6 +20,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时29分]"
+        },
+        {
+          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 23时59分]"
         },
         {
           "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
@@ -74,22 +90,6 @@
           "time_info": "[00时32分 ~ 09时31分]"
         },
         {
-          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 22时57分]"
-        },
-        {
           "title": "法国卢瓦尔河水位低，地方政府考虑限制取水",
           "url": "https://wallstreetcn.com/livenews/3147110",
           "source": "华尔街见闻-快讯",
@@ -119,6 +119,28 @@
           "time_info": "[00时32分 ~ 06时29分]"
         },
         {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 23时59分]"
+        },
+        {
+          "title": "抗台风!女书记单扛170斤重物",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "湖南一企业诉县政府未交地：这边还在打官司，那边涉案土地被拍卖了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33748183",
           "source": "澎湃新闻",
@@ -146,28 +168,6 @@
           "time_info": "[02时37分 ~ 07时29分]"
         },
         {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 22时57分]"
-        },
-        {
-          "title": "抗台风!女书记单扛170斤重物",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
-        },
-        {
           "title": "武汉天桥城管打人 当地通报",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A9%E6%A1%A5%E5%9F%8E%E7%AE%A1%E6%89%93%E4%BA%BA+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -193,15 +193,15 @@
           "time_info": "[02时37分 ~ 05时30分]"
         },
         {
-          "title": "公安部通报：抓获犯罪嫌疑人8200余名",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%8A%93%E8%8E%B7%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA8200%E4%BD%99%E5%90%8D",
-          "source": "百度热搜",
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "中国一重集团有限公司原党委常委、副总经理陆文俊受贿案一审宣判",
@@ -237,15 +237,15 @@
           "time_info": "19时06分"
         },
         {
-          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
-          "url": "https://wallstreetcn.com/livenews/3147576",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "23时59分"
         },
         {
           "title": "传销犯变身「国学大师」创办如是书院暴力管教孩子，浙江开启调查，这个书院为啥能横行多年？反映出哪些问题？",
@@ -334,6 +334,18 @@
           "time_info": "[01时29分 ~ 04时30分]"
         },
         {
+          "title": "公安部通报：抓获犯罪嫌疑人8200余名",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E9%83%A8%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%8A%93%E8%8E%B7%E7%8A%AF%E7%BD%AA%E5%AB%8C%E7%96%91%E4%BA%BA8200%E4%BD%99%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "也门政府谴责胡塞武装袭击摩卡港，称袭击危及红海航运安全",
           "url": "https://flash.jin10.com/detail/20260809235424301800",
           "source": "金十数据",
@@ -359,6 +371,19 @@
           "time_info": "[00时32分 ~ 04时30分]"
         },
         {
+          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
+          "url": "https://www.cls.cn/detail/2450054",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 23时59分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
           "url": "https://flash.jin10.com/detail/20260810035604925800",
           "source": "金十数据",
@@ -370,6 +395,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
+          "url": "https://wallstreetcn.com/livenews/3147576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
@@ -488,18 +525,6 @@
           "time_info": "[05时30分 ~ 07时29分]"
         },
         {
-          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
-          "url": "https://www.cls.cn/detail/2450054",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 22时57分]"
-        },
-        {
           "title": "据伊朗学生通讯社：伊朗举行经济关系协调委员会会议，重点讨论北部港口在保障基本商品供应中的作用。",
           "url": "https://flash.jin10.com/detail/20260810032232973800",
           "source": "金十数据",
@@ -535,13 +560,24 @@
           "time_info": "[11时52分 ~ 11时53分]"
         },
         {
+          "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
+          "url": "https://news.ifeng.com/c/8vTsXOzcp3M",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "哥伦比亚佩雷拉市市长称地震已造成18人死亡。",
           "url": "https://flash.jin10.com/detail/20260810224151050800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -574,7 +610,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -775,12 +811,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "国务院免去罗文国家市监总局局长职务",
+          "url": "https://www.toutiao.com/trending/7672330009679577129/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家防总、应急管理部针对湖北、山东启动防汛四级应急响应",
@@ -815,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？",
+          "url": "https://www.zhihu.com/question/2069476448205812044",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     }
