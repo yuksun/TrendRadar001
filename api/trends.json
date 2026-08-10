@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-08-11T04:40:09.706629+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-08-11T06:35:44.570403+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 04时40分]"
-        },
         {
           "title": "抗台风!女书记单扛170斤重物",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357071&amp;topic_name=%E6%8A%97%E5%8F%B0%E9%A3%8E%21%E5%A5%B3%E4%B9%A6%E8%AE%B0%E5%8D%95%E6%89%9B170%E6%96%A4%E9%87%8D%E7%89%A9",
@@ -28,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时35分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -39,19 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时40分]"
-        },
-        {
-          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
-          "url": "https://www.cls.cn/detail/2450054",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时35分]"
         },
         {
           "title": "公安部通报：抓获犯罪嫌疑人8200余名",
@@ -63,8 +53,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 04时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
+          "url": "https://www.cls.cn/detail/2450054",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时35分]"
         },
         {
           "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时35分]"
         },
         {
           "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
@@ -95,11 +97,34 @@
           "ranks": [
             28,
             16,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
+          "url": "https://flash.jin10.com/detail/20260811053800192800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "基辅市长：首都发生爆炸。城市正遭受弹道导弹袭击，民众请待在避难所。",
+          "url": "https://flash.jin10.com/detail/20260811053608729800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "哥伦比亚地震已致77人死亡 政府宣布进入“国家灾难状态”",
@@ -124,6 +149,28 @@
           "time_info": "00时58分"
         },
         {
+          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
+          "url": "https://flash.jin10.com/detail/20260811051431874800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051428380800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "哥伦比亚外交部长：哥伦比亚承认以色列对戈兰高地的主权。",
           "url": "https://flash.jin10.com/detail/20260811001254786800",
           "source": "金十数据",
@@ -133,6 +180,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051120121800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
+          "url": "https://flash.jin10.com/detail/20260811045539120800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
@@ -170,11 +239,12 @@
             14,
             12,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时35分]"
         }
       ]
     }
