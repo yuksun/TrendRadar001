@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:42:31.697974+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-08-11T13:06:38.958315+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 34,
+      "match_count": 44,
       "titles": [
         {
           "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
@@ -28,11 +28,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 13时06分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -83,6 +84,28 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
+          "title": "两部门紧急预拨1.8亿元救灾资金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时06分]"
+        },
+        {
+          "title": "大理百元豪车租赁乱象调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时06分]"
+        },
+        {
           "title": "国务院免去罗文国家市监总局局长职务",
           "url": "https://www.toutiao.com/trending/7672330009679577129/",
           "source": "今日头条",
@@ -98,6 +121,17 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
+          "title": "澳大利亚国库部长查默斯：澳洲联储在全球不确定性加剧和国内持续压力的情况下，决定维持利率不变是一个受欢迎的决定。",
+          "url": "https://flash.jin10.com/detail/20260811123750648800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "韩国官员：将采取一切可能的政策措施来降低市场波动性。 对个股杠杆ETF的投资已经减少。",
           "url": "https://wallstreetcn.com/livenews/3147764",
           "source": "华尔街见闻-快讯",
@@ -107,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
+          "url": "https://wallstreetcn.com/livenews/3147855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "人民币兑美元中间价报6.7900，下调16点；上一交易日中间价6.7884，上一交易日官方收盘价6.7442，上日夜盘报收6.7495。",
@@ -120,26 +165,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "两部门紧急预拨1.8亿元救灾资金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "澳洲联储维持官方现金利率在4.35%不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3147854",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "大理百元豪车租赁乱象调查",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "13时06分"
         },
         {
           "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
@@ -169,11 +203,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时06分]"
         },
         {
           "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
@@ -181,11 +216,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时06分]"
         },
         {
           "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
@@ -196,8 +232,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时06分]"
+        },
+        {
+          "title": "警方介入调查独闯南太行女子死因",
+          "url": "https://www.toutiao.com/trending/7672386776553406527/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时42分]"
+          "time_info": "[11时42分 ~ 13时06分]"
+        },
+        {
+          "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33751971",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时06分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
@@ -224,17 +284,6 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
-          "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33751971",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
           "url": "https://flash.jin10.com/detail/20260811091524063800",
           "source": "金十数据",
@@ -244,6 +293,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "澳洲联储：鉴于货币政策被认为略显紧缩，委员会决定维持现金利率目标不变，以评估经济的发展情况。",
+          "url": "https://flash.jin10.com/detail/20260811123628421800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "澳洲联储：委员会将继续采取必要措施，确保通胀可持续回归目标，包括在上行风险显现时进一步提高现金利率目标。",
+          "url": "https://flash.jin10.com/detail/20260811123541003800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "哥伦比亚地震已致77人死亡 政府宣布进入“国家灾难状态”",
@@ -257,13 +339,24 @@
           "time_info": "01时54分"
         },
         {
+          "title": "澳洲联储：委员会仍然专注于确保高通胀不会根深蒂固。",
+          "url": "https://flash.jin10.com/detail/20260811123501073800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "卖梨老头举报致嫌犯落网不实",
           "url": "https://www.douyin.com/hot/2605126",
           "source": "抖音",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -277,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "澳洲联储：委员会将关注数据及不断变化的前景和风险评估，以指导其决策。",
+          "url": "https://flash.jin10.com/detail/20260811123426221800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
@@ -334,15 +438,26 @@
           "time_info": "06时35分"
         },
         {
-          "title": "警方介入调查独闯南太行女子死因",
-          "url": "https://www.toutiao.com/trending/7672386776553406527/",
-          "source": "今日头条",
+          "title": "受贿6798万余元，中国一重原副总经理陆文俊一审获刑15年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753453",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "13时06分"
+        },
+        {
+          "title": "澳洲联储：近期政府预算未改变公众需求的前景。",
+          "url": "https://flash.jin10.com/detail/20260811123337975800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
@@ -426,22 +541,24 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时06分]"
         },
         {
           "title": "台风「白海豚」深入内陆，湖北宜昌进战时状态，河南、安徽、山东迎来特大暴雨，你那目前情况咋样？雨有多大？",
           "url": "https://www.zhihu.com/question/2070409831639245816",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时06分]"
         },
         {
           "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
@@ -450,9 +567,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时06分]"
         }
       ]
     }
