@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:27:49.949105+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-08-11T11:42:31.697974+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
@@ -27,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 11时42分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -97,24 +98,13 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
-          "title": "多地公安机关打掉1000多个犯罪团伙",
-          "url": "https://www.toutiao.com/trending/7672442117175787583/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "韩国官员：将采取一切可能的政策措施来降低市场波动性。 对个股杠杆ETF的投资已经减少。",
           "url": "https://wallstreetcn.com/livenews/3147764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -125,9 +115,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "两部门紧急预拨1.8亿元救灾资金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A81.8%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "大理百元豪车租赁乱象调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
@@ -147,9 +159,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "多地公安机关打掉1000多个犯罪团伙",
+          "url": "https://www.toutiao.com/trending/7672442117175787583/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时42分]"
+        },
+        {
+          "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665984",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时42分]"
+        },
+        {
+          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时42分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
@@ -176,35 +224,24 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33751971",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
           "url": "https://flash.jin10.com/detail/20260811091524063800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665984",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -218,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "卖梨老头举报致嫌犯落网不实",
+          "url": "https://www.douyin.com/hot/2605126",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
@@ -248,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -286,6 +334,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "警方介入调查独闯南太行女子死因",
+          "url": "https://www.toutiao.com/trending/7672386776553406527/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
           "url": "https://flash.jin10.com/detail/20260811045539120800",
           "source": "金十数据",
@@ -303,7 +362,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -336,7 +395,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -344,7 +403,7 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？",
@@ -366,11 +425,34 @@
           "url": "https://www.zhihu.com/question/2069191321374418713",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时42分]"
+        },
+        {
+          "title": "台风「白海豚」深入内陆，湖北宜昌进战时状态，河南、安徽、山东迎来特大暴雨，你那目前情况咋样？雨有多大？",
+          "url": "https://www.zhihu.com/question/2070409831639245816",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "11时42分"
+        },
+        {
+          "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
+          "url": "https://www.zhihu.com/question/642621568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     }
