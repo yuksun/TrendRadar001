@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T13:06:38.958315+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-08-11T15:03:33.591119+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
@@ -29,11 +29,12 @@
             3,
             4,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 13时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 15时03分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -91,19 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
-        },
-        {
-          "title": "大理百元豪车租赁乱象调查",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时03分]"
         },
         {
           "title": "国务院免去罗文国家市监总局局长职务",
@@ -127,7 +117,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -149,7 +139,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -171,9 +161,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665984",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时03分]"
         },
         {
           "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
@@ -198,6 +202,18 @@
           "time_info": "09时27分"
         },
         {
+          "title": "大理百元豪车租赁乱象调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时03分]"
+        },
+        {
           "title": "多地公安机关打掉1000多个犯罪团伙",
           "url": "https://www.toutiao.com/trending/7672442117175787583/",
           "source": "今日头条",
@@ -205,19 +221,6 @@
             2,
             15,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时06分]"
-        },
-        {
-          "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665984",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -232,8 +235,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时03分]"
         },
         {
           "title": "警方介入调查独闯南太行女子死因",
@@ -244,8 +247,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时03分]"
         },
         {
           "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
@@ -258,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 13时06分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时03分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
@@ -284,6 +299,28 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "卖梨老头举报致嫌犯落网不实",
+          "url": "https://www.douyin.com/hot/2605126",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 15时03分]"
+        },
+        {
+          "title": "受贿6798万余元，中国一重原副总经理陆文俊一审获刑15年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753453",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时03分]"
+        },
+        {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
           "url": "https://flash.jin10.com/detail/20260811091524063800",
           "source": "金十数据",
@@ -301,20 +338,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
         {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
+          "title": "画大饼PUA,方文山婚内出轨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357129&amp;topic_name=%E7%94%BB%E5%A4%A7%E9%A5%BCPUA%2C%E6%96%B9%E6%96%87%E5%B1%B1%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8",
+          "source": "贴吧",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "15时03分"
         },
         {
           "title": "澳洲联储：委员会将继续采取必要措施，确保通胀可持续回归目标，包括在上行风险显现时进一步提高现金利率目标。",
@@ -323,7 +360,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -345,20 +382,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "卖梨老头举报致嫌犯落网不实",
-          "url": "https://www.douyin.com/hot/2605126",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "13时06分"
         },
         {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
@@ -372,15 +398,37 @@
           "time_info": "00时58分"
         },
         {
+          "title": "主动投案，南京市交通集团党委书记、董事长奚晖接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3147889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "澳洲联储：委员会将关注数据及不断变化的前景和风险评估，以指导其决策。",
           "url": "https://flash.jin10.com/detail/20260811123426221800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "弟弟举报哥哥冒名上学 哥哥起诉学校",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E4%B8%8A%E5%AD%A6+%E5%93%A5%E5%93%A5%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
@@ -438,15 +486,15 @@
           "time_info": "06时35分"
         },
         {
-          "title": "受贿6798万余元，中国一重原副总经理陆文俊一审获刑15年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753453",
-          "source": "澎湃新闻",
+          "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
+          "url": "https://wallstreetcn.com/livenews/3147884",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "15时03分"
         },
         {
           "title": "澳洲联储：近期政府预算未改变公众需求的前景。",
@@ -455,7 +503,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -545,8 +593,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 15时03分]"
         },
         {
           "title": "台风「白海豚」深入内陆，湖北宜昌进战时状态，河南、安徽、山东迎来特大暴雨，你那目前情况咋样？雨有多大？",
@@ -554,11 +602,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时03分]"
         },
         {
           "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
@@ -568,8 +617,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 15时03分]"
         }
       ]
     }
