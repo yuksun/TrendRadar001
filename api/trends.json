@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T16:53:24.195994+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-08-11T17:59:40.897301+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
@@ -31,11 +31,12 @@
             7,
             8,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 16时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 17时59分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -107,8 +108,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 17时59分]"
+        },
+        {
+          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 17时59分]"
         },
         {
           "title": "国务院免去罗文国家市监总局局长职务",
@@ -215,18 +228,6 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
-          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时53分]"
-        },
-        {
           "title": "多地公安机关打掉1000多个犯罪团伙",
           "url": "https://www.toutiao.com/trending/7672442117175787583/",
           "source": "今日头条",
@@ -238,6 +239,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 13时06分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时59分]"
+        },
+        {
+          "title": "卖梨老头举报致嫌犯落网不实",
+          "url": "https://www.douyin.com/hot/2605126",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时59分]"
         },
         {
           "title": "警方介入调查独闯南太行女子死因",
@@ -252,28 +277,17 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
+          "title": "画大饼PUA,方文山婚内出轨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357129&amp;topic_name=%E7%94%BB%E5%A4%A7%E9%A5%BCPUA%2C%E6%96%B9%E6%96%87%E5%B1%B1%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            6
+            8,
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时06分 ~ 16时53分]"
-        },
-        {
-          "title": "卖梨老头举报致嫌犯落网不实",
-          "url": "https://www.douyin.com/hot/2605126",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 16时53分]"
+          "time_info": "[15时03分 ~ 17时59分]"
         },
         {
           "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
@@ -288,16 +302,16 @@
           "time_info": "[11时42分 ~ 13时06分]"
         },
         {
-          "title": "画大饼PUA,方文山婚内出轨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357129&amp;topic_name=%E7%94%BB%E5%A4%A7%E9%A5%BCPUA%2C%E6%96%B9%E6%96%87%E5%B1%B1%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8",
-          "source": "贴吧",
+          "title": "澎湃回声｜山西省文物局回应“明城墙遭拆旧建新”：正调查，国家文物局已关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33758609",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
+            14,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时53分]"
+          "time_info": "[16时53分 ~ 17时59分]"
         },
         {
           "title": "乌克兰内政部长顾问：俄罗斯对基辅、扎波罗热和第聂伯罗彼得罗夫斯克地区发起弹道攻击。基辅发生多次爆炸。",
@@ -310,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "方文山发文回应出轨",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%96%87%E5%B1%B1%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%87%BA%E8%BD%A8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时59分]"
         },
         {
           "title": "基辅市长：首都发生爆炸。城市正遭受弹道导弹袭击，民众请待在避难所。",
@@ -333,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 15时03分]"
+        },
+        {
+          "title": "卡塔尔国防部：卡塔尔武装部队总参谋长会见海湾阿拉伯国家合作委员会军事事务助理秘书长。",
+          "url": "https://flash.jin10.com/detail/20260811173736454800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "受贿2.61亿余元！龙翔被判死缓",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF2.61%E4%BA%BF%E4%BD%99%E5%85%83%EF%BC%81%E9%BE%99%E7%BF%94%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
@@ -379,17 +427,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "澎湃回声｜山西省文物局回应“明城墙遭拆旧建新”：正调查，国家文物局已关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33758609",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "澳洲联储：委员会仍然专注于确保高通胀不会根深蒂固。",
           "url": "https://flash.jin10.com/detail/20260811123501073800",
           "source": "金十数据",
@@ -410,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "也门政府和海岸警卫队消息人士称，也门胡塞武装袭击曼德海峡货船的甲板，造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260811173356054800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "主动投案，南京市交通集团党委书记、董事长奚晖接受审查调查",
@@ -462,7 +510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -533,6 +581,28 @@
           "time_info": "13时06分"
         },
         {
+          "title": "【上海：支持软件企业广泛使用Coding平台】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，推动软件产品AI化发展，加快工业制图、工程设计和生产排产等高价值场景的智能化升级，强化软件产品的智能感知、分析、决策与执行能力。促进软件企业智能化技改，支持软件企业广泛使用Coding平台，构建覆盖全流程、全链条的智能化研发生产线，探索将词元（Token）、数据治理、大模型部署及再训练等投入，纳入企业技术改造支持方向。",
+          "url": "https://wallstreetcn.com/livenews/3147978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "方文山发文否认出轨",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B9%E6%96%87%E5%B1%B1%E5%8F%91%E6%96%87%E5%90%A6%E8%AE%A4%E5%87%BA%E8%BD%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
           "url": "https://flash.jin10.com/detail/20260811045539120800",
           "source": "金十数据",
@@ -550,7 +620,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -566,24 +636,13 @@
           "time_info": "09时27分"
         },
         {
-          "title": "方文山发文回应出轨",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E6%96%87%E5%B1%B1%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%87%BA%E8%BD%A8%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
           "url": "https://wallstreetcn.com/livenews/3147937",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -627,7 +686,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -635,8 +694,22 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2069191321374418713",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 17时59分]"
+        },
         {
           "title": "山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？",
           "url": "https://www.zhihu.com/question/2069476448205812044",
@@ -651,19 +724,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 09时27分]"
-        },
-        {
-          "title": "山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2069191321374418713",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时53分]"
         },
         {
           "title": "为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？",
@@ -690,15 +750,37 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
+          "title": "山东威海优化调整住房公积金使用政策",
+          "url": "https://wallstreetcn.com/livenews/3147997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "朱之文亮相山东泰安新大宋不夜城",
           "url": "https://www.toutiao.com/trending/7671822432114098230/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "山东威海优化调整住房公积金：单缴存人最高贷款额度由60万调整至80万",
+          "url": "https://flash.jin10.com/detail/20260811173047199800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     }
