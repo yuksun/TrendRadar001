@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T07:38:51.134953+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-13T09:47:59.148204+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 09时47分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
+          "url": "https://wallstreetcn.com/articles/3779286",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时05分 ~ 07时38分]"
+          "time_info": "[03时06分 ~ 09时47分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时06分 ~ 09时47分]"
         },
         {
           "title": "影子调查丨失落的壁上丹青：河北蔚县古壁画遭盗窃与损毁，保护陷困境",
@@ -31,17 +53,6 @@
           "time_info": "[03时05分 ~ 07时38分]"
         },
         {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
-          "url": "https://wallstreetcn.com/articles/3779286",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 07时38分]"
-        },
-        {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
           "url": "https://www.cls.cn/detail/2452533",
           "source": "财联社热门",
@@ -53,15 +64,18 @@
           "time_info": "[03时06分 ~ 07时38分]"
         },
         {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-          "source": "知乎",
+          "title": "男子出轨销售买千万保险还转账350万",
+          "url": "https://www.toutiao.com/trending/7673091645713301555/",
+          "source": "今日头条",
           "ranks": [
-            1
+            11,
+            13,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 07时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 09时47分]"
         },
         {
           "title": "路透调查显示，四分之三的日本企业优先考虑国内投资而非海外投资。",
@@ -70,22 +84,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "男子出轨销售买千万保险还转账350万",
-          "url": "https://www.toutiao.com/trending/7673091645713301555/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 07时38分]"
         },
         {
           "title": "黎政府军指责以色列违反框架协议持续袭击黎南部",
@@ -132,7 +133,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -143,7 +144,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -181,6 +182,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "人民币兑美元中间价报6.7888，下调6点；上一交易日中间价6.7882，上一交易日官方收盘价6.7456，上日夜盘报收6.7459。",
+          "url": "https://wallstreetcn.com/livenews/3148818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：也门政府武装部队无人机袭击了也门胡塞武装在焦夫省的集结地点。",
           "url": "https://flash.jin10.com/detail/20260813015925109800",
           "source": "金十数据",
@@ -214,15 +226,37 @@
           "time_info": "03时06分"
         },
         {
+          "title": "澳洲联储助理主席肯特：通胀面临的大部分风险来自上行方面。 生产率增长令人非常失望。 澳洲联储委员会讨论的重点是上行风险。 房价下跌可能会影响消费意愿。 房价正在下跌，但基数很高。",
+          "url": "https://wallstreetcn.com/livenews/3148806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "伊拉克通讯社：伊拉克情报部门在巴格达逮捕4人，并查获20多架国产无人机。",
           "url": "https://flash.jin10.com/detail/20260813060555893800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "广东一部门大厅电话未插线引质疑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%83%A8%E9%97%A8%E5%A4%A7%E5%8E%85%E7%94%B5%E8%AF%9D%E6%9C%AA%E6%8F%92%E7%BA%BF%E5%BC%95%E8%B4%A8%E7%96%91%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }
