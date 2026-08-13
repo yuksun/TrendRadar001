@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:47:59.148204+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-08-13T12:10:15.725035+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时05分 ~ 09时47分]"
+          "appearance_count": 8,
+          "time_info": "[03时05分 ~ 12时10分]"
         },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 12时10分]"
         },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 12时10分]"
         },
         {
           "title": "影子调查丨失落的壁上丹青：河北蔚县古壁画遭盗窃与损毁，保护陷困境",
@@ -127,6 +127,28 @@
           "time_info": "[03时06分 ~ 07时38分]"
         },
         {
+          "title": "游客在内蒙古被威胁打断腿 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E8%A2%AB%E5%A8%81%E8%83%81%E6%89%93%E6%96%AD%E8%85%BF+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
           "url": "https://flash.jin10.com/detail/20260813070104983800",
           "source": "金十数据",
@@ -188,7 +210,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -226,13 +248,24 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美官员批评以防长“长期占领黎南部”言论",
+          "url": "https://flash.jin10.com/detail/20260813112602447800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "澳洲联储助理主席肯特：通胀面临的大部分风险来自上行方面。 生产率增长令人非常失望。 澳洲联储委员会讨论的重点是上行风险。 房价下跌可能会影响消费意愿。 房价正在下跌，但基数很高。",
           "url": "https://wallstreetcn.com/livenews/3148806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -254,9 +287,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "韩国政府加大住房供应 首都圈拟新增23万套住房",
+          "url": "https://flash.jin10.com/detail/20260813111343256800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     }
