@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:46:02.010573+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-08-14T16:14:24.930178+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 20,
+      "match_count": 33,
       "titles": [
         {
           "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
@@ -32,6 +32,20 @@
           "time_info": "[03时01分 ~ 06时39分]"
         },
         {
+          "title": "货车司机被郑州城管拦停“罚款”，“罚金”转入个人微信，官方通报：3人被停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33777506",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 16时14分]"
+        },
+        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -46,19 +60,6 @@
           "time_info": "[03时01分 ~ 09时46分]"
         },
         {
-          "title": "货车司机被郑州城管拦停“罚款”，“罚金”转入个人微信，官方通报：3人被停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33777506",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 09时46分]"
-        },
-        {
           "title": "惠誉：到2032 年，医疗保险与社会保障支出占GDP的比重将增加近1个百分点，这将进一步加大政府的财政压力。",
           "url": "https://wallstreetcn.com/livenews/3149323",
           "source": "华尔街见闻-快讯",
@@ -68,6 +69,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "热浪与干旱重创法国农业 政府酝酿提供干旱贷款支持农民",
+          "url": "https://wallstreetcn.com/livenews/3149585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "市场消息：英国议会标准调查对改革党领袖奈杰尔·法拉奇的调查现已在议会网站上列为“活跃”，此前显示为“暂停”。",
+          "url": "https://flash.jin10.com/detail/20260814160450955800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "日本政府吹了个大牛，被BBC狠狠打脸",
+          "url": "https://news.ifeng.com/c/8vZ4PJWhJJu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 16时14分]"
         },
         {
           "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
@@ -109,11 +144,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33694482",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 16时14分]"
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "time_info": "[09时46分 ~ 16时14分]"
         },
         {
           "title": "法律从业者举报“鹅腿阿姨”涉嫌刑事违法引关注，市监部门：正在调查，会依法依规处理",
@@ -139,15 +187,15 @@
           "time_info": "[04时48分 ~ 05时42分]"
         },
         {
-          "title": "日本政府吹了个大牛，被BBC狠狠打脸",
-          "url": "https://news.ifeng.com/c/8vZ4PJWhJJu",
-          "source": "凤凰网",
+          "title": "甘肃省副省长程晓波主动投案被查",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E7%A8%8B%E6%99%93%E6%B3%A2%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "16时14分"
         },
         {
           "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
@@ -189,9 +237,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "贵州茅台集团党委原副书记赵书跃接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3149572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "委内瑞拉石油部长：委内瑞拉已与英国石油公司、阿联酋XRG公司以及卡塔尔UCC公司签署委内瑞拉Loran天然气田开发协议。",
@@ -205,15 +264,37 @@
           "time_info": "03时01分"
         },
         {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
+          "title": "北约发言人：（关于拉脱维亚无人机事件）调查正在进行中，北约与拉脱维亚当局保持密切联系。",
+          "url": "https://flash.jin10.com/detail/20260814160151975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "工信部部长李乐成调研盐湖产业和工业绿色低碳发展",
+          "url": "https://wallstreetcn.com/livenews/3149566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "澎湃回声｜中阳残存明城墙遭“拆旧建新”续：山西文物局专家组抵达开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33781604",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "16时14分"
         },
         {
           "title": "土耳其外交部长：地区确实存在针对土耳其的战略联盟。以色列、塞浦路斯希腊族政府和希腊此前已在地中海中线建立安全联盟 ，而土耳其参与的《麦加共同防御协定》旨在加强合作与威慑，并非针对任何特定国家。",
@@ -227,6 +308,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "茅台党委原副书记赵书跃被查",
+          "url": "https://www.toutiao.com/trending/7673786758735072774/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "Anthropic IPO前密会投资者 2万亿美元估值非官方目标",
           "url": "https://flash.jin10.com/detail/20260814012816473800",
           "source": "金十数据",
@@ -236,6 +339,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "四部门发布关于集成电路企业、工业母机企业非货币性资产交换企业所得税政策的公告",
+          "url": "https://wallstreetcn.com/livenews/3149554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "两地两名副市长任上被查",
+          "url": "https://www.toutiao.com/trending/7673410511352119332/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "广东揭阳市医保局局长方锦屏被查",
+          "url": "https://www.toutiao.com/trending/7673737900739005993/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "乌克兰官员表示，如果黑海地区能实施停火，乌克兰有望在一个月内恢复通过海港的粮食出口量。",
+          "url": "https://flash.jin10.com/detail/20260814154618460800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         }
       ]
     }
