@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:52:24.260361+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-08-17T13:34:13.034204+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -21,6 +21,29 @@
           "time_info": "[02时25分 ~ 09时07分]"
         },
         {
+          "title": "内蒙古多地公布乡镇街道、部门“一把手”微信二维码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792818",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时25分 ~ 13时34分]"
+        },
+        {
+          "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2072365745934005252",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 13时34分]"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：沙特外交大臣在利雅得会见了也门外交部长。沙特外交部表示，会谈中“重申了沙特王国坚定支持也门安全与稳定的立场”。",
           "url": "https://flash.jin10.com/detail/20260817021247433800",
           "source": "金十数据",
@@ -32,38 +55,29 @@
           "time_info": "02时25分"
         },
         {
-          "title": "内蒙古多地公布乡镇街道、部门“一把手”微信二维码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33792818",
-          "source": "澎湃新闻",
+          "title": "央视曝光后 云南连夜通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
+            2,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 11时52分]"
-        },
-        {
-          "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2072365745934005252",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时34分]"
         },
         {
           "title": "影视圈“千万大V”被查",
           "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E8%A7%86%E5%9C%88%E2%80%9C%E5%8D%83%E4%B8%87%E5%A4%A7V%E2%80%9D%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时34分]"
         },
         {
           "title": "县委大院69间土坯房用了69年",
@@ -78,18 +92,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时25分 ~ 09时07分]"
-        },
-        {
-          "title": "央视曝光后 云南连夜通报",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 11时52分]"
         },
         {
           "title": "据巴西里约热内卢州消防部门16日确认，当日凌晨，该州彼得罗波利斯市附近发生一起旅游大巴翻车事故，已造成至少10人死亡。",
@@ -163,6 +165,18 @@
           "time_info": "[04时19分 ~ 06时18分]"
         },
         {
+          "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072417954453354372",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 13时34分]"
+        },
+        {
           "title": "有人要求政府联系某明星给自己过生日",
           "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E8%81%94%E7%B3%BB%E6%9F%90%E6%98%8E%E6%98%9F%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BF%87%E7%94%9F%E6%97%A5",
           "source": "百度热搜",
@@ -175,6 +189,17 @@
           "time_info": "[09时07分 ~ 11时52分]"
         },
         {
+          "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
           "title": "也门通讯社：也门政府军在塔伊兹市北部战线击退了胡塞武装的集结行动。",
           "url": "https://flash.jin10.com/detail/20260817012723582800",
           "source": "金十数据",
@@ -184,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2072417954453354372",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "云南省文旅厅：对“低价团”涉事旅行社、购物场所等开展调查",
@@ -280,7 +294,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -324,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
