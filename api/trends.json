@@ -1,455 +1,165 @@
 {
-  "generated_at": "2026-11-03T16:44:07.318068+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-11-04T00:43:49.024574+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 40,
+      "match_count": 14,
       "titles": [
         {
-          "title": "三部门：股票回购增持再贷款利率由1.25%降至1%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34389524",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 16时44分]"
-        },
-        {
-          "title": "警方通报九寨沟景区游客冲突事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "中国公务团组人员被瑞典警方拘押",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8A%A1%E5%9B%A2%E7%BB%84%E4%BA%BA%E5%91%98%E8%A2%AB%E7%91%9E%E5%85%B8%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8A%BC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "武汉警方通报网约车被围堵事件",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368880&amp;topic_name=%E6%AD%A6%E6%B1%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E4%BA%8B%E4%BB%B6",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 16时44分]"
-        },
-        {
-          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
-          "url": "https://wallstreetcn.com/articles/3785007",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 16时44分]"
-        },
-        {
-          "title": "警方通报九寨沟游客冲突：已调解",
-          "url": "https://www.toutiao.com/trending/7703623342925938751/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "沙特阿美首席执行官：如果政府决定将最大可持续产能扩大至超过1200万桶/日，我们有能力实现这一目标。",
-          "url": "https://flash.jin10.com/detail/20261103163524486800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "网传九寨沟一老人被劝阻不要插队后发生打人争执，警方称双方都有责任，最新通报已和解，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2100891189767397452",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "吧友举报留学生遭学校开盒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368833&amp;topic_name=%E5%90%A7%E5%8F%8B%E4%B8%BE%E6%8A%A5%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%AD%E5%AD%A6%E6%A0%A1%E5%BC%80%E7%9B%92",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 16时44分]"
-        },
-        {
-          "title": "男娘进女生宿舍,武工商发通报",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368891&amp;topic_name=%E7%94%B7%E5%A8%98%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%2C%E6%AD%A6%E5%B7%A5%E5%95%86%E5%8F%91%E9%80%9A%E6%8A%A5",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "警方通报九寨沟游客打架：拍照起冲突",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B8%B8%E5%AE%A2%E6%89%93%E6%9E%B6%EF%BC%9A%E6%8B%8D%E7%85%A7%E8%B5%B7%E5%86%B2%E7%AA%81",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "央行等三部门优化资本市场支持工具，回购增持再贷款利率降至1%",
-          "url": "https://wallstreetcn.com/articles/3784999",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 16时44分]"
-        },
-        {
-          "title": "西班牙官方确认列车相撞事故66名遇难者身份",
-          "url": "https://news.ifeng.com/c/8xj7g2GAtKp",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 16时44分]"
-        },
-        {
-          "title": "影子调查｜甘肃张掖风电项目环评引争议，兔狲等保护动物为何被无视？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34369361",
+          "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34395921",
           "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "警方通报九寨沟景区游客冲突事件",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "中国公务团组人员被瑞典警方拘押",
-          "url": "https://www.toutiao.com/trending/7703489065979084809/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "“举报共治 护企远航”倡议将发布",
-          "url": "https://www.toutiao.com/trending/7703404062099636243/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "“举报共治 护企远航”倡议明日发布",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%BE%E6%8A%A5%E5%85%B1%E6%B2%BB+%E6%8A%A4%E4%BC%81%E8%BF%9C%E8%88%AA%E2%80%9D%E5%80%A1%E8%AE%AE%E6%98%8E%E6%97%A5%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "赣州通报看演唱会女生低保已取消",
-          "url": "https://www.douyin.com/hot/2726959",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "警方通报“网约车被狂欢人群围堵”",
-          "url": "https://www.toutiao.com/trending/7703548761166889510/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "十四届全国人大常委会第二十五次会议在京举行，审议检察公益诉讼法草案、水法修订草案等",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34390505",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "“片仔癀一门店被举报涉虚假宣传”续：市监部门认定违反广告法罚款3万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34394079",
           "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "“举报共治 护企远航”倡议将发布",
-          "url": "https://www.douyin.com/hot/2726761",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "一在校女生将其初中同学男扮女装带入宿舍，武汉工商学院通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34392888",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "美官员称美袭击伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2726467",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "高校通报有人男扮女装进女生宿舍",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%9C%89%E4%BA%BA%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "傅成玉被查，中国石油化工集团有限公司党组：坚决拥护党中央决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34388478",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "官方认证肖战倒霉小灰外套",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%E8%82%96%E6%88%98%E5%80%92%E9%9C%89%E5%B0%8F%E7%81%B0%E5%A4%96%E5%A5%97%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "三部门：股票回购增持再贷款政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%降至1%",
-          "url": "https://www.cls.cn/detail/2522877",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "阿联酋：道达尔能源与阿布扎比国家石油公司天然气部门签署为期五年的液化天然气供应协议。",
-          "url": "https://flash.jin10.com/detail/20261103163234275800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问",
-          "url": "https://www.cls.cn/detail/2522918",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "官方将股票回购增持再贷款政策由阶段性转为长期制度性安排，再贷款利率由 1.25％降至 1%，将有哪些影响？",
-          "url": "https://www.zhihu.com/question/2100683788497810795",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "中国公务团组人员被瑞典警方拘押，中使馆提醒",
-          "url": "https://news.ifeng.com/c/8xj8bij8d0J",
-          "source": "凤凰网",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时43分"
         },
         {
-          "title": "微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？",
-          "url": "https://www.zhihu.com/question/2098769070032164639",
+          "title": "武汉警方通报网约车被围堵事件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368880&amp;topic_name=%E6%AD%A6%E6%B1%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E5%9B%B4%E5%A0%B5%E4%BA%8B%E4%BB%B6",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
+          "url": "https://www.cls.cn/detail/2524170",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "俄总统新闻秘书：安全不可分割原则是俄立场基石",
+          "url": "https://wallstreetcn.com/livenews/3193478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "巴西财政部长Dario Durigan：赢得连任的总统卢拉不考虑颇具影响力的经济学家Andre Lara Resende给出的降息建议。",
+          "url": "https://wallstreetcn.com/livenews/3193477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "武汉一小区爆燃致 2 死 1 伤，调查、处置工作正在进行中，目前情况如何？",
+          "url": "https://www.zhihu.com/question/2100890499762446584",
           "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时43分"
         },
         {
-          "title": "中国即将发行或正在发行的地方政府债",
-          "url": "https://wallstreetcn.com/livenews/3192900",
-          "source": "华尔街见闻-快讯",
+          "title": "一在校女生将其初中同学男扮女装带入宿舍，武汉工商学院通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34392888",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时43分"
         },
         {
-          "title": "阿曼代表团是否会与沙特和伊朗的安全官员会面？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3193160",
-          "source": "华尔街见闻-快讯",
+          "title": "警方介入调查“九寨沟景区游客冲突事件”，九寨沟管理局：事发后有工作人员到场处理并报警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34394511",
+          "source": "澎湃新闻",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "新闻交易员：大家盯着国会，真正的雷却埋在州政府",
-          "url": "https://flash.jin10.com/detail/20261103081928273800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时43分"
         },
         {
-          "title": "美官员：美俄乌三方会谈将于10日至11日举行",
-          "url": "https://wallstreetcn.com/livenews/3192891",
-          "source": "华尔街见闻-快讯",
+          "title": "大连市政协主席宫福清已任市人大常委会党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34394157",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时43分"
         },
         {
-          "title": "欧洲央行管委Radev：经济环境正变得更具挑战性。 10月份暂停加息并不意味着紧缩行动结束。",
-          "url": "https://wallstreetcn.com/livenews/3193154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "中方为何以视频形式举办APEC外交和贸易双部长会议？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3193151",
+          "title": "以色列反对派阵营支持埃森科特组建政府",
+          "url": "https://wallstreetcn.com/livenews/3193464",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "00时43分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆和高级副行长罗杰斯将于十分钟后出席众议院一委员会听证会。",
+          "url": "https://flash.jin10.com/detail/20261103235000000800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "2026年世界互联网大会乌镇峰会部长级会议召开",
+          "url": "https://wallstreetcn.com/livenews/3193460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "吧友举报留学生遭学校开盒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368833&amp;topic_name=%E5%90%A7%E5%8F%8B%E4%B8%BE%E6%8A%A5%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%AD%E5%AD%A6%E6%A0%A1%E5%BC%80%E7%9B%92",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
