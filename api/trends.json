@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-11-05T13:25:09.242147+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-11-05T21:37:26.561892+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "陕西省教育厅回应延安大学教师白某某离世：正全面调查核实相关问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34406907",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 21时37分]"
+        },
         {
           "title": "多部门部署加强消费基础设施建设",
           "url": "https://www.douyin.com/hot/2729584",
@@ -52,18 +65,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "陕西省教育厅回应延安大学教师白某某离世：正全面调查核实相关问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34406907",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 13时25分]"
-        },
-        {
           "title": "陕西教育厅通报副教授去世留绝笔信",
           "url": "https://www.toutiao.com/trending/7703942318373765139/",
           "source": "今日头条",
@@ -84,6 +85,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34410162",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 21时37分]"
         },
         {
           "title": "西南交大通报“硕士论文被指抄袭”：属实，撤销王某硕士学位",
@@ -133,6 +146,18 @@
           "time_info": "[02时23分 ~ 13时25分]"
         },
         {
+          "title": "李希人民日报撰文：坚定走好中国特色反腐败之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34409393",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 21时37分]"
+        },
+        {
           "title": "陕西教育厅通报“延安大学教师离世”",
           "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E6%95%99%E8%82%B2%E5%8E%85%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E2%80%9D",
           "source": "百度热搜",
@@ -165,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 08时01分]"
-        },
-        {
-          "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34410162",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "气象部门回应iPhone天气异常数据",
@@ -246,17 +260,6 @@
           "time_info": "[02时23分 ~ 08时01分]"
         },
         {
-          "title": "李希人民日报撰文：坚定走好中国特色反腐败之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34409393",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "乡干部伤人潜逃15年吃空饷140余万元",
           "url": "https://www.toutiao.com/trending/7704474667033068058/",
           "source": "今日头条",
@@ -279,15 +282,48 @@
           "time_info": "02时23分"
         },
         {
+          "title": "安徽明光通报“殡仪馆发错骨灰”：馆长被免职，涉事人员停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34411733",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
+          "url": "https://www.zhihu.com/question/2101612544959969091",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "丰田设立机器人专项部门，汽车制造商加速布局新技术",
           "url": "https://flash.jin10.com/detail/20261105125923829800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "小区的公建配套，以后政府买单了",
+          "url": "https://news.ifeng.com/c/8xoMlKlTzFN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "Meta Platforms拟融资90亿欧元债券，获得530亿欧元认购——认购金额在欧洲债市长单个公司的历史新高。",
@@ -307,9 +343,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "足协通报批评云南玉昆足球俱乐部",
+          "url": "https://www.douyin.com/hot/2731180",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "西班牙请求欧盟铁路局协助调查高铁事故",
@@ -334,6 +381,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "国际足联官方发布C罗退役海报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83C%E7%BD%97%E9%80%80%E5%BD%B9%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "欧盟官员称波黑过去一年入盟进程缺乏实质进展",
           "url": "https://flash.jin10.com/detail/20261105061051458800",
           "source": "金十数据",
@@ -354,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "多名医生涉论文造假 国家卫健委通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F%E6%B6%89%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87+%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     }
