@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T00:26:23.358966+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-09T04:51:37.211766+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "也门政府军：过去24小时内，在多条战线对胡塞武装据点实施了992次空袭及炮击。",
@@ -19,15 +19,109 @@
           "time_info": "00时26分"
         },
         {
+          "title": "市场消息：被福克斯新闻问及是否要废除边境、废除最高法院、废除监狱，民主党籍的纽约市长马姆达尼均回答“不”。",
+          "url": "https://flash.jin10.com/detail/20261109044955694800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "伊拉克库尔德斯坦地区电力部门：霍尔莫尔油田遭袭后，电网损失近2.8吉瓦发电能力。",
+          "url": "https://flash.jin10.com/detail/20261109044036821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "中共中央书记处书记、国务委员王小洪：提高政策措施的针对性有效性 因地制宜推动高质量发展",
           "url": "https://wallstreetcn.com/livenews/3196483",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "你如何看待人民日报客户端刊发的评论《一有分歧就举报，老师还怎么教孩子？》？",
+          "url": "https://www.zhihu.com/question/2097312561024722420",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "以色列国防部长称对伊朗任务“尚未完成”",
+          "url": "https://wallstreetcn.com/livenews/3196480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
+          "url": "https://www.cls.cn/detail/2528125",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "以总统授权埃森科特组建新政府",
+          "url": "https://www.douyin.com/hot/2735141",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "记者卧底调查女厕偷拍黑产",
+          "url": "https://www.toutiao.com/trending/7705633789283667482/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "武大通报骗同学去缅甸者非本校生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
         },
         {
           "title": "伊拉克陆军指挥官：启动与土耳其的联合安全协调委员会。",
@@ -41,37 +135,26 @@
           "time_info": "00时26分"
         },
         {
-          "title": "以色列国防部长称对伊朗任务“尚未完成”",
-          "url": "https://wallstreetcn.com/livenews/3196480",
+          "title": "英伟达发言人：黄仁勋将继续担任英伟达(NVDA.O)首席执行官，领导公司前行。",
+          "url": "https://flash.jin10.com/detail/20261109042609295800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "瑞典的安德森：寻求与中间派和绿党合作构建政府。",
+          "url": "https://wallstreetcn.com/livenews/3196499",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "你如何看待人民日报客户端刊发的评论《一有分歧就举报，老师还怎么教孩子？》？",
-          "url": "https://www.zhihu.com/question/2097312561024722420",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
-          "url": "https://www.cls.cn/detail/2528125",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "04时51分"
         },
         {
           "title": "伊拉克陆军指挥官：土耳其将启动向伊拉克政府逐步移交巴希卡营地的步骤。",
@@ -83,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "古巴前副外交部长谈古巴现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%B7%B4%E5%89%8D%E5%89%AF%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E8%B0%88%E5%8F%A4%E5%B7%B4%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "黎巴嫩外交部长：黎巴嫩的利益不应在为他人利益服务的过程中受到损害。",
@@ -107,6 +201,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "南非各大城市或将迎来联合政府执政，选民惩罚非国大",
+          "url": "https://wallstreetcn.com/livenews/3196492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "黎巴嫩外交部长：黎巴嫩将不再接受除黎巴嫩军队以外的任何武器存在。",
           "url": "https://flash.jin10.com/detail/20261108234457915800",
           "source": "金十数据",
@@ -127,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗格什姆岛传出爆炸声；伊朗官方尚未予以证实。",
+          "url": "https://flash.jin10.com/detail/20261109033142418800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美媒称白宫办公厅副主任沃尔特斯将离职",
@@ -162,6 +278,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
+          "url": "https://flash.jin10.com/detail/20261109031035645800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "以色列总统赫尔佐格：必须组建一个能够应对挑战的稳定以色列政府。",
           "url": "https://flash.jin10.com/detail/20261108232518480800",
           "source": "金十数据",
@@ -184,37 +311,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "武大通报骗同学去缅甸者非本校生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
-          "source": "贴吧",
+          "title": "沙特主导的多国联军发言人图尔基·马利基：沙特领导的联盟摧毁了在萨那的弹道导弹发射平台。胡塞武装今天试图利用该平台对东部地区进行攻击。",
+          "url": "https://flash.jin10.com/detail/20261109021938548800",
+          "source": "金十数据",
           "ranks": [
-            27
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "以总统授权埃森科特组建新政府",
-          "url": "https://www.douyin.com/hot/2735141",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "记者卧底调查女厕偷拍黑产",
-          "url": "https://www.toutiao.com/trending/7705633789283667482/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "04时51分"
         }
       ]
     },
@@ -238,11 +343,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%99%AF%E5%8C%BA%E5%AF%B9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%85%8D%E8%B4%B9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时51分]"
         }
       ]
     }
