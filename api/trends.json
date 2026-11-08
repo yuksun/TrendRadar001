@@ -1,340 +1,143 @@
 {
-  "generated_at": "2026-11-08T17:39:50.287804+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-11-09T00:26:23.358966+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 36,
+      "match_count": 19,
       "titles": [
         {
-          "title": "“父亲遛狗幼童从家中坠亡”案进展：刑事立案监督申请已受理，男童母亲称正起诉离婚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34426142",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 10时56分]"
-        },
-        {
-          "title": "落马干部被留置当天仍在收礼",
-          "url": "https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E5%B9%B2%E9%83%A8%E8%A2%AB%E7%95%99%E7%BD%AE%E5%BD%93%E5%A4%A9%E4%BB%8D%E5%9C%A8%E6%94%B6%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "两部门部署暴雪暴雨防范应对",
-          "url": "https://www.douyin.com/hot/2734507",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "台媒爆料：台外事部门交涉未果，撤了",
-          "url": "https://news.ifeng.com/c/8xrX0c27kbW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列特拉维夫爆发了反对内塔尼亚胡政府的抗议活动。抗议参与者要求更换其政府，并组建有阿拉伯政党参与的新政府。",
-          "url": "https://flash.jin10.com/detail/20261108023409498800",
+          "title": "也门政府军：过去24小时内，在多条战线对胡塞武装据点实施了992次空袭及炮击。",
+          "url": "https://flash.jin10.com/detail/20261109002026469800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
         },
         {
-          "title": "以总统授权埃森科特组建新政府",
-          "url": "https://www.douyin.com/hot/2735141",
-          "source": "抖音",
+          "title": "中共中央书记处书记、国务委员王小洪：提高政策措施的针对性有效性 因地制宜推动高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3196483",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "伊拉克陆军指挥官：启动与土耳其的联合安全协调委员会。",
+          "url": "https://flash.jin10.com/detail/20261109001606829800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 17时39分]"
-        },
-        {
-          "title": "马斯克：SpaceX和特斯拉之所以能在得克萨斯州蓬勃发展，是因为我们不必一直在一个压迫性且具有掠夺性的州政府下运营。",
-          "url": "https://flash.jin10.com/detail/20261108022919036800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
         },
         {
-          "title": "沙特民防部门：多地危险警报已解除。",
-          "url": "https://flash.jin10.com/detail/20261108095346982800",
-          "source": "金十数据",
+          "title": "以色列国防部长称对伊朗任务“尚未完成”",
+          "url": "https://wallstreetcn.com/livenews/3196480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "武大通报骗同学去缅甸者非本校生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 17时39分]"
-        },
-        {
-          "title": "河北保定通报“桥体脱落事故”：4人受伤，其中2名施工人员伤势较重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34427397",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "落马干部被留置当天仍在收礼",
-          "url": "https://www.toutiao.com/trending/7705374033424269354/",
-          "source": "今日头条",
+          "title": "你如何看待人民日报客户端刊发的评论《一有分歧就举报，老师还怎么教孩子？》？",
+          "url": "https://www.zhihu.com/question/2097312561024722420",
+          "source": "知乎",
           "ranks": [
-            27,
-            6,
-            30
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
           "url": "https://www.cls.cn/detail/2528125",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 17时39分]"
-        },
-        {
-          "title": "妻子偷拍丈夫出轨80余次构成侵权",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A880%E4%BD%99%E6%AC%A1%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 10时56分]"
-        },
-        {
-          "title": "新西兰选举委员会：国家党领导的执政联盟赢得足够议席继续执政",
-          "url": "https://wallstreetcn.com/livenews/3196412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 10时56分]"
-        },
-        {
-          "title": "UFC总裁拒任白宫新闻秘书",
-          "url": "https://www.toutiao.com/trending/7705550990070530570/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "央企中国国新：将举报",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E4%BC%81%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%96%B0%EF%BC%9A%E5%B0%86%E4%B8%BE%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列左翼民主党领袖亚伊尔·戈兰呼吁推翻以色列总理内塔尼亚胡并组建新政府。",
-          "url": "https://flash.jin10.com/detail/20261108021129788800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
         },
         {
-          "title": "沙特民防部门：在达曼、扎赫兰、布基克和哈夫夫启动早期预警系统。",
-          "url": "https://flash.jin10.com/detail/20261108094935705800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "加沙暴雨约7万顶帐篷被淹，当地部门无力救灾",
-          "url": "https://news.ifeng.com/c/8xsY2fFniCN",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "沙特民防部门：发布警报，达曼可能存在的危险。",
-          "url": "https://flash.jin10.com/detail/20261108094447622800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
-          "url": "https://wallstreetcn.com/livenews/3196455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "胡塞武装官员：沙特持续袭击民用设施和目标构成战争罪",
-          "url": "https://flash.jin10.com/detail/20261108091355004800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "巴西市长检查医院男女医生闭门大睡",
-          "url": "https://www.toutiao.com/trending/7705315282226987062/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "外交部部长助理蔡伟会见联合国日内瓦办事处总干事瓦罗瓦娅",
-          "url": "https://flash.jin10.com/detail/20261108163122481800",
+          "title": "伊拉克陆军指挥官：土耳其将启动向伊拉克政府逐步移交巴希卡营地的步骤。",
+          "url": "https://flash.jin10.com/detail/20261108235707045800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时26分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：有人打算组建一个包含恐怖主义支持者的政府。",
-          "url": "https://flash.jin10.com/detail/20261108012712063800",
+          "title": "黎巴嫩外交部长：黎巴嫩的利益不应在为他人利益服务的过程中受到损害。",
+          "url": "https://flash.jin10.com/detail/20261108234512748800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "黎巴嫩外交部长：黎巴嫩拒绝代其进行谈判或讨价还价。",
+          "url": "https://flash.jin10.com/detail/20261108234505411800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
         },
         {
-          "title": "河北保定通报桥体脱落事故：造成3名施工人员、1名货车司机受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34427376",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们拒绝仓促组建新政府。",
-          "url": "https://flash.jin10.com/detail/20261108012703830800",
+          "title": "黎巴嫩外交部长：黎巴嫩将不再接受除黎巴嫩军队以外的任何武器存在。",
+          "url": "https://flash.jin10.com/detail/20261108234457915800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
         },
         {
-          "title": "德黑兰炼油厂周日上方出现浓烟，官方称系电力和技术故障",
-          "url": "https://flash.jin10.com/detail/20261108161329452800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：呼吁组建联合政府。",
-          "url": "https://flash.jin10.com/detail/20261108012409102800",
+          "title": "艾森科特提出组建以色列紧急联合政府四项原则",
+          "url": "https://flash.jin10.com/detail/20261108234403172800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美媒称白宫办公厅副主任沃尔特斯将离职",
+          "url": "https://wallstreetcn.com/livenews/3196471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "妻子在家私装监控拍下丈夫出轨被认定非法证据，从法律角度该如何解读？",
@@ -343,114 +146,103 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时26分"
         },
         {
-          "title": "伊朗官员：霍尔木兹海峡是伊朗掌握的重要战略工具",
-          "url": "https://flash.jin10.com/detail/20261108160331307800",
-          "source": "金十数据",
+          "title": "史文斌任福建省委常委、省纪委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34431722",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时26分"
         },
         {
-          "title": "据伊通社（IRNA）：数分钟前，霍尔木兹甘省贾斯克港也传出数声爆炸声。官方消息来源证实发生了爆炸，但以涉及军事设施为由，拒绝透露爆炸发生的具体地点。",
-          "url": "https://flash.jin10.com/detail/20261108035408728800",
+          "title": "以色列总统赫尔佐格：必须组建一个能够应对挑战的稳定以色列政府。",
+          "url": "https://flash.jin10.com/detail/20261108232518480800",
           "source": "金十数据",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "00时26分"
         },
         {
-          "title": "以色列总统授权内塔尼亚胡政治对手艾森科特组建新政府",
-          "url": "https://flash.jin10.com/detail/20261108034056888800",
-          "source": "金十数据",
+          "title": "美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
+          "url": "https://wallstreetcn.com/livenews/3196455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "00时26分"
+        },
+        {
+          "title": "武大通报骗同学去缅甸者非本校生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "以总统授权埃森科特组建新政府",
+          "url": "https://www.douyin.com/hot/2735141",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "记者卧底调查女厕偷拍黑产",
           "url": "https://www.toutiao.com/trending/7705633789283667482/",
           "source": "今日头条",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "以色列总统办公室：艾森科特将获得28天的时间来组建政府，如有需要依法再延长最多14天。",
-          "url": "https://flash.jin10.com/detail/20261108033602548800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "偷拍丈夫出轨妻子回应为何安装监控",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E5%AE%89%E8%A3%85%E7%9B%91%E6%8E%A7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "山东泰山vs成都蓉城",
-          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "中超第 30 轮，成都蓉城 2-3 山东鲁能，煮熟的冠军长翅膀飞了，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2102757136396546992",
+          "source": "知乎",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时26分"
         },
         {
-          "title": "山东泰山半场2比1成都蓉城",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%E5%8D%8A%E5%9C%BA2%E6%AF%941%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "山东泰山3比1成都蓉城",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B13%E6%AF%941%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%23&t=31&band_rank=15&Refer=top",
+          "title": "大连景区对山东人免费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%99%AF%E5%8C%BA%E5%AF%B9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%85%8D%E8%B4%B9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "00时26分"
         }
       ]
     }
