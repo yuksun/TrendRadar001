@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-09T04:51:37.211766+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-11-09T08:13:19.831089+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "黄仁勋承认出轨",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "国自然副主任批生命科学研究“套路化”倾向：如“流水线”批量生产科技“八股文”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34434136",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
         {
           "title": "也门政府军：过去24小时内，在多条战线对胡塞武装据点实施了992次空袭及炮击。",
           "url": "https://flash.jin10.com/detail/20261109002026469800",
@@ -25,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -36,9 +58,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "黄仁勋发声明承认出轨",
+          "url": "https://www.douyin.com/hot/2736505",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "你如何看待媒体刊发的评论《一有分歧就举报，老师还怎么教孩子？》？",
+          "url": "https://www.zhihu.com/question/2097312561024722420",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "黄仁勋发声明承认出轨",
+          "url": "https://www.toutiao.com/trending/7704908412844326955/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "中共中央书记处书记、国务委员王小洪：提高政策措施的针对性有效性 因地制宜推动高质量发展",
@@ -51,6 +106,55 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "以总统授权埃森科特组建新政府",
+          "url": "https://www.douyin.com/hot/2735141",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 08时13分]"
+        },
+        {
+          "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
+          "url": "https://www.cls.cn/detail/2528125",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 08时13分]"
+        },
+        {
+          "title": "记者卧底调查女厕偷拍黑产",
+          "url": "https://www.toutiao.com/trending/7705633789283667482/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 08时13分]"
+        },
+        {
+          "title": "武大通报骗同学去缅甸者非本校生",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 08时13分]"
         },
         {
           "title": "你如何看待人民日报客户端刊发的评论《一有分歧就举报，老师还怎么教孩子？》？",
@@ -77,51 +181,27 @@
           "time_info": "[00时26分 ~ 04时51分]"
         },
         {
-          "title": "告别集中爆单！“双十一”快递一线经营“减负” 降本与修复盈利并进",
-          "url": "https://www.cls.cn/detail/2528125",
-          "source": "财联社热门",
+          "title": "古巴前副外交部长谈古巴现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%B7%B4%E5%89%8D%E5%89%AF%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E8%B0%88%E5%8F%A4%E5%B7%B4%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 04时51分]"
+          "time_info": "[04时51分 ~ 08时13分]"
         },
         {
-          "title": "以总统授权埃森科特组建新政府",
-          "url": "https://www.douyin.com/hot/2735141",
-          "source": "抖音",
+          "title": "便民扶梯为何修了又坏、反复“停摆”？央视调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34433939",
+          "source": "澎湃新闻",
           "ranks": [
-            28,
-            23
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 04时51分]"
-        },
-        {
-          "title": "记者卧底调查女厕偷拍黑产",
-          "url": "https://www.toutiao.com/trending/7705633789283667482/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 04时51分]"
-        },
-        {
-          "title": "武大通报骗同学去缅甸者非本校生",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369386&amp;topic_name=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E9%AA%97%E5%90%8C%E5%AD%A6%E5%8E%BB%E7%BC%85%E7%94%B8%E8%80%85%E9%9D%9E%E6%9C%AC%E6%A0%A1%E7%94%9F",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 04时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "伊拉克陆军指挥官：启动与土耳其的联合安全协调委员会。",
@@ -141,7 +221,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -152,7 +232,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -166,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "古巴前副外交部长谈古巴现状",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%B7%B4%E5%89%8D%E5%89%AF%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E8%B0%88%E5%8F%A4%E5%B7%B4%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
         },
         {
           "title": "黎巴嫩外交部长：黎巴嫩的利益不应在为他人利益服务的过程中受到损害。",
@@ -207,7 +276,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -240,7 +309,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -267,6 +336,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "如何评价 CSP-J/S 2026 第二轮多省多名考生代码高度近似，而 CCF 不受理民间举报？",
+          "url": "https://www.zhihu.com/question/2102502792200037086",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
           "title": "史文斌任福建省委常委、省纪委书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_34431722",
           "source": "澎湃新闻",
@@ -278,13 +358,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "澎湃新闻网记者朱远祥：以调查报道推动问题整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34434483",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
           "title": "据半岛电视台：伊拉克外交部长表示，伊朗战争及石油出口业务中断给伊拉克造成的损失已达600亿美元。",
           "url": "https://flash.jin10.com/detail/20261109031035645800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -317,7 +408,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
@@ -325,8 +416,30 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "大连多个景区对山东游客免费100天",
+          "url": "https://www.toutiao.com/trending/7705730663289389119/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
+          "title": "大连文体旅：对山东老铁免费100天",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E6%96%87%E4%BD%93%E6%97%85%EF%BC%9A%E5%AF%B9%E5%B1%B1%E4%B8%9C%E8%80%81%E9%93%81%E5%85%8D%E8%B4%B9100%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
         {
           "title": "中超第 30 轮，成都蓉城 2-3 山东鲁能，煮熟的冠军长翅膀飞了，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2102757136396546992",
@@ -349,6 +462,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 04时51分]"
+        },
+        {
+          "title": "“从此11月8日忆山东兄弟”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8E%E6%AD%A411%E6%9C%888%E6%97%A5%E5%BF%86%E5%B1%B1%E4%B8%9C%E5%85%84%E5%BC%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         }
       ]
     }
