@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T01:54:29.353142+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-10T08:56:28.139870+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "书记 部长 秘书 市长 县长 区长 镇长 乡长 局长 处长 科长 主任 村支书 村长 校长 院长 检察长 公职 领导 干部 官员 党员 政府 机关 部门 基层 党委 党组 委员会 市委 县委 区委 管委 村委 官方 人大 政协 政务 党政 执法 调查 监督 大厅 党务 政绩 公务 公车 公款 减负 红头文件 腐败 贪污 受贿 出轨 网爆 举报 调查 被查 通报 问责 形式主义 官僚主义 面子工程",
-      "match_count": 14,
+      "match_count": 30,
       "titles": [
         {
           "title": "黄仁勋的道歉大有玄机：为何只字不提出轨女主角？",
@@ -15,30 +15,144 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
         },
         {
           "title": "美官员称与黄仁勋婚外情女子为中国情报机构工作，外交部：纯属捕风捉影",
           "url": "https://wallstreetcn.com/articles/3785562",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "沙特民防部门称利雅得的危险警报已解除。",
+          "url": "https://flash.jin10.com/detail/20261110084805638800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
+        },
+        {
+          "title": "“零元面馆” 排长队、有周边商户生意下降，当地市监局：多部门正牵头处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34440882",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "警方通报政务大厅门头遭破坏",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%94%BF%E5%8A%A1%E5%A4%A7%E5%8E%85%E9%97%A8%E5%A4%B4%E9%81%AD%E7%A0%B4%E5%9D%8F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "陕西一政务中心门头遭损毁？警方通报",
+          "url": "https://www.toutiao.com/trending/7706315930539658790/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "国务院关税税则委员会：2个月内继续暂停实施24%的对美加征关税税率",
           "url": "https://m.thepaper.cn/newsDetail_forward_34437231",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "一批违法违规涉军自媒体被通报",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E6%B6%89%E5%86%9B%E8%87%AA%E5%AA%92%E4%BD%93%E8%A2%AB%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "常德马拉松一选手途中猝死，官方回应",
+          "url": "https://news.ifeng.com/c/8xuvN2fwjLf",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "江西省政协原党组成员、副主席尹建业被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34437113",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "中方驳斥黄仁勋出轨女子为中国工作",
+          "url": "https://www.toutiao.com/trending/7705956564850671679/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "黄仁勋承认出轨女高管",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369529&amp;topic_name=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%E5%A5%B3%E9%AB%98%E7%AE%A1",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 08时56分]"
+        },
+        {
+          "title": "山姆多款始祖鸟加拿大鹅被抢空，有商品比官方便宜近 5000 元，为什么能卖这么便宜？背后是怎样的商业策略？",
+          "url": "https://www.zhihu.com/question/2102852244009743862",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
         },
         {
           "title": "尚公主官方拆cp",
@@ -52,26 +166,70 @@
           "time_info": "01时54分"
         },
         {
-          "title": "一批违法违规涉军自媒体被通报",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E6%B6%89%E5%86%9B%E8%87%AA%E5%AA%92%E4%BD%93%E8%A2%AB%E9%80%9A%E6%8A%A5",
+          "title": "新西兰联储首席经济学家Conway：通胀率依然过高。 货币政策委员会（MPC）一致同意有必要进一步加息。 国内经济仍存在局部疲软领域。 劳动力市场存在明显的产能过剩。 风险在于成本冲击演变为更广泛通胀压力。",
+          "url": "https://wallstreetcn.com/livenews/3197246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "政务中心门头遭挖掘机破坏 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BF%E5%8A%A1%E4%B8%AD%E5%BF%83%E9%97%A8%E5%A4%B4%E9%81%AD%E6%8C%96%E6%8E%98%E6%9C%BA%E7%A0%B4%E5%9D%8F+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "出轨风波牵动千亿资产？黄仁勋1625亿美元英伟达持股中，1495亿美元是夫妻共同信托及基金会持有",
+          "url": "https://wallstreetcn.com/articles/3785580",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "如何看待蓉城博主发文「请成都纪委介入调查成都蓉城可能存在的违法违纪行为」？",
+          "url": "https://www.zhihu.com/question/2103131292707415197",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "西安一政务服务中心门头遭挖掘机破坏，警方通报",
+          "url": "https://news.ifeng.com/c/8xvnXrXCHKW",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
         },
         {
-          "title": "常德马拉松一选手途中猝死，官方回应",
-          "url": "https://news.ifeng.com/c/8xuvN2fwjLf",
-          "source": "凤凰网",
+          "title": "沙特民防部门就利雅得的潜在危险发布警报。",
+          "url": "https://flash.jin10.com/detail/20261110084057447800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
         },
         {
           "title": "财晓得｜关不上的弹窗调查：“误触”如何转入广告页面，为何屡禁不止？",
@@ -85,6 +243,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据中国财政部网站，11月8日，在第二次中加经济财金战略对话期间，财政部副部长廖岷与加拿大财政部国际贸易与金融助理副部长帕特里克·海利在加拿大温哥华共同签署《中华人民共和国财政部与加拿大财政部合作谅解备忘录》。",
+          "url": "https://wallstreetcn.com/livenews/3197236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "官方回应招医生月薪最高2499元",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%8B%9B%E5%8C%BB%E7%94%9F%E6%9C%88%E8%96%AA%E6%9C%80%E9%AB%982499%E5%85%83",
           "source": "百度热搜",
@@ -96,15 +265,26 @@
           "time_info": "01时54分"
         },
         {
-          "title": "江西省政协原党组成员、副主席尹建业被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34437113",
-          "source": "澎湃新闻",
+          "title": "衡阳市长作为行政机关负责人出庭应诉",
+          "url": "https://www.baidu.com/s?wd=%E8%A1%A1%E9%98%B3%E5%B8%82%E9%95%BF%E4%BD%9C%E4%B8%BA%E8%A1%8C%E6%94%BF%E6%9C%BA%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%87%BA%E5%BA%AD%E5%BA%94%E8%AF%89",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
+        },
+        {
+          "title": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34439288",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "我提出离职后领导加薪挽留，同时收到了其它公司的 offer，我该怎么选呢？",
@@ -112,17 +292,6 @@
           "source": "知乎",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "中方驳斥黄仁勋出轨女子为中国工作",
-          "url": "https://www.toutiao.com/trending/7705956564850671679/",
-          "source": "今日头条",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,15 +309,26 @@
           "time_info": "01时54分"
         },
         {
-          "title": "黄仁勋承认出轨女高管",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369529&amp;topic_name=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%E5%A5%B3%E9%AB%98%E7%AE%A1",
-          "source": "贴吧",
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3197231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "桂林通报“天桥扶梯建而不用问题”",
+          "url": "https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%A9%E6%A1%A5%E6%89%B6%E6%A2%AF%E5%BB%BA%E8%80%8C%E4%B8%8D%E7%94%A8%E9%97%AE%E9%A2%98%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "08时56分"
         },
         {
           "title": "法国巴黎检方就涉嫌攻击超市冷藏设备一案，对伊朗“沙希德·卡维”相关主体启动调查。 冷藏设备遭黑客入侵案调查显示，攻击手法具备沙希德·卡维组织的典型特征。 冷藏设备入侵案调查发现攻击中使用波斯语，相关IP地址指向位于伊朗境内的设备。 该系列涉嫌黑客攻击行为服务于某外国势力，本案中即伊朗。",
@@ -165,8 +345,19 @@
     },
     {
       "keyword_group": "山东 济宁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "广东妈妈认为「山东饭」能长高，坚持为 6 岁儿子做疙瘩汤、煎饼等，一月后长高 1.3 厘米，山东饭这么神奇吗？",
+          "url": "https://www.zhihu.com/question/2103126074590871559",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
         {
           "title": "感谢山东老铁我们夺冠啦",
           "url": "https://www.douyin.com/hot/2737506",
